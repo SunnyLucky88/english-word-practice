@@ -137,6 +137,7 @@ const basicList = document.getElementById("basicList");
 const search = document.getElementById("search");
 const status = document.getElementById("status");
 const wordAudio = document.getElementById("wordAudio");
+const AUDIO_BASE = "audio/2026-10-22-family/libby-v1/";
 let playbackId = 0;
 
 function stopPlayback() {
@@ -149,7 +150,7 @@ function speak(word) {
   stopPlayback();
   const requestId = playbackId;
   wordAudio.hidden = false;
-  wordAudio.src = "audio/en-GB/libby-v1/" + encodeURIComponent(word) + ".mp3";
+  wordAudio.src = AUDIO_BASE + encodeURIComponent(word) + ".mp3";
   status.textContent = "正在加载：" + word;
   wordAudio.onplaying = () => {
     if (requestId === playbackId) status.textContent = "正在播放：" + word;

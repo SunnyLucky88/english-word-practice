@@ -11,6 +11,7 @@ for (const course of courses) {
   assert.match(course.date, /^\d{4}-\d{2}-\d{2}$/);
   assert.equal(new Date(course.date).toISOString().slice(0, 10), course.date);
   assert.match(course.href, /^(?:test|lessons\/[a-z0-9-]+)\.html$/);
+  assert.match(course.audioDirectory, /^audio\/\d{4}-\d{2}-\d{2}-[a-z0-9-]+\/libby-v[1-9]\d*$/);
   assert.ok(!urls.has(course.href), 'Duplicate course URL');
   urls.add(course.href);
   assert.ok(fs.existsSync(path.join(root, course.href)), `Missing course: ${course.href}`);

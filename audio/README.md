@@ -1,7 +1,10 @@
 # Pronunciation audio
 
-- `en-GB/libby-v1/*.mp3`: British English, Microsoft `en-GB-LibbyNeural`, rate -15%, generated with `edge-tts`. Generate missing clips with `scripts/generate-british-audio.py` after installing `edge-tts`.
-- Older `en-GB/*.mp3` and `en-US/*.wav` are retained for previously cached pages; current lessons only use Libby British English.
+- Each lesson owns `audio/YYYY-MM-DD-topic/libby-vN/*.mp3`. Its current directory is declared in `courses.json` as `audioDirectory`.
+- First lesson: `2026-10-22-family/libby-v1/*.mp3`.
+- British English only: Microsoft `en-GB-LibbyNeural`, rate -15%, generated with `edge-tts`.
+- Register the lesson in `courses.json`, then generate missing clips with `scripts/generate-british-audio.py <lesson.html>` after installing `edge-tts`. Existing clips are reused only within the same lesson and version.
+- Do not share clips across lessons. Use a new version directory when changing a lesson's voice; remove unused versions during cleanup, after checking all course references.
 
 These are synthesized practice clips, not recordings from the school textbook.
 Clips are served as static files from this repository. Visitors do not

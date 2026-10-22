@@ -14,17 +14,19 @@
 - 同一天多课用不同主题；相同日期和主题冲突时加 `-2` 等后缀，不覆盖其他课。
 - 页面标题使用中文，包含主题；课程提供返回总入口的链接（`../`）。
 - 第一课已经发布为 `test.html`，继续保留此地址及原二维码，不迁移或重命名。
-- 课程目录维护在 `courses.json`。每项含 `title`、首次发布 `date`、`href`、`wordCount`、`description`。修改后运行 `node scripts/build-index.cjs` 生成静态首页。
+- 课程目录维护在 `courses.json`。每项含 `title`、首次发布 `date`、`href`、`audioDirectory`、`wordCount`、`description`。修改后运行 `node scripts/build-index.cjs` 生成静态首页。
 - 首页按首次发布日期倒序排列；同一天新增的课放在目录前面。修改旧课不改变首次发布日期。
-- 音频共用 `audio/en-GB/libby-v1/<word>.mp3`，相同单词复用；子目录课程从 `../audio/` 引用。
-- 修改某个音频时使用新的版本目录或新文件名，避免手机缓存播放旧音频。保留仍被旧课引用的文件。
-- 音频生成：安装 `edge-tts`，运行 `python scripts/generate-british-audio.py lessons/<filename>.html`；省略参数则处理 `test.html`。已有文件会复用。
+- 每课的音频单独存放在 `audio/YYYY-MM-DD-english-topic/libby-v1/<word>.mp3`，目录名称与该课文件名对应。不同课即使有相同单词也各存一份，不跨课程共用。第一课对应 `audio/2026-10-22-family/libby-v1/`，页面地址仍为 `test.html`。
+- `audioDirectory` 填写相对于仓库根目录的音频版本目录，不带末尾斜杠。课程页通过 `const AUDIO_BASE = "…/";` 声明播放路径：根目录页面直接使用该目录，`lessons/` 下的页面需加 `../`。校验脚本检查二者一致。
+- 修改某课声音时，仅为该课新建 `libby-v2` 等版本目录，并同步更新 `audioDirectory` 和页面的 `AUDIO_BASE`，避免手机缓存旧声音。
+- 先在 `courses.json` 登记课程及音频目录，然后生成音频：安装 `edge-tts`，运行 `python scripts/generate-british-audio.py lessons/<filename>.html`；省略参数则处理 `test.html`。仅复用当前课程、当前版本目录里已有的完整文件。
+- 清理工程时，以所有课程的当前引用为准，删除无人使用的美式音频、旧声音、旧版本和临时文件；仍被课程引用的资源必须保留。Git 历史保留修改记录，不把旧音频备份堆在发布目录里。
 
 ## 每次发布流程
 
 1. 接收主题、单词、词义、教材参考和特殊要求；缺省沿用本规则。
 2. 新课建独立页面；旧课在原地址更新。检查词义和英式音标，补齐缺失音频。
-3. 新课加入 `courses.json` 并重新生成首页。校验目录链接、词数、移动布局、点击播放、连续点击、停止播放及错误提示。
+3. 新课加入 `courses.json`，补齐音频后运行 `node scripts/check-courses.cjs` 并重新生成首页。校验目录链接、词数、移动布局、点击播放、连续点击、停止播放及错误提示。
 4. 检查音频可解码且包含声音；确认没有无关更改或凭据、临时工具文件。
 5. 提交本次相关文件并推送 `main`，由 GitHub Pages 发布。
 6. 等待部署，检查公开首页、课程页和所有新增或变更音频。核对线上音频与本地文件一致。

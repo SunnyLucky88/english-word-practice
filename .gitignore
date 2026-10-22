@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.mp3.part
+.audio-tools/
+.british-tools/
+.decode-tools/
+.venv/
