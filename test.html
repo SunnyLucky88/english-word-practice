@@ -79,18 +79,15 @@
 </head>
 <body>
 <main>
+  <a href="./" style="display:inline-block;margin-bottom:18px;color:var(--accent)">← 全部课程</a>
   <header>
     <h1>英语单词发音练习</h1>
-    <p class="intro">共 19 个单词。点击蓝色单词或右侧 🔊 按钮即可听发音；可以选择英式或美式语音。</p>
+    <p class="intro">共 19 个单词。点击蓝色单词或右侧 🔊 按钮，听 Libby 英式女声发音。</p>
   </header>
 
   <div class="toolbar">
     <input id="search" type="search" placeholder="搜索英文或中文意思…" aria-label="搜索单词">
-    <label for="accent">口音</label>
-    <select id="accent" aria-label="选择英语口音">
-      <option value="en-GB" selected>英式英语（音频播放）</option>
-      <option value="en-US">美式英语（音频播放）</option>
-    </select>
+    <span>英式英语 · Libby 女声</span>
     <button class="control-btn" id="stopBtn" type="button">停止播放</button>
   </div>
 
@@ -104,7 +101,7 @@
   <div class="word-list" id="basicList"></div>
 
   <div class="note">
-    默认使用英式发音音频，可切换美式；两种口音均无需安装系统英语语音。首次播放需要联网加载音频。
+    统一使用 Libby 英式女声，无需安装系统英语语音。首次播放需要联网加载音频。
     如果没有声音，请调高媒体音量，或点击播放器中的播放按钮；微信内仍无法播放时，请在手机浏览器中打开。
     发音为合成语音练习音频，非教材原版录音。点击单词后，可在播放器中重听。
   </div>
@@ -138,21 +135,7 @@ const basicWords = [
 const familyList = document.getElementById("familyList");
 const basicList = document.getElementById("basicList");
 const search = document.getElementById("search");
-const accent = document.getElementById("accent");
 const status = document.getElementById("status");
-const americanIpa = {
-  grandma: "/ˈɡrænmɑː/", grandpa: "/ˈɡrænpɑː/",
-  grandfather: "/ˈɡrænfɑːðɚ/", grandmother: "/ˈɡrænmʌðɚ/",
-  mother: "/ˈmʌðɚ/", father: "/ˈfɑːðɚ/", sister: "/ˈsɪstɚ/",
-  brother: "/ˈbrʌðɚ/", aunt: "/ænt/", small: "/smɔːl/"
-};
-function updateIpa() {
-  document.querySelectorAll(".ipa").forEach(element => {
-    element.textContent = accent.value === "en-US"
-      ? (americanIpa[element.dataset.word] || element.dataset.british)
-      : element.dataset.british;
-  });
-}
 const wordAudio = document.getElementById("wordAudio");
 let playbackId = 0;
 
@@ -165,10 +148,8 @@ function stopPlayback() {
 function speak(word) {
   stopPlayback();
   const requestId = playbackId;
-  const language = accent.value === "en-US" ? "en-US" : "en-GB";
-  const extension = language === "en-GB" ? ".mp3" : ".wav";
   wordAudio.hidden = false;
-  wordAudio.src = "audio/" + language + "/" + encodeURIComponent(word) + extension;
+  wordAudio.src = "audio/en-GB/libby-v1/" + encodeURIComponent(word) + ".mp3";
   status.textContent = "正在加载：" + word;
   wordAudio.onplaying = () => {
     if (requestId === playbackId) status.textContent = "正在播放：" + word;
@@ -208,7 +189,7 @@ function makeCard(item) {
   ipa.className = "ipa";
   ipa.dataset.word = item.word;
   ipa.dataset.british = item.ipa;
-  ipa.textContent = accent.value === "en-US" ? (americanIpa[item.word] || item.ipa) : item.ipa;
+  ipa.textContent = item.ipa;
 
   const meaning = document.createElement("div");
   meaning.className = "meaning";
@@ -247,12 +228,7 @@ document.getElementById("stopBtn").addEventListener("click", () => {
   stopPlayback();
   status.textContent = "已停止播放。";
 });
-accent.addEventListener("change", () => {
-  stopPlayback();
-  updateIpa();
-  wordAudio.hidden = true;
-  status.textContent = "已切换口音，请点击单词播放。";
-});
+
 </script>
 </body>
 </html>
