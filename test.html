@@ -88,13 +88,14 @@
     <input id="search" type="search" placeholder="搜索英文或中文意思…" aria-label="搜索单词">
     <label for="accent">口音</label>
     <select id="accent" aria-label="选择英语口音">
-      <option value="en-GB" selected>英式英语</option>
-      <option value="en-US">美式英语</option>
+      <option value="en-US" selected>美式英语（音频播放）</option>
+      <option value="en-GB">英式英语（需系统语音）</option>
     </select>
     <button class="control-btn" id="stopBtn" type="button">停止播放</button>
   </div>
 
   <div id="status" class="status" aria-live="polite">准备就绪，点击任意单词开始听发音。</div>
+  <audio id="wordAudio" controls preload="none" aria-label="单词发音播放器" style="width:100%;max-width:420px" hidden></audio>
 
   <h2 class="section-title">家庭成员</h2>
   <div class="word-list" id="familyList"></div>
@@ -103,8 +104,9 @@
   <div class="word-list" id="basicList"></div>
 
   <div class="note">
-    说明：发音由浏览器和设备内置的语音合成功能提供，不需要下载音频文件或连接第三方发音网站。
-    如果点击后没有声音，请检查设备音量，并尝试使用最新版 Chrome 或 Edge。实际音色取决于系统安装的英语语音。
+    默认使用美式发音音频，无需安装系统英语语音。首次播放需要联网加载音频。
+    如果没有声音，请调高媒体音量，或点击播放器中的播放按钮；微信内仍无法播放时，请在手机浏览器中打开。
+    英式英语使用设备系统语音，是否可用及实际音色取决于手机。
   </div>
 </main>
 
@@ -138,20 +140,96 @@ const basicList = document.getElementById("basicList");
 const search = document.getElementById("search");
 const accent = document.getElementById("accent");
 const status = document.getElementById("status");
+const americanIpa = {
+  grandma: "/ˈɡrænmɑː/", grandpa: "/ˈɡrænpɑː/",
+  grandfather: "/ˈɡrænfɑːðɚ/", grandmother: "/ˈɡrænmʌðɚ/",
+  mother: "/ˈmʌðɚ/", father: "/ˈfɑːðɚ/", sister: "/ˈsɪstɚ/",
+  brother: "/ˈbrʌðɚ/", aunt: "/ænt/", small: "/smɔːl/"
+};
+function updateIpa() {
+  document.querySelectorAll(".ipa").forEach(element => {
+    element.textContent = accent.value === "en-US"
+      ? (americanIpa[element.dataset.word] || element.dataset.british)
+      : element.dataset.british;
+  });
+}
+const wordAudio = document.getElementById("wordAudio");
+let activeUtterance = null;
+let playbackId = 0;
+let speechTimer;
+
+function stopPlayback() {
+  playbackId++;
+  clearTimeout(speechTimer);
+  wordAudio.pause();
+  wordAudio.onplaying = wordAudio.onended = wordAudio.onerror = null;
+  if ("speechSynthesis" in window) window.speechSynthesis.cancel();
+  activeUtterance = null;
+}
 
 function speak(word) {
-  if (!("speechSynthesis" in window) || !("SpeechSynthesisUtterance" in window)) {
-    status.textContent = "当前浏览器不支持语音朗读，请换用最新版 Chrome 或 Edge。";
+  stopPlayback();
+  const requestId = playbackId;
+  if (accent.value === "en-US") {
+    wordAudio.hidden = false;
+    wordAudio.src = "audio/en-US/" + encodeURIComponent(word) + ".wav";
+    status.textContent = "正在加载：" + word;
+    wordAudio.onplaying = () => {
+      if (requestId === playbackId) status.textContent = "正在播放：" + word;
+    };
+    wordAudio.onended = () => {
+      if (requestId === playbackId) status.textContent = "播放完成：" + word;
+    };
+    wordAudio.onerror = () => {
+      if (requestId === playbackId) status.textContent = "音频加载失败，请检查网络后重新点击单词。";
+    };
+    // Call play directly in the tap handler to retain mobile user activation.
+    const playing = wordAudio.play();
+    if (playing) playing.catch(error => {
+      if (requestId !== playbackId || error.name === "AbortError") return;
+      status.textContent = error.name === "NotAllowedError"
+        ? "请点击下方播放器中的播放按钮；若仍无声，请在手机浏览器中打开。"
+        : "音频无法播放，请检查网络后重新点击单词。";
+    });
     return;
   }
-  window.speechSynthesis.cancel();
+  wordAudio.hidden = true;
+  if (!("speechSynthesis" in window) || !("SpeechSynthesisUtterance" in window)) {
+    status.textContent = "当前浏览器不支持系统语音，请切换到美式英语（音频播放）。";
+    return;
+  }
   const utterance = new SpeechSynthesisUtterance(word);
+  activeUtterance = utterance;
+  const voice = window.speechSynthesis.getVoices().find(v => v.lang.replace("_", "-").toLowerCase() === "en-gb");
+  if (voice) utterance.voice = voice;
   utterance.lang = accent.value;
   utterance.rate = 0.82;
   utterance.pitch = 1;
-  utterance.onstart = () => { status.textContent = "正在播放：" + word; };
-  utterance.onend = () => { status.textContent = "播放完成：" + word; };
-  utterance.onerror = () => { status.textContent = "无法播放，请检查系统语音和音量设置。"; };
+  status.textContent = "正在启动英式语音：" + word;
+  speechTimer = setTimeout(() => {
+    if (requestId === playbackId) {
+      stopPlayback();
+      status.textContent = "系统语音未能启动，请切换到美式英语（音频播放）。";
+    }
+  }, 8000);
+  utterance.onstart = () => {
+    if (requestId !== playbackId) return;
+    clearTimeout(speechTimer);
+    status.textContent = "正在播放：" + word;
+  };
+  utterance.onend = () => {
+    if (requestId !== playbackId) return;
+    clearTimeout(speechTimer);
+    activeUtterance = null;
+    status.textContent = "播放完成：" + word;
+  };
+  utterance.onerror = () => {
+    if (requestId !== playbackId) return;
+    clearTimeout(speechTimer);
+    activeUtterance = null;
+    status.textContent = "英式系统语音不可用，请切换到美式英语（音频播放）。";
+  };
+  window.speechSynthesis.resume();
   window.speechSynthesis.speak(utterance);
 }
 
@@ -172,7 +250,9 @@ function makeCard(item) {
 
   const ipa = document.createElement("div");
   ipa.className = "ipa";
-  ipa.textContent = item.ipa;
+  ipa.dataset.word = item.word;
+  ipa.dataset.british = item.ipa;
+  ipa.textContent = accent.value === "en-US" ? (americanIpa[item.word] || item.ipa) : item.ipa;
 
   const meaning = document.createElement("div");
   meaning.className = "meaning";
@@ -208,8 +288,14 @@ search.addEventListener("input", () => {
 });
 
 document.getElementById("stopBtn").addEventListener("click", () => {
-  if ("speechSynthesis" in window) window.speechSynthesis.cancel();
+  stopPlayback();
   status.textContent = "已停止播放。";
+});
+accent.addEventListener("change", () => {
+  stopPlayback();
+  updateIpa();
+  wordAudio.hidden = true;
+  status.textContent = "已切换口音，请点击单词播放。";
 });
 </script>
 </body>
