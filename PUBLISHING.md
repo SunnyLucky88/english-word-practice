@@ -16,6 +16,7 @@
 - 第一课已经发布为 `test.html`，继续保留此地址及原二维码，不迁移或重命名。
 - 课程目录维护在 `courses.json`。每项含 `title`、首次发布 `date`、`href`、`audioDirectory`、`wordCount`、`description`。修改后运行 `node scripts/build-index.cjs` 生成静态首页。
 - 首页按首次发布日期倒序排列；同一天新增的课放在目录前面。修改旧课不改变首次发布日期。
+- 字母课程使用 `wordCount` 记录字母数量，并设置 `unit: "个字母"`；单词课程可省略 `unit`。完整跟读音轨在 `extraAudio` 中登记文件名，发布校验会一并检查。字母名称音与自然拼读音应明确区分，跟读音频不标为歌曲。
 - 每课的音频单独存放在 `audio/YYYY-MM-DD-english-topic/libby-v1/<word>.mp3`，目录名称与该课文件名对应。不同课即使有相同单词也各存一份，不跨课程共用。第一课对应 `audio/2026-10-22-family/libby-v1/`，页面地址仍为 `test.html`。
 - `audioDirectory` 填写相对于仓库根目录的音频版本目录，不带末尾斜杠。课程页通过 `const AUDIO_BASE = "…/";` 声明播放路径：根目录页面直接使用该目录，`lessons/` 下的页面需加 `../`。校验脚本检查二者一致。
 - 修改某课声音时，仅为该课新建 `libby-v2` 等版本目录，并同步更新 `audioDirectory` 和页面的 `AUDIO_BASE`，避免手机缓存旧声音。

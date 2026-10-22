@@ -1,5 +1,17 @@
 [
   {
+    "title": "英文字母 · 大小写与完整跟读",
+    "date": "2026-10-23",
+    "href": "lessons/2026-10-23-alphabet.html",
+    "audioDirectory": "audio/2026-10-23-alphabet/libby-v1",
+    "wordCount": 26,
+    "unit": "个字母",
+    "description": "点读 Aa–Zz，跟随 Libby 英式女声无伴奏练习，Z 读 zed。",
+    "extraAudio": [
+      "alphabet-reading.wav"
+    ]
+  },
+  {
     "title": "家庭成员与基础词汇",
     "date": "2026-10-22",
     "href": "test.html",

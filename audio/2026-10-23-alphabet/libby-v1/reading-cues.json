@@ -1,0 +1,132 @@
+[
+  {
+    "letter": "a",
+    "start": 0.25,
+    "end": 0.73
+  },
+  {
+    "letter": "b",
+    "start": 0.93,
+    "end": 1.43
+  },
+  {
+    "letter": "c",
+    "start": 1.63,
+    "end": 2.25
+  },
+  {
+    "letter": "d",
+    "start": 2.45,
+    "end": 3.027
+  },
+  {
+    "letter": "e",
+    "start": 3.227,
+    "end": 3.909
+  },
+  {
+    "letter": "f",
+    "start": 4.109,
+    "end": 4.547
+  },
+  {
+    "letter": "g",
+    "start": 4.747,
+    "end": 5.313
+  },
+  {
+    "letter": "h",
+    "start": 5.813,
+    "end": 6.438
+  },
+  {
+    "letter": "i",
+    "start": 6.638,
+    "end": 7.102
+  },
+  {
+    "letter": "j",
+    "start": 7.302,
+    "end": 7.945
+  },
+  {
+    "letter": "k",
+    "start": 8.145,
+    "end": 8.731
+  },
+  {
+    "letter": "l",
+    "start": 8.931,
+    "end": 9.425
+  },
+  {
+    "letter": "m",
+    "start": 9.625,
+    "end": 10.117
+  },
+  {
+    "letter": "n",
+    "start": 10.317,
+    "end": 10.804
+  },
+  {
+    "letter": "o",
+    "start": 11.004,
+    "end": 11.449
+  },
+  {
+    "letter": "p",
+    "start": 11.649,
+    "end": 12.154
+  },
+  {
+    "letter": "q",
+    "start": 12.654,
+    "end": 13.257
+  },
+  {
+    "letter": "r",
+    "start": 13.457,
+    "end": 13.857
+  },
+  {
+    "letter": "s",
+    "start": 14.057,
+    "end": 14.529
+  },
+  {
+    "letter": "t",
+    "start": 15.029,
+    "end": 15.562
+  },
+  {
+    "letter": "u",
+    "start": 15.762,
+    "end": 16.231
+  },
+  {
+    "letter": "v",
+    "start": 16.431,
+    "end": 16.997
+  },
+  {
+    "letter": "w",
+    "start": 17.497,
+    "end": 18.417
+  },
+  {
+    "letter": "x",
+    "start": 18.617,
+    "end": 19.179
+  },
+  {
+    "letter": "y",
+    "start": 19.379,
+    "end": 19.987
+  },
+  {
+    "letter": "z",
+    "start": 20.187,
+    "end": 20.754
+  }
+]

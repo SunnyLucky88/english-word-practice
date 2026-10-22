@@ -36,6 +36,8 @@ async def main():
     if not output.is_relative_to(ROOT / "audio"):
         raise ValueError("Audio output must be inside the audio directory")
     output.mkdir(parents=True, exist_ok=True)
+    text_file = output / "speech-text.json"
+    pronunciation_text = json.loads(text_file.read_text(encoding="utf-8")) if text_file.exists() else {}
     # Keep requests sequential to avoid service throttling.
     for word in words:
         target = output / f"{word}.mp3"
@@ -45,7 +47,7 @@ async def main():
         for attempt in range(3):
             try:
                 temporary = target.with_suffix(".mp3.part")
-                await edge_tts.Communicate(word, VOICE, rate="-15%").save(str(temporary))
+                await edge_tts.Communicate(pronunciation_text.get(word, word), VOICE, rate="-15%").save(str(temporary))
                 assert temporary.stat().st_size > 1000
                 temporary.replace(target)
                 print(f"Generated {word}", flush=True)

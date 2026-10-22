@@ -23,5 +23,12 @@ for (const course of courses) {
     assert.ok(fs.statSync(audio).size > 1000, `Missing or empty clip: ${audio}`);
     audioCount++;
   }
+  for (const file of course.extraAudio || []) {
+    assert.match(file, /^[a-z0-9-]+\.(?:mp3|wav)$/);
+    const audio = path.join(root, course.audioDirectory, file);
+    assert.ok(fs.statSync(audio).size > 1000, `Missing or empty track: ${audio}`);
+    assert.ok(html.includes(file), `Unreferenced track: ${file}`);
+    audioCount++;
+  }
 }
 console.log(`Validated ${courses.length} course(s), ${audioCount} audio references, and independent lesson directories.`);

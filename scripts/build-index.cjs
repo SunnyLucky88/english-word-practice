@@ -16,12 +16,13 @@ for (const course of courses) {
   urls.add(course.href);
   assert.ok(fs.existsSync(path.join(root, course.href)), `Missing course: ${course.href}`);
   assert.ok(Number.isInteger(course.wordCount) && course.wordCount > 0);
+  assert.ok(!course.unit || ['个单词', '个字母'].includes(course.unit));
 }
 courses.sort((a, b) => b.date.localeCompare(a.date));
 const cards = courses.map((course, index) => `<a class="course" href="${escape(course.href)}">
   <div class="meta"><time datetime="${escape(course.date)}">${escape(course.date)}</time>${index === 0 ? '<span class="badge">最新课程</span>' : ''}</div>
   <h2>${escape(course.title)}</h2><p>${escape(course.description)}</p>
-  <div class="course-bottom"><span>${course.wordCount} 个单词 · 英式发音</span><span class="go">开始学习 ↗</span></div>
+  <div class="course-bottom"><span>${course.wordCount} ${escape(course.unit || '个单词')} · 英式发音</span><span class="go">开始学习 ↗</span></div>
 </a>`).join('\n');
 const html = `<!DOCTYPE html>
 <html lang="zh-CN">

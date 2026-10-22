@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="26 个英文字母大小写与英式名称音，Libby 女声，无伴奏完整跟读，Z 读 zed。">
+<title>字母小乐园 · 英式字母认读与跟读</title><style>
+:root{color-scheme:light;--ink:#243b3b;--muted:#637573;--green:#116b5d;--paper:#fbf8ef;--line:#e3e5d9}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif;line-height:1.6}button{font:inherit;cursor:pointer}button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #13866d;outline-offset:4px}main{max-width:1000px;margin:auto;padding:28px 24px 60px}header{display:flex;gap:24px;align-items:center;padding:20px 0 30px}.hero-copy{flex:1}.eyebrow{font-size:12px;letter-spacing:.13em;color:var(--green);font-weight:700}.draft{display:inline-block;font-size:12px;padding:4px 10px;border-radius:30px;background:#f1e7c9;color:#715b25}h1{font-size:clamp(30px,5.5vw,46px);line-height:1.25;letter-spacing:-.03em;margin:12px 0 16px}header p{color:var(--muted);margin:0;max-width:560px}.abc{display:flex;align-items:center;letter-spacing:-10px;font-size:100px;font-weight:850;transform:rotate(-7deg);padding:15px 30px 15px 0;user-select:none}.abc span:nth-child(1){color:#db7550}.abc span:nth-child(2){color:#437f75;transform:translateY(-14px)}.abc span:nth-child(3){color:#d4a541}.tag{margin-top:18px;display:inline-block;border:1px solid var(--line);border-radius:30px;padding:5px 12px;font-size:12px;color:var(--green)}section{margin-top:28px}.section-top{display:flex;align-items:center;justify-content:space-between;gap:15px;margin-bottom:16px}.section-top h2{font-size:21px;margin:0}.sub{font-size:13px;color:var(--muted);margin:2px 0 0}.actions{display:flex;gap:8px;flex-wrap:wrap}.button{border:1px solid #cad9ce;background:#fff;border-radius:10px;padding:10px 16px;color:var(--green);font-weight:600;font-size:14px;min-height:44px}.primary{background:var(--green);border-color:var(--green);color:white}.grid{display:grid;grid-template-columns:repeat(7,1fr);gap:10px}.letter{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-height:112px;border:1px solid var(--line);border-radius:15px;background:white;color:var(--ink);transition:transform .12s,background .12s,border-color .12s}.letter:hover{transform:translateY(-3px);border-color:#a7c9b8}.letter .pair{font-size:33px;line-height:1.3;font-weight:750;letter-spacing:1px}.letter .small{font-weight:450}.letter .ipa{font-size:12px;color:var(--muted)}.letter:nth-child(3n+1) .pair{color:#b86542}.letter:nth-child(3n+2) .pair{color:#267d6a}.letter:nth-child(3n) .pair{color:#886b21}.letter.active{background:#e3f0d5;border:2px solid #4e8460;transform:translateY(-2px);box-shadow:0 4px 0 #d2dfc9}.letter.active::after{content:'♪';position:absolute;top:3px;right:9px;color:var(--green);font-weight:700}.letter-note{margin:12px 0;color:var(--muted);font-size:13px}.player-box{background:#f0f2e8;border-radius:12px;padding:14px;margin-top:14px}.player-box[hidden]{display:none}.player-box p{margin:0 0 8px;font-size:13px}audio{display:block;width:100%}.status{min-height:24px;color:var(--green);font-size:14px;margin:12px 0}.song{background:#eaf1e6;border-radius:22px;padding:28px;display:grid;grid-template-columns:1fr 1fr;gap:30px}.song h2{font-size:26px;margin:6px 0 10px}.song p{font-size:14px;color:var(--muted);margin:0 0 18px}.song-type{font-size:12px;color:#52744a;font-weight:650}.song .actions{margin:18px 0}.lyrics{background:#fff9;border:1px solid #d8e4d4;border-radius:16px;padding:18px;align-self:start}.lyric-line{font-size:clamp(17px,2.5vw,22px);letter-spacing:4px;margin:0;padding:9px 12px;border-radius:8px;font-weight:650;color:#69816c}.lyric-line.active{background:#d7e9c8;color:#285f35}.loop{display:flex;gap:8px;align-items:center;font-size:13px;color:#526d50;min-height:44px}.loop input{width:18px;height:18px;accent-color:var(--green)}.song-note{font-size:12px!important;margin-top:14px!important}.practice{margin-top:28px;padding-top:22px;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}.practice strong{color:var(--ink)}footer{font-size:12px;color:var(--muted);margin-top:20px}.draft-bar{font-size:12px;color:#88703a;margin-bottom:8px}
+@media(max-width:700px){.grid{grid-template-columns:repeat(5,1fr)}.abc{font-size:70px}.song{grid-template-columns:1fr;gap:10px}.section-top{align-items:flex-start;flex-direction:column}}
+@media(max-width:440px){main{padding:20px 14px 36px}header{padding:14px 0}.abc{display:none}.grid{grid-template-columns:repeat(4,1fr);gap:8px}.letter{min-height:100px}.letter .pair{font-size:30px}.song{padding:22px 18px}.button{padding:10px 13px}.lyric-line{letter-spacing:3px}}
+@media(prefers-reduced-motion:reduce){.letter{transition:none}.letter:hover,.letter.active{transform:none}}
+
+.back{font-size:13px;color:var(--green);text-decoration:none;display:inline-block;margin:0 0 8px}.back:hover{text-decoration:underline}.button[aria-pressed="true"]{box-shadow:inset 0 0 0 2px #9bd4ba}
+</style></head><body><main>
+<a class="back" href="../">← 全部课程</a>
+<header><div class="hero-copy"><div class="eyebrow">ALPHABET PLAYTIME</div><h1>字母小乐园</h1><p>从 Aa 到 Zz，点一点，听一听。认清大小写，再跟着 Libby 一起读。</p><span class="tag">26 个字母 · Libby 英式女声 · 无伴奏</span></div><div class="abc" aria-hidden="true"><span>A</span><span>B</span><span>C</span></div></header>
+<section aria-labelledby="letters-title"><div class="section-top"><div><h2 id="letters-title">01 · 点字母，听名称</h2><p class="sub">大写和小写是同一个字母。点击任意卡片开始。</p></div><div class="actions"><button id="sequence" class="button primary" type="button">▶ 顺序听 A–Z</button><button id="stop" class="button" type="button">停止播放</button></div></div>
+<div class="grid" id="letters"></div><p class="letter-note">这里学习的是字母名称音。H 读 aitch /eɪtʃ/；Z 读 zed /zed/。</p>
+<div class="status" id="status" role="status" aria-live="polite">准备好了吗？先点一个字母试试。</div></section>
+<section class="song" aria-labelledby="reading-title"><div><span class="song-type">02 · 听一遍，跟着读</span><h2 id="reading-title">A–Z 完整跟读</h2><p>约 21 秒，分组停顿，没有背景音乐。看着字母，听清楚再跟读。</p><div class="actions"><button id="reading-toggle" class="button primary" type="button">▶ 播放完整跟读</button><button id="reading-restart" class="button" type="button">从头再听</button></div><label class="loop"><input type="checkbox" id="reading-loop">循环完整跟读</label><audio id="practice-audio" controls preload="none" aria-label="字母认读与完整跟读播放器"></audio><p class="song-note">这是 Libby 合成语音的无伴奏跟读版，不是字母歌。点单个字母也会在此播放器中播放；未自动出声时，可点击播放器的播放按钮。</p></div>
+<div class="lyrics" aria-label="字母跟读分组"><div class="lyric-line" data-line="0">A B C D E F G</div><div class="lyric-line" data-line="1">H I J K L M N O P</div><div class="lyric-line" data-line="2">Q R S</div><div class="lyric-line" data-line="3">T U V</div><div class="lyric-line" data-line="4">W X Y Z</div><p style="font-size:12px;margin:12px 12px 0;color:#637573">Z = zed · /zed/</p></div></section>
+<aside class="practice"><strong>一起练习</strong><br>每天认几张卡片，再完整跟读一遍。认字母时看清大小写，跟读时可以用手指指着当前字母。</aside>
+<footer>首次播放音频需要联网。没有声音时请调高媒体音量；微信内无法播放时，可在手机浏览器中打开。</footer>
+</main><script>
+const AUDIO_BASE = "../audio/2026-10-23-alphabet/libby-v1/";
+const LETTERS = [
+{word:"a",ipa:"eɪ"},{word:"b",ipa:"biː"},{word:"c",ipa:"siː"},{word:"d",ipa:"diː"},{word:"e",ipa:"iː"},{word:"f",ipa:"ef"},{word:"g",ipa:"dʒiː"},{word:"h",ipa:"eɪtʃ"},{word:"i",ipa:"aɪ"},{word:"j",ipa:"dʒeɪ"},{word:"k",ipa:"keɪ"},{word:"l",ipa:"el"},{word:"m",ipa:"em"},{word:"n",ipa:"en"},{word:"o",ipa:"əʊ"},{word:"p",ipa:"piː"},{word:"q",ipa:"kjuː"},{word:"r",ipa:"ɑː"},{word:"s",ipa:"es"},{word:"t",ipa:"tiː"},{word:"u",ipa:"juː"},{word:"v",ipa:"viː"},{word:"w",ipa:"ˈdʌbəljuː"},{word:"x",ipa:"eks"},{word:"y",ipa:"waɪ"},{word:"z",ipa:"zed"}];
+const READING_CUES = [
+  {
+    "letter": "a",
+    "start": 0.25,
+    "end": 0.73
+  },
+  {
+    "letter": "b",
+    "start": 0.93,
+    "end": 1.43
+  },
+  {
+    "letter": "c",
+    "start": 1.63,
+    "end": 2.25
+  },
+  {
+    "letter": "d",
+    "start": 2.45,
+    "end": 3.027
+  },
+  {
+    "letter": "e",
+    "start": 3.227,
+    "end": 3.909
+  },
+  {
+    "letter": "f",
+    "start": 4.109,
+    "end": 4.547
+  },
+  {
+    "letter": "g",
+    "start": 4.747,
+    "end": 5.313
+  },
+  {
+    "letter": "h",
+    "start": 5.813,
+    "end": 6.438
+  },
+  {
+    "letter": "i",
+    "start": 6.638,
+    "end": 7.102
+  },
+  {
+    "letter": "j",
+    "start": 7.302,
+    "end": 7.945
+  },
+  {
+    "letter": "k",
+    "start": 8.145,
+    "end": 8.731
+  },
+  {
+    "letter": "l",
+    "start": 8.931,
+    "end": 9.425
+  },
+  {
+    "letter": "m",
+    "start": 9.625,
+    "end": 10.117
+  },
+  {
+    "letter": "n",
+    "start": 10.317,
+    "end": 10.804
+  },
+  {
+    "letter": "o",
+    "start": 11.004,
+    "end": 11.449
+  },
+  {
+    "letter": "p",
+    "start": 11.649,
+    "end": 12.154
+  },
+  {
+    "letter": "q",
+    "start": 12.654,
+    "end": 13.257
+  },
+  {
+    "letter": "r",
+    "start": 13.457,
+    "end": 13.857
+  },
+  {
+    "letter": "s",
+    "start": 14.057,
+    "end": 14.529
+  },
+  {
+    "letter": "t",
+    "start": 15.029,
+    "end": 15.562
+  },
+  {
+    "letter": "u",
+    "start": 15.762,
+    "end": 16.231
+  },
+  {
+    "letter": "v",
+    "start": 16.431,
+    "end": 16.997
+  },
+  {
+    "letter": "w",
+    "start": 17.497,
+    "end": 18.417
+  },
+  {
+    "letter": "x",
+    "start": 18.617,
+    "end": 19.179
+  },
+  {
+    "letter": "y",
+    "start": 19.379,
+    "end": 19.987
+  },
+  {
+    "letter": "z",
+    "start": 20.187,
+    "end": 20.754
+  }
+];
+const audio = document.getElementById('practice-audio');
+const status = document.getElementById('status');
+const toggle = document.getElementById('reading-toggle');
+const sequenceButton = document.getElementById('sequence');
+const loop = document.getElementById('reading-loop');
+const cards = [];
+let mode = 'track', currentLetter = -1, requestId = 0;
+function highlight(index){
+  cards.forEach((card,i)=>{card.classList.toggle('active',i===index);card.setAttribute('aria-pressed',String(i===index));});
+  const line=mode!=='track'||index<0?-1:index<7?0:index<16?1:index<19?2:index<22?3:4;
+  document.querySelectorAll('[data-line]').forEach(el=>el.classList.toggle('active',Number(el.dataset.line)===line));
+}
+function updateButtons(){
+  const playing=mode==='track'&&!audio.paused;
+  toggle.textContent=playing?'Ⅱ 暂停跟读':'▶ 播放完整跟读';
+  sequenceButton.textContent=playing?'正在顺序跟读…':'▶ 顺序听 A–Z';
+  toggle.setAttribute('aria-pressed',String(playing));
+}
+function failure(error,token){
+  if(token!==requestId||error.name==='AbortError')return;
+  status.textContent=error.name==='NotAllowedError'?'请点击下方播放器中的播放按钮，继续练习。':'音频暂时无法播放，请检查网络后重试。';
+  updateButtons();
+}
+function start(file,newMode,index=-1){
+  const token=++requestId;
+  audio.pause();mode=newMode;currentLetter=index;highlight(-1);updateButtons();
+  audio.loop=mode==='track'&&loop.checked;
+  audio.src=AUDIO_BASE+file;
+  status.textContent=mode==='track'?'正在加载完整跟读…':'正在加载：'+LETTERS[index].word.toUpperCase();
+  const playing=audio.play();if(playing)playing.catch(e=>failure(e,token));
+}
+function playLetter(index){if(index>=0&&index<26)start(LETTERS[index].word+'.mp3','letter',index);}
+function playReading(restart=false){
+  if(mode!=='track'||restart){start('alphabet-reading.wav','track');return;}
+  const token=++requestId;const playing=audio.play();if(playing)playing.catch(e=>failure(e,token));
+}
+LETTERS.forEach((letter,index)=>{
+  const card=document.createElement('button');card.type='button';card.className='letter';
+  card.setAttribute('aria-label',letter.word.toUpperCase()+'，小写 '+letter.word+'，点击听英式名称音');card.setAttribute('aria-pressed','false');
+  card.innerHTML='<span class="pair">'+letter.word.toUpperCase()+'<span class="small">'+letter.word+'</span></span><span class="ipa">/'+letter.ipa+'/</span>';
+  card.addEventListener('click',()=>playLetter(index));cards.push(card);document.getElementById('letters').appendChild(card);
+});
+audio.src=AUDIO_BASE+'alphabet-reading.wav';
+sequenceButton.addEventListener('click',()=>playReading(true));
+toggle.addEventListener('click',()=>{if(mode==='track'&&!audio.paused)audio.pause();else playReading();});
+document.getElementById('reading-restart').addEventListener('click',()=>playReading(true));
+document.getElementById('stop').addEventListener('click',()=>{requestId++;audio.pause();audio.currentTime=0;highlight(-1);updateButtons();status.textContent='已停止。点字母或播放完整跟读，继续练习。';});
+loop.addEventListener('change',()=>{audio.loop=mode==='track'&&loop.checked;});
+audio.addEventListener('playing',()=>{updateButtons();if(mode==='letter'){highlight(currentLetter);status.textContent='正在读：'+LETTERS[currentLetter].word.toUpperCase();}else status.textContent='完整跟读中，跟着字母一起读。';});
+audio.addEventListener('pause',()=>{updateButtons();if(audio.paused&&!audio.ended){highlight(-1);status.textContent=audio.currentTime===0?'已停止。点字母或播放完整跟读，继续练习。':mode==='track'?'已暂停，点击播放继续完整跟读。':'已暂停字母发音。';}});
+audio.addEventListener('ended',()=>{highlight(-1);updateButtons();status.textContent=mode==='track'?'真棒，26 个字母读完啦！记得 Z 读 zed。':'读完了，再点一个字母吧。';});
+audio.addEventListener('error',()=>{highlight(-1);updateButtons();status.textContent='音频加载失败，请检查网络后重试。';});
+audio.addEventListener('timeupdate',()=>{if(mode!=='track'||audio.paused)return;highlight(READING_CUES.findIndex(c=>audio.currentTime>=c.start&&audio.currentTime<c.end));});
+</script></body></html>
