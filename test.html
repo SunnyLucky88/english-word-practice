@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>英语单词发音练习：家庭与基础词汇</title>
+<style>
+  :root {
+    color-scheme: light;
+    --bg: #f4f7fb;
+    --card: #ffffff;
+    --ink: #1f2937;
+    --muted: #64748b;
+    --accent: #2563eb;
+    --accent-soft: #eaf1ff;
+    --line: #e2e8f0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 24px 16px 40px;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+  }
+  main { max-width: 850px; margin: 0 auto; }
+  header { margin-bottom: 20px; }
+  h1 { margin: 0 0 8px; font-size: clamp(24px, 4vw, 32px); }
+  .intro { color: var(--muted); line-height: 1.7; margin: 0; }
+  .toolbar {
+    display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    padding: 14px; margin: 18px 0;
+  }
+  input[type="search"] {
+    flex: 1 1 220px; min-width: 0; padding: 10px 12px;
+    border: 1px solid #cbd5e1; border-radius: 9px; font-size: 15px;
+  }
+  select, .control-btn {
+    padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 9px;
+    background: white; font-size: 14px; color: var(--ink);
+  }
+  .control-btn { cursor: pointer; }
+  .section-title { margin: 24px 2px 10px; font-size: 17px; }
+  .word-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 10px; }
+  .word-card {
+    display: flex; align-items: center; gap: 12px; min-width: 0;
+    padding: 14px; border: 1px solid var(--line); border-radius: 13px;
+    background: var(--card); box-shadow: 0 1px 2px rgba(15, 23, 42, .03);
+  }
+  .word-info { flex: 1; min-width: 0; }
+  .word-button {
+    display: inline; border: 0; background: transparent; color: var(--accent);
+    padding: 0; font-size: 19px; font-weight: 700; cursor: pointer; text-align: left;
+  }
+  .word-button:hover { text-decoration: underline; }
+  .ipa { margin-top: 4px; color: var(--muted); font-size: 13px; }
+  .meaning { margin-top: 5px; font-size: 15px; }
+  .speak {
+    flex: 0 0 auto; width: 42px; height: 42px; border: 0; border-radius: 50%;
+    background: var(--accent-soft); color: var(--accent); font-size: 20px; cursor: pointer;
+  }
+  .speak:hover, .control-btn:hover { filter: brightness(.97); }
+  .speak:focus-visible, .word-button:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible {
+    outline: 3px solid #93c5fd; outline-offset: 2px;
+  }
+  .status { min-height: 22px; margin: 12px 2px; color: var(--muted); font-size: 13px; }
+  .note {
+    margin-top: 22px; padding: 13px 15px; border-radius: 12px;
+    background: #fff; border: 1px solid var(--line); color: var(--muted);
+    font-size: 13px; line-height: 1.7;
+  }
+  .hidden { display: none !important; }
+  @media (max-width: 420px) {
+    body { padding: 18px 12px 30px; }
+    .word-list { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>英语单词发音练习</h1>
+    <p class="intro">共 19 个单词。点击蓝色单词或右侧 🔊 按钮即可听发音；可以选择英式或美式语音。</p>
+  </header>
+
+  <div class="toolbar">
+    <input id="search" type="search" placeholder="搜索英文或中文意思…" aria-label="搜索单词">
+    <label for="accent">口音</label>
+    <select id="accent" aria-label="选择英语口音">
+      <option value="en-GB" selected>英式英语</option>
+      <option value="en-US">美式英语</option>
+    </select>
+    <button class="control-btn" id="stopBtn" type="button">停止播放</button>
+  </div>
+
+  <div id="status" class="status" aria-live="polite">准备就绪，点击任意单词开始听发音。</div>
+
+  <h2 class="section-title">家庭成员</h2>
+  <div class="word-list" id="familyList"></div>
+
+  <h2 class="section-title">基础词汇</h2>
+  <div class="word-list" id="basicList"></div>
+
+  <div class="note">
+    说明：发音由浏览器和设备内置的语音合成功能提供，不需要下载音频文件或连接第三方发音网站。
+    如果点击后没有声音，请检查设备音量，并尝试使用最新版 Chrome 或 Edge。实际音色取决于系统安装的英语语音。
+  </div>
+</main>
+
+<script>
+const familyWords = [
+  {word:"mum", ipa:"/mʌm/", meaning:"妈妈"},
+  {word:"dad", ipa:"/dæd/", meaning:"爸爸；爹爹"},
+  {word:"grandma", ipa:"/ˈɡrænmɑː/", meaning:"奶奶；姥姥"},
+  {word:"grandpa", ipa:"/ˈɡrænpɑː/", meaning:"爷爷；姥爷"},
+  {word:"grandfather", ipa:"/ˈɡrænfɑːðə(r)/", meaning:"（外）祖父；爷爷；姥爷；外公"},
+  {word:"grandmother", ipa:"/ˈɡrænmʌðə(r)/", meaning:"（外）祖母；奶奶；姥姥；外婆"},
+  {word:"mother", ipa:"/ˈmʌðə(r)/", meaning:"母亲；妈妈"},
+  {word:"father", ipa:"/ˈfɑːðə(r)/", meaning:"父亲；爸爸"},
+  {word:"me", ipa:"/miː/", meaning:"我"},
+  {word:"sister", ipa:"/ˈsɪstə(r)/", meaning:"姐姐；妹妹"},
+  {word:"cousin", ipa:"/ˈkʌzn/", meaning:"堂（表）兄弟；堂（表）姐妹"},
+  {word:"brother", ipa:"/ˈbrʌðə(r)/", meaning:"哥哥；弟弟"},
+  {word:"baby", ipa:"/ˈbeɪbi/", meaning:"婴儿"},
+  {word:"uncle", ipa:"/ˈʌŋkl/", meaning:"伯父；叔父；舅父；姑父；姨父"},
+  {word:"aunt", ipa:"/ɑːnt/", meaning:"伯母；婶母；舅母；姑妈；姨妈"}
+];
+const basicWords = [
+  {word:"family", ipa:"/ˈfæməli/", meaning:"家；家庭"},
+  {word:"have", ipa:"/hæv/", meaning:"有"},
+  {word:"big", ipa:"/bɪɡ/", meaning:"大的"},
+  {word:"small", ipa:"/smɔːl/", meaning:"小的"}
+];
+
+const familyList = document.getElementById("familyList");
+const basicList = document.getElementById("basicList");
+const search = document.getElementById("search");
+const accent = document.getElementById("accent");
+const status = document.getElementById("status");
+
+function speak(word) {
+  if (!("speechSynthesis" in window) || !("SpeechSynthesisUtterance" in window)) {
+    status.textContent = "当前浏览器不支持语音朗读，请换用最新版 Chrome 或 Edge。";
+    return;
+  }
+  window.speechSynthesis.cancel();
+  const utterance = new SpeechSynthesisUtterance(word);
+  utterance.lang = accent.value;
+  utterance.rate = 0.82;
+  utterance.pitch = 1;
+  utterance.onstart = () => { status.textContent = "正在播放：" + word; };
+  utterance.onend = () => { status.textContent = "播放完成：" + word; };
+  utterance.onerror = () => { status.textContent = "无法播放，请检查系统语音和音量设置。"; };
+  window.speechSynthesis.speak(utterance);
+}
+
+function makeCard(item) {
+  const card = document.createElement("article");
+  card.className = "word-card";
+  card.dataset.search = (item.word + " " + item.meaning).toLowerCase();
+
+  const info = document.createElement("div");
+  info.className = "word-info";
+
+  const wordButton = document.createElement("button");
+  wordButton.type = "button";
+  wordButton.className = "word-button";
+  wordButton.textContent = item.word;
+  wordButton.title = "点击听 " + item.word + " 的发音";
+  wordButton.addEventListener("click", () => speak(item.word));
+
+  const ipa = document.createElement("div");
+  ipa.className = "ipa";
+  ipa.textContent = item.ipa;
+
+  const meaning = document.createElement("div");
+  meaning.className = "meaning";
+  meaning.textContent = item.meaning;
+
+  info.append(wordButton, ipa, meaning);
+
+  const audioButton = document.createElement("button");
+  audioButton.type = "button";
+  audioButton.className = "speak";
+  audioButton.textContent = "🔊";
+  audioButton.setAttribute("aria-label", "播放 " + item.word + " 的发音");
+  audioButton.title = "听发音";
+  audioButton.addEventListener("click", () => speak(item.word));
+
+  card.append(info, audioButton);
+  return card;
+}
+
+familyWords.forEach(item => familyList.appendChild(makeCard(item)));
+basicWords.forEach(item => basicList.appendChild(makeCard(item)));
+
+search.addEventListener("input", () => {
+  const query = search.value.trim().toLowerCase();
+  document.querySelectorAll(".word-card").forEach(card => {
+    card.classList.toggle("hidden", !card.dataset.search.includes(query));
+  });
+  document.querySelectorAll(".section-title").forEach(title => {
+    const list = title.nextElementSibling;
+    const visible = [...list.querySelectorAll(".word-card")].some(card => !card.classList.contains("hidden"));
+    title.classList.toggle("hidden", !visible);
+  });
+});
+
+document.getElementById("stopBtn").addEventListener("click", () => {
+  if ("speechSynthesis" in window) window.speechSynthesis.cancel();
+  status.textContent = "已停止播放。";
+});
+</script>
+</body>
+</html>
