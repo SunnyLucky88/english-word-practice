@@ -6,10 +6,15 @@ const vm = require('node:vm');
 const root = path.resolve(__dirname, '..');
 const courses = JSON.parse(fs.readFileSync(path.join(root, 'courses.json'), 'utf8'));
 const app = fs.readFileSync(path.join(root, 'assets/pep-lesson-app.js'), 'utf8');
+const version = require('./lesson-version.cjs')(root, courses);
 for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d+\.html$/.test(c.href))) {
   const slug = path.basename(course.href, '.html');
   const lesson = path.join(root, course.href);
   let html = fs.readFileSync(lesson, 'utf8');
+  html = html.replace(/href="([^"?]*pep-unit\d+\.html)(?:\?v=[a-f0-9]+)?"/g, (_, href) => `href="${href}?v=${version}"`);
+  html = html.replace(/href="\.\.\/(?:\?v=[a-f0-9]+)?"/g, `href="../?v=${version}"`);
+  const versionMeta = `<meta name="lesson-version" content="${version}">`;
+  html = html.includes('name="lesson-version"') ? html.replace(/<meta name="lesson-version"[^>]*>/,versionMeta) : html.replace('<title>',versionMeta+'\n<title>');
   const content = JSON.parse(fs.readFileSync(path.join(root, 'assets', slug, 'content.json'), 'utf8'));
   html = html.replace(/(<script type="application\/json" id="lesson-content">)[\s\S]*?(<\/script>)/, (_, a, b) => a + JSON.stringify(content).replace(/<\//g, '<\\/') + b);
   const audioBase = path.posix.relative(path.posix.dirname(course.href), course.audioDirectory) + '/';

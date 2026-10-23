@@ -3,6 +3,7 @@ const path = require('node:path');
 const assert = require('node:assert/strict');
 const root = path.resolve(__dirname, '..');
 const courses = JSON.parse(fs.readFileSync(path.join(root, 'courses.json'), 'utf8'));
+const version = require('./lesson-version.cjs')(root, courses);
 assert.ok(Array.isArray(courses), 'courses.json must be an array');
 const urls = new Set();
 const escape = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -21,7 +22,7 @@ for (const course of courses) {
 }
 courses.sort((a, b) => b.date.localeCompare(a.date));
 const visibleCourses = courses.filter(course => !course.hidden);
-const cards = visibleCourses.map((course, index) => `<a class="course" href="${escape(course.href)}">
+const cards = visibleCourses.map((course, index) => `<a class="course" href="${escape(course.href+(/pep-unit\d+\.html$/.test(course.href)?'?v='+version:''))}">
   <div class="meta"><time datetime="${escape(course.date)}">${escape(course.date)}</time>${index === 0 ? '<span class="badge">最新课程</span>' : ''}</div>
   <h2>${escape(course.title)}</h2><p>${escape(course.description)}</p>
   <div class="course-bottom"><span>${course.wordCount} ${escape(course.unit || '个单词')} · ${escape(course.audioLabel || '英式发音')}</span><span class="go">开始学习 ↗</span></div>
@@ -30,6 +31,7 @@ const html = `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="lesson-version" content="${version}">
 <meta name="description" content="英语课本点读、单词句子跟读和小练习，手机打开即可学习。">
 <title>英语发音小课堂 · 全部课程</title>
 <style>

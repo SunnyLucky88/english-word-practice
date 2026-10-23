@@ -4,6 +4,7 @@ const assert = require('node:assert/strict');
 const crypto = require('node:crypto');
 const root = path.resolve(__dirname, '..');
 const courses = JSON.parse(fs.readFileSync(path.join(root, 'courses.json'), 'utf8'));
+const version = require('./lesson-version.cjs')(root, courses);
 const directories = new Set();
 let audioCount = 0;
 for (const course of courses) {
@@ -28,6 +29,7 @@ for (const course of courses) {
     audioCount++;
   }
   if (content) {
+    assert.ok(html.includes(`<meta name="lesson-version" content="${version}">`),'Missing current lesson version');
     assert.ok(!/127\.0\.0\.1|localhost|Libby/.test(html), `Draft reference: ${course.href}`);
     const sources = JSON.parse(fs.readFileSync(path.join(root, course.audioDirectory, 'sources.json'), 'utf8'));
     const items = [...content.words, ...content.sentences, ...(content.expressions || []), ...(content.songs || []).flatMap(song => song.lines)];
@@ -74,7 +76,7 @@ for (const course of courses) {
       assert.ok(!page.phonics, 'New lesson audio must use approved Google originals only');
     }
     for (const link of html.matchAll(/href="([^"]+)"/g)) {
-      if (!/^(?:https?:|#)/.test(link[1])) assert.ok(fs.existsSync(path.resolve(root, path.posix.dirname(course.href), link[1])));
+      if (!/^(?:https?:|#)/.test(link[1])) assert.ok(fs.existsSync(path.resolve(root, path.posix.dirname(course.href), link[1].split(/[?#]/)[0])));
     }
   }
   if (!content && course.audioDirectory.includes('/google-')) {
@@ -110,4 +112,7 @@ for (const course of courses) {
     audioCount++;
   }
 }
+const index = fs.readFileSync(path.join(root,'index.html'),'utf8');
+assert.ok(index.includes(`<meta name="lesson-version" content="${version}">`),'Stale homepage version');
+for(const course of courses.filter(c=>/pep-unit\d+\.html$/.test(c.href)))assert.ok(index.includes(`href="${course.href}?v=${version}"`),'Stale course cache URL');
 console.log(`Validated ${courses.length} course(s), ${audioCount} audio references, and independent lesson directories.`);

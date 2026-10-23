@@ -3,7 +3,7 @@ const $=id=>document.getElementById(id),audio=$('audio');
 const words=CONTENT.words,sentences=CONTENT.sentences,expressions=CONTENT.expressions,songs=CONTENT.songs;
 const speedSelect=$('playback-speed');
 let active=null,queue=[],generation=0,category='key',deck=[],quizIndex=0,answered=false,repeatSequence=null;
-let followEnabled=false,followPaused=false,followTimer=null,followCard=null,pointerHeld=false,touchHeld=false;
+let followEnabled=false,followPaused=false,followTimer=null,followCard=null,pointerHeld=false,touchHeld=false,followedGeneration=-1;
 function applySpeed(){audio.defaultPlaybackRate=Number(speedSelect.value);audio.playbackRate=Number(speedSelect.value);audio.preservesPitch=true;if('webkitPreservesPitch' in audio)audio.webkitPreservesPitch=true;}
 speedSelect.onchange=applySpeed;audio.addEventListener('loadedmetadata',applySpeed);audio.addEventListener('play',applySpeed);
 function stop(){followEnabled=false;followPaused=false;clearTimeout(followTimer);followCard=null;generation++;queue=[];repeatSequence=null;finishFollowing();audio.pause();audio.removeAttribute('src');audio.load();document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));active=null;$('status').textContent='已停止播放。'}
@@ -16,30 +16,41 @@ function scheduleFollowResume(){
   followTimer=null;
   if(!followEnabled||pointerHeld||touchHeld)return;
   followPaused=false;
-  if(!audio.paused&&!audio.ended)followPlayingCard(followCard);
+  if(!audio.paused&&!audio.ended)followCurrentPlayback();
  },FOLLOW_IDLE_MS);
 }
 function pauseFollowForInput(){
  if(!followEnabled)return;
  const wasPaused=followPaused;followPaused=true;
- if(!wasPaused){try{window.scrollTo({left:window.scrollX,top:window.scrollY,behavior:'instant'})}catch(error){window.scrollTo(window.scrollX,window.scrollY)}}
+ if(!wasPaused)scrollWindowTo(window.pageXOffset||window.scrollX||0,window.pageYOffset||window.scrollY||0);
  scheduleFollowResume();
 }
-window.addEventListener('wheel',pauseFollowForInput,{passive:true});
-window.addEventListener('pointerdown',()=>{pointerHeld=true;pauseFollowForInput()},{passive:true});
-window.addEventListener('pointerup',()=>{pointerHeld=false;if(followPaused)scheduleFollowResume()},{passive:true});
-window.addEventListener('pointercancel',()=>{pointerHeld=false;if(followPaused)scheduleFollowResume()},{passive:true});
-window.addEventListener('touchstart',()=>{touchHeld=true;pauseFollowForInput()},{passive:true});
-window.addEventListener('touchmove',pauseFollowForInput,{passive:true});
+const passiveInput={passive:true,capture:true};
+window.addEventListener('wheel',pauseFollowForInput,passiveInput);
+window.addEventListener('pointerdown',()=>{pointerHeld=followEnabled;pauseFollowForInput()},passiveInput);
+window.addEventListener('pointerup',()=>{pointerHeld=false;if(followPaused)scheduleFollowResume()},passiveInput);
+window.addEventListener('pointercancel',()=>{pointerHeld=false;if(followPaused)scheduleFollowResume()},passiveInput);
+window.addEventListener('touchstart',()=>{touchHeld=followEnabled;pauseFollowForInput()},passiveInput);
+window.addEventListener('touchmove',pauseFollowForInput,passiveInput);
 function releaseFollowTouch(event){touchHeld=event.touches.length>0;if(followPaused)scheduleFollowResume()}
-window.addEventListener('touchend',releaseFollowTouch,{passive:true});
-window.addEventListener('touchcancel',releaseFollowTouch,{passive:true});
+window.addEventListener('touchend',releaseFollowTouch,passiveInput);
+window.addEventListener('touchcancel',releaseFollowTouch,passiveInput);
 window.addEventListener('scroll',()=>{if(followPaused)scheduleFollowResume()},{passive:true,capture:true});
-window.addEventListener('keydown',pauseFollowForInput,{passive:true});
-window.addEventListener('blur',()=>{pointerHeld=false;touchHeld=false;pauseFollowForInput()});
+window.addEventListener('keydown',pauseFollowForInput,passiveInput);
+function releaseFollowGesture(){const held=pointerHeld||touchHeld;pointerHeld=false;touchHeld=false;if(followPaused&&held)scheduleFollowResume()}
+window.addEventListener('click',releaseFollowGesture,passiveInput);
+window.addEventListener('blur',releaseFollowGesture);
+window.addEventListener('focus',()=>{releaseFollowGesture();if(!audio.paused)followCurrentPlayback()});
+function scrollWindowTo(x,y){
+ const root=document.scrollingElement||document.documentElement||document.body;
+ if(root){root.scrollTop=y;root.scrollLeft=x;}
+ // Use numeric coordinates: older phone browsers may ignore options without throwing.
+ try{window.scrollTo(x,y)}catch(error){if(document.body){document.body.scrollTop=y;document.body.scrollLeft=x;}}
+}
 function followPlayingCard(card){
- if(!followEnabled||followPaused||!card||!card.getClientRects().length)return;
- const bookViewport=card.closest('.book-viewport');
+ if(!followEnabled||followPaused||!card||!card.getClientRects().length||document.visibilityState==='hidden')return false;
+ let bookViewport=card;
+ while(bookViewport&&!(bookViewport.classList&&bookViewport.classList.contains('book-viewport')))bookViewport=bookViewport.parentNode;
  if(bookViewport){
   const box=bookViewport.getBoundingClientRect(),target=card.getBoundingClientRect();
   const dy=target.top<box.top+12||target.bottom>box.bottom-12?target.top-box.top-(box.height-target.height)/2:0;
@@ -49,16 +60,22 @@ function followPlayingCard(card){
  const rect=card.getBoundingClientRect(),viewport=window.innerHeight||document.documentElement.clientHeight;
  const player=document.querySelector('.player-wrap'),playerTop=player?player.getBoundingClientRect().top:viewport;
  const top=16,bottom=Math.min(viewport,playerTop)-16,height=Math.max(0,bottom-top);
- if(!height||(rect.top>=top&&rect.bottom<=bottom))return;
+ if(!height)return false;
+ if(rect.top>=top&&rect.bottom<=bottom)return true;
  const delta=rect.height>height?rect.top-top:rect.top-(top+(height-rect.height)/2);
- const reduced=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
- try{window.scrollBy({top:delta,left:0,behavior:reduced?'auto':'smooth'})}catch(error){window.scrollBy(0,delta)}
+ const root=document.scrollingElement||document.documentElement||document.body;
+ const y=window.pageYOffset||window.scrollY||(root&&root.scrollTop)||0;
+ const x=window.pageXOffset||window.scrollX||(root&&root.scrollLeft)||0;
+ scrollWindowTo(x,Math.max(0,y+delta));
+ return true;
 }
+function followCurrentPlayback(){if(!audio.paused&&followPlayingCard(followCard))followedGeneration=generation}
 function finishFollowing(){followEnabled=false;followPaused=false;clearTimeout(followTimer);followCard=null;}
-function play(item,card,continuing=false){if(!continuing)stop();const token=++generation;active=item;followCard=card;document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(card)card.classList.add('playing');audio.src=AUDIO_BASE+item.file;applySpeed();$('status').textContent='正在加载：'+audioLabel(item);const result=audio.play();if(result)result.then(()=>{if(token===generation){$('status').textContent='正在播放：'+audioLabel(item);if(continuing)followPlayingCard(card)}}).catch(()=>{if(token===generation){queue=[];repeatSequence=null;finishFollowing();$('status').textContent='未能播放，请点击播放器重试，并检查网络和媒体音量。'}})}
-function playSequence(items,container,repeat=false){if(!items.length)return;stop();followEnabled=true;const occurrences={};const entries=items.map(item=>{const cards=container?container.querySelectorAll('[data-file="'+item.file+'"]'):[];const occurrence=occurrences[item.file]||0;occurrences[item.file]=occurrence+1;return {item,card:cards.length?cards[Math.min(occurrence,cards.length-1)]:null}});queue=entries.slice();if(repeat)repeatSequence=entries;const first=queue.shift();play(first.item,first.card,true)}
+function play(item,card,continuing=false){if(!continuing)stop();const token=++generation;active=item;followCard=card;document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(card)card.classList.add('playing');audio.src=AUDIO_BASE+item.file;applySpeed();$('status').textContent='正在加载：'+audioLabel(item);const result=audio.play();if(result)result.then(()=>{if(token===generation){$('status').textContent='正在播放：'+audioLabel(item)}}).catch(()=>{if(token===generation){queue=[];repeatSequence=null;finishFollowing();$('status').textContent='未能播放，请点击播放器重试，并检查网络和媒体音量。'}})}
+function playSequence(items,container,repeat=false){if(!items.length)return;stop();pointerHeld=false;touchHeld=false;followEnabled=true;followedGeneration=-1;const occurrences={};const entries=items.map(item=>{const cards=container?container.querySelectorAll('[data-file="'+item.file+'"]'):[];const occurrence=occurrences[item.file]||0;occurrences[item.file]=occurrence+1;return {item,card:cards.length?cards[Math.min(occurrence,cards.length-1)]:null}});queue=entries.slice();if(repeat)repeatSequence=entries;const first=queue.shift();play(first.item,first.card,true)}
 audio.addEventListener('ended',()=>{document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(!queue.length&&repeatSequence)queue=repeatSequence.slice();if(queue.length){const entry=queue.shift();play(entry.item,entry.card,true)}else{finishFollowing();$('status').textContent='播放完毕，可以再读一遍。'}});
-audio.addEventListener('playing',()=>{if(active)$('status').textContent='正在播放：'+audioLabel(active)});
+audio.addEventListener('playing',()=>{if(active)$('status').textContent='正在播放：'+audioLabel(active);followCurrentPlayback()});
+audio.addEventListener('timeupdate',()=>{if(followedGeneration!==generation&&!audio.paused){if(active)$('status').textContent='正在播放：'+audioLabel(active);followCurrentPlayback()}});
 audio.addEventListener('error',()=>{if(audio.getAttribute('src')){queue=[];repeatSequence=null;finishFollowing();$('status').textContent='音频加载失败，请检查网络，点击卡片重试。'}});
 $('stop').onclick=stop;
 const playerWrap=document.querySelector('.player-wrap');function syncPlayerHeight(){document.documentElement.style.setProperty('--player-height',Math.ceil(playerWrap.getBoundingClientRect().height)+'px')}

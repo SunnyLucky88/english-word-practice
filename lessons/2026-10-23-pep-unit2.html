@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="zh-CN">
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="lesson-version" content="5704f1daece8">
 <title>不同的家庭 · 第二单元学习</title>
 <style>
 :root{color-scheme:light;--ink:#203e3a;--teal:#167467;--paper:#fffdf8;--muted:#667773;--line:#dce5dd;--orange:#ab4b26}*{box-sizing:border-box}body{margin:0;background:#f5f3ea;color:var(--ink);font-family:system-ui,"Microsoft YaHei",sans-serif}button,select{font:inherit}button{cursor:pointer}button:disabled{cursor:default;opacity:.5}button:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid #db8a43;outline-offset:4px}[hidden]{display:none!important}main{max-width:1020px;margin:auto;padding:26px 22px 120px}.top{display:flex;justify-content:space-between;gap:14px;font-size:13px;color:var(--muted);align-items:center}.badge{border:1px solid #c8d5c9;border-radius:99px;padding:6px 12px}.hero{margin:28px 0 24px;border-bottom:1px solid var(--line);padding-bottom:28px;display:flex;justify-content:space-between;align-items:center;gap:16px}.eyebrow{font-size:12px;letter-spacing:2px;color:var(--teal);font-weight:700}h1{font-size:clamp(32px,6vw,48px);margin:8px 0 4px;letter-spacing:-1px}.english-title{font-family:Georgia,serif;font-size:23px;color:var(--teal);margin:0 0 14px}.intro{line-height:1.8;color:var(--muted);margin:0;font-size:14px}.art{width:150px;height:130px;flex-shrink:0;background:#dcebf1;border-radius:80px 80px 24px 24px;display:flex;align-items:center;justify-content:center}.art svg{width:115px}nav{display:flex;gap:8px;margin-bottom:24px}nav button{border:1px solid var(--line);border-radius:12px;background:transparent;color:var(--ink);padding:13px 22px;font-weight:600}nav button[aria-selected=true]{color:white;background:var(--teal);border-color:var(--teal)}.section-head{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-bottom:16px}h2{font-size:20px;margin:0}.small{font-size:13px;color:var(--muted)}.btn{border:1px solid #c8d5c9;border-radius:10px;padding:11px 15px;background:var(--paper);color:var(--ink);min-height:44px}.primary{background:var(--teal);color:white;border-color:var(--teal)}.cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.card{position:relative;width:100%;text-align:left;background:var(--paper);border:1px solid var(--line);border-radius:15px;padding:19px 48px 19px 19px;color:var(--ink);min-height:125px;transition:background .15s,transform .15s}.card:hover{background:#edf4eb;transform:translateY(-2px)}.card.playing{outline:2px solid var(--teal);background:#edf4eb}.en{font-size:23px;font-weight:650;line-height:1.4;overflow-wrap:anywhere}.ipa{color:var(--muted);font-size:13px;margin:3px 0 9px}.zh{font-size:14px;line-height:1.6}.speaker{position:absolute;right:15px;top:20px;color:var(--teal);font-size:20px}.sentence-group{margin:26px 0 32px}.sentence-group h3{font-size:17px;margin:0}.sentence-group .section-head{margin-bottom:4px}.sentence-group .small{line-height:1.7}.sentence-cards{grid-template-columns:repeat(2,minmax(0,1fr))}.sentence-cards .en{font-size:20px}.sentence-cards .zh{margin-top:10px}.number{display:block;font-size:11px;color:var(--muted);margin-bottom:7px;letter-spacing:1px}.practice-settings{display:flex;gap:12px;flex-wrap:wrap;background:#e9eee3;padding:14px;border-radius:13px;margin:16px 0}label{font-size:13px;display:flex;gap:8px;align-items:center}select{max-width:100%;padding:9px;border:1px solid #c8d5c9;border-radius:8px;background:var(--paper);color:var(--ink)}.exercise{background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:28px;text-align:center;max-width:720px;margin:auto}.progress{font-size:12px;letter-spacing:1px;color:var(--muted)}.prompt{font-size:clamp(23px,5vw,32px);font-weight:650;line-height:1.6;margin:30px 0 18px;overflow-wrap:anywhere}.hint{color:var(--muted);font-size:14px;line-height:1.7}.answer{padding:20px;background:#edf3e8;border-radius:14px;margin:20px 0}.answer .en{color:var(--teal)}.actions{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:20px}.choices{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:22px 0}.choices button{padding:15px}.choices .correct{border:2px solid var(--teal);background:#e5f0e6}.choices .wrong{border:2px solid #b95536;background:#faece3}.feedback{min-height:24px;font-size:14px;color:var(--orange);margin-top:12px}.footer{margin-top:32px;line-height:1.8;font-size:12px;color:var(--muted)}.player-wrap{position:fixed;bottom:0;left:0;right:0;background:#fffdf8f5;border-top:1px solid var(--line);backdrop-filter:blur(12px);z-index:3}.player{max-width:1020px;margin:auto;padding:10px 22px;display:flex;align-items:center;gap:14px}.status{flex:1;font-size:13px;line-height:1.5;min-width:0}.player audio{height:36px;width:280px;max-width:100%}@media(max-width:700px){main{padding:20px 16px 155px}.art{width:95px;height:100px}.art svg{width:85px}.cards{grid-template-columns:repeat(2,minmax(0,1fr))}.sentence-cards{grid-template-columns:1fr}.card{padding:15px 36px 15px 14px}.speaker{right:12px;top:18px}nav button{flex:1;padding:12px 8px}.en{font-size:21px}.player{flex-wrap:wrap;padding:8px 16px;gap:6px 10px}.player audio{width:100%;order:3}.exercise{padding:24px 16px}.hero{gap:8px}.intro{font-size:13px}.section-head{align-items:flex-start}.practice-settings{flex-direction:column}.practice-settings select{flex:1}.choices{grid-template-columns:1fr}}
@@ -35,8 +36,8 @@ main{padding-bottom:calc(var(--player-height,150px) + 24px)}
 .category-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0 0 20px}.category-tabs button{padding:12px 8px;border:1px solid var(--line);border-radius:12px;background:var(--paper);color:var(--ink);font-weight:650;min-height:46px}.category-tabs button[aria-pressed=true]{background:#e2eee2;border-color:var(--teal);color:var(--teal)}.category-note{line-height:1.8;color:var(--muted);font-size:14px;margin:0 0 18px}.song-card{border:1px solid var(--line);background:var(--paper);border-radius:16px;padding:22px;margin:14px 0}.song-card h3{font-family:Georgia,serif;font-size:25px;margin:0 0 8px}.song-pending{font-size:14px;line-height:1.8;color:var(--muted);margin:16px 0 0}.song-card .actions{justify-content:flex-start}.song-card .cards{margin-top:16px}.preview-label{color:var(--teal);font-weight:700;margin-bottom:14px;font-size:12px}@media(max-width:480px){.category-tabs{gap:6px}.category-tabs button{font-size:14px}.song-card{padding:18px}.section-head h2{font-size:18px}}
 </style>
 <main>
-<div class="top"><span>PEP · 三年级上册 / UNIT 02</span><a class="badge" href="../" style="color:inherit;text-decoration:none">返回学习入口</a></div>
-<div class="unit-links" aria-label="选择单元"><a href="2026-10-23-pep-unit1.html">第一单元</a><a aria-current="page" href="2026-10-23-pep-unit2.html">第二单元</a><a href="2026-10-23-pep-unit3.html">第三单元</a><a href="2026-10-23-pep-unit4.html">第四单元</a><a href="2026-10-23-pep-unit5.html">第五单元</a><a href="2026-10-23-pep-unit6.html">第六单元</a></div><header class="hero"><div><div class="eyebrow">一起认识我们的家人</div><h1>不同的家庭</h1><p class="english-title" lang="en">Different families</p><p class="intro">完整单元第 14—25 页 · 完整词表 20 词 · 谷歌原速<span class="hero-tip"><br>点一点听发音，说一说，再试着自己回想。</span></p></div><div class="art" aria-hidden="true"><svg viewBox="0 0 120 100"><path d="M12 49 60 10l48 39v43H12Z" fill="#fdf9ec"/><path d="m6 49 54-44 54 44" fill="none" stroke="#167467" stroke-width="6" stroke-linecap="round"/><circle cx="42" cy="48" r="10" fill="#db986f"/><circle cx="78" cy="48" r="10" fill="#b96a4e"/><path d="M26 89V75q0-18 16-18t16 18v14M62 89V75q0-18 16-18t16 18v14" fill="#5b8d76"/><circle cx="60" cy="69" r="9" fill="#efbd8f"/><path d="M46 96V87q0-12 14-12t14 12v9" fill="#e2a14c"/></svg></div></header>
+<div class="top"><span>PEP · 三年级上册 / UNIT 02</span><a class="badge" href="../?v=5704f1daece8" style="color:inherit;text-decoration:none">返回学习入口</a></div>
+<div class="unit-links" aria-label="选择单元"><a href="2026-10-23-pep-unit1.html?v=5704f1daece8">第一单元</a><a aria-current="page" href="2026-10-23-pep-unit2.html?v=5704f1daece8">第二单元</a><a href="2026-10-23-pep-unit3.html?v=5704f1daece8">第三单元</a><a href="2026-10-23-pep-unit4.html?v=5704f1daece8">第四单元</a><a href="2026-10-23-pep-unit5.html?v=5704f1daece8">第五单元</a><a href="2026-10-23-pep-unit6.html?v=5704f1daece8">第六单元</a></div><header class="hero"><div><div class="eyebrow">一起认识我们的家人</div><h1>不同的家庭</h1><p class="english-title" lang="en">Different families</p><p class="intro">完整单元第 14—25 页 · 完整词表 20 词 · 谷歌原速<span class="hero-tip"><br>点一点听发音，说一说，再试着自己回想。</span></p></div><div class="art" aria-hidden="true"><svg viewBox="0 0 120 100"><path d="M12 49 60 10l48 39v43H12Z" fill="#fdf9ec"/><path d="m6 49 54-44 54 44" fill="none" stroke="#167467" stroke-width="6" stroke-linecap="round"/><circle cx="42" cy="48" r="10" fill="#db986f"/><circle cx="78" cy="48" r="10" fill="#b96a4e"/><path d="M26 89V75q0-18 16-18t16 18v14M62 89V75q0-18 16-18t16 18v14" fill="#5b8d76"/><circle cx="60" cy="69" r="9" fill="#efbd8f"/><path d="M46 96V87q0-12 14-12t14 12v9" fill="#e2a14c"/></svg></div></header>
 <nav role="tablist" aria-label="学习内容"><button id="tab-book" role="tab" aria-controls="book" aria-selected="true">课本点读</button><button id="tab-words" role="tab" aria-controls="words" aria-selected="false" tabindex="-1">单词学习</button><button id="tab-sentences" role="tab" aria-controls="sentences" aria-selected="false" tabindex="-1">句子与歌曲</button><button id="tab-practice" role="tab" aria-controls="practice" aria-selected="false" tabindex="-1">小练习</button></nav>
 <section id="book" role="tabpanel" aria-labelledby="tab-book">
 <div class="section-head"><div><h2>在课本上点一点</h2><p class="small">直接点击英文听发音，浅色框内均可点读。</p></div><button class="btn" id="read-page">▶ 本页朗读</button></div>
@@ -67,7 +68,7 @@ const $=id=>document.getElementById(id),audio=$('audio');
 const words=CONTENT.words,sentences=CONTENT.sentences,expressions=CONTENT.expressions,songs=CONTENT.songs;
 const speedSelect=$('playback-speed');
 let active=null,queue=[],generation=0,category='key',deck=[],quizIndex=0,answered=false,repeatSequence=null;
-let followEnabled=false,followPaused=false,followTimer=null,followCard=null,pointerHeld=false,touchHeld=false;
+let followEnabled=false,followPaused=false,followTimer=null,followCard=null,pointerHeld=false,touchHeld=false,followedGeneration=-1;
 function applySpeed(){audio.defaultPlaybackRate=Number(speedSelect.value);audio.playbackRate=Number(speedSelect.value);audio.preservesPitch=true;if('webkitPreservesPitch' in audio)audio.webkitPreservesPitch=true;}
 speedSelect.onchange=applySpeed;audio.addEventListener('loadedmetadata',applySpeed);audio.addEventListener('play',applySpeed);
 function stop(){followEnabled=false;followPaused=false;clearTimeout(followTimer);followCard=null;generation++;queue=[];repeatSequence=null;finishFollowing();audio.pause();audio.removeAttribute('src');audio.load();document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));active=null;$('status').textContent='已停止播放。'}
@@ -80,30 +81,41 @@ function scheduleFollowResume(){
   followTimer=null;
   if(!followEnabled||pointerHeld||touchHeld)return;
   followPaused=false;
-  if(!audio.paused&&!audio.ended)followPlayingCard(followCard);
+  if(!audio.paused&&!audio.ended)followCurrentPlayback();
  },FOLLOW_IDLE_MS);
 }
 function pauseFollowForInput(){
  if(!followEnabled)return;
  const wasPaused=followPaused;followPaused=true;
- if(!wasPaused){try{window.scrollTo({left:window.scrollX,top:window.scrollY,behavior:'instant'})}catch(error){window.scrollTo(window.scrollX,window.scrollY)}}
+ if(!wasPaused)scrollWindowTo(window.pageXOffset||window.scrollX||0,window.pageYOffset||window.scrollY||0);
  scheduleFollowResume();
 }
-window.addEventListener('wheel',pauseFollowForInput,{passive:true});
-window.addEventListener('pointerdown',()=>{pointerHeld=true;pauseFollowForInput()},{passive:true});
-window.addEventListener('pointerup',()=>{pointerHeld=false;if(followPaused)scheduleFollowResume()},{passive:true});
-window.addEventListener('pointercancel',()=>{pointerHeld=false;if(followPaused)scheduleFollowResume()},{passive:true});
-window.addEventListener('touchstart',()=>{touchHeld=true;pauseFollowForInput()},{passive:true});
-window.addEventListener('touchmove',pauseFollowForInput,{passive:true});
+const passiveInput={passive:true,capture:true};
+window.addEventListener('wheel',pauseFollowForInput,passiveInput);
+window.addEventListener('pointerdown',()=>{pointerHeld=followEnabled;pauseFollowForInput()},passiveInput);
+window.addEventListener('pointerup',()=>{pointerHeld=false;if(followPaused)scheduleFollowResume()},passiveInput);
+window.addEventListener('pointercancel',()=>{pointerHeld=false;if(followPaused)scheduleFollowResume()},passiveInput);
+window.addEventListener('touchstart',()=>{touchHeld=followEnabled;pauseFollowForInput()},passiveInput);
+window.addEventListener('touchmove',pauseFollowForInput,passiveInput);
 function releaseFollowTouch(event){touchHeld=event.touches.length>0;if(followPaused)scheduleFollowResume()}
-window.addEventListener('touchend',releaseFollowTouch,{passive:true});
-window.addEventListener('touchcancel',releaseFollowTouch,{passive:true});
+window.addEventListener('touchend',releaseFollowTouch,passiveInput);
+window.addEventListener('touchcancel',releaseFollowTouch,passiveInput);
 window.addEventListener('scroll',()=>{if(followPaused)scheduleFollowResume()},{passive:true,capture:true});
-window.addEventListener('keydown',pauseFollowForInput,{passive:true});
-window.addEventListener('blur',()=>{pointerHeld=false;touchHeld=false;pauseFollowForInput()});
+window.addEventListener('keydown',pauseFollowForInput,passiveInput);
+function releaseFollowGesture(){const held=pointerHeld||touchHeld;pointerHeld=false;touchHeld=false;if(followPaused&&held)scheduleFollowResume()}
+window.addEventListener('click',releaseFollowGesture,passiveInput);
+window.addEventListener('blur',releaseFollowGesture);
+window.addEventListener('focus',()=>{releaseFollowGesture();if(!audio.paused)followCurrentPlayback()});
+function scrollWindowTo(x,y){
+ const root=document.scrollingElement||document.documentElement||document.body;
+ if(root){root.scrollTop=y;root.scrollLeft=x;}
+ // Use numeric coordinates: older phone browsers may ignore options without throwing.
+ try{window.scrollTo(x,y)}catch(error){if(document.body){document.body.scrollTop=y;document.body.scrollLeft=x;}}
+}
 function followPlayingCard(card){
- if(!followEnabled||followPaused||!card||!card.getClientRects().length)return;
- const bookViewport=card.closest('.book-viewport');
+ if(!followEnabled||followPaused||!card||!card.getClientRects().length||document.visibilityState==='hidden')return false;
+ let bookViewport=card;
+ while(bookViewport&&!(bookViewport.classList&&bookViewport.classList.contains('book-viewport')))bookViewport=bookViewport.parentNode;
  if(bookViewport){
   const box=bookViewport.getBoundingClientRect(),target=card.getBoundingClientRect();
   const dy=target.top<box.top+12||target.bottom>box.bottom-12?target.top-box.top-(box.height-target.height)/2:0;
@@ -113,16 +125,22 @@ function followPlayingCard(card){
  const rect=card.getBoundingClientRect(),viewport=window.innerHeight||document.documentElement.clientHeight;
  const player=document.querySelector('.player-wrap'),playerTop=player?player.getBoundingClientRect().top:viewport;
  const top=16,bottom=Math.min(viewport,playerTop)-16,height=Math.max(0,bottom-top);
- if(!height||(rect.top>=top&&rect.bottom<=bottom))return;
+ if(!height)return false;
+ if(rect.top>=top&&rect.bottom<=bottom)return true;
  const delta=rect.height>height?rect.top-top:rect.top-(top+(height-rect.height)/2);
- const reduced=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
- try{window.scrollBy({top:delta,left:0,behavior:reduced?'auto':'smooth'})}catch(error){window.scrollBy(0,delta)}
+ const root=document.scrollingElement||document.documentElement||document.body;
+ const y=window.pageYOffset||window.scrollY||(root&&root.scrollTop)||0;
+ const x=window.pageXOffset||window.scrollX||(root&&root.scrollLeft)||0;
+ scrollWindowTo(x,Math.max(0,y+delta));
+ return true;
 }
+function followCurrentPlayback(){if(!audio.paused&&followPlayingCard(followCard))followedGeneration=generation}
 function finishFollowing(){followEnabled=false;followPaused=false;clearTimeout(followTimer);followCard=null;}
-function play(item,card,continuing=false){if(!continuing)stop();const token=++generation;active=item;followCard=card;document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(card)card.classList.add('playing');audio.src=AUDIO_BASE+item.file;applySpeed();$('status').textContent='正在加载：'+audioLabel(item);const result=audio.play();if(result)result.then(()=>{if(token===generation){$('status').textContent='正在播放：'+audioLabel(item);if(continuing)followPlayingCard(card)}}).catch(()=>{if(token===generation){queue=[];repeatSequence=null;finishFollowing();$('status').textContent='未能播放，请点击播放器重试，并检查网络和媒体音量。'}})}
-function playSequence(items,container,repeat=false){if(!items.length)return;stop();followEnabled=true;const occurrences={};const entries=items.map(item=>{const cards=container?container.querySelectorAll('[data-file="'+item.file+'"]'):[];const occurrence=occurrences[item.file]||0;occurrences[item.file]=occurrence+1;return {item,card:cards.length?cards[Math.min(occurrence,cards.length-1)]:null}});queue=entries.slice();if(repeat)repeatSequence=entries;const first=queue.shift();play(first.item,first.card,true)}
+function play(item,card,continuing=false){if(!continuing)stop();const token=++generation;active=item;followCard=card;document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(card)card.classList.add('playing');audio.src=AUDIO_BASE+item.file;applySpeed();$('status').textContent='正在加载：'+audioLabel(item);const result=audio.play();if(result)result.then(()=>{if(token===generation){$('status').textContent='正在播放：'+audioLabel(item)}}).catch(()=>{if(token===generation){queue=[];repeatSequence=null;finishFollowing();$('status').textContent='未能播放，请点击播放器重试，并检查网络和媒体音量。'}})}
+function playSequence(items,container,repeat=false){if(!items.length)return;stop();pointerHeld=false;touchHeld=false;followEnabled=true;followedGeneration=-1;const occurrences={};const entries=items.map(item=>{const cards=container?container.querySelectorAll('[data-file="'+item.file+'"]'):[];const occurrence=occurrences[item.file]||0;occurrences[item.file]=occurrence+1;return {item,card:cards.length?cards[Math.min(occurrence,cards.length-1)]:null}});queue=entries.slice();if(repeat)repeatSequence=entries;const first=queue.shift();play(first.item,first.card,true)}
 audio.addEventListener('ended',()=>{document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(!queue.length&&repeatSequence)queue=repeatSequence.slice();if(queue.length){const entry=queue.shift();play(entry.item,entry.card,true)}else{finishFollowing();$('status').textContent='播放完毕，可以再读一遍。'}});
-audio.addEventListener('playing',()=>{if(active)$('status').textContent='正在播放：'+audioLabel(active)});
+audio.addEventListener('playing',()=>{if(active)$('status').textContent='正在播放：'+audioLabel(active);followCurrentPlayback()});
+audio.addEventListener('timeupdate',()=>{if(followedGeneration!==generation&&!audio.paused){if(active)$('status').textContent='正在播放：'+audioLabel(active);followCurrentPlayback()}});
 audio.addEventListener('error',()=>{if(audio.getAttribute('src')){queue=[];repeatSequence=null;finishFollowing();$('status').textContent='音频加载失败，请检查网络，点击卡片重试。'}});
 $('stop').onclick=stop;
 const playerWrap=document.querySelector('.player-wrap');function syncPlayerHeight(){document.documentElement.style.setProperty('--player-height',Math.ceil(playerWrap.getBoundingClientRect().height)+'px')}
