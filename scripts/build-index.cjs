@@ -11,7 +11,7 @@ for (const course of courses) {
   assert.match(course.date, /^\d{4}-\d{2}-\d{2}$/);
   assert.equal(new Date(course.date).toISOString().slice(0, 10), course.date);
   assert.match(course.href, /^(?:test|lessons\/[a-z0-9-]+)\.html$/);
-  assert.match(course.audioDirectory, /^audio\/\d{4}-\d{2}-\d{2}-[a-z0-9-]+\/libby-v[1-9]\d*$/);
+  assert.match(course.audioDirectory, /^audio\/\d{4}-\d{2}-\d{2}-[a-z0-9-]+\/(?:libby|google)-v[1-9]\d*$/);
   assert.ok(!urls.has(course.href), 'Duplicate course URL');
   urls.add(course.href);
   assert.ok(fs.existsSync(path.join(root, course.href)), `Missing course: ${course.href}`);
@@ -22,13 +22,13 @@ courses.sort((a, b) => b.date.localeCompare(a.date));
 const cards = courses.map((course, index) => `<a class="course" href="${escape(course.href)}">
   <div class="meta"><time datetime="${escape(course.date)}">${escape(course.date)}</time>${index === 0 ? '<span class="badge">最新课程</span>' : ''}</div>
   <h2>${escape(course.title)}</h2><p>${escape(course.description)}</p>
-  <div class="course-bottom"><span>${course.wordCount} ${escape(course.unit || '个单词')} · 英式发音</span><span class="go">开始学习 ↗</span></div>
+  <div class="course-bottom"><span>${course.wordCount} ${escape(course.unit || '个单词')} · ${escape(course.audioLabel || '英式发音')}</span><span class="go">开始学习 ↗</span></div>
 </a>`).join('\n');
 const html = `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="英语单词点击发音学习课程，Libby 英式女声，手机打开即可学习。">
+<meta name="description" content="英语课本点读、单词句子跟读和小练习，手机打开即可学习。">
 <title>英语发音小课堂 · 全部课程</title>
 <style>
 :root{color-scheme:light;--ink:#173b3c;--muted:#607575;--green:#14766b;--line:#d9e6df}
@@ -46,8 +46,8 @@ header{padding:26px 0 30px;border-bottom:1px solid var(--line)}h1{font-size:clam
 </head>
 <body><main>
 <div class="brand">ENGLISH · 每次学一点</div>
-<header><h1>英语发音小课堂</h1><p class="intro">选择一课，点击单词就能听发音。跟着读、慢慢练，让每一个新单词都变得熟悉。</p>
-<div class="pills"><span class="pill">Libby 英式女声</span><span class="pill">点击即听</span><span class="pill">手机轻松学</span></div></header>
+<header><h1>英语发音小课堂</h1><p class="intro">选择一课，点课本、听单词、跟读句子，再用小练习巩固。每次学一点，慢慢积累。</p>
+<div class="pills"><span class="pill">课本 · 单词 · 句子</span><span class="pill">点击即听</span><span class="pill">手机轻松学</span></div></header>
 <section aria-labelledby="courses-title"><div class="section-head"><h2 id="courses-title">全部课程</h2><span class="count">共 ${courses.length} 课 · 最新在前</span></div><div class="courses">${cards}</div></section>
 <aside class="tip"><strong>收藏这个页面</strong><br>新课程会持续加入这里。把同一个链接或二维码留好，下次打开就能找到更多内容。</aside>
 <footer>首次播放音频需要联网。听不到声音时，请调高媒体音量，或在手机浏览器中打开。</footer>

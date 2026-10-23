@@ -1,0 +1,266 @@
+[
+  {
+    "file": "name.mp3",
+    "text": "name",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=name&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5b565db7693a694cbb0a2b8e0c32d350827de6a3e34613d3f51ca4e409a76214"
+  },
+  {
+    "file": "nice.mp3",
+    "text": "nice",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=nice&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "25595b052a642c2428ece1c5cf56c9098e9c58601af53f18110e35e038e25cb0"
+  },
+  {
+    "file": "ear.mp3",
+    "text": "ear",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=ear&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "090d605f3af80c970067035cea8499a2f8c995d30a8a1a94bd1d1184b827f4ee"
+  },
+  {
+    "file": "hand.mp3",
+    "text": "hand",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=hand&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5fc6bf50ae0c453d523f9978df09f5a970d68f9db54056763e10dedbac2229b6"
+  },
+  {
+    "file": "eye.mp3",
+    "text": "eye",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=eye&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d18ce2410a39751be5cf53276095dc0f0ae12c44d76c6bc818be5db3c73a1269"
+  },
+  {
+    "file": "mouth.mp3",
+    "text": "mouth",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=mouth&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9fbba3f3af0314e5bf08118599ae21fad6297e51819b18df6575be25814f2831"
+  },
+  {
+    "file": "arm.mp3",
+    "text": "arm",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=arm&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "649d68056d900c0e2f0dc4bb82bdefc3a15f9eb49502917cf37f9429bbd216c3"
+  },
+  {
+    "file": "can.mp3",
+    "text": "can",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=can&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "04166807a18de6f3887664e496c68c9bd8362247a69cb65e1653a559495e1189"
+  },
+  {
+    "file": "share.mp3",
+    "text": "share",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=share&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d8d7a733a0960c3ea6121dedededb43756a1fdd2f5ecb98646764f36195d0174"
+  },
+  {
+    "file": "smile.mp3",
+    "text": "smile",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=smile&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a85c81457dbfd2d31f145830b90743e8dd2d74aa18fe1107355ca8667b54293a"
+  },
+  {
+    "file": "listen.mp3",
+    "text": "listen",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=listen&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "6fb3085d360068d52e4b3c0151ce94567b95bf4fcaf70d9b1ad560e43732c06e"
+  },
+  {
+    "file": "help.mp3",
+    "text": "help",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=help&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "42bcdb24df4f94d3a3db3c7584b467f00f18521473800a698049fa3023f73e36"
+  },
+  {
+    "file": "say.mp3",
+    "text": "say",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=say&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "693f956ab660bb1140be66ade8b17ed5fe58e55f7146ad14d156d25c84c0c2ea"
+  },
+  {
+    "file": "and.mp3",
+    "text": "and",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=and&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1741f527a8d69f9942c7950c77e33e1f2ee14b32eb593d9ffec64669a2c6f30d"
+  },
+  {
+    "file": "goodbye.mp3",
+    "text": "goodbye",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=goodbye&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "64c78b70bcdd12c3b883c212cf8dee54401137992e343048f642aa9078581c66"
+  },
+  {
+    "file": "toy.mp3",
+    "text": "toy",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=toy&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f9a8250529e1903402a5041c805103e113a7f1e6e7a242cb919e6f03500877b4"
+  },
+  {
+    "file": "friend.mp3",
+    "text": "friend",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=friend&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "4e3fa41a28eb972bfd74a809e80fcc69e689d32d160671aabed72e56da65d3fb"
+  },
+  {
+    "file": "good.mp3",
+    "text": "good",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=good&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5625a7aa9e29189ca0f2a6bb7c7b0a6900bc1cdce1b341b3c835517724ee0200"
+  },
+  {
+    "file": "sentence-01.mp3",
+    "text": "Are they friends?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Are%20they%20friends%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "adf12cdd21a8b897bd6e0d8e359baa6828aa1ff5111fe6a1432813dcce5c6837"
+  },
+  {
+    "file": "sentence-02.mp3",
+    "text": "What makes you a good friend?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%20makes%20you%20a%20good%20friend%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "77f2f4fda5d555eae719ddb5c847f794db708d47f801669038db6d33d0c3d291"
+  },
+  {
+    "file": "sentence-03.mp3",
+    "text": "Hello! Hello!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%21%20Hello%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "118b6f0013161cbc34a547c88b7072874ea7b0b0ffb4d70d12f2c9fde1a00802"
+  },
+  {
+    "file": "sentence-04.mp3",
+    "text": "What's your name?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s%20your%20name%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "66b3366452e390200abeae9023d95d3175e6de45c167beb7d8c9af22b999e81d"
+  },
+  {
+    "file": "sentence-05.mp3",
+    "text": "Nice to meet you.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Nice%20to%20meet%20you.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "2620e2eaa2f38a2219ffbc277a208aea9ca1aa0b1a7c4b394f2ab6ffd9f6bdc7"
+  },
+  {
+    "file": "sentence-06.mp3",
+    "text": "Let's play a game!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Let%27s%20play%20a%20game%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "93d9da44851d07204a25c347af46ba1e0a3b32c66530e54ba5238ba9af47f893"
+  },
+  {
+    "file": "sentence-07.mp3",
+    "text": "Hello! I'm Mike Black.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%21%20I%27m%20Mike%20Black.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "62fbe0e008a4c57217f803b2cdd12f4578dd4d42016dc720a98724eb34259517"
+  },
+  {
+    "file": "sentence-08.mp3",
+    "text": "Hi! My name is Wu Binbin.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%21%20My%20name%20is%20Wu%20Binbin.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5586444644ef2bb37b742218ecdb69385b9338e2c6a898643df610758cba6870"
+  },
+  {
+    "file": "sentence-09.mp3",
+    "text": "Nice to meet you too.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Nice%20to%20meet%20you%20too.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "0be1aa3727cfa86d25fb467b7c90848ad916af55f53ab4b0945f26f58497f6af"
+  },
+  {
+    "file": "sentence-10.mp3",
+    "text": "Hello there!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%20there%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "472da4be1d40163f15435c9e623cc74b614b480e3863d989fe760aaffd73b4e8"
+  },
+  {
+    "file": "sentence-11.mp3",
+    "text": "Let's be friends.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Let%27s%20be%20friends.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b99ac08c18d8766ae27a4847fe38f9dcd8a7ea3adebe6a1962d5111e1fffe5e6"
+  },
+  {
+    "file": "sentence-12.mp3",
+    "text": "My name is Sarah.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=My%20name%20is%20Sarah.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8b218eab61be7d17611494ed55d1309fa8e69582b95c514d5e508d66b41ff8fe"
+  },
+  {
+    "file": "sentence-13.mp3",
+    "text": "Let's shake hands.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Let%27s%20shake%20hands.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "39eecc2816ee1b0aa0e4c7f31adead05403952808746b672ac2575e6c2516b4e"
+  },
+  {
+    "file": "sentence-14.mp3",
+    "text": "I am John.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20am%20John.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "62e0438d3ec954bc378942c779494b98f2b64b806163ad0b8d606122c911b8f7"
+  },
+  {
+    "file": "sentence-15.mp3",
+    "text": "Hello! My name is Mike Black.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%21%20My%20name%20is%20Mike%20Black.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "2cd1b8225ecc0420eb25b4766cf06082a59fe77215c6b41d53d3a5ba26d2c932"
+  },
+  {
+    "file": "sentence-16.mp3",
+    "text": "Hi! I'm Sarah Miller.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%21%20I%27m%20Sarah%20Miller.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f347053fe8ce2a4cd35e671a972e2e061ef98aa3417ff7d95a48ab320efee6ec"
+  },
+  {
+    "file": "sentence-17.mp3",
+    "text": "Wave your hand. Hello!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wave%20your%20hand.%20Hello%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b438f0adc684d144168fb633be87e90654de7963931856237f8d7133bfa5d401"
+  },
+  {
+    "file": "sentence-18.mp3",
+    "text": "Look into my eyes. Hi!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%20into%20my%20eyes.%20Hi%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "af7fab45972a6adefd9020009acf04828fefd024a57a25df0854c3ac123991d7"
+  },
+  {
+    "file": "sentence-19.mp3",
+    "text": "Point to your ear. Listen!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Point%20to%20your%20ear.%20Listen%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d1fc45d208e0e2b2bed17628e3671472a3f0bd80b6a733ae05378432cc3fb4ff"
+  },
+  {
+    "file": "sentence-20.mp3",
+    "text": "Point to your mouth. Smile!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Point%20to%20your%20mouth.%20Smile%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "0d363eed35496f3ba26e5173dbf980d6ca823b22d9acc654b0ac2eb4309958ff"
+  },
+  {
+    "file": "sentence-21.mp3",
+    "text": "Wave your arm. Bye!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wave%20your%20arm.%20Bye%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5368eb9a0787070c716d8f5d0b06ca7762787ce4ccd1d7fdcf63cb687d6ece24"
+  },
+  {
+    "file": "sentence-22.mp3",
+    "text": "John Baker",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=John%20Baker&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "368ea5ea7d90ca31b469ef5c872e369ba20a77d7629bdfd489af17a29fda9158"
+  },
+  {
+    "file": "sentence-23.mp3",
+    "text": "Wu Binbin",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wu%20Binbin&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "13cfa3e81f053ae2e89f3a81f3fe44e8f91e64ca761f681dfbbc726a7592639b"
+  },
+  {
+    "file": "sentence-24.mp3",
+    "text": "Chen Jie",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Chen%20Jie&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8e348dd83fb0e2aed6d90979ffb0f4379f012487f831b7d6d4c4cc364d4d58b8"
+  },
+  {
+    "file": "sentence-25.mp3",
+    "text": "Sarah Miller",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Sarah%20Miller&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c69f9e60608f816cb359812d7b042cbe47389d36f16d2e02706d98c584667953"
+  },
+  {
+    "file": "sentence-26.mp3",
+    "text": "Mike Black",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Mike%20Black&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "bace68c3447f57406461aa226d9aba1b5c48f9a375ac5661ef39a8303cf911d1"
+  }
+]

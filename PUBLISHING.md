@@ -4,7 +4,8 @@
 
 - 一个仓库、一个总入口、每课一个固定页面。
 - 总入口：<https://sunnylucky88.github.io/english-word-practice/>。
-- 发音只提供英式英语，统一 Libby 女声（`en-GB-LibbyNeural`），语速 `-15%`，不提供美式切换。
+- 新课使用用户已试听确认的谷歌翻译英语原速音频，不再生成 Libby 音频。谷歌音频如实标注来源，不标为教材原声或保证为英式口音。教材音标可保留英式参考。所有新课点读统一用谷歌音频，不混入教材原声；字母名称和拼读音必须区分，不以字母名称冒充拼读音。
+- 只保存一套原速音频，播放器提供 0.75、0.85、1.0、1.15 倍速并保持音高；不额外生成慢速副本。旧课程仍被引用的历史音频保留，换音另行确认。
 - 优先跟随用户提供的教材词汇、词义和英式音标。合成音频应明确标注为练习音频，不冒充教材原声。
 - 点击单词或喇叭直接播放本站音频，不依赖手机系统 TTS。保留原生音频播放器，便于浏览器拦截播放时手动重试。
 
@@ -17,10 +18,11 @@
 - 课程目录维护在 `courses.json`。每项含 `title`、首次发布 `date`、`href`、`audioDirectory`、`wordCount`、`description`。修改后运行 `node scripts/build-index.cjs` 生成静态首页。
 - 首页按首次发布日期倒序排列；同一天新增的课放在目录前面。修改旧课不改变首次发布日期。
 - 字母课程使用 `wordCount` 记录字母数量，并设置 `unit: "个字母"`；单词课程可省略 `unit`。完整跟读音轨在 `extraAudio` 中登记文件名，发布校验会一并检查。字母名称音与自然拼读音应明确区分，跟读音频不标为歌曲。
-- 每课的音频单独存放在 `audio/YYYY-MM-DD-english-topic/libby-v1/<word>.mp3`，目录名称与该课文件名对应。不同课即使有相同单词也各存一份，不跨课程共用。第一课对应 `audio/2026-10-22-family/libby-v1/`，页面地址仍为 `test.html`。
+- 每课的音频单独存放在 `audio/YYYY-MM-DD-english-topic/google-v1/<word>.mp3`，目录名称与该课文件名对应。不同课即使有相同单词也各存一份，不跨课程共用。第一课对应 `audio/2026-10-22-family/libby-v1/`，页面地址仍为 `test.html`。
 - `audioDirectory` 填写相对于仓库根目录的音频版本目录，不带末尾斜杠。课程页通过 `const AUDIO_BASE = "…/";` 声明播放路径：根目录页面直接使用该目录，`lessons/` 下的页面需加 `../`。校验脚本检查二者一致。
-- 修改某课声音时，仅为该课新建 `libby-v2` 等版本目录，并同步更新 `audioDirectory` 和页面的 `AUDIO_BASE`，避免手机缓存旧声音。
-- 先在 `courses.json` 登记课程及音频目录，然后生成音频：安装 `edge-tts`，运行 `python scripts/generate-british-audio.py lessons/<filename>.html`；省略参数则处理 `test.html`。仅复用当前课程、当前版本目录里已有的完整文件。
+- 修改某课声音时，仅为该课新建 `google-v2` 等版本目录，并同步更新 `audioDirectory` 和页面的 `AUDIO_BASE`，避免手机缓存旧声音。
+- 先在 `courses.json` 登记课程及音频目录；只复制已批准试听的原速文件。每课 `sources.json` 保存文字、来源和 SHA-256。`scripts/generate-british-audio.py` 为历史 Libby 工具，新课禁止使用。
+- 综合课程在页面 `lesson-content` JSON 中保存有序词表与句子，课本图片和点读脚本放在 `assets/日期-主题/`。发布时只复制正式资源，不复制试听、生成工具或截图。
 - 清理工程时，以所有课程的当前引用为准，删除无人使用的美式音频、旧声音、旧版本和临时文件；仍被课程引用的资源必须保留。Git 历史保留修改记录，不把旧音频备份堆在发布目录里。
 
 ## 每次发布流程
