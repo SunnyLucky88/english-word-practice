@@ -1,0 +1,1189 @@
+{
+  "words": [
+    {
+      "en": "apple",
+      "zh": "苹果",
+      "ipa": "/ˈæpl/",
+      "page": 40,
+      "file": "apple.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "banana",
+      "zh": "香蕉",
+      "ipa": "/bəˈnɑːnə/",
+      "page": 40,
+      "file": "banana.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "farm",
+      "zh": "农场",
+      "ipa": "/fɑːm/",
+      "page": 40,
+      "file": "farm.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "air",
+      "zh": "空气",
+      "ipa": "/eə(r)/",
+      "page": 40,
+      "file": "air.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "orange",
+      "zh": "橙子；柑橘",
+      "ipa": "/ˈɒrɪndʒ/",
+      "page": 41,
+      "file": "orange.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "grape",
+      "zh": "葡萄",
+      "ipa": "/ɡreɪp/",
+      "page": 41,
+      "file": "grape.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "school",
+      "zh": "学校",
+      "ipa": "/skuːl/",
+      "page": 43,
+      "file": "school.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "garden",
+      "zh": "花园",
+      "ipa": "/ˈɡɑːdn/",
+      "page": 43,
+      "file": "garden.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "need",
+      "zh": "需要",
+      "ipa": "/niːd/",
+      "page": 43,
+      "file": "need.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "water",
+      "zh": "给……浇水；水",
+      "ipa": "/ˈwɔːtə(r)/",
+      "page": 43,
+      "file": "water.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "flower",
+      "zh": "花；花朵",
+      "ipa": "/ˈflaʊə(r)/",
+      "page": 43,
+      "file": "flower.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "grass",
+      "zh": "草；草地",
+      "ipa": "/ɡrɑːs/",
+      "page": 43,
+      "file": "grass.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "plant",
+      "zh": "种植；植物",
+      "ipa": "/plɑːnt/",
+      "page": 43,
+      "file": "plant.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "new",
+      "zh": "新的",
+      "ipa": "/njuː/",
+      "page": 43,
+      "file": "new.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "tree",
+      "zh": "树",
+      "ipa": "/triː/",
+      "page": 43,
+      "file": "tree.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "sun",
+      "zh": "阳光；太阳",
+      "ipa": "/sʌn/",
+      "page": 44,
+      "file": "sun.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "give",
+      "zh": "给",
+      "ipa": "/ɡɪv/",
+      "page": 45,
+      "file": "give.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "us",
+      "zh": "我们",
+      "ipa": "/ʌs/",
+      "page": 45,
+      "file": "us.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "them",
+      "zh": "它们；他们；她们",
+      "ipa": "/ðəm; ðem/",
+      "page": 45,
+      "file": "them.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What plants do you see?",
+      "zh": "你看到了哪些植物？",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-01.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What fruit do you like?",
+      "zh": "你喜欢什么水果？",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-02.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I see an apple.",
+      "zh": "我看到一个苹果。",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-03.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I see grapes.",
+      "zh": "我看到葡萄。",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-04.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like fruit.",
+      "zh": "我喜欢水果。",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-05.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Let's eat!",
+      "zh": "我们吃吧！",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-06.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I have a garden.",
+      "zh": "我有一个花园。",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-07.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I have water.",
+      "zh": "我有水。",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-08.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like apples.",
+      "zh": "我喜欢苹果。",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-09.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Let's grow a tree!",
+      "zh": "我们种一棵树吧！",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-10.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Plants and us",
+      "zh": "植物与我们",
+      "practice": true,
+      "page": 39,
+      "file": "sentence-11.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Mike, do you like apples?",
+      "zh": "迈克，你喜欢苹果吗？",
+      "practice": true,
+      "page": 40,
+      "file": "sentence-12.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Yes, I do. And you?",
+      "zh": "是的，我喜欢。你呢？",
+      "practice": true,
+      "page": 40,
+      "file": "sentence-13.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "No, I don't. I like bananas.",
+      "zh": "不，我不喜欢。我喜欢香蕉。",
+      "practice": true,
+      "page": 40,
+      "file": "sentence-14.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Do you like the farm?",
+      "zh": "你喜欢这个农场吗？",
+      "practice": true,
+      "page": 40,
+      "file": "sentence-15.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Yes, Miss White.",
+      "zh": "是的，怀特老师。",
+      "practice": true,
+      "page": 40,
+      "file": "sentence-16.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like fresh air.",
+      "zh": "我喜欢新鲜空气。",
+      "practice": true,
+      "page": 40,
+      "file": "sentence-17.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Do you like apples?",
+      "zh": "你喜欢苹果吗？",
+      "practice": true,
+      "page": 40,
+      "file": "sentence-18.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Yes, I do.",
+      "zh": "是的，我喜欢。",
+      "practice": true,
+      "page": 40,
+      "file": "sentence-19.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "bananas",
+      "zh": "香蕉（复数）",
+      "practice": true,
+      "page": 41,
+      "file": "sentence-20.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "oranges",
+      "zh": "橙子（复数）",
+      "practice": true,
+      "page": 41,
+      "file": "sentence-21.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "apples",
+      "zh": "苹果（复数）",
+      "practice": true,
+      "page": 41,
+      "file": "sentence-22.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "grapes",
+      "zh": "葡萄（复数）",
+      "practice": true,
+      "page": 41,
+      "file": "sentence-23.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Grapes are small. Bananas are long.",
+      "zh": "葡萄小，香蕉长。",
+      "practice": true,
+      "page": 41,
+      "file": "sentence-24.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Apples and oranges make you strong.",
+      "zh": "苹果和橙子让你强壮。",
+      "practice": true,
+      "page": 41,
+      "file": "sentence-25.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Trees grow and give us things:",
+      "zh": "树木生长，给予我们许多东西：",
+      "practice": true,
+      "page": 41,
+      "file": "sentence-26.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Fresh air, flowers and leaves in spring.",
+      "zh": "春天的新鲜空气、花朵和树叶。",
+      "practice": true,
+      "page": 41,
+      "file": "sentence-27.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "M",
+      "zh": "字母 M（名称音）",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-28.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "N",
+      "zh": "字母 N（名称音）",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-29.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "O",
+      "zh": "字母 O（名称音）",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-30.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "P",
+      "zh": "字母 P（名称音）",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-31.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "map",
+      "zh": "地图",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-32.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "mum",
+      "zh": "妈妈",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-33.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "new",
+      "zh": "新的",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-34.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "fan",
+      "zh": "风扇",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-35.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "orange",
+      "zh": "橙子",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-36.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "fox",
+      "zh": "狐狸",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-37.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "pen",
+      "zh": "钢笔",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-38.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "cup",
+      "zh": "杯子",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-39.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "nod",
+      "zh": "点头",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-40.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "hop",
+      "zh": "单脚跳",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-41.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "men",
+      "zh": "男人（复数）",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-42.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "nap",
+      "zh": "小睡",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-43.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "pig",
+      "zh": "猪",
+      "practice": false,
+      "page": 42,
+      "file": "sentence-44.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "The school gardens need help.",
+      "zh": "学校的花园需要帮助。",
+      "practice": true,
+      "page": 43,
+      "file": "sentence-45.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We can water the flowers.",
+      "zh": "我们可以给花浇水。",
+      "practice": true,
+      "page": 43,
+      "file": "sentence-46.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We can water the grass.",
+      "zh": "我们可以给草浇水。",
+      "practice": true,
+      "page": 43,
+      "file": "sentence-47.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Nice. And?",
+      "zh": "很好。还有呢？",
+      "practice": true,
+      "page": 43,
+      "file": "sentence-48.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We can plant new trees.",
+      "zh": "我们可以种新的树。",
+      "practice": true,
+      "page": 43,
+      "file": "sentence-49.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "How can we help?",
+      "zh": "我们能怎样帮忙？",
+      "practice": true,
+      "page": 43,
+      "file": "sentence-50.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We can plant trees.",
+      "zh": "我们可以种树。",
+      "practice": true,
+      "page": 43,
+      "file": "sentence-51.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Plants need our help.",
+      "zh": "植物需要我们的帮助。",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-52.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "sun",
+      "zh": "阳光；太阳",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-53.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "air",
+      "zh": "空气",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-54.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "water",
+      "zh": "水",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-55.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "flowers",
+      "zh": "花（复数）",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-56.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "trees",
+      "zh": "树（复数）",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-57.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "grass",
+      "zh": "草",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-58.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Plants need air, water and sun.",
+      "zh": "植物需要空气、水和阳光。",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-59.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Air, water and sun.",
+      "zh": "空气、水和阳光。",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-60.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "These can all help plants grow.",
+      "zh": "这些都能帮助植物生长。",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-61.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Plant, water, cut and turn.",
+      "zh": "种植、浇水、修剪和翻动。",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-62.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "These are some things I know.",
+      "zh": "这些是我知道的一些事情。",
+      "practice": true,
+      "page": 44,
+      "file": "sentence-63.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Help",
+      "zh": "帮助",
+      "practice": true,
+      "page": 45,
+      "file": "sentence-64.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Give",
+      "zh": "给予",
+      "practice": true,
+      "page": 45,
+      "file": "sentence-65.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "They help plants grow.",
+      "zh": "它们帮助植物生长。",
+      "practice": true,
+      "page": 45,
+      "file": "sentence-66.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Plants can give us many things.",
+      "zh": "植物能给我们许多东西。",
+      "practice": true,
+      "page": 45,
+      "file": "sentence-67.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We need plants, and we can help them too.",
+      "zh": "我们需要植物，我们也能帮助它们。",
+      "practice": true,
+      "page": 45,
+      "file": "sentence-68.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What fruit do you see?",
+      "zh": "你看到了什么水果？",
+      "practice": true,
+      "page": 45,
+      "file": "sentence-69.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What does this fruit tree need?",
+      "zh": "这棵果树需要什么？",
+      "practice": true,
+      "page": 45,
+      "file": "sentence-70.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Apple trees need air, water and sun.",
+      "zh": "苹果树需要空气、水和阳光。",
+      "practice": true,
+      "page": 45,
+      "file": "sentence-71.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We can help them.",
+      "zh": "我们能帮助它们。",
+      "practice": true,
+      "page": 45,
+      "file": "sentence-72.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "They can give us apples.",
+      "zh": "它们能给我们苹果。",
+      "practice": true,
+      "page": 45,
+      "file": "sentence-73.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "tree",
+      "zh": "树",
+      "practice": false,
+      "page": 45,
+      "file": "sentence-74.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What do fruit trees need?",
+      "zh": "果树需要什么？",
+      "practice": true,
+      "page": 46,
+      "file": "sentence-75.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What can they give us?",
+      "zh": "它们能给我们什么？",
+      "practice": true,
+      "page": 46,
+      "file": "sentence-76.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "plant the tree",
+      "zh": "种树",
+      "practice": true,
+      "page": 46,
+      "file": "sentence-77.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "water the tree",
+      "zh": "给树浇水",
+      "practice": true,
+      "page": 46,
+      "file": "sentence-78.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "This is my garden.",
+      "zh": "这是我的花园。",
+      "practice": true,
+      "page": 47,
+      "file": "sentence-79.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "The apple trees need air, water and sun.",
+      "zh": "这些苹果树需要空气、水和阳光。",
+      "practice": true,
+      "page": 47,
+      "file": "sentence-80.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We ...",
+      "zh": "我们……",
+      "practice": true,
+      "page": 47,
+      "file": "sentence-81.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I am an apple tree.",
+      "zh": "我是一棵苹果树。",
+      "practice": true,
+      "page": 48,
+      "file": "sentence-82.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "My new family help me.",
+      "zh": "我的新家人帮助我。",
+      "practice": true,
+      "page": 48,
+      "file": "sentence-83.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I need air, water and sun.",
+      "zh": "我需要空气、水和阳光。",
+      "practice": true,
+      "page": 48,
+      "file": "sentence-84.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "My family water me.",
+      "zh": "我的家人给我浇水。",
+      "practice": true,
+      "page": 48,
+      "file": "sentence-85.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It is cold. They help me.",
+      "zh": "天冷了。他们帮助我。",
+      "practice": true,
+      "page": 48,
+      "file": "sentence-86.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "My family like me.",
+      "zh": "我的家人喜欢我。",
+      "practice": true,
+      "page": 49,
+      "file": "sentence-87.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I love fresh air.",
+      "zh": "我喜欢新鲜空气。",
+      "practice": true,
+      "page": 49,
+      "file": "sentence-88.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "The flowers are so beautiful!",
+      "zh": "这些花真漂亮！",
+      "practice": true,
+      "page": 49,
+      "file": "sentence-89.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I am big now.",
+      "zh": "我现在长大了。",
+      "practice": true,
+      "page": 49,
+      "file": "sentence-90.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I give apples to my family.",
+      "zh": "我把苹果送给我的家人。",
+      "practice": true,
+      "page": 49,
+      "file": "sentence-91.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We are all happy!",
+      "zh": "我们都很开心！",
+      "practice": true,
+      "page": 49,
+      "file": "sentence-92.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We need plants to live.",
+      "zh": "我们的生活需要植物。",
+      "practice": true,
+      "page": 49,
+      "file": "sentence-93.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We can help plants grow.",
+      "zh": "我们能帮助植物生长。",
+      "practice": true,
+      "page": 49,
+      "file": "sentence-94.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "groups": [
+    {
+      "title": "导入思考与植物歌谣",
+      "note": "第 39 页 · 谷歌原速朗读",
+      "clips": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "A · 水果与农场对话",
+      "note": "第 40 页 · 谷歌原速朗读",
+      "clips": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "A · 水果与歌谣",
+      "note": "第 41 页 · 谷歌原速朗读",
+      "clips": [
+        18,
+        14,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "title": "字母 M—P 与示例单词",
+      "note": "第 42 页 · 字母名称和例词，非独立音素示范",
+      "clips": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "title": "书写字母复读",
+      "note": "第 42 页 · 字母名称，非独立音素",
+      "clips": [
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "title": "B · 帮助植物",
+      "note": "第 43 页 · 谷歌原速朗读",
+      "clips": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ]
+    },
+    {
+      "title": "B · 植物生长需要什么",
+      "note": "第 44 页 · 谷歌原速朗读",
+      "clips": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ]
+    },
+    {
+      "title": "阅读 · 植物与我们互相帮助",
+      "note": "第 45 页 · 谷歌原速朗读",
+      "clips": [
+        64,
+        65,
+        59,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "title": "阅读页 · 词汇复习",
+      "note": "第 45 页 · 谷歌原速朗读",
+      "clips": [
+        22,
+        20,
+        23,
+        21,
+        54,
+        53,
+        55,
+        56,
+        58,
+        74
+      ]
+    },
+    {
+      "title": "项目 · 果树需要与给予",
+      "note": "第 46 页 · 谷歌原速朗读",
+      "clips": [
+        75,
+        50,
+        76,
+        54,
+        22,
+        20,
+        23,
+        21,
+        77,
+        53,
+        55,
+        78
+      ]
+    },
+    {
+      "title": "项目 · 介绍纸花园",
+      "note": "第 47 页 · 谷歌原速朗读",
+      "clips": [
+        79,
+        80,
+        72,
+        81
+      ]
+    },
+    {
+      "title": "阅读时光 · 苹果树（上）",
+      "note": "第 48 页 · 谷歌原速朗读",
+      "clips": [
+        82,
+        83,
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "title": "阅读时光 · 苹果树（下）",
+      "note": "第 49 页 · 谷歌原速朗读",
+      "clips": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ]
+    }
+  ],
+  "wordSource": "书后第 84 页 · Words in each unit · Unit 4",
+  "expressions": [
+    {
+      "en": "Mike, do you like apples?",
+      "zh": "迈克，你喜欢苹果吗？",
+      "page": 90,
+      "id": "unit4-key-01",
+      "file": "sentence-12.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Yes, I do. And you?",
+      "zh": "是的，我喜欢。你呢？",
+      "page": 90,
+      "id": "unit4-key-02",
+      "file": "sentence-13.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "No, I don't.",
+      "zh": "不，我不喜欢。",
+      "page": 90,
+      "id": "unit4-key-03",
+      "file": "key-03.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Do you like the farm?",
+      "zh": "你们喜欢农场吗？",
+      "page": 90,
+      "id": "unit4-key-04",
+      "file": "sentence-15.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like fresh air.",
+      "zh": "我喜欢新鲜空气。",
+      "page": 90,
+      "id": "unit4-key-05",
+      "file": "sentence-17.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We can plant new trees.",
+      "zh": "我们可以种些树。",
+      "page": 90,
+      "id": "unit4-key-06",
+      "file": "sentence-49.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "They help plants grow.",
+      "zh": "它们帮助植物生长。",
+      "page": 90,
+      "id": "unit4-key-07",
+      "file": "sentence-66.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Plants can give us many things.",
+      "zh": "植物可以给我们很多东西。",
+      "page": 90,
+      "id": "unit4-key-08",
+      "file": "sentence-67.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "songs": [
+    {
+      "id": "unit4-song-1",
+      "title": "Plants and us",
+      "zh": "植物与我们",
+      "pages": [
+        79
+      ],
+      "lyricsStatus": "awaiting-user-pages",
+      "lines": []
+    }
+  ],
+  "unit": 4
+}

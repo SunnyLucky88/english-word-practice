@@ -1,11 +1,17 @@
-# Pronunciation audio
+# 音频目录与来源规则
 
-- Each lesson owns `audio/YYYY-MM-DD-topic/libby-vN/*.mp3`. Its current directory is declared in `courses.json` as `audioDirectory`.
-- First lesson: `2026-10-22-family/libby-v1/*.mp3`.
-- British English only: Microsoft `en-GB-LibbyNeural`, rate -15%, generated with `edge-tts`.
-- Register the lesson in `courses.json`, then generate missing clips with `scripts/generate-british-audio.py <lesson.html>` after installing `edge-tts`. Existing clips are reused only within the same lesson and version.
-- Do not share clips across lessons. Use a new version directory when changing a lesson's voice; remove unused versions during cleanup, after checking all course references.
+新课程使用用户已确认的 **Google Translate 英语原速合成音频**。不再生成 Libby，不混入教材原声，也不保证谷歌音频为英式口音。教材中的英式音标可以作为参考。
 
-These are synthesized practice clips, not recordings from the school textbook.
-Clips are served as static files from this repository. Visitors do not
-need a system text-to-speech voice or a connection to a speech generation API.
+- 按课保存：`audio/YYYY-MM-DD-topic/google-v1/`，每课由 `courses.json → audioDirectory` 指定当前版本。
+- `sources.json` 记录 `file`、`text`、`source`、`sha256`；实际送入生成的文字与显示不同则补充 `spokenText`，例如 Z 读 zed。
+- 只保存一套原速音频。0.75、0.85、1.0、1.15 是播放倍速，不另建慢速文件。
+- 不跨课共用音频路径。同课常用表达优先复用文字一致的既有句子音频；删除前检查词汇、课文、表达、歌曲和点读的全部引用。
+- 更换某课声音时新建 `google-v2` 等版本，同步更新目录和 `AUDIO_BASE`，避免旧缓存。
+- 正式页面播放本站静态音频，访客不需要安装系统 TTS 声音或在手机上调用 Google 生成接口。
+- 解码、音量和哈希检查用于发现坏文件或错误引用，不能保证发音已逐条人工确认。
+
+历史测试课 `test.html` 仍引用 `2026-10-22-family/libby-v1/`；它已从首页隐藏，原地址与资源保留。`scripts/generate-british-audio.py` 是历史工具，不用于新课。
+
+当前正式六单元音频分别为 51、93、120、114、104、119 个文件，共 601 个，已按课迁入本目录。上一版本前两单元的 44、92 个文件是历史数量。字母课另有 26 条 MP3 和一条完整跟读 WAV；隐藏测试课另保留历史 19 词录音。
+
+分类与复用细节见[数据分类与目录划分](../docs/数据分类与目录划分.md)，正式发布按 [PUBLISHING.md](../PUBLISHING.md)。

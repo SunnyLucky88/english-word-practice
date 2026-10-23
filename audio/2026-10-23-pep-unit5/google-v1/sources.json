@@ -1,0 +1,626 @@
+[
+  {
+    "file": "colour.mp3",
+    "text": "colour",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=colour&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "2daad1d48b886a4e250227a0a1740b21e6db845ad6c984a6dcf5fcfea6c89ae9"
+  },
+  {
+    "file": "orange.mp3",
+    "text": "orange",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=orange&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8f14ff97c09149fbf5c8d2e0a129ca4195ff8118d7aaa63fdeb936342574f903"
+  },
+  {
+    "file": "green.mp3",
+    "text": "green",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=green&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3d254ecc7a7c1a613e6cb0015da9f4bbcb5cdb726249917e722850e2f1ba831f"
+  },
+  {
+    "file": "red.mp3",
+    "text": "red",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=red&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b7ff9b930d0741dc318831d9e816469ecb2dc07d983160b065e3394993257e74"
+  },
+  {
+    "file": "blue.mp3",
+    "text": "blue",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=blue&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c1c6caf00d5a5659189ab37c7ef17274e341770119a967f6230e48ba97c05a84"
+  },
+  {
+    "file": "make.mp3",
+    "text": "make",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=make&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "7ff6286fe02d26dd68daa67fd5f23276255987c2c8f5767d63b5eecd6e47321a"
+  },
+  {
+    "file": "purple.mp3",
+    "text": "purple",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=purple&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "db7c8abbfbd2baa6aa57d5e7689e6a124ac35c2232c89bfcf30b5b56015063b9"
+  },
+  {
+    "file": "brown.mp3",
+    "text": "brown",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=brown&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "800c0fa4ef7f1dc6d20dbb8793f4117570e434c755d29b6f80f2061eaa8ebfa2"
+  },
+  {
+    "file": "bear.mp3",
+    "text": "bear",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bear&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "120c498c1e7fc8b1c0474d1fe0b7459166e2435d978ab989313f9b3f25f1421b"
+  },
+  {
+    "file": "yellow.mp3",
+    "text": "yellow",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yellow&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1288865d1b9616344b02a197d54efc17789a651482094072938879bb0902ac6f"
+  },
+  {
+    "file": "duck.mp3",
+    "text": "duck",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=duck&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "e3b2d8e01be6a96bfc30828a8340e116258ff70a1e44a64e510da4e4fee18d9b"
+  },
+  {
+    "file": "sea.mp3",
+    "text": "sea",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=sea&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "83923d084ce40a39a9abd9e5e6d53f15f0be48ce95c74d60c00c169234fd001a"
+  },
+  {
+    "file": "pink.mp3",
+    "text": "pink",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=pink&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "ea20f6139bb380d5ebb8f094d559f273cc7d7fd2e60ed9bf6d2c419920934b9a"
+  },
+  {
+    "file": "draw.mp3",
+    "text": "draw",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=draw&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a1fa3cd23fe68592eaf928c0a988dfc8d113c05ea4d1001bf6f5de406a3c895a"
+  },
+  {
+    "file": "white.mp3",
+    "text": "white",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=white&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "de106ec895dd91833873e45d6930cfae4368f04aa46e570701db168640d412bd"
+  },
+  {
+    "file": "black.mp3",
+    "text": "black",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=black&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f2463bcc060351e75a98a572bc6bf5f5b30e6a96638e3dd3573e377c4cba4f65"
+  },
+  {
+    "file": "sentence-01.mp3",
+    "text": "What colours do you see?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+colours+do+you+see%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "10e17fde5ccffbda47aecc6223ff63ebb52322b6fba82d6a6a552d2d694ec06e"
+  },
+  {
+    "file": "sentence-02.mp3",
+    "text": "What colours do you like?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+colours+do+you+like%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "12f95827fbc3852808b12a46343e6af2e9d29797f4ba14fddd544ae6ec2ebf34"
+  },
+  {
+    "file": "sentence-03.mp3",
+    "text": "The sun is orange.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=The+sun+is+orange.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "63779e72646cb64d523d50f7997ab5e0b9bd2c95d9ff587c7eabedba5759a275"
+  },
+  {
+    "file": "sentence-04.mp3",
+    "text": "Grass is green.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Grass+is+green.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a8cc5c94df56a14c75363e971d915d5c80623f8102620d40a839ec78149c3b06"
+  },
+  {
+    "file": "sentence-05.mp3",
+    "text": "What about the sky and sea?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+about+the+sky+and+sea%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "aeaa57e164506e2213327f4656fa3ce6c34ec310fe05ae04b17dbad7a12e3e59"
+  },
+  {
+    "file": "sentence-06.mp3",
+    "text": "Roses are red.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Roses+are+red.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "44f6d4815e32cc672102bf5a182a980d4501f602f9b6aa5572e329fa5bd040ca"
+  },
+  {
+    "file": "sentence-07.mp3",
+    "text": "Snow is white.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Snow+is+white.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "465793dbf9354bdf2aecb288f328ade5c61a27c57ee335d8ddc34df6930196c8"
+  },
+  {
+    "file": "sentence-08.mp3",
+    "text": "Please, please tell me why!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Please%2C+please+tell+me+why%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "bb5dbd9dcc9900f9db54a8e0db5571ca581b48b2407be2c77c73c6f0ffcd6492"
+  },
+  {
+    "file": "sentence-09.mp3",
+    "text": "Colour song",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Colour+song&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "6c69acca0a8abddf0058321664baa7a49db4dbdbd517c83d0337fbb427027f53"
+  },
+  {
+    "file": "sentence-10.mp3",
+    "text": "What colour is it?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+colour+is+it%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a88ee2ebf1f91b5536e01d32c9249922d308c52f7ec88b8763dcf1ba6f7479da"
+  },
+  {
+    "file": "sentence-11.mp3",
+    "text": "It's orange.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+orange.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c1f5262cb5d74b1c2492f4427050b4f7ceda78238ef480e8c9c697b64dbb9010"
+  },
+  {
+    "file": "sentence-12.mp3",
+    "text": "It's green.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+green.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "94c8d15631a719cd942c2c115c1e4de71e25573f188e9509b964fed84f7e5330"
+  },
+  {
+    "file": "sentence-13.mp3",
+    "text": "Look! Red and blue make purple.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%21+Red+and+blue+make+purple.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "e8cbccb192e2e5eb0009ed4d95a1f0208fd5c409260b99f13817c909589138c6"
+  },
+  {
+    "file": "sentence-14.mp3",
+    "text": "Wow!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wow%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "713fbebffb7e53aa9aed34094b4e9017fb11542dd61ea19b804b4efa4059d625"
+  },
+  {
+    "file": "sentence-15.mp3",
+    "text": "Wow! Blue and yellow make green.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wow%21+Blue+and+yellow+make+green.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "fd8b0ebe4da175e74cc4486d6477b7d6a5497c6323a0b6db0a5cebce3ffb69ba"
+  },
+  {
+    "file": "sentence-16.mp3",
+    "text": "a brown bear",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=a+brown+bear&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d7c0d88df4cc417c2c7261e630839178dc7fa5beee3524f058e62c9829149e1c"
+  },
+  {
+    "file": "sentence-17.mp3",
+    "text": "a yellow duck",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=a+yellow+duck&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "09a39ece5281a140e21dc5f1ff812c32b25445d1b472cf3e57af722faacea6e7"
+  },
+  {
+    "file": "sentence-18.mp3",
+    "text": "a purple flower",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=a+purple+flower&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "075bd33734940a6088e210d2831038f7c8127cb7a5432e7273f9294058dc9709"
+  },
+  {
+    "file": "sentence-19.mp3",
+    "text": "green grass",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=green+grass&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "6fdc1849955294e048d57bc8034be938808dfaaaa788c8d62b712e23e3e9a058"
+  },
+  {
+    "file": "sentence-20.mp3",
+    "text": "blue sea",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=blue+sea&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b402ce1753bf9c59317a92b1a054fd8ffab114fbdd7b52aa225c6b51ebbcdb59"
+  },
+  {
+    "file": "sentence-21.mp3",
+    "text": "The world is colourful!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=The+world+is+colourful%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d012e82d62778864cb53f46c7340f51661958657e7285dc7301aedd701fb9a9e"
+  },
+  {
+    "file": "sentence-22.mp3",
+    "text": "I see colours here and there.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+see+colours+here+and+there.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "761132694bf84159a1d182d7ba8f07805e2620152a50b2ba2ee3841c7a8538b9"
+  },
+  {
+    "file": "sentence-23.mp3",
+    "text": "Purple flowers, green grass and blue sea.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Purple+flowers%2C+green+grass+and+blue+sea.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a17cdcffe06e17dfe4f434c3677e0e6cd47d4a924e0d2e13f5872e521a92c699"
+  },
+  {
+    "file": "sentence-24.mp3",
+    "text": "A big brown bear. What else can you see?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=A+big+brown+bear.+What+else+can+you+see%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "312d773d5c1ac4f557a88c79366e058f513b30ec1de53264752978f1051cd409"
+  },
+  {
+    "file": "sentence-25.mp3",
+    "text": "Q",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Q&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "4a77ae1a48c3d2c336ad8db23e45efbe7590f2e95a3e880b98ae3e482dec09be"
+  },
+  {
+    "file": "sentence-26.mp3",
+    "text": "R",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=R&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "189a7017fd923c7adb576dd08d03b5b312c95a5f6bcb5d3e2af52fa00beb768e"
+  },
+  {
+    "file": "sentence-27.mp3",
+    "text": "S",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=S&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "079488c6c457ad2115196beb6f663c21fbcafabc9a7d32284f90a388903ac8c7"
+  },
+  {
+    "file": "sentence-28.mp3",
+    "text": "T",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=T&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "27d3419f70db69951943b1a935acd1825a1daa5cce8f3607457fc72f8547eb4b"
+  },
+  {
+    "file": "sentence-29.mp3",
+    "text": "U",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=U&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5abbe004ce6e4a97e7de50a059118cd2b3a88899682ce31cd1964c05839c66b1"
+  },
+  {
+    "file": "sentence-30.mp3",
+    "text": "quiet",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=quiet&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "70736d6d32aadfd0a9b4543ff0f2a660c112e665f5c7f2c7ba24936076642f1c"
+  },
+  {
+    "file": "sentence-31.mp3",
+    "text": "queen",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=queen&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d36d256ca2a04e9e23a4960aee49d78015f191e2e126cf485ff13f29f471228e"
+  },
+  {
+    "file": "sentence-32.mp3",
+    "text": "red",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=red&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b7ff9b930d0741dc318831d9e816469ecb2dc07d983160b065e3394993257e74"
+  },
+  {
+    "file": "sentence-33.mp3",
+    "text": "ruler",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=ruler&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "787b11d69b2188512b89c5d2e5712564636a31c0f23a2fd54a4d0a67c8014517"
+  },
+  {
+    "file": "sentence-34.mp3",
+    "text": "see",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=see&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "0014a0856ab69c5317fbcb7c625ad7a520e7157d8d3a2777f302d3fad8ffb9ee"
+  },
+  {
+    "file": "sentence-35.mp3",
+    "text": "bus",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bus&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "0ac591a1acefa474e176f5f4413498f1406c20f3fe0edf137df51a23733c1841"
+  },
+  {
+    "file": "sentence-36.mp3",
+    "text": "Ted",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Ted&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d389e21cc51a0ce40d6b3bf2bbb1a84106daa85f7d2d8c6ca2d22b9fe30b018b"
+  },
+  {
+    "file": "sentence-37.mp3",
+    "text": "sit",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=sit&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9ae3927313e09d1861e6046aa56ce29170ca669e622a9dc3936976e21edfbe70"
+  },
+  {
+    "file": "sentence-38.mp3",
+    "text": "up",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=up&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "acdda4074e5815ae24b2a824ddf8260fb124911c1058c236a459c7066d98b42d"
+  },
+  {
+    "file": "sentence-39.mp3",
+    "text": "run",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=run&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d28236202791d09ea302c6ff042d28af3398dfe1bc747f40600eafcffbdc8235"
+  },
+  {
+    "file": "sentence-40.mp3",
+    "text": "cut",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cut&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "168e9359893e047f13058735b33ad2c69e728f9e301a7dbe363485d2e8f937f6"
+  },
+  {
+    "file": "sentence-41.mp3",
+    "text": "quit",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=quit&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "69ed6b834b7fa1f0ab52d783c7605aa9b6a4275e05082ef7910bd883247120ab"
+  },
+  {
+    "file": "sentence-42.mp3",
+    "text": "rot",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=rot&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "0700fea3fa53a3f1e775478c7a0b8cbc19f7137d987df7f242c2b6c599bee468"
+  },
+  {
+    "file": "sentence-43.mp3",
+    "text": "set",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=set&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "524892c9cbd68eaace80b59dba298a90f865a2cec186da6f35279c54eab2a22b"
+  },
+  {
+    "file": "sentence-44.mp3",
+    "text": "tap",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tap&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "7827124e5fbc7529677f65a134314ea0f33d93244f9add424f08a86af03b5b8b"
+  },
+  {
+    "file": "sentence-45.mp3",
+    "text": "tub",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tub&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1a105303a9e96d4c237c60c9a398585eeeef2cc2d1ca41e037bf2970e01b8568"
+  },
+  {
+    "file": "sentence-46.mp3",
+    "text": "I like red and pink.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+red+and+pink.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d5a3045704e674c8cbb6a70c485b9342392c67193e392c6317715382738ae6d9"
+  },
+  {
+    "file": "sentence-47.mp3",
+    "text": "OK. Let's draw some red and pink flowers.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=OK.+Let%27s+draw+some+red+and+pink+flowers.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a880a6a63ad2aa3f57e85348709a0fc2c2f7b94cf35a7d535130ec4a64b6f17d"
+  },
+  {
+    "file": "sentence-48.mp3",
+    "text": "And the birds?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=And+the+birds%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "ec678d4a895388c332bcc7879325e45495469b98d46355a5572f498116280295"
+  },
+  {
+    "file": "sentence-49.mp3",
+    "text": "Let's draw some purple and brown birds.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Let%27s+draw+some+purple+and+brown+birds.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9f8da3701899d27948000a3387dc3c4b0962ff94c41eb55c05530f2203cb8a42"
+  },
+  {
+    "file": "sentence-50.mp3",
+    "text": "I like green and yellow.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+green+and+yellow.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "cdd74891e4ce0c791439f42a18f4e370a75cf1f5e6eacf2d115c0a80bd3bbb49"
+  },
+  {
+    "file": "sentence-51.mp3",
+    "text": "Colours are useful!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Colours+are+useful%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "47d44a550198ab87e93a0aee0040c9abc054fb25d213f665b6ec9e728d0ac2e3"
+  },
+  {
+    "file": "sentence-52.mp3",
+    "text": "pink",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=pink&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "ea20f6139bb380d5ebb8f094d559f273cc7d7fd2e60ed9bf6d2c419920934b9a"
+  },
+  {
+    "file": "sentence-53.mp3",
+    "text": "orange",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=orange&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8f14ff97c09149fbf5c8d2e0a129ca4195ff8118d7aaa63fdeb936342574f903"
+  },
+  {
+    "file": "sentence-54.mp3",
+    "text": "white",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=white&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "de106ec895dd91833873e45d6930cfae4368f04aa46e570701db168640d412bd"
+  },
+  {
+    "file": "sentence-55.mp3",
+    "text": "black",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=black&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f2463bcc060351e75a98a572bc6bf5f5b30e6a96638e3dd3573e377c4cba4f65"
+  },
+  {
+    "file": "sentence-56.mp3",
+    "text": "Black, black, sit down.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Black%2C+black%2C+sit+down.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "db875d20c7b4e69c7b904c4bfb1650bce673cd7850ea899150dbee9f1ede5b96"
+  },
+  {
+    "file": "sentence-57.mp3",
+    "text": "White, white, turn around.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=White%2C+white%2C+turn+around.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "4e35d00bf58f702952f739abc6c2f95be82a080ad64a50a0398725aa9763c0bf"
+  },
+  {
+    "file": "sentence-58.mp3",
+    "text": "Pink and red, touch the ground.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Pink+and+red%2C+touch+the+ground.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c1fe52dacdbb66ac3aebd7dc90cbfa0f16ed2029c6eb0ffa334ddd63622bf570"
+  },
+  {
+    "file": "sentence-59.mp3",
+    "text": "Orange and red, jump up and down.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Orange+and+red%2C+jump+up+and+down.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "bb1b7919538eeeaeb9460420b3a272eb872c416db56cb373f86998dacdc71577"
+  },
+  {
+    "file": "sentence-60.mp3",
+    "text": "Colours can talk!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Colours+can+talk%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "22907083341491e211c3b666563fcabf9a8ceb6e68e2a9a38b3e71cd6c64dc4d"
+  },
+  {
+    "file": "sentence-61.mp3",
+    "text": "It's red. Red can say \"No!\"",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+red.+Red+can+say+%22No%21%22&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5a455152d1b930ccf1e0a5b5d1d03c7865bc5d1fd70d7c5f0fefe8ef4d6c8c73"
+  },
+  {
+    "file": "sentence-62.mp3",
+    "text": "It's green. Green can say \"Go!\"",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+green.+Green+can+say+%22Go%21%22&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "97cef2c5fba3bbe555d604d305942ba4715ca8301d99454684026aa39eabfde0"
+  },
+  {
+    "file": "sentence-63.mp3",
+    "text": "It's blue. Blue can say \"Use again!\"",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+blue.+Blue+can+say+%22Use+again%21%22&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "07b45c81c953e14d2c23f1d80a2361ad7b2ba2da5260a0f939b8afe7d3cd4029"
+  },
+  {
+    "file": "sentence-64.mp3",
+    "text": "It's yellow. Yellow can say \"Be careful!\"",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+yellow.+Yellow+can+say+%22Be+careful%21%22&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8fbb2aa1f3c8c5559ddd966def5bd44dd166cbf5a1bd795b3fdc5389c7750aa6"
+  },
+  {
+    "file": "sentence-65.mp3",
+    "text": "blue",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=blue&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c1c6caf00d5a5659189ab37c7ef17274e341770119a967f6230e48ba97c05a84"
+  },
+  {
+    "file": "sentence-66.mp3",
+    "text": "brown",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=brown&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "800c0fa4ef7f1dc6d20dbb8793f4117570e434c755d29b6f80f2061eaa8ebfa2"
+  },
+  {
+    "file": "sentence-67.mp3",
+    "text": "green",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=green&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3d254ecc7a7c1a613e6cb0015da9f4bbcb5cdb726249917e722850e2f1ba831f"
+  },
+  {
+    "file": "sentence-68.mp3",
+    "text": "purple",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=purple&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "db7c8abbfbd2baa6aa57d5e7689e6a124ac35c2232c89bfcf30b5b56015063b9"
+  },
+  {
+    "file": "sentence-69.mp3",
+    "text": "yellow",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yellow&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1288865d1b9616344b02a197d54efc17789a651482094072938879bb0902ac6f"
+  },
+  {
+    "file": "sentence-70.mp3",
+    "text": "What colours do you like, Sarah?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+colours+do+you+like%2C+Sarah%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3a3cb31d4b1c6d4a4910473754e215ec7891f776020b5ded06f019f9f69e34da"
+  },
+  {
+    "file": "sentence-71.mp3",
+    "text": "I like yellow, red and blue.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+yellow%2C+red+and+blue.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3accc842d54f03312c31fe3c5013526f7044e5c1fb2f80e1594da434e5ac8f89"
+  },
+  {
+    "file": "sentence-72.mp3",
+    "text": "This is my book.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+is+my+book.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "2a7fbdcf7a055174c5fda38db7ee9c8b1363b5943bf91219ec7aa1f1b54914ff"
+  },
+  {
+    "file": "sentence-73.mp3",
+    "text": "Bananas are yellow.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Bananas+are+yellow.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "35088f5e2d7d3933d979e90b1b3d439d54bb73020340746b3829065633f1224c"
+  },
+  {
+    "file": "sentence-74.mp3",
+    "text": "Ducks are ...",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Ducks+are+...&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9865e0970c291617138a143250c9d3b5d0ed9ea569ffcd25e64c09cabfea9b48"
+  },
+  {
+    "file": "sentence-75.mp3",
+    "text": "I am a sunflower. I am tall and green.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+a+sunflower.+I+am+tall+and+green.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c0b44f230b0006cc9c764af4a0ab7ac0cf8f51eb61509ae310d07c06aa0c843f"
+  },
+  {
+    "file": "sentence-76.mp3",
+    "text": "Then I am green and yellow.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Then+I+am+green+and+yellow.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "fb906cd34fdd3460de3fd51212eb35bffc6b65d59df582caa6848ee45c386ee0"
+  },
+  {
+    "file": "sentence-77.mp3",
+    "text": "Now I am a big yellow flower.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Now+I+am+a+big+yellow+flower.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "7eb50e06f0d0bbfd14b4f09fb3911b35c5d99c93152a441bd27dfb6f9523155d"
+  },
+  {
+    "file": "sentence-78.mp3",
+    "text": "Bees come.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Bees+come.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "4f73b172951c22303b8d5f9ef95b22f87f01cea924eb700132f0ea618bf6a50f"
+  },
+  {
+    "file": "sentence-79.mp3",
+    "text": "They are yellow and black.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=They+are+yellow+and+black.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "927854b7a69338a5246b9ebf5e6a048a1a5763a9b558d3d1f5f9eaf399fa0eab"
+  },
+  {
+    "file": "sentence-80.mp3",
+    "text": "I give them food.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+give+them+food.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9b045739f539f714caa393d6828fc440967f5eaac593b9db388599fc273459f1"
+  },
+  {
+    "file": "sentence-81.mp3",
+    "text": "Now it is cold. I am green and brown.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Now+it+is+cold.+I+am+green+and+brown.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "ea921d728a1af15cdbdc4e581016033aace2de13f648023721b8cfb76674cb7e"
+  },
+  {
+    "file": "sentence-82.mp3",
+    "text": "I am gone. But my children grow.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+gone.+But+my+children+grow.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9fbda771aebc545df652659f234a2162a2f48a55a38192f130166bc0cf86750f"
+  },
+  {
+    "file": "sentence-83.mp3",
+    "text": "Colours are everywhere.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Colours+are+everywhere.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "78224fb4a5a7127603b65cacbc0651456d2ced8f44f608b7f63b17f95e2d00e7"
+  },
+  {
+    "file": "sentence-84.mp3",
+    "text": "Colours are beautiful.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Colours+are+beautiful.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f54814078976860963474470ae7221bd83d189cc71bfc10b025b8cffe69b4e2d"
+  },
+  {
+    "file": "sentence-85.mp3",
+    "text": "Colours help us and tell us many things.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Colours+help+us+and+tell+us+many+things.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "dc5399baa4abd1ff0f4b0fb778166fa1b8fcdfa514427f02d9e0b40fa14b6e64"
+  },
+  {
+    "file": "key-03.mp3",
+    "text": "Red and blue make purple.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Red+and+blue+make+purple.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "821d603279857aeb661adcf4920047f96db3a1ab29165e78dde269801def2eb2"
+  },
+  {
+    "file": "key-07.mp3",
+    "text": "Use again!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Use+again%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "71bfbb124a98e76979eb51f32f9eac5a2b2187e1043627b05286656b298d9763"
+  },
+  {
+    "file": "key-08.mp3",
+    "text": "Be careful!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Be+careful%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a85d21f7e433c038fe57d1c7dac8397bdd110feac8d475b162afd4296c57a61c"
+  }
+]

@@ -1,0 +1,924 @@
+{
+  "words": [
+    {
+      "en": "mum",
+      "zh": "妈妈",
+      "ipa": "/mʌm/",
+      "page": 16,
+      "file": "mum.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "dad",
+      "zh": "爸爸",
+      "ipa": "/dæd/",
+      "page": 16,
+      "file": "dad.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "grandma",
+      "zh": "奶奶；外婆",
+      "ipa": "/ˈɡrænmɑː/",
+      "page": 16,
+      "file": "grandma.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "grandpa",
+      "zh": "爷爷；外公",
+      "ipa": "/ˈɡrænpɑː/",
+      "page": 16,
+      "file": "grandpa.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "grandfather",
+      "zh": "祖父；外祖父",
+      "ipa": "/ˈɡrænfɑːðə(r)/",
+      "page": 17,
+      "file": "grandfather.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "grandmother",
+      "zh": "祖母；外祖母",
+      "ipa": "/ˈɡrænmʌðə(r)/",
+      "page": 17,
+      "file": "grandmother.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "mother",
+      "zh": "母亲；妈妈",
+      "ipa": "/ˈmʌðə(r)/",
+      "page": 17,
+      "file": "mother.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "father",
+      "zh": "父亲；爸爸",
+      "ipa": "/ˈfɑːðə(r)/",
+      "page": 17,
+      "file": "father.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "me",
+      "zh": "我",
+      "ipa": "/miː/",
+      "page": 17,
+      "file": "me.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "sister",
+      "zh": "姐姐；妹妹",
+      "ipa": "/ˈsɪstə(r)/",
+      "page": 17,
+      "file": "sister.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "family",
+      "zh": "家；家庭",
+      "ipa": "/ˈfæməli/",
+      "page": 17,
+      "file": "family.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "have",
+      "zh": "有",
+      "ipa": "/hæv/",
+      "page": 19,
+      "file": "have.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "big",
+      "zh": "大的",
+      "ipa": "/bɪɡ/",
+      "page": 19,
+      "file": "big.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "cousin",
+      "zh": "堂（表）兄弟姐妹",
+      "ipa": "/ˈkʌzn/",
+      "page": 19,
+      "file": "cousin.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "brother",
+      "zh": "哥哥；弟弟",
+      "ipa": "/ˈbrʌðə(r)/",
+      "page": 19,
+      "file": "brother.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "baby",
+      "zh": "婴儿",
+      "ipa": "/ˈbeɪbi/",
+      "page": 20,
+      "file": "baby.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "uncle",
+      "zh": "伯父；叔父；舅父；姑父；姨父",
+      "ipa": "/ˈʌŋkl/",
+      "page": 20,
+      "file": "uncle.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "aunt",
+      "zh": "伯母；婶母；舅母；姑妈；姨妈",
+      "ipa": "/ɑːnt/",
+      "page": 20,
+      "file": "aunt.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "some",
+      "zh": "一些",
+      "ipa": "/səm, sʌm/",
+      "page": 21,
+      "file": "some.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "small",
+      "zh": "小的",
+      "ipa": "/smɔːl/",
+      "page": 21,
+      "file": "small.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This is my grandma.",
+      "zh": "这是我的奶奶／外婆。",
+      "page": 16,
+      "file": "sentence-01.mp3",
+      "practice": true
+    },
+    {
+      "en": "This is my grandpa.",
+      "zh": "这是我的爷爷／外公。",
+      "page": 16,
+      "file": "sentence-02.mp3",
+      "practice": true
+    },
+    {
+      "en": "Nice to meet you.",
+      "zh": "很高兴认识你。",
+      "page": 16,
+      "file": "sentence-03.mp3",
+      "practice": true
+    },
+    {
+      "en": "This is my family.",
+      "zh": "这是我的家人。",
+      "page": 17,
+      "file": "sentence-04.mp3",
+      "practice": true
+    },
+    {
+      "en": "You have a big family.",
+      "zh": "你有一个大家庭。",
+      "page": 19,
+      "file": "sentence-05.mp3",
+      "practice": false
+    },
+    {
+      "en": "Is this your sister?",
+      "zh": "这是你的姐姐／妹妹吗？",
+      "page": 19,
+      "file": "sentence-06.mp3",
+      "practice": true
+    },
+    {
+      "en": "No, it's my cousin.",
+      "zh": "不是，这是我的堂／表兄弟姐妹。",
+      "page": 19,
+      "file": "sentence-07.mp3",
+      "practice": true
+    },
+    {
+      "en": "Is that your brother?",
+      "zh": "那是你的哥哥／弟弟吗？",
+      "page": 19,
+      "file": "sentence-08.mp3",
+      "practice": true
+    },
+    {
+      "en": "Yes, it is.",
+      "zh": "是的。",
+      "page": 19,
+      "file": "sentence-09.mp3",
+      "practice": true
+    },
+    {
+      "en": "My family is big.",
+      "zh": "我有一个大家庭。",
+      "page": 20,
+      "file": "sentence-10.mp3",
+      "practice": true
+    },
+    {
+      "en": "Mum! Dad! This is my friend, Sarah Miller.",
+      "zh": "妈妈！爸爸！这是我的朋友萨拉·米勒。",
+      "page": 16,
+      "file": "sentence-11.mp3",
+      "practice": true
+    },
+    {
+      "en": "Hi, Sarah.",
+      "zh": "你好，萨拉。",
+      "page": 16,
+      "file": "sentence-12.mp3",
+      "practice": true
+    },
+    {
+      "en": "Hi, I'm Chen Jie.",
+      "zh": "你好，我是陈杰。",
+      "page": 17,
+      "file": "sentence-13.mp3",
+      "practice": true
+    },
+    {
+      "en": "Look!",
+      "zh": "看！",
+      "page": 17,
+      "file": "sentence-14.mp3",
+      "practice": true
+    },
+    {
+      "en": "This is my ...",
+      "zh": "这是我的……（接家人称呼）。",
+      "page": 17,
+      "file": "sentence-15.mp3",
+      "practice": true
+    },
+    {
+      "en": "This is my mum.",
+      "zh": "这是我的妈妈。",
+      "page": 17,
+      "file": "sentence-16.mp3",
+      "practice": true
+    },
+    {
+      "en": "Hello, hello, hello!",
+      "zh": "你好，你好，你好！",
+      "page": 17,
+      "file": "sentence-17.mp3",
+      "practice": true
+    },
+    {
+      "en": "This is my dad.",
+      "zh": "这是我的爸爸。",
+      "page": 17,
+      "file": "sentence-18.mp3",
+      "practice": true
+    },
+    {
+      "en": "Hi, hi, hi!",
+      "zh": "嗨，嗨，嗨！",
+      "page": 17,
+      "file": "sentence-19.mp3",
+      "practice": true
+    },
+    {
+      "en": "This is my sister.",
+      "zh": "这是我的姐姐／妹妹。",
+      "page": 17,
+      "file": "sentence-20.mp3",
+      "practice": true
+    },
+    {
+      "en": "How are you?",
+      "zh": "你好吗？",
+      "page": 17,
+      "file": "sentence-21.mp3",
+      "practice": true
+    },
+    {
+      "en": "How do you do?",
+      "zh": "你好。（初次见面的问候）",
+      "page": 17,
+      "file": "sentence-22.mp3",
+      "practice": true
+    },
+    {
+      "en": "Why are the people together?",
+      "zh": "这些人为什么聚在一起？",
+      "page": 15,
+      "file": "sentence-23.mp3",
+      "practice": true
+    },
+    {
+      "en": "How are families different?",
+      "zh": "不同的家庭有什么不同？",
+      "page": 15,
+      "file": "sentence-24.mp3",
+      "practice": true
+    },
+    {
+      "en": "We are a family,",
+      "zh": "我们是一家人，",
+      "page": 15,
+      "file": "sentence-25.mp3",
+      "practice": true
+    },
+    {
+      "en": "A happy family,",
+      "zh": "一个幸福的家庭，",
+      "page": 15,
+      "file": "sentence-26.mp3",
+      "practice": true
+    },
+    {
+      "en": "My father, my mother,",
+      "zh": "我的爸爸，我的妈妈，",
+      "page": 15,
+      "file": "sentence-27.mp3",
+      "practice": true
+    },
+    {
+      "en": "My sister and me!",
+      "zh": "我的姐姐／妹妹和我！",
+      "page": 15,
+      "file": "sentence-28.mp3",
+      "practice": true
+    },
+    {
+      "en": "My family",
+      "zh": "我的家庭",
+      "page": 15,
+      "file": "sentence-29.mp3",
+      "practice": true
+    },
+    {
+      "en": "Daddy Finger, Daddy Finger, where are you?",
+      "zh": "爸爸手指，爸爸手指，你在哪里？",
+      "page": 16,
+      "file": "sentence-30.mp3",
+      "practice": true
+    },
+    {
+      "en": "E",
+      "zh": "字母 E（名称音）",
+      "page": 18,
+      "file": "sentence-31.mp3",
+      "practice": false
+    },
+    {
+      "en": "F",
+      "zh": "字母 F（名称音）",
+      "page": 18,
+      "file": "sentence-32.mp3",
+      "practice": false
+    },
+    {
+      "en": "G",
+      "zh": "字母 G（名称音）",
+      "page": 18,
+      "file": "sentence-33.mp3",
+      "practice": false
+    },
+    {
+      "en": "H",
+      "zh": "字母 H（名称音）",
+      "page": 18,
+      "file": "sentence-34.mp3",
+      "practice": false
+    },
+    {
+      "en": "egg",
+      "zh": "鸡蛋",
+      "page": 18,
+      "file": "sentence-35.mp3",
+      "practice": false
+    },
+    {
+      "en": "nest",
+      "zh": "鸟巢",
+      "page": 18,
+      "file": "sentence-36.mp3",
+      "practice": false
+    },
+    {
+      "en": "fish",
+      "zh": "鱼",
+      "page": 18,
+      "file": "sentence-37.mp3",
+      "practice": false
+    },
+    {
+      "en": "beef",
+      "zh": "牛肉",
+      "page": 18,
+      "file": "sentence-38.mp3",
+      "practice": false
+    },
+    {
+      "en": "girl",
+      "zh": "女孩",
+      "page": 18,
+      "file": "sentence-39.mp3",
+      "practice": false
+    },
+    {
+      "en": "pig",
+      "zh": "猪",
+      "page": 18,
+      "file": "sentence-40.mp3",
+      "practice": false
+    },
+    {
+      "en": "hot",
+      "zh": "热的",
+      "page": 18,
+      "file": "sentence-41.mp3",
+      "practice": false
+    },
+    {
+      "en": "hat",
+      "zh": "帽子",
+      "page": 18,
+      "file": "sentence-42.mp3",
+      "practice": false
+    },
+    {
+      "en": "fed",
+      "zh": "喂养（过去式）",
+      "page": 18,
+      "file": "sentence-43.mp3",
+      "practice": false
+    },
+    {
+      "en": "gab",
+      "zh": "闲聊",
+      "page": 18,
+      "file": "sentence-44.mp3",
+      "practice": false
+    },
+    {
+      "en": "had",
+      "zh": "有（过去式）",
+      "page": 18,
+      "file": "sentence-45.mp3",
+      "practice": false
+    },
+    {
+      "en": "Sarah, you have a big family.",
+      "zh": "萨拉，你有一个大家庭。",
+      "page": 19,
+      "file": "sentence-46.mp3",
+      "practice": true
+    },
+    {
+      "en": "Is this your brother?",
+      "zh": "这是你的哥哥／弟弟吗？",
+      "page": 19,
+      "file": "sentence-47.mp3",
+      "practice": true
+    },
+    {
+      "en": "baby sister",
+      "zh": "年幼的妹妹",
+      "page": 20,
+      "file": "sentence-48.mp3",
+      "practice": true
+    },
+    {
+      "en": "I have a brother, a baby sister, a cousin ...",
+      "zh": "我有哥哥／弟弟、年幼的妹妹、堂／表兄弟姐妹……",
+      "page": 20,
+      "file": "sentence-49.mp3",
+      "practice": true
+    },
+    {
+      "en": "I have an uncle.",
+      "zh": "我有一位叔叔／伯伯／舅舅／姑父／姨父。",
+      "page": 20,
+      "file": "sentence-50.mp3",
+      "practice": true
+    },
+    {
+      "en": "I have an aunt.",
+      "zh": "我有一位姑妈／姨妈／伯母／婶婶／舅母。",
+      "page": 20,
+      "file": "sentence-51.mp3",
+      "practice": true
+    },
+    {
+      "en": "I have two cousins too.",
+      "zh": "我还有两位堂／表兄弟姐妹。",
+      "page": 20,
+      "file": "sentence-52.mp3",
+      "practice": true
+    },
+    {
+      "en": "I have a brother,",
+      "zh": "我有一个哥哥／弟弟，",
+      "page": 20,
+      "file": "sentence-53.mp3",
+      "practice": true
+    },
+    {
+      "en": "And a baby sister.",
+      "zh": "还有一个年幼的妹妹。",
+      "page": 20,
+      "file": "sentence-54.mp3",
+      "practice": true
+    },
+    {
+      "en": "They can play with me.",
+      "zh": "他们可以和我一起玩。",
+      "page": 20,
+      "file": "sentence-55.mp3",
+      "practice": true
+    },
+    {
+      "en": "And this is my dad.",
+      "zh": "这是我的爸爸。",
+      "page": 21,
+      "file": "sentence-56.mp3",
+      "practice": true
+    },
+    {
+      "en": "Some families are small.",
+      "zh": "有些家庭人数少。",
+      "page": 21,
+      "file": "sentence-57.mp3",
+      "practice": true
+    },
+    {
+      "en": "Some are big.",
+      "zh": "有些家庭人数多。",
+      "page": 21,
+      "file": "sentence-58.mp3",
+      "practice": true
+    },
+    {
+      "en": "Families are different, but family love is the same.",
+      "zh": "家庭各不相同，但家人的爱是一样的。",
+      "page": 21,
+      "file": "sentence-59.mp3",
+      "practice": true
+    },
+    {
+      "en": "This is my family tree.",
+      "zh": "这是我的家谱。",
+      "page": 23,
+      "file": "sentence-60.mp3",
+      "practice": true
+    },
+    {
+      "en": "I play with my brother.",
+      "zh": "我和哥哥／弟弟一起玩。",
+      "page": 24,
+      "file": "sentence-61.mp3",
+      "practice": true
+    },
+    {
+      "en": "We share.",
+      "zh": "我们一起分享。",
+      "page": 24,
+      "file": "sentence-62.mp3",
+      "practice": true
+    },
+    {
+      "en": "We listen with care.",
+      "zh": "我们认真倾听。",
+      "page": 24,
+      "file": "sentence-63.mp3",
+      "practice": true
+    },
+    {
+      "en": "I have a small family.",
+      "zh": "我有一个小家庭。",
+      "page": 24,
+      "file": "sentence-64.mp3",
+      "practice": true
+    },
+    {
+      "en": "I love my small family.",
+      "zh": "我爱我的小家庭。",
+      "page": 24,
+      "file": "sentence-65.mp3",
+      "practice": true
+    },
+    {
+      "en": "I play with my brothers.",
+      "zh": "我和兄弟们一起玩。",
+      "page": 25,
+      "file": "sentence-66.mp3",
+      "practice": true
+    },
+    {
+      "en": "I share with my sisters.",
+      "zh": "我和姐妹们一起分享。",
+      "page": 25,
+      "file": "sentence-67.mp3",
+      "practice": true
+    },
+    {
+      "en": "I talk with my cousins.",
+      "zh": "我和堂／表兄弟姐妹们交谈。",
+      "page": 25,
+      "file": "sentence-68.mp3",
+      "practice": true
+    },
+    {
+      "en": "I have a big family.",
+      "zh": "我有一个大家庭。",
+      "page": 25,
+      "file": "sentence-69.mp3",
+      "practice": true
+    },
+    {
+      "en": "I love my big family.",
+      "zh": "我爱我的大家庭。",
+      "page": 25,
+      "file": "sentence-70.mp3",
+      "practice": true
+    },
+    {
+      "en": "Families can be big or small.",
+      "zh": "家庭人数可以多，也可以少。",
+      "page": 25,
+      "file": "sentence-71.mp3",
+      "practice": true
+    },
+    {
+      "en": "Family members love each other.",
+      "zh": "家人彼此相爱。",
+      "page": 25,
+      "file": "sentence-72.mp3",
+      "practice": true
+    }
+  ],
+  "groups": [
+    {
+      "title": "导入思考",
+      "note": "第 15 页 · 看图思考",
+      "clips": [
+        23,
+        24
+      ]
+    },
+    {
+      "title": "我们是一家人",
+      "note": "第 15 页 · 歌谣文字 · 谷歌原速朗读",
+      "clips": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "title": "A · 介绍朋友和家人",
+      "note": "第 16 页 · 人物对话",
+      "clips": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "手指歌文字",
+      "note": "第 16 页 · 页面显示的歌词 · 朗读版",
+      "clips": [
+        30
+      ]
+    },
+    {
+      "title": "介绍我的家庭",
+      "note": "第 17 页 · 介绍表达",
+      "clips": [
+        13,
+        14,
+        4,
+        15
+      ]
+    },
+    {
+      "title": "家人问候歌谣",
+      "note": "第 17 页 · 谷歌原速朗读",
+      "clips": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        1,
+        3,
+        2,
+        22
+      ]
+    },
+    {
+      "title": "字母 E—H 与例词",
+      "note": "第 18 页 · 字母名称、单词 · 字母名称与拼读音不同",
+      "clips": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "title": "书写字母复读",
+      "note": "第 18 页 · 字母名称，非独立音素",
+      "clips": [
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "title": "B · 询问家庭成员",
+      "note": "第 19 页 · 完整对话及问答",
+      "clips": [
+        46,
+        6,
+        7,
+        8,
+        9,
+        47,
+        7
+      ]
+    },
+    {
+      "title": "介绍大家庭",
+      "note": "第 20 页 · 词组和介绍",
+      "clips": [
+        48,
+        10,
+        49
+      ]
+    },
+    {
+      "title": "家人一起玩",
+      "note": "第 20 页 · 歌谣文字 · 原速朗读",
+      "clips": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "title": "不同的家庭，一样的爱",
+      "note": "第 21 页 · 阅读与问答",
+      "clips": [
+        16,
+        56,
+        10,
+        57,
+        58,
+        59,
+        6,
+        9,
+        15
+      ]
+    },
+    {
+      "title": "介绍家谱",
+      "note": "第 23 页 · 项目示范表达",
+      "clips": [
+        60,
+        15
+      ]
+    },
+    {
+      "title": "阅读 · 我的小家庭",
+      "note": "第 24 页 · 家庭诗 · 逐句朗读",
+      "clips": [
+        4,
+        61,
+        62,
+        63,
+        64,
+        65
+      ]
+    },
+    {
+      "title": "阅读 · 我的大家庭",
+      "note": "第 25 页 · 家庭诗及单元总结 · 逐句朗读",
+      "clips": [
+        4,
+        66,
+        67,
+        68,
+        63,
+        69,
+        70,
+        71,
+        72
+      ]
+    }
+  ],
+  "wordSource": {
+    "page": 83,
+    "section": "Words in each unit · Unit 2",
+    "url": "https://www.sohu.com/a/904139600_121290829"
+  },
+  "pageRange": [
+    14,
+    25
+  ],
+  "expressions": [
+    {
+      "en": "This is my grandma.",
+      "zh": "这是我的奶奶。",
+      "page": 89,
+      "id": "unit2-key-01",
+      "file": "sentence-01.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Look! This is my family.",
+      "zh": "看！这是我的家庭。",
+      "page": 89,
+      "id": "unit2-key-02",
+      "file": "key-02.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Is that your brother?",
+      "zh": "那是你弟弟吗？",
+      "page": 89,
+      "id": "unit2-key-03",
+      "file": "sentence-08.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Yes, it is.",
+      "zh": "对，是的。",
+      "page": 89,
+      "id": "unit2-key-04",
+      "file": "sentence-09.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Families are different, but family love is the same.",
+      "zh": "家庭之间是不同的，但家人之爱是相同的。",
+      "page": 89,
+      "id": "unit2-key-05",
+      "file": "sentence-59.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "songs": [
+    {
+      "id": "unit2-song-1",
+      "title": "My family",
+      "zh": "我的家庭",
+      "pages": [
+        78
+      ],
+      "lyricsStatus": "awaiting-user-pages",
+      "lines": []
+    },
+    {
+      "id": "unit2-song-2",
+      "title": "Finger family song",
+      "zh": "手指家庭歌",
+      "pages": [
+        78
+      ],
+      "lyricsStatus": "awaiting-user-pages",
+      "lines": []
+    }
+  ],
+  "unit": 2
+}

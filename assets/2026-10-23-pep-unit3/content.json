@@ -1,0 +1,1280 @@
+{
+  "words": [
+    {
+      "en": "like",
+      "zh": "喜欢",
+      "ipa": "/laɪk/",
+      "page": 28,
+      "file": "like.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "dog",
+      "zh": "狗",
+      "ipa": "/dɒɡ/",
+      "page": 28,
+      "file": "dog.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "pet",
+      "zh": "宠物",
+      "ipa": "/pet/",
+      "page": 28,
+      "file": "pet.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "cat",
+      "zh": "猫",
+      "ipa": "/kæt/",
+      "page": 28,
+      "file": "cat.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "fish",
+      "zh": "鱼；鱼肉",
+      "ipa": "/fɪʃ/",
+      "page": 29,
+      "file": "fish.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "bird",
+      "zh": "鸟",
+      "ipa": "/bɜːd/",
+      "page": 29,
+      "file": "bird.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "rabbit",
+      "zh": "兔",
+      "ipa": "/ˈræbɪt/",
+      "page": 29,
+      "file": "rabbit.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "go",
+      "zh": "去；走",
+      "ipa": "/ɡəʊ/",
+      "page": 31,
+      "file": "go.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "zoo",
+      "zh": "动物园",
+      "ipa": "/zuː/",
+      "page": 31,
+      "file": "zoo.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "fox",
+      "zh": "狐狸",
+      "ipa": "/fɒks/",
+      "page": 31,
+      "file": "fox.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Miss",
+      "zh": "老师；女士（对女教师的称呼）",
+      "ipa": "/mɪs/",
+      "page": 31,
+      "file": "miss.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "panda",
+      "zh": "大熊猫",
+      "ipa": "/ˈpændə/",
+      "page": 31,
+      "file": "panda.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "red panda",
+      "zh": "小熊猫",
+      "ipa": "/ˌred ˈpændə/",
+      "page": 31,
+      "file": "red-panda.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "cute",
+      "zh": "可爱的",
+      "ipa": "/kjuːt/",
+      "page": 31,
+      "file": "cute.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "monkey",
+      "zh": "猴子",
+      "ipa": "/ˈmʌŋki/",
+      "page": 32,
+      "file": "monkey.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "tiger",
+      "zh": "老虎",
+      "ipa": "/ˈtaɪɡə(r)/",
+      "page": 32,
+      "file": "tiger.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "elephant",
+      "zh": "大象",
+      "ipa": "/ˈelɪfənt/",
+      "page": 32,
+      "file": "elephant.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "lion",
+      "zh": "狮；狮子",
+      "ipa": "/ˈlaɪən/",
+      "page": 32,
+      "file": "lion.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "animal",
+      "zh": "动物",
+      "ipa": "/ˈænɪml/",
+      "page": 33,
+      "file": "animal.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "giraffe",
+      "zh": "长颈鹿",
+      "ipa": "/dʒəˈrɑːf/",
+      "page": 33,
+      "file": "giraffe.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "tall",
+      "zh": "高的",
+      "ipa": "/tɔːl/",
+      "page": 33,
+      "file": "tall.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "fast",
+      "zh": "快的",
+      "ipa": "/fɑːst/",
+      "page": 33,
+      "file": "fast.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Whose hands are these?",
+      "zh": "这些是谁的手？",
+      "practice": true,
+      "page": 27,
+      "file": "sentence-01.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What animals do you know?",
+      "zh": "你知道哪些动物？",
+      "practice": true,
+      "page": 27,
+      "file": "sentence-02.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "So many animals,",
+      "zh": "这么多动物，",
+      "practice": true,
+      "page": 27,
+      "file": "sentence-03.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Big, tall and small.",
+      "zh": "有大的、高的和小的。",
+      "practice": true,
+      "page": 27,
+      "file": "sentence-04.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Pets and wild animals,",
+      "zh": "宠物和野生动物，",
+      "practice": true,
+      "page": 27,
+      "file": "sentence-05.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We love them all.",
+      "zh": "我们都喜欢它们。",
+      "practice": true,
+      "page": 27,
+      "file": "sentence-06.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Animal song",
+      "zh": "动物歌",
+      "practice": true,
+      "page": 27,
+      "file": "sentence-07.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Good morning, Mike!",
+      "zh": "早上好，迈克！",
+      "practice": true,
+      "page": 28,
+      "file": "sentence-08.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Good morning! Come in.",
+      "zh": "早上好！请进。",
+      "practice": true,
+      "page": 28,
+      "file": "sentence-09.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like your dog.",
+      "zh": "我喜欢你的狗。",
+      "practice": true,
+      "page": 28,
+      "file": "sentence-10.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Thanks. Do you have a pet?",
+      "zh": "谢谢。你有宠物吗？",
+      "practice": true,
+      "page": 28,
+      "file": "sentence-11.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "No, I don't.",
+      "zh": "不，我没有。",
+      "practice": true,
+      "page": 28,
+      "file": "sentence-12.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Yes, I do. I have a cat.",
+      "zh": "是的，我有。我有一只猫。",
+      "practice": true,
+      "page": 28,
+      "file": "sentence-13.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Do you have a pet?",
+      "zh": "你有宠物吗？",
+      "practice": true,
+      "page": 28,
+      "file": "sentence-14.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Yes, I do. I have a dog.",
+      "zh": "是的，我有。我有一只狗。",
+      "practice": true,
+      "page": 28,
+      "file": "sentence-15.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like fish.",
+      "zh": "我喜欢鱼。",
+      "practice": true,
+      "page": 29,
+      "file": "sentence-16.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like cats.",
+      "zh": "我喜欢猫。",
+      "practice": true,
+      "page": 29,
+      "file": "sentence-17.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like birds.",
+      "zh": "我喜欢鸟。",
+      "practice": true,
+      "page": 29,
+      "file": "sentence-18.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like rabbits.",
+      "zh": "我喜欢兔子。",
+      "practice": true,
+      "page": 29,
+      "file": "sentence-19.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like my dog.",
+      "zh": "我喜欢我的狗。",
+      "practice": true,
+      "page": 29,
+      "file": "sentence-20.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Run, run, run like a dog.",
+      "zh": "跑一跑，像狗一样跑。",
+      "practice": true,
+      "page": 29,
+      "file": "sentence-21.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Sleep, sleep, sleep like a cat.",
+      "zh": "睡一睡，像猫一样睡。",
+      "practice": true,
+      "page": 29,
+      "file": "sentence-22.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Sing, sing, sing like a bird.",
+      "zh": "唱一唱，像鸟一样唱。",
+      "practice": true,
+      "page": 29,
+      "file": "sentence-23.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Hop, hop, hop like a rabbit.",
+      "zh": "跳一跳，像兔子一样跳。",
+      "practice": true,
+      "page": 29,
+      "file": "sentence-24.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Swim, swim, swim like a fish.",
+      "zh": "游一游，像鱼一样游。",
+      "practice": true,
+      "page": 29,
+      "file": "sentence-25.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I",
+      "zh": "字母 I（名称音）",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-26.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "J",
+      "zh": "字母 J（名称音）",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-27.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "K",
+      "zh": "字母 K（名称音）",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-28.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "L",
+      "zh": "字母 L（名称音）",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-29.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "ill",
+      "zh": "生病的",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-30.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "kid",
+      "zh": "小孩",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-31.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "job",
+      "zh": "工作",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-32.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "jet",
+      "zh": "喷气式飞机",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-33.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Kim",
+      "zh": "金姆（人名）",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-34.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "kite",
+      "zh": "风筝",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-35.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "leg",
+      "zh": "腿",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-36.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "lion",
+      "zh": "狮子",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-37.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "big",
+      "zh": "大的",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-38.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "dig",
+      "zh": "挖",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-39.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Jim",
+      "zh": "吉姆（人名）",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-40.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "lab",
+      "zh": "实验室",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-41.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "led",
+      "zh": "带领（过去式）",
+      "practice": false,
+      "page": 30,
+      "file": "sentence-42.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Let's go to the zoo!",
+      "zh": "我们去动物园吧！",
+      "practice": true,
+      "page": 31,
+      "file": "sentence-43.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Great!",
+      "zh": "太好了！",
+      "practice": true,
+      "page": 31,
+      "file": "sentence-44.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Look! What's this?",
+      "zh": "看！这是什么？",
+      "practice": true,
+      "page": 31,
+      "file": "sentence-45.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's a fox.",
+      "zh": "它是一只狐狸。",
+      "practice": true,
+      "page": 31,
+      "file": "sentence-46.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Miss White, what's that?",
+      "zh": "怀特老师，那是什么？",
+      "practice": true,
+      "page": 31,
+      "file": "sentence-47.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's a red panda.",
+      "zh": "它是一只小熊猫。",
+      "practice": true,
+      "page": 31,
+      "file": "sentence-48.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's cute!",
+      "zh": "它真可爱！",
+      "practice": true,
+      "page": 31,
+      "file": "sentence-49.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What's this?",
+      "zh": "这是什么？",
+      "practice": true,
+      "page": 31,
+      "file": "sentence-50.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's a panda.",
+      "zh": "它是一只大熊猫。",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-51.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's a monkey.",
+      "zh": "它是一只猴子。",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-52.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's a tiger.",
+      "zh": "它是一只老虎。",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-53.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's an elephant.",
+      "zh": "它是一头大象。",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-54.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's a lion.",
+      "zh": "它是一头狮子。",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-55.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What's this? It's an elephant.",
+      "zh": "这是什么？它是一头大象。",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-56.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What's this? It's a monkey.",
+      "zh": "这是什么？它是一只猴子。",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-57.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What's this? It's a panda.",
+      "zh": "这是什么？它是一只大熊猫。",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-58.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What's this? It's a lion!",
+      "zh": "这是什么？它是一头狮子！",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-59.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What's this? It's a tiger!",
+      "zh": "这是什么？它是一只老虎！",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-60.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Run!",
+      "zh": "跑！",
+      "practice": true,
+      "page": 32,
+      "file": "sentence-61.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "The giraffe is tall!",
+      "zh": "长颈鹿很高！",
+      "practice": true,
+      "page": 33,
+      "file": "sentence-62.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "The lion is fast!",
+      "zh": "狮子跑得很快！",
+      "practice": true,
+      "page": 33,
+      "file": "sentence-63.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "The elephant is big!",
+      "zh": "大象很大！",
+      "practice": true,
+      "page": 33,
+      "file": "sentence-64.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "The fish is small!",
+      "zh": "鱼很小！",
+      "practice": true,
+      "page": 33,
+      "file": "sentence-65.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like fish!",
+      "zh": "我喜欢鱼！",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-66.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "bird",
+      "zh": "鸟",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-67.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "cat",
+      "zh": "猫",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-68.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "dog",
+      "zh": "狗",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-69.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "elephant",
+      "zh": "大象",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-70.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "fish",
+      "zh": "鱼",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-71.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "giraffe",
+      "zh": "长颈鹿",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-72.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "monkey",
+      "zh": "猴子",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-73.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "panda",
+      "zh": "大熊猫",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-74.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "rabbit",
+      "zh": "兔子",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-75.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "tiger",
+      "zh": "老虎",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-76.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "small",
+      "zh": "小的",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-77.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "tall",
+      "zh": "高的",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-78.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "fast",
+      "zh": "快的",
+      "practice": false,
+      "page": 33,
+      "file": "sentence-79.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Pets",
+      "zh": "宠物",
+      "practice": false,
+      "page": 34,
+      "file": "sentence-80.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Wild animals",
+      "zh": "野生动物",
+      "practice": false,
+      "page": 34,
+      "file": "sentence-81.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Animals I like",
+      "zh": "我喜欢的动物",
+      "practice": false,
+      "page": 34,
+      "file": "sentence-82.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "This is my book.",
+      "zh": "这是我的书。",
+      "practice": true,
+      "page": 35,
+      "file": "sentence-83.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "This is a monkey.",
+      "zh": "这是一只猴子。",
+      "practice": true,
+      "page": 35,
+      "file": "sentence-84.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's cute.",
+      "zh": "它很可爱。",
+      "practice": true,
+      "page": 35,
+      "file": "sentence-85.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "This is an ...",
+      "zh": "这是一只……",
+      "practice": true,
+      "page": 35,
+      "file": "sentence-86.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Fish are amazing. Are we amazing, Mum?",
+      "zh": "鱼真神奇。妈妈，我们也神奇吗？",
+      "practice": true,
+      "page": 36,
+      "file": "sentence-87.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Yes. We're big.",
+      "zh": "是的。我们的体形很大。",
+      "practice": true,
+      "page": 36,
+      "file": "sentence-88.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "But whale sharks are big too.",
+      "zh": "但是鲸鲨的体形也很大。",
+      "practice": true,
+      "page": 36,
+      "file": "sentence-89.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We're fast.",
+      "zh": "我们游得很快。",
+      "practice": true,
+      "page": 36,
+      "file": "sentence-90.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "But squids are fast too.",
+      "zh": "但是鱿鱼游得也很快。",
+      "practice": true,
+      "page": 36,
+      "file": "sentence-91.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We can jump.",
+      "zh": "我们会跳。",
+      "practice": true,
+      "page": 37,
+      "file": "sentence-92.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "But sea lions can jump too.",
+      "zh": "但是海狮也会跳。",
+      "practice": true,
+      "page": 37,
+      "file": "sentence-93.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Aha! I know! We sing!",
+      "zh": "啊哈！我知道了！我们会唱歌！",
+      "practice": true,
+      "page": 37,
+      "file": "sentence-94.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "That's it! Our songs are special. That is amazing!",
+      "zh": "没错！我们的歌声很特别。这真神奇！",
+      "practice": true,
+      "page": 37,
+      "file": "sentence-95.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Some animals are wild. Some others live with us.",
+      "zh": "有些动物是野生的，有些和我们一起生活。",
+      "practice": true,
+      "page": 37,
+      "file": "sentence-96.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Animals can be big, small, fast or slow.",
+      "zh": "动物有大的、小的、快的和慢的。",
+      "practice": true,
+      "page": 37,
+      "file": "sentence-97.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "They are all special.",
+      "zh": "它们都很特别。",
+      "practice": true,
+      "page": 37,
+      "file": "sentence-98.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "groups": [
+    {
+      "title": "导入思考与动物歌谣",
+      "note": "第 27 页 · 谷歌原速朗读",
+      "clips": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "A · 宠物对话",
+      "note": "第 28 页 · 谷歌原速朗读",
+      "clips": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        12
+      ]
+    },
+    {
+      "title": "A · 我喜欢的宠物",
+      "note": "第 29 页 · 谷歌原速朗读",
+      "clips": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "字母 I—L 与示例单词",
+      "note": "第 30 页 · 字母名称和例词，非独立音素示范",
+      "clips": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "title": "书写字母复读",
+      "note": "第 30 页 · 字母名称，非独立音素",
+      "clips": [
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "title": "B · 认识野生动物",
+      "note": "第 31 页 · 谷歌原速朗读",
+      "clips": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        46
+      ]
+    },
+    {
+      "title": "B · 动物与歌谣",
+      "note": "第 32 页 · 谷歌原速朗读",
+      "clips": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ]
+    },
+    {
+      "title": "阅读 · 动物的特点",
+      "note": "第 33 页 · 谷歌原速朗读",
+      "clips": [
+        62,
+        63,
+        64,
+        65
+      ]
+    },
+    {
+      "title": "阅读页 · 词汇复习",
+      "note": "第 33 页 · 谷歌原速朗读",
+      "clips": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        37,
+        73,
+        74,
+        75,
+        76,
+        38,
+        77,
+        78,
+        79
+      ]
+    },
+    {
+      "title": "项目 · 动物分类词汇",
+      "note": "第 34 页 · 谷歌原速朗读",
+      "clips": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        37,
+        73,
+        74,
+        75,
+        76,
+        80,
+        68,
+        81,
+        74,
+        82,
+        68,
+        74
+      ]
+    },
+    {
+      "title": "项目 · 介绍动物图画书",
+      "note": "第 35 页 · 谷歌原速朗读",
+      "clips": [
+        83,
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "title": "图画书中的动物标签",
+      "note": "第 35 页 · 谷歌原速朗读",
+      "clips": [
+        76,
+        74
+      ]
+    },
+    {
+      "title": "阅读时光 · 神奇的鲸鱼（上）",
+      "note": "第 36 页 · 谷歌原速朗读",
+      "clips": [
+        87,
+        88,
+        89,
+        90,
+        91
+      ]
+    },
+    {
+      "title": "阅读时光 · 神奇的鲸鱼（下）",
+      "note": "第 37 页 · 谷歌原速朗读",
+      "clips": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ]
+    }
+  ],
+  "wordSource": "书后第 83—84 页 · Words in each unit · Unit 3",
+  "expressions": [
+    {
+      "en": "Good morning, Mike!",
+      "zh": "早上好，迈克！",
+      "page": 89,
+      "id": "unit3-key-01",
+      "file": "sentence-08.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Good morning! Come in.",
+      "zh": "早上好！进来吧。",
+      "page": 89,
+      "id": "unit3-key-02",
+      "file": "sentence-09.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Do you have a pet?",
+      "zh": "你有宠物吗？",
+      "page": 89,
+      "id": "unit3-key-03",
+      "file": "sentence-14.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "No, I don't.",
+      "zh": "不，我没有。",
+      "page": 89,
+      "id": "unit3-key-04",
+      "file": "sentence-12.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Yes, I do. I have a cat.",
+      "zh": "是的，我有。我有一只猫。",
+      "page": 89,
+      "id": "unit3-key-05",
+      "file": "sentence-13.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Let's go to the zoo!",
+      "zh": "我们一起去动物园吧！",
+      "page": 89,
+      "id": "unit3-key-06",
+      "file": "sentence-43.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Great!",
+      "zh": "太好了！",
+      "page": 89,
+      "id": "unit3-key-07",
+      "file": "sentence-44.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What's this?",
+      "zh": "这是什么？",
+      "page": 89,
+      "id": "unit3-key-08",
+      "file": "sentence-50.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's a fox.",
+      "zh": "是只狐狸。",
+      "page": 89,
+      "id": "unit3-key-09",
+      "file": "sentence-46.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Miss White, what's that?",
+      "zh": "怀特老师，那是什么？",
+      "page": 90,
+      "id": "unit3-key-10",
+      "file": "sentence-47.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's a red panda.",
+      "zh": "是只小熊猫。",
+      "page": 90,
+      "id": "unit3-key-11",
+      "file": "sentence-48.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "songs": [
+    {
+      "id": "unit3-song-1",
+      "title": "Animal song",
+      "zh": "动物歌",
+      "pages": [
+        78,
+        79
+      ],
+      "lyricsStatus": "awaiting-user-pages",
+      "lines": []
+    }
+  ],
+  "unit": 3
+}

@@ -1,12 +1,14 @@
-# Alphabet pronunciation
+# 字母课程音频
 
-`libby-v1/` contains only the approved Libby British English letter-name audio:
+当前正式课程使用 `google-v1/`，由 `courses.json` 的 `audioDirectory` 指定。旧 `libby-v1/` 是历史资源，不是当前声音，不再用于新音频制作。
 
-- `a.mp3` through `z.mp3`: individual letter names, voice `en-GB-LibbyNeural`, rate `-15%`. H is aitch; Z is zed. These are letter names, not phonics sounds.
-- `alphabet-reading.wav`: the approved 21.25-second unaccompanied reading. Original letter clips are trimmed at the ends and separated by short pauses, with longer pauses after G, P, S, V, and Z. No pitch shifting, time stretching, singing synthesis or music is applied.
-- `reading-cues.json`: start/end times for synchronizing the 26 letters and five text groups with the full recording.
-- `speech-text.json`: exact synthesis text used for the letter names, such as `ay`, `aitch`, and `zed`. The audio generator uses these overrides so that single letters are pronounced as names rather than interpreted as words.
+- `google-v1/a.mp3` 至 `z.mp3`：26 条谷歌原速字母名称音频，Z 使用 zed；不是独立音素示范。
+- `sources.json`：每条录音的文字、生成来源及 SHA-256。
+- `alphabet-reading.wav`：用这 26 条录音按顺序拼接、加入分组静音的完整跟读，时长 28.774 秒，无背景音乐，不变速。
+- `reading-source.json`：拼接说明、组成文件、完整音轨哈希、时长和跟读时序。
 
-The full recording is a reading exercise, not a song. Keep the approved voice
-and file contents when moving these assets. Use a new version directory for
-future audio changes so browser caches cannot retain a previous version.
+完整音轨是无伴奏朗读练习，不是演唱或教材原声。谷歌音频不保证为英式口音。播放器的倍速选择复用同一音轨，不另存慢速文件。
+
+后续换音使用新版本目录并同步课程引用。清理历史目录前先核对全部页面、目录和资源引用，不因整理文档自动删除音频。
+
+统一规则见[音频目录说明](../README.md)及[发布规则](../../PUBLISHING.md)。

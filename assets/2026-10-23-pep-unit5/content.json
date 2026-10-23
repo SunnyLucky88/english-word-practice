@@ -1,0 +1,1089 @@
+{
+  "words": [
+    {
+      "en": "colour",
+      "zh": "颜色",
+      "ipa": "/ˈkʌlə(r)/",
+      "page": 52,
+      "file": "colour.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "orange",
+      "zh": "橙红色；橙红色的",
+      "ipa": "/ˈɒrɪndʒ/",
+      "page": 52,
+      "file": "orange.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "green",
+      "zh": "绿色；绿色的",
+      "ipa": "/ɡriːn/",
+      "page": 52,
+      "file": "green.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "red",
+      "zh": "红色；红色的",
+      "ipa": "/red/",
+      "page": 52,
+      "file": "red.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "blue",
+      "zh": "蓝色；蓝色的",
+      "ipa": "/bluː/",
+      "page": 52,
+      "file": "blue.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "make",
+      "zh": "使出现；做",
+      "ipa": "/meɪk/",
+      "page": 52,
+      "file": "make.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "purple",
+      "zh": "紫色；紫色的",
+      "ipa": "/ˈpɜːpl/",
+      "page": 52,
+      "file": "purple.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "brown",
+      "zh": "棕色；棕色的",
+      "ipa": "/braʊn/",
+      "page": 53,
+      "file": "brown.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "bear",
+      "zh": "熊",
+      "ipa": "/beə(r)/",
+      "page": 53,
+      "file": "bear.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "yellow",
+      "zh": "黄色；黄色的",
+      "ipa": "/ˈjeləʊ/",
+      "page": 53,
+      "file": "yellow.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "duck",
+      "zh": "鸭",
+      "ipa": "/dʌk/",
+      "page": 53,
+      "file": "duck.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "sea",
+      "zh": "海；海洋",
+      "ipa": "/siː/",
+      "page": 53,
+      "file": "sea.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "pink",
+      "zh": "粉色；粉色的",
+      "ipa": "/pɪŋk/",
+      "page": 55,
+      "file": "pink.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "draw",
+      "zh": "画",
+      "ipa": "/drɔː/",
+      "page": 55,
+      "file": "draw.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "white",
+      "zh": "白色；白色的",
+      "ipa": "/waɪt/",
+      "page": 56,
+      "file": "white.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "black",
+      "zh": "黑色；黑色的",
+      "ipa": "/blæk/",
+      "page": 56,
+      "file": "black.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What colours do you see?",
+      "zh": "你看到了哪些颜色？",
+      "practice": true,
+      "page": 51,
+      "file": "sentence-01.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What colours do you like?",
+      "zh": "你喜欢哪些颜色？",
+      "practice": true,
+      "page": 51,
+      "file": "sentence-02.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "The sun is orange.",
+      "zh": "太阳是橙红色的。",
+      "practice": true,
+      "page": 51,
+      "file": "sentence-03.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Grass is green.",
+      "zh": "草是绿色的。",
+      "practice": true,
+      "page": 51,
+      "file": "sentence-04.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What about the sky and sea?",
+      "zh": "天空和大海是什么颜色呢？",
+      "practice": true,
+      "page": 51,
+      "file": "sentence-05.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Roses are red.",
+      "zh": "玫瑰是红色的。",
+      "practice": true,
+      "page": 51,
+      "file": "sentence-06.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Snow is white.",
+      "zh": "雪是白色的。",
+      "practice": true,
+      "page": 51,
+      "file": "sentence-07.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Please, please tell me why!",
+      "zh": "请告诉我为什么！",
+      "practice": true,
+      "page": 51,
+      "file": "sentence-08.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Colour song",
+      "zh": "颜色歌",
+      "practice": true,
+      "page": 51,
+      "file": "sentence-09.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What colour is it?",
+      "zh": "它是什么颜色的？",
+      "practice": true,
+      "page": 52,
+      "file": "sentence-10.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's orange.",
+      "zh": "它是橙红色的。",
+      "practice": true,
+      "page": 52,
+      "file": "sentence-11.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's green.",
+      "zh": "它是绿色的。",
+      "practice": true,
+      "page": 52,
+      "file": "sentence-12.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Look! Red and blue make purple.",
+      "zh": "看！红色和蓝色混合成紫色。",
+      "practice": true,
+      "page": 52,
+      "file": "sentence-13.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Wow!",
+      "zh": "哇！",
+      "practice": true,
+      "page": 52,
+      "file": "sentence-14.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Wow! Blue and yellow make green.",
+      "zh": "哇！蓝色和黄色混合成绿色。",
+      "practice": true,
+      "page": 52,
+      "file": "sentence-15.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "a brown bear",
+      "zh": "一只棕色的熊",
+      "practice": true,
+      "page": 53,
+      "file": "sentence-16.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "a yellow duck",
+      "zh": "一只黄色的鸭子",
+      "practice": true,
+      "page": 53,
+      "file": "sentence-17.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "a purple flower",
+      "zh": "一朵紫色的花",
+      "practice": true,
+      "page": 53,
+      "file": "sentence-18.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "green grass",
+      "zh": "绿色的草",
+      "practice": true,
+      "page": 53,
+      "file": "sentence-19.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "blue sea",
+      "zh": "蓝色的大海",
+      "practice": true,
+      "page": 53,
+      "file": "sentence-20.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "The world is colourful!",
+      "zh": "世界是五彩缤纷的！",
+      "practice": true,
+      "page": 53,
+      "file": "sentence-21.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I see colours here and there.",
+      "zh": "我到处都能看见色彩。",
+      "practice": true,
+      "page": 53,
+      "file": "sentence-22.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Purple flowers, green grass and blue sea.",
+      "zh": "紫色的花、绿色的草和蓝色的大海。",
+      "practice": true,
+      "page": 53,
+      "file": "sentence-23.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "A big brown bear. What else can you see?",
+      "zh": "一只大棕熊。你还能看到什么？",
+      "practice": true,
+      "page": 53,
+      "file": "sentence-24.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Q",
+      "zh": "字母 Q（名称音）",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-25.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "R",
+      "zh": "字母 R（名称音）",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-26.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "S",
+      "zh": "字母 S（名称音）",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-27.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "T",
+      "zh": "字母 T（名称音）",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-28.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "U",
+      "zh": "字母 U（名称音）",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-29.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "quiet",
+      "zh": "安静的",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-30.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "queen",
+      "zh": "女王",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-31.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "red",
+      "zh": "红色",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-32.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "ruler",
+      "zh": "尺子",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-33.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "see",
+      "zh": "看见",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-34.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "bus",
+      "zh": "公共汽车",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-35.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Ted",
+      "zh": "特德（人名）",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-36.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "sit",
+      "zh": "坐",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-37.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "up",
+      "zh": "向上",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-38.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "run",
+      "zh": "跑",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-39.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "cut",
+      "zh": "切",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-40.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "quit",
+      "zh": "停止；放弃",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-41.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "rot",
+      "zh": "腐烂",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-42.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "set",
+      "zh": "放置",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-43.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "tap",
+      "zh": "轻拍",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-44.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "tub",
+      "zh": "浴盆",
+      "practice": false,
+      "page": 54,
+      "file": "sentence-45.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like red and pink.",
+      "zh": "我喜欢红色和粉色。",
+      "practice": true,
+      "page": 55,
+      "file": "sentence-46.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "OK. Let's draw some red and pink flowers.",
+      "zh": "好的。我们画些红色和粉色的花吧。",
+      "practice": true,
+      "page": 55,
+      "file": "sentence-47.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "And the birds?",
+      "zh": "鸟儿呢？",
+      "practice": true,
+      "page": 55,
+      "file": "sentence-48.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Let's draw some purple and brown birds.",
+      "zh": "我们画些紫色和棕色的鸟吧。",
+      "practice": true,
+      "page": 55,
+      "file": "sentence-49.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like green and yellow.",
+      "zh": "我喜欢绿色和黄色。",
+      "practice": true,
+      "page": 55,
+      "file": "sentence-50.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Colours are useful!",
+      "zh": "颜色很有用！",
+      "practice": true,
+      "page": 56,
+      "file": "sentence-51.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "pink",
+      "zh": "粉色",
+      "practice": true,
+      "page": 56,
+      "file": "sentence-52.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "orange",
+      "zh": "橙红色",
+      "practice": true,
+      "page": 56,
+      "file": "sentence-53.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "white",
+      "zh": "白色",
+      "practice": true,
+      "page": 56,
+      "file": "sentence-54.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "black",
+      "zh": "黑色",
+      "practice": true,
+      "page": 56,
+      "file": "sentence-55.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Black, black, sit down.",
+      "zh": "黑色，黑色，坐下来。",
+      "practice": true,
+      "page": 56,
+      "file": "sentence-56.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "White, white, turn around.",
+      "zh": "白色，白色，转个圈。",
+      "practice": true,
+      "page": 56,
+      "file": "sentence-57.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Pink and red, touch the ground.",
+      "zh": "粉色和红色，摸摸地面。",
+      "practice": true,
+      "page": 56,
+      "file": "sentence-58.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Orange and red, jump up and down.",
+      "zh": "橙红色和红色，上下跳一跳。",
+      "practice": true,
+      "page": 56,
+      "file": "sentence-59.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Colours can talk!",
+      "zh": "颜色会说话！",
+      "practice": true,
+      "page": 57,
+      "file": "sentence-60.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's red. Red can say \"No!\"",
+      "zh": "这是红色。红色可以表示“不行！”",
+      "practice": true,
+      "page": 57,
+      "file": "sentence-61.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's green. Green can say \"Go!\"",
+      "zh": "这是绿色。绿色可以表示“通行！”",
+      "practice": true,
+      "page": 57,
+      "file": "sentence-62.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's blue. Blue can say \"Use again!\"",
+      "zh": "这是蓝色。蓝色可以表示“再次使用！”",
+      "practice": true,
+      "page": 57,
+      "file": "sentence-63.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's yellow. Yellow can say \"Be careful!\"",
+      "zh": "这是黄色。黄色可以表示“小心！”",
+      "practice": true,
+      "page": 57,
+      "file": "sentence-64.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "blue",
+      "zh": "蓝色",
+      "practice": false,
+      "page": 57,
+      "file": "sentence-65.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "brown",
+      "zh": "棕色",
+      "practice": false,
+      "page": 57,
+      "file": "sentence-66.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "green",
+      "zh": "绿色",
+      "practice": false,
+      "page": 57,
+      "file": "sentence-67.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "purple",
+      "zh": "紫色",
+      "practice": false,
+      "page": 57,
+      "file": "sentence-68.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "yellow",
+      "zh": "黄色",
+      "practice": false,
+      "page": 57,
+      "file": "sentence-69.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What colours do you like, Sarah?",
+      "zh": "萨拉，你喜欢哪些颜色？",
+      "practice": true,
+      "page": 59,
+      "file": "sentence-70.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like yellow, red and blue.",
+      "zh": "我喜欢黄色、红色和蓝色。",
+      "practice": true,
+      "page": 59,
+      "file": "sentence-71.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "This is my book.",
+      "zh": "这是我的书。",
+      "practice": true,
+      "page": 59,
+      "file": "sentence-72.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Bananas are yellow.",
+      "zh": "香蕉是黄色的。",
+      "practice": true,
+      "page": 59,
+      "file": "sentence-73.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Ducks are ...",
+      "zh": "鸭子是……颜色的。",
+      "practice": true,
+      "page": 59,
+      "file": "sentence-74.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I am a sunflower. I am tall and green.",
+      "zh": "我是一株向日葵。我很高，是绿色的。",
+      "practice": true,
+      "page": 60,
+      "file": "sentence-75.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Then I am green and yellow.",
+      "zh": "然后我变成了绿色和黄色。",
+      "practice": true,
+      "page": 60,
+      "file": "sentence-76.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Now I am a big yellow flower.",
+      "zh": "现在我是一朵大大的黄花。",
+      "practice": true,
+      "page": 60,
+      "file": "sentence-77.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Bees come.",
+      "zh": "蜜蜂来了。",
+      "practice": true,
+      "page": 60,
+      "file": "sentence-78.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "They are yellow and black.",
+      "zh": "它们是黄色和黑色相间的。",
+      "practice": true,
+      "page": 60,
+      "file": "sentence-79.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I give them food.",
+      "zh": "我给它们食物。",
+      "practice": true,
+      "page": 60,
+      "file": "sentence-80.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Now it is cold. I am green and brown.",
+      "zh": "现在天气冷了。我变成了绿色和棕色。",
+      "practice": true,
+      "page": 61,
+      "file": "sentence-81.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I am gone. But my children grow.",
+      "zh": "我凋谢了。但我的孩子们在生长。",
+      "practice": true,
+      "page": 61,
+      "file": "sentence-82.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Colours are everywhere.",
+      "zh": "颜色无处不在。",
+      "practice": true,
+      "page": 61,
+      "file": "sentence-83.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Colours are beautiful.",
+      "zh": "颜色很美。",
+      "practice": true,
+      "page": 61,
+      "file": "sentence-84.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Colours help us and tell us many things.",
+      "zh": "颜色帮助我们，告诉我们许多事情。",
+      "practice": true,
+      "page": 61,
+      "file": "sentence-85.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "groups": [
+    {
+      "title": "导入思考与颜色歌谣",
+      "note": "第 51 页 · 谷歌原速朗读",
+      "clips": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "A · 颜色与混色",
+      "note": "第 52 页 · 谷歌原速朗读",
+      "clips": [
+        10,
+        11,
+        10,
+        12,
+        13,
+        14,
+        10,
+        12,
+        15
+      ]
+    },
+    {
+      "title": "A · 缤纷世界与歌谣",
+      "note": "第 53 页 · 谷歌原速朗读",
+      "clips": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        22,
+        24
+      ]
+    },
+    {
+      "title": "字母 Q—U 与示例单词",
+      "note": "第 54 页 · 字母名称和例词，非独立音素示范",
+      "clips": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "title": "书写字母复读",
+      "note": "第 54 页 · 字母名称，非独立音素",
+      "clips": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "title": "B · 喜欢的颜色与绘画",
+      "note": "第 55 页 · 谷歌原速朗读",
+      "clips": [
+        2,
+        46,
+        47,
+        48,
+        49,
+        2,
+        50
+      ]
+    },
+    {
+      "title": "B · 颜色用途与动作",
+      "note": "第 56 页 · 谷歌原速朗读",
+      "clips": [
+        51,
+        52,
+        53,
+        32,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "title": "阅读 · 颜色会说话",
+      "note": "第 57 页 · 谷歌原速朗读",
+      "clips": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        10
+      ]
+    },
+    {
+      "title": "阅读页 · 颜色复习",
+      "note": "第 57 页 · 谷歌原速朗读",
+      "clips": [
+        55,
+        65,
+        66,
+        67,
+        53,
+        52,
+        68,
+        32,
+        54,
+        69
+      ]
+    },
+    {
+      "title": "项目 · 给事物添加颜色",
+      "note": "第 58 页 · 谷歌原速朗读",
+      "clips": [
+        10,
+        12,
+        55,
+        65,
+        66,
+        53,
+        52,
+        68,
+        32,
+        54,
+        69
+      ]
+    },
+    {
+      "title": "项目 · 介绍颜色翻翻书",
+      "note": "第 59 页 · 谷歌原速朗读",
+      "clips": [
+        70,
+        71,
+        72,
+        71,
+        73,
+        74
+      ]
+    },
+    {
+      "title": "阅读时光 · 向日葵（上）",
+      "note": "第 60 页 · 谷歌原速朗读",
+      "clips": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    {
+      "title": "阅读时光 · 向日葵（下）",
+      "note": "第 61 页 · 谷歌原速朗读",
+      "clips": [
+        81,
+        82,
+        83,
+        84,
+        85
+      ]
+    }
+  ],
+  "wordSource": "书后第 84 页 · Words in each unit · Unit 5",
+  "expressions": [
+    {
+      "en": "What colour is it?",
+      "zh": "它是什么颜色？",
+      "page": 90,
+      "id": "unit5-key-01",
+      "file": "sentence-10.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's orange.",
+      "zh": "它是橙红色的。",
+      "page": 90,
+      "id": "unit5-key-02",
+      "file": "sentence-11.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Red and blue make purple.",
+      "zh": "红色和蓝色混合成紫色。",
+      "page": 90,
+      "id": "unit5-key-03",
+      "file": "key-03.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What colours do you like?",
+      "zh": "你喜欢什么颜色？",
+      "page": 90,
+      "id": "unit5-key-04",
+      "file": "sentence-02.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like red and pink.",
+      "zh": "我喜欢红色和粉色。",
+      "page": 90,
+      "id": "unit5-key-05",
+      "file": "sentence-46.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Let's draw some purple and brown birds.",
+      "zh": "我们一起画一些紫色和棕色的鸟吧。",
+      "page": 90,
+      "id": "unit5-key-06",
+      "file": "sentence-49.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Use again!",
+      "zh": "再次利用！",
+      "page": 90,
+      "id": "unit5-key-07",
+      "file": "key-07.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Be careful!",
+      "zh": "小心！",
+      "page": 90,
+      "id": "unit5-key-08",
+      "file": "key-08.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "songs": [
+    {
+      "id": "unit5-song-1",
+      "title": "Colour song",
+      "zh": "颜色歌",
+      "pages": [
+        79
+      ],
+      "lyricsStatus": "awaiting-user-pages",
+      "lines": []
+    }
+  ],
+  "unit": 5
+}

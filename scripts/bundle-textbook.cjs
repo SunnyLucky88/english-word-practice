@@ -4,10 +4,18 @@ const fs = require('node:fs');
 const path = require('node:path');
 const vm = require('node:vm');
 const root = path.resolve(__dirname, '..');
-for (const unit of [1, 2]) {
-  const slug = `2026-10-23-pep-unit${unit}`;
-  const lesson = path.join(root, 'lessons', `${slug}.html`);
+const courses = JSON.parse(fs.readFileSync(path.join(root, 'courses.json'), 'utf8'));
+const app = fs.readFileSync(path.join(root, 'assets/pep-lesson-app.js'), 'utf8');
+for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d+\.html$/.test(c.href))) {
+  const slug = path.basename(course.href, '.html');
+  const lesson = path.join(root, course.href);
   let html = fs.readFileSync(lesson, 'utf8');
+  const content = JSON.parse(fs.readFileSync(path.join(root, 'assets', slug, 'content.json'), 'utf8'));
+  html = html.replace(/(<script type="application\/json" id="lesson-content">)[\s\S]*?(<\/script>)/, (_, a, b) => a + JSON.stringify(content).replace(/<\//g, '<\\/') + b);
+  const audioBase = path.posix.relative(path.posix.dirname(course.href), course.audioDirectory) + '/';
+  const lessonApp = app.replace('const AUDIO_BASE = "audio/google-v1/";', `const AUDIO_BASE = "${audioBase}";`);
+  new vm.Script(lessonApp);
+  html = html.replace(/<script id="lesson-controller">[\s\S]*?<\/script>/, () => `<script id="lesson-controller">\n${lessonApp}\n</script>`);
   let controller = fs.readFileSync(path.join(root, 'assets', slug, 'book.js'), 'utf8');
   const pages = JSON.parse(controller.match(/^const BOOK_PAGES = (.*);/m)[1]);
   for (const page of pages) {
@@ -27,5 +35,5 @@ for (const unit of [1, 2]) {
     html = html.replace(/<script src="[^\"]+\/book\.js"><\/script>/, () => inline);
   }
   fs.writeFileSync(lesson, html);
-  console.log(`Bundled Unit ${unit}: ${pages.length} textbook pages (${Math.round(Buffer.byteLength(html)/1024)} KB HTML).`);
+  console.log(`Bundled ${slug}: ${pages.length} textbook pages (${Math.round(Buffer.byteLength(html)/1024)} KB HTML).`);
 }

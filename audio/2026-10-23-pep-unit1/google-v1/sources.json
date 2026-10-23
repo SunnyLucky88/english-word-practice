@@ -262,5 +262,47 @@
     "text": "Mike Black",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Mike%20Black&tl=en&client=tw-ob&ttsspeed=1",
     "sha256": "bace68c3447f57406461aa226d9aba1b5c48f9a375ac5661ef39a8303cf911d1"
+  },
+  {
+    "file": "key-05.mp3",
+    "text": "Oh no!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Oh+no%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d7653027dac7721a9240a0f79fc2769279cfd1c1366c27a0e1ad4554daaf9293"
+  },
+  {
+    "file": "key-06.mp3",
+    "text": "It's OK, Chen Jie.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+OK%2C+Chen+Jie.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "0aa428dab12483b2fa01792cfd7dcb485c1d69d31b16cb0ca7e8f54bfc03ba50"
+  },
+  {
+    "file": "key-07.mp3",
+    "text": "Hey, Sarah! We can share.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hey%2C+Sarah%21+We+can+share.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f3b19860ae78fbe1e8c24e94923567726f95b3acf98c4fae94bab1cbda84e972"
+  },
+  {
+    "file": "key-08.mp3",
+    "text": "Thanks, Sarah.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thanks%2C+Sarah.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "ffa846e606b024c17119df9d48ceda9b45716a06157e27a89a7630273cf136df"
+  },
+  {
+    "file": "key-09.mp3",
+    "text": "Thank you, Chen Jie.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thank+you%2C+Chen+Jie.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "78647f645640423505f110a7b768e191f928a7024af4270206663d31f7d00c64"
+  },
+  {
+    "file": "key-10.mp3",
+    "text": "I listen with care.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+listen+with+care.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "6e35737c8ded1946cd3f7560411cbdd464eb0b36e19e2bd4932d59471fc9b63b"
+  },
+  {
+    "file": "key-11.mp3",
+    "text": "I am nice to my friends.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+nice+to+my+friends.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b3904a67605062c9c7f4b7853d7a85a29edf77422b54dfd8885a23294dac5290"
   }
 ]

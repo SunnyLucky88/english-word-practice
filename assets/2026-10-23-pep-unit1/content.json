@@ -1,0 +1,514 @@
+{
+  "words": [
+    {
+      "en": "name",
+      "zh": "名字",
+      "ipa": "/neɪm/",
+      "page": 4,
+      "file": "name.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "nice",
+      "zh": "令人愉快的；友好的",
+      "ipa": "/naɪs/",
+      "page": 4,
+      "file": "nice.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "ear",
+      "zh": "耳朵",
+      "ipa": "/ɪə(r)/",
+      "page": 5,
+      "file": "ear.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "hand",
+      "zh": "手",
+      "ipa": "/hænd/",
+      "page": 5,
+      "file": "hand.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "eye",
+      "zh": "眼睛",
+      "ipa": "/aɪ/",
+      "page": 5,
+      "file": "eye.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "mouth",
+      "zh": "嘴",
+      "ipa": "/maʊθ/",
+      "page": 5,
+      "file": "mouth.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "arm",
+      "zh": "胳膊",
+      "ipa": "/ɑːm/",
+      "page": 5,
+      "file": "arm.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "can",
+      "zh": "可以",
+      "ipa": "/kən, kæn/",
+      "page": 7,
+      "file": "can.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "share",
+      "zh": "分享",
+      "ipa": "/ʃeə(r)/",
+      "page": 7,
+      "file": "share.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "smile",
+      "zh": "微笑；笑",
+      "ipa": "/smaɪl/",
+      "page": 8,
+      "file": "smile.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "listen",
+      "zh": "听；倾听",
+      "ipa": "/ˈlɪsn/",
+      "page": 8,
+      "file": "listen.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "help",
+      "zh": "帮助",
+      "ipa": "/help/",
+      "page": 8,
+      "file": "help.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "say",
+      "zh": "说；讲",
+      "ipa": "/seɪ/",
+      "page": 9,
+      "file": "say.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "and",
+      "zh": "和；与",
+      "ipa": "/ənd, ænd/",
+      "page": 9,
+      "file": "and.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "goodbye",
+      "zh": "再见",
+      "ipa": "/ˌɡʊdˈbaɪ/",
+      "page": 9,
+      "file": "goodbye.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "toy",
+      "zh": "玩具",
+      "ipa": "/tɔɪ/",
+      "page": 9,
+      "file": "toy.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "friend",
+      "zh": "朋友",
+      "ipa": "/frend/",
+      "page": 9,
+      "file": "friend.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "good",
+      "zh": "好的",
+      "ipa": "/ɡʊd/",
+      "page": 9,
+      "file": "good.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Are they friends?",
+      "zh": "他们是朋友吗？",
+      "page": 3,
+      "file": "sentence-01.mp3",
+      "practice": true
+    },
+    {
+      "en": "What makes you a good friend?",
+      "zh": "怎样才能成为一个好朋友？",
+      "page": 3,
+      "file": "sentence-02.mp3",
+      "practice": true
+    },
+    {
+      "en": "Hello! Hello!",
+      "zh": "你好！你好！",
+      "page": 3,
+      "file": "sentence-03.mp3",
+      "practice": true
+    },
+    {
+      "en": "What's your name?",
+      "zh": "你叫什么名字？",
+      "page": 3,
+      "file": "sentence-04.mp3",
+      "practice": true
+    },
+    {
+      "en": "Nice to meet you.",
+      "zh": "很高兴认识你。",
+      "page": 3,
+      "file": "sentence-05.mp3",
+      "practice": true
+    },
+    {
+      "en": "Let's play a game!",
+      "zh": "我们来玩个游戏吧！",
+      "page": 3,
+      "file": "sentence-06.mp3",
+      "practice": true
+    },
+    {
+      "en": "Hello! I'm Mike Black.",
+      "zh": "你好！我是迈克·布莱克。",
+      "page": 4,
+      "file": "sentence-07.mp3",
+      "practice": true
+    },
+    {
+      "en": "Hi! My name is Wu Binbin.",
+      "zh": "嗨！我叫吴斌斌。",
+      "page": 4,
+      "file": "sentence-08.mp3",
+      "practice": true
+    },
+    {
+      "en": "Nice to meet you too.",
+      "zh": "我也很高兴认识你。",
+      "page": 4,
+      "file": "sentence-09.mp3",
+      "practice": true
+    },
+    {
+      "en": "Hello there!",
+      "zh": "你好呀！",
+      "page": 4,
+      "file": "sentence-10.mp3",
+      "practice": true
+    },
+    {
+      "en": "Let's be friends.",
+      "zh": "我们做朋友吧。",
+      "page": 4,
+      "file": "sentence-11.mp3",
+      "practice": true
+    },
+    {
+      "en": "My name is Sarah.",
+      "zh": "我叫萨拉。",
+      "page": 4,
+      "file": "sentence-12.mp3",
+      "practice": true
+    },
+    {
+      "en": "Let's shake hands.",
+      "zh": "我们握握手吧。",
+      "page": 4,
+      "file": "sentence-13.mp3",
+      "practice": true
+    },
+    {
+      "en": "I am John.",
+      "zh": "我是约翰。",
+      "page": 4,
+      "file": "sentence-14.mp3",
+      "practice": true
+    },
+    {
+      "en": "Hello! My name is Mike Black.",
+      "zh": "你好！我叫迈克·布莱克。",
+      "page": 5,
+      "file": "sentence-15.mp3",
+      "practice": true
+    },
+    {
+      "en": "Hi! I'm Sarah Miller.",
+      "zh": "嗨！我是萨拉·米勒。",
+      "page": 5,
+      "file": "sentence-16.mp3",
+      "practice": true
+    },
+    {
+      "en": "Wave your hand. Hello!",
+      "zh": "挥挥你的手。你好！",
+      "page": 5,
+      "file": "sentence-17.mp3",
+      "practice": true
+    },
+    {
+      "en": "Look into my eyes. Hi!",
+      "zh": "看着我的眼睛。嗨！",
+      "page": 5,
+      "file": "sentence-18.mp3",
+      "practice": true
+    },
+    {
+      "en": "Point to your ear. Listen!",
+      "zh": "指指你的耳朵。听！",
+      "page": 5,
+      "file": "sentence-19.mp3",
+      "practice": true
+    },
+    {
+      "en": "Point to your mouth. Smile!",
+      "zh": "指指你的嘴。笑一笑！",
+      "page": 5,
+      "file": "sentence-20.mp3",
+      "practice": true
+    },
+    {
+      "en": "Wave your arm. Bye!",
+      "zh": "挥挥你的手臂。再见！",
+      "page": 5,
+      "file": "sentence-21.mp3",
+      "practice": true
+    },
+    {
+      "en": "John Baker",
+      "zh": "约翰·贝克",
+      "page": 4,
+      "file": "sentence-22.mp3",
+      "practice": false
+    },
+    {
+      "en": "Wu Binbin",
+      "zh": "吴斌斌",
+      "page": 4,
+      "file": "sentence-23.mp3",
+      "practice": false
+    },
+    {
+      "en": "Chen Jie",
+      "zh": "陈杰",
+      "page": 4,
+      "file": "sentence-24.mp3",
+      "practice": false
+    },
+    {
+      "en": "Sarah Miller",
+      "zh": "萨拉·米勒",
+      "page": 4,
+      "file": "sentence-25.mp3",
+      "practice": false
+    },
+    {
+      "en": "Mike Black",
+      "zh": "迈克·布莱克",
+      "page": 4,
+      "file": "sentence-26.mp3",
+      "practice": false
+    }
+  ],
+  "groups": [
+    {
+      "title": "导入思考",
+      "note": "第 3 页 · 思考问题",
+      "clips": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "见面问候歌谣",
+      "note": "第 3 页 · 谷歌翻译原速 朗读版",
+      "clips": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "A · 认识新朋友",
+      "note": "第 4 页 · 人物对话",
+      "clips": [
+        7,
+        8,
+        5,
+        9
+      ]
+    },
+    {
+      "title": "交朋友的歌曲文字",
+      "note": "第 4 页 · 按课本顺序朗读，无伴奏",
+      "clips": [
+        10,
+        11,
+        12,
+        13,
+        5,
+        14,
+        3,
+        3
+      ]
+    },
+    {
+      "title": "认识人物姓名",
+      "note": "第 4 页 · 可点读，不放入中文回想练习",
+      "clips": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "title": "介绍自己",
+      "note": "第 5 页 · 自我介绍",
+      "clips": [
+        15,
+        16
+      ]
+    },
+    {
+      "title": "听一听，做一做",
+      "note": "第 5 页 · 动作表达",
+      "clips": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  ],
+  "wordSource": {
+    "page": 83,
+    "section": "Words in each unit · Unit 1",
+    "url": "https://www.sohu.com/a/904139600_121290829"
+  },
+  "expressions": [
+    {
+      "en": "Hello! I'm Mike Black.",
+      "zh": "你好！我是迈克·布莱克。",
+      "page": 89,
+      "id": "unit1-key-01",
+      "file": "sentence-07.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Hi! My name is Wu Binbin.",
+      "zh": "嗨！我叫吴斌斌。",
+      "page": 89,
+      "id": "unit1-key-02",
+      "file": "sentence-08.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Nice to meet you.",
+      "zh": "见到你很高兴。",
+      "page": 89,
+      "id": "unit1-key-03",
+      "file": "sentence-05.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Nice to meet you too.",
+      "zh": "见到你我也很高兴。",
+      "page": 89,
+      "id": "unit1-key-04",
+      "file": "sentence-09.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Oh no!",
+      "zh": "噢，不！",
+      "page": 89,
+      "id": "unit1-key-05",
+      "file": "key-05.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's OK, Chen Jie.",
+      "zh": "没关系，陈杰。",
+      "page": 89,
+      "id": "unit1-key-06",
+      "file": "key-06.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Hey, Sarah! We can share.",
+      "zh": "嘿，萨拉！我们可以分享。",
+      "page": 89,
+      "id": "unit1-key-07",
+      "file": "key-07.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Thanks, Sarah.",
+      "zh": "谢谢，萨拉。",
+      "page": 89,
+      "id": "unit1-key-08",
+      "file": "key-08.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Thank you, Chen Jie.",
+      "zh": "谢谢你，陈杰。",
+      "page": 89,
+      "id": "unit1-key-09",
+      "file": "key-09.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I listen with care.",
+      "zh": "我认真倾听。",
+      "page": 89,
+      "id": "unit1-key-10",
+      "file": "key-10.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I am nice to my friends.",
+      "zh": "我对我的朋友们很好。",
+      "page": 89,
+      "id": "unit1-key-11",
+      "file": "key-11.mp3",
+      "audioSource": "Google Translate"
+    }
+  ],
+  "songs": [
+    {
+      "id": "unit1-song-1",
+      "title": "Nice to meet you!",
+      "zh": "很高兴认识你",
+      "pages": [
+        78
+      ],
+      "lyricsStatus": "awaiting-user-pages",
+      "lines": []
+    }
+  ],
+  "unit": 1
+}

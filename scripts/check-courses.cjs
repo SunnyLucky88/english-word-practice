@@ -22,15 +22,16 @@ for (const course of courses) {
   const expected = path.posix.relative(path.posix.dirname(course.href), course.audioDirectory) + '/';
   assert.equal(base, expected, `Audio base mismatch: ${course.href}`);
   for (const word of words) {
-    const audio = path.join(root, course.audioDirectory, `${word}.mp3`);
+    const file = content ? content.words.find(item => item.en === word).file : `${word}.mp3`;
+    const audio = path.join(root, course.audioDirectory, file);
     assert.ok(fs.statSync(audio).size > 1000, `Missing or empty clip: ${audio}`);
     audioCount++;
   }
   if (content) {
     assert.ok(!/127\.0\.0\.1|localhost|Libby/.test(html), `Draft reference: ${course.href}`);
     const sources = JSON.parse(fs.readFileSync(path.join(root, course.audioDirectory, 'sources.json'), 'utf8'));
-    const items = [...content.words, ...content.sentences];
-    assert.equal(sources.length, items.length, 'Source manifest coverage mismatch');
+    const items = [...content.words, ...content.sentences, ...(content.expressions || []), ...(content.songs || []).flatMap(song => song.lines)];
+    assert.equal(sources.length, new Set(items.map(item => item.file)).size, 'Source manifest coverage mismatch');
     const files = fs.readdirSync(path.join(root, course.audioDirectory)).filter(file => file.endsWith('.mp3'));
     assert.equal(files.length, sources.length, 'Unexpected audio outside approved Google sources');
     for (const item of items) {
@@ -39,16 +40,30 @@ for (const course of courses) {
       assert.ok(source, `Missing audio source: ${item.file}`);
       assert.equal(source.text, item.en);
       assert.equal(new URL(source.source).hostname, 'translate.google.com');
+      assert.equal(new URL(source.source).searchParams.get('q'), source.spokenText || source.text);
+      assert.equal(new URL(source.source).searchParams.get('ttsspeed'), '1');
       const clip = fs.readFileSync(path.join(root, course.audioDirectory, item.file));
       assert.ok(clip.length > 1000);
       assert.equal(crypto.createHash('sha256').update(clip).digest('hex'), source.sha256);
     }
-    audioCount += content.sentences.length;
+    audioCount += sources.length - content.words.length;
+    assert.ok(html.includes('<option value="words" selected>'), 'Default practice must use words');
+    const sourceContent = JSON.parse(fs.readFileSync(path.join(root, 'assets', path.basename(course.href, '.html'), 'content.json'), 'utf8'));
+    assert.deepEqual(content, sourceContent, 'Bundled content differs from canonical source');
+    const app = html.match(/<script id="lesson-controller">([\s\S]*?)<\/script>/)?.[1];
+    assert.ok(app, 'Missing bundled lesson app');
+    const expectedApp = fs.readFileSync(path.join(root, 'assets/pep-lesson-app.js'), 'utf8').replace('const AUDIO_BASE = "audio/google-v1/";', `const AUDIO_BASE = "${expected}";`);
+    assert.equal(app.trim(), expectedApp.trim(), 'Bundled app differs from shared source');
+    for (const group of content.groups) for (const ref of group.clips) assert.ok(content.sentences[ref - 1], 'Invalid group reference');
+    for (const song of content.songs || []) {
+      if (song.lyricsStatus === 'awaiting-user-pages') assert.equal(song.lines.length, 0, 'Pending song must not pretend to have lyrics');
+    }
     const book = html.match(/<script id="textbook-controller">([\s\S]*?)<\/script>/)?.[1];
     assert.ok(book, 'Missing bundled textbook controller');
     const pages = JSON.parse(book.match(/^const BOOK_PAGES = (.*);/m)[1]);
     assert.ok(html.includes(`<img src="${pages[0].image}" width="1080" height="1527"`), 'Missing static textbook image fallback');
     for (const page of pages) {
+      assert.deepEqual(new Set(page.sequence), new Set(page.spots.map(spot => spot.w || spot.s)), `Reading coverage mismatch on page ${page.page}`);
       const original = fs.readFileSync(path.resolve(root, path.posix.dirname(course.href), page.sourceImage));
       assert.equal(page.image, 'data:image/jpeg;base64,' + original.toString('base64'), `Invalid embedded page ${page.page}`);
       for (const spot of page.spots) {

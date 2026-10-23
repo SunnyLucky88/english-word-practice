@@ -15,8 +15,10 @@ function element() {
     setAttribute(name, value) { this[name] = value; }
   };
 }
-for (const unit of [1, 2]) {
-  const html = fs.readFileSync(path.join(root, `lessons/2026-10-23-pep-unit${unit}.html`), 'utf8');
+const courses = JSON.parse(fs.readFileSync(path.join(root, 'courses.json'), 'utf8'));
+for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d+\.html$/.test(c.href))) {
+  const unit = course.href.match(/unit(\d+)\.html$/)[1];
+  const html = fs.readFileSync(path.join(root, course.href), 'utf8');
   const content = JSON.parse(html.match(/id="lesson-content">([\s\S]*?)<\/script>/)[1]);
   const script = html.match(/id="textbook-controller">([\s\S]*?)<\/script>/)[1];
   const pages = JSON.parse(script.match(/^const BOOK_PAGES = (.*);/m)[1]);

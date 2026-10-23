@@ -550,5 +550,11 @@
     "text": "Family members love each other.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Family%20members%20love%20each%20other.&tl=en&client=tw-ob&ttsspeed=1",
     "sha256": "ac8e8bdc43b879427485675d4561d0a2d4dd315e3f4b731323f2a7ab640c6531"
+  },
+  {
+    "file": "key-02.mp3",
+    "text": "Look! This is my family.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%21+This+is+my+family.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "aea6071aea7d5cf310dc69ff6c0411ee614b0fc8c2b7670eb4dee280ff6d2b04"
   }
 ]
