@@ -62,6 +62,31 @@ for (const course of courses) {
       if (!/^(?:https?:|#)/.test(link[1])) assert.ok(fs.existsSync(path.resolve(root, path.posix.dirname(course.href), link[1])));
     }
   }
+  if (!content && course.audioDirectory.includes('/google-')) {
+    assert.ok(!/Libby|libby/.test(html), 'Stale alphabet voice reference');
+    const sources = JSON.parse(fs.readFileSync(path.join(root, course.audioDirectory, 'sources.json'), 'utf8'));
+    assert.equal(sources.length, words.length);
+    for (const word of words) {
+      const source = sources.find(entry => entry.file === `${word}.mp3`);
+      assert.ok(source, `Missing alphabet source: ${word}`);
+      assert.equal(source.text, word === 'z' ? 'zed' : word.toUpperCase());
+      assert.equal(new URL(source.source).hostname, 'translate.google.com');
+      const clip = fs.readFileSync(path.join(root, course.audioDirectory, source.file));
+      assert.equal(crypto.createHash('sha256').update(clip).digest('hex'), source.sha256);
+    }
+    const reading = JSON.parse(fs.readFileSync(path.join(root, course.audioDirectory, 'reading-source.json'), 'utf8'));
+    assert.deepEqual(reading.parts, words.map(word => `${word}.mp3`));
+    const cues = JSON.parse(html.match(/const READING_CUES = (\[[\s\S]*?\]);/)[1]);
+    assert.deepEqual(cues, reading.cues);
+    assert.equal(cues.length, 26);
+    for (let i = 0; i < cues.length; i++) {
+      assert.equal(cues[i].letter, words[i]);
+      assert.ok(cues[i].end > cues[i].start && cues[i].end < reading.duration);
+      if (i) assert.ok(cues[i].start >= cues[i-1].end);
+    }
+    const track = fs.readFileSync(path.join(root, course.audioDirectory, reading.file));
+    assert.equal(crypto.createHash('sha256').update(track).digest('hex'), reading.sha256);
+  }
   for (const file of course.extraAudio || []) {
     assert.match(file, /^[a-z0-9-]+\.(?:mp3|wav)$/);
     const audio = path.join(root, course.audioDirectory, file);

@@ -1,0 +1,166 @@
+{
+  "file": "alphabet-reading.wav",
+  "kind": "由本目录26条谷歌原速字母录音按顺序拼接，加入分组静音，无变速、无背景音乐",
+  "parts": [
+    "a.mp3",
+    "b.mp3",
+    "c.mp3",
+    "d.mp3",
+    "e.mp3",
+    "f.mp3",
+    "g.mp3",
+    "h.mp3",
+    "i.mp3",
+    "j.mp3",
+    "k.mp3",
+    "l.mp3",
+    "m.mp3",
+    "n.mp3",
+    "o.mp3",
+    "p.mp3",
+    "q.mp3",
+    "r.mp3",
+    "s.mp3",
+    "t.mp3",
+    "u.mp3",
+    "v.mp3",
+    "w.mp3",
+    "x.mp3",
+    "y.mp3",
+    "z.mp3"
+  ],
+  "sha256": "518d14ffe0ba368e9fa9045119750230c5edb89e2f031d32cd60e2cc6716c4f4",
+  "duration": 28.774,
+  "cues": [
+    {
+      "letter": "a",
+      "start": 0.25,
+      "end": 0.994
+    },
+    {
+      "letter": "b",
+      "start": 1.244,
+      "end": 1.988
+    },
+    {
+      "letter": "c",
+      "start": 2.238,
+      "end": 3.102
+    },
+    {
+      "letter": "d",
+      "start": 3.352,
+      "end": 4.096
+    },
+    {
+      "letter": "e",
+      "start": 4.346,
+      "end": 5.042
+    },
+    {
+      "letter": "f",
+      "start": 5.292,
+      "end": 6.084
+    },
+    {
+      "letter": "g",
+      "start": 6.334,
+      "end": 7.126
+    },
+    {
+      "letter": "h",
+      "start": 7.776,
+      "end": 8.664
+    },
+    {
+      "letter": "i",
+      "start": 8.914,
+      "end": 9.634
+    },
+    {
+      "letter": "j",
+      "start": 9.884,
+      "end": 10.676
+    },
+    {
+      "letter": "k",
+      "start": 10.926,
+      "end": 11.67
+    },
+    {
+      "letter": "l",
+      "start": 11.92,
+      "end": 12.64
+    },
+    {
+      "letter": "m",
+      "start": 12.89,
+      "end": 13.658
+    },
+    {
+      "letter": "n",
+      "start": 13.908,
+      "end": 14.676
+    },
+    {
+      "letter": "o",
+      "start": 14.926,
+      "end": 15.598
+    },
+    {
+      "letter": "p",
+      "start": 15.848,
+      "end": 16.592
+    },
+    {
+      "letter": "q",
+      "start": 17.242,
+      "end": 18.058
+    },
+    {
+      "letter": "r",
+      "start": 18.308,
+      "end": 19.076
+    },
+    {
+      "letter": "s",
+      "start": 19.326,
+      "end": 20.214
+    },
+    {
+      "letter": "t",
+      "start": 20.864,
+      "end": 21.632
+    },
+    {
+      "letter": "u",
+      "start": 21.882,
+      "end": 22.65
+    },
+    {
+      "letter": "v",
+      "start": 22.9,
+      "end": 23.644
+    },
+    {
+      "letter": "w",
+      "start": 24.294,
+      "end": 25.254
+    },
+    {
+      "letter": "x",
+      "start": 25.504,
+      "end": 26.416
+    },
+    {
+      "letter": "y",
+      "start": 26.666,
+      "end": 27.458
+    },
+    {
+      "letter": "z",
+      "start": 27.708,
+      "end": 28.524
+    }
+  ]
+}
