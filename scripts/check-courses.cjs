@@ -44,12 +44,13 @@ for (const course of courses) {
       assert.equal(crypto.createHash('sha256').update(clip).digest('hex'), source.sha256);
     }
     audioCount += content.sentences.length;
-    const bookPath = html.match(/<script src="([^"]+\/book\.js)"><\/script>/)?.[1];
-    assert.ok(bookPath, 'Missing textbook controller');
-    const book = fs.readFileSync(path.resolve(root, path.posix.dirname(course.href), bookPath), 'utf8');
+    const book = html.match(/<script id="textbook-controller">([\s\S]*?)<\/script>/)?.[1];
+    assert.ok(book, 'Missing bundled textbook controller');
     const pages = JSON.parse(book.match(/^const BOOK_PAGES = (.*);/m)[1]);
+    assert.ok(html.includes(`<img src="${pages[0].image}" width="1080" height="1527"`), 'Missing static textbook image fallback');
     for (const page of pages) {
-      assert.ok(fs.existsSync(path.resolve(root, path.posix.dirname(course.href), page.image)), `Missing page ${page.page}`);
+      const original = fs.readFileSync(path.resolve(root, path.posix.dirname(course.href), page.sourceImage));
+      assert.equal(page.image, 'data:image/jpeg;base64,' + original.toString('base64'), `Invalid embedded page ${page.page}`);
       for (const spot of page.spots) {
         assert.ok(spot.w ? words.includes(spot.w) : !!content.sentences[spot.s - 1], `Invalid hotspot: ${page.page}`);
         const [x,y,w,h] = spot.box;
