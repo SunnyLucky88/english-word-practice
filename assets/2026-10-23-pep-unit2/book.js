@@ -6,9 +6,9 @@ function renderBook(){
  $('page-label').textContent='第 '+page.page+' 页';
  $('previous-page').disabled=currentPage===0;$('next-page').disabled=currentPage===BOOK_PAGES.length-1;
  $('read-page').disabled=page.sequence.length===0;
- $('book-page').value=String(currentPage);canvas.replaceChildren();
- const img=document.createElement('img');img.src=page.image;img.alt='人教版 PEP 三年级上册第 '+page.page+' 页';img.draggable=false;canvas.append(img);
- page.spots.forEach(spot=>{const item=pageItem(spot.w||spot.s),b=document.createElement('button');b.className='hotspot';b.type='button';b.dataset.file=item.file;b.setAttribute('aria-label','课本点读：'+item.en);b.title=item.en;const [x,y,w,h]=spot.box;Object.assign(b.style,{left:x/1080*100+'%',top:y/1527*100+'%',width:w/1080*100+'%',height:h/1527*100+'%'});b.onclick=()=>play(item,b);canvas.append(b)});
+ $('book-page').value=String(currentPage);canvas.textContent='';
+ const img=document.createElement('img');img.src=page.image;img.alt='人教版 PEP 三年级上册第 '+page.page+' 页';img.draggable=false;canvas.appendChild(img);
+ page.spots.forEach(spot=>{const item=pageItem(spot.w||spot.s),b=document.createElement('button');b.className='hotspot';b.type='button';b.dataset.file=item.file;b.setAttribute('aria-label','课本点读：'+item.en);b.title=item.en;const [x,y,w,h]=spot.box;Object.assign(b.style,{left:x/1080*100+'%',top:y/1527*100+'%',width:w/1080*100+'%',height:h/1527*100+'%'});b.onclick=()=>play(item,b);canvas.appendChild(b)});
  $('book-caption').textContent=page.caption;
 }
 $('previous-page').onclick=()=>{if(currentPage>0){currentPage--;renderBook()}};

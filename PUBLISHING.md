@@ -24,6 +24,7 @@
 - 先在 `courses.json` 登记课程及音频目录；只复制已批准试听的原速文件。每课 `sources.json` 保存文字、来源和 SHA-256。`scripts/generate-british-audio.py` 为历史 Libby 工具，新课禁止使用。
 - 综合课程在页面 `lesson-content` JSON 中保存有序词表与句子，课本图片和点读脚本放在 `assets/日期-主题/`。发布时只复制正式资源，不复制试听、生成工具或截图。
 - 第一、第二单元的课本图和点读脚本直接打包在课程 HTML 内，避免手机额外请求失败后课本空白。修改 `assets/` 中的图片或脚本后，先运行 `node scripts/bundle-textbook.cjs`，再校验发布；首张图片保留静态 HTML 展示。
+- 发布前运行 `node scripts/check-textbook-navigation.cjs`，检查不支持 `replaceChildren()` 的手机环境中，所有课本页可前后翻页和通过页码切换；不依赖该方法清空课本或练习内容。
 - 清理工程时，以所有课程的当前引用为准，删除无人使用的美式音频、旧声音、旧版本和临时文件；仍被课程引用的资源必须保留。Git 历史保留修改记录，不把旧音频备份堆在发布目录里。
 
 ## 每次发布流程
