@@ -1,0 +1,12 @@
+/* Keep playback independent of optional selectors such as :focus-visible.
+   Older phone browsers discard a whole selector list if one selector is unknown. */
+.hotspot.playing {
+  border: 3px solid #d87508;
+  background: rgba(255, 183, 40, .35);
+  box-shadow: inset 0 0 0 1px #fff4cf, 0 0 0 2px rgba(216, 117, 8, .25);
+  z-index: 2;
+}
+@media (hover: hover) {
+  .hotspot:hover { border-color: #df8d26; background: rgba(244, 186, 53, .25); }
+}
+.hotspot:focus-visible { outline: 3px solid #db8a43; outline-offset: 2px; }

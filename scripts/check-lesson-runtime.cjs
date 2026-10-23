@@ -4,6 +4,10 @@ async function check(course){
  const unit=Number(course.href.match(/unit(\d+)\.html$/)[1]);
  const root=path.resolve(__dirname,'..'),html=fs.readFileSync(path.join(root,course.href),'utf8'),CONTENT=JSON.parse(html.match(/id="lesson-content">([\s\S]*?)<\/script>/)[1]),audioBase=html.match(/const AUDIO_BASE = "([^"]+)";/)[1];
  const nodes={},all=[],listeners={},events={},timers=new Map(),played=[];let timerId=0,scrolls=0,rejectNext=false,legacyPlayback=false,noPlayingEvent=false;
+ const playbackCss=fs.readFileSync(path.join(root,'assets/pep-playback.css'),'utf8');
+ assert.equal(html.match(/<style id="playback-styles">\n([\s\S]*?)\n<\/style>/)?.[1],playbackCss,'Shipped playback styles must match their shared source');
+ assert.match(playbackCss,/(?:^|\n)\.hotspot\.playing\s*\{[^}]*border: 3px solid #[0-9a-f]+;[^}]*background: rgba\(/,'The active frame must have its own legacy-compatible selector and colors');
+ assert.doesNotMatch(html,/\.hotspot:hover,\.hotspot:focus-visible,\.hotspot.playing/,'Unknown focus selectors must not invalidate playback highlighting');
  function element(tag='div'){
   const classes=new Set(),attributes={};const e={tagName:tag.toUpperCase(),children:[],style:{setProperty(){}},dataset:{},hidden:false,value:'',disabled:false,parentNode:null,
    classList:{add:c=>classes.add(c),remove:c=>classes.delete(c),toggle(c,on){if(on===undefined)on=!classes.has(c);on?classes.add(c):classes.delete(c)},contains:c=>classes.has(c)},
@@ -33,10 +37,12 @@ async function check(course){
  const pages=run('BOOK_PAGES');let pagesPlayed=0;
  for(let p=0;p<pages.length;p++){
   nodes['book-page'].onchange({target:{value:String(p)}});played.length=0;nodes['read-page'].onclick();await flush();
-  while(run('queue.length')){for(const f of events.ended)f();await flush()}
+  function assertHighlight(){const current=run('followCard');if(!current)return;assert.equal(current.classList.contains('playing'),true,'Current spoken item must be highlighted');assert.equal(current.dataset.file,run('active.file'));assert.equal(document.querySelectorAll('.playing').length,1,'Only the current occurrence may be highlighted');}
+  assertHighlight();
+  while(run('queue.length')){const previous=run('followCard');for(const f of events.ended)f();await flush();assertHighlight();if(previous&&previous!==run('followCard'))assert.equal(previous.classList.contains('playing'),false,'Previous frame must be cleared on the next item')}
   for(const f of events.ended)f();await flush();
   const expected=Array.from(pages[p].sequence,ref=>audioBase+(typeof ref==='string'?CONTENT.words.find(w=>w.en===ref):CONTENT.sentences[ref-1]).file);
-  assert.deepEqual(played,expected,`Unit${unit} page${pages[p].page}`);assert.equal(run('followEnabled'),false);pagesPlayed++;
+  assert.deepEqual(played,expected,`Unit${unit} page${pages[p].page}`);assert.equal(run('followEnabled'),false);assert.equal(document.querySelectorAll('.playing').length,0,'Playback completion clears the frame');pagesPlayed++;
  }
  assert.ok(bookViewport.scrollTop>0,'Textbook follows within its own scroll container');
  // Whole-text playback keeps repeated lines, while quizzes retain distinct questions.
