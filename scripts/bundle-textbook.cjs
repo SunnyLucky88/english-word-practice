@@ -7,6 +7,7 @@ const root = path.resolve(__dirname, '..');
 const courses = JSON.parse(fs.readFileSync(path.join(root, 'courses.json'), 'utf8'));
 const app = fs.readFileSync(path.join(root, 'assets/pep-lesson-app.js'), 'utf8');
 const playbackCss = fs.readFileSync(path.join(root, 'assets/pep-playback.css'), 'utf8');
+const typographyCss = fs.readFileSync(path.join(root, 'assets/pep-lesson-typography.css'), 'utf8');
 const version = require('./lesson-version.cjs')(root, courses);
 for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d+\.html$/.test(c.href))) {
   const slug = path.basename(course.href, '.html');
@@ -15,6 +16,8 @@ for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d
   html = html.replace('.hotspot:hover,.hotspot:focus-visible,.hotspot.playing{border-color:#df8d26;background:#f4ba3560}', '');
   const playbackStyle = `<style id="playback-styles">\n${playbackCss}\n</style>`;
   html = html.includes('id="playback-styles"') ? html.replace(/<style id="playback-styles">[\s\S]*?<\/style>/, () => playbackStyle) : html.replace('<main>', playbackStyle + '\n<main>');
+  const typographyStyle = `<style id="lesson-typography">\n${typographyCss}\n</style>`;
+  html = html.includes('id="lesson-typography"') ? html.replace(/<style id="lesson-typography">[\s\S]*?<\/style>/, () => typographyStyle) : html.replace('<main>', typographyStyle + '\n<main>');
   html = html.replace(/href="([^"?]*pep-unit\d+\.html)(?:\?v=[a-f0-9]+)?"/g, (_, href) => `href="${href}?v=${version}"`);
   html = html.replace(/href="\.\.\/(?:\?v=[a-f0-9]+)?"/g, `href="../?v=${version}"`);
   const versionMeta = `<meta name="lesson-version" content="${version}">`;

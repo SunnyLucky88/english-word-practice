@@ -1,0 +1,60 @@
+/* Shared reading sizes for the six textbook units; bundled after base styles. */
+body { font-size: 20px; }
+.cards { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.card { min-width: 0; min-height: 176px; padding: 22px 52px 22px 22px; }
+.en, .card .en { font-size: 36px; line-height: 1.4; overflow-wrap: anywhere; word-break: normal; }
+.sentence-cards .en { font-size: 32px; line-height: 1.5; }
+.zh { font-size: 24px; line-height: 1.7; color: #34534d; }
+.ipa { font-size: 20px; line-height: 1.6; margin: 6px 0 10px; overflow-wrap: anywhere; }
+.word-meaning { display: inline-block; max-width: 100%; vertical-align: top; }
+.number { font-size: 16px; line-height: 1.5; letter-spacing: .03em; }
+.speaker { font-size: 24px; }
+.english-title { font-size: 26px; }
+.intro, .small, .section-head .small, .category-note, .song-pending { font-size: 18px; line-height: 1.7; }
+h2 { font-size: 24px; }
+.sentence-group h3 { font-size: 22px; line-height: 1.5; }
+.btn, label, select, nav button, .category-tabs button { font-size: 16px; line-height: 1.5; }
+.btn, select { min-height: 44px; }
+.prompt { font-size: 40px; line-height: 1.6; overflow-wrap: anywhere; word-break: normal; }
+.answer .en { font-size: 36px; line-height: 1.5; }
+.choices button { font-size: 24px; line-height: 1.6; overflow-wrap: anywhere; }
+.hint, .progress { font-size: 18px; line-height: 1.7; }
+.feedback { font-size: 20px; line-height: 1.6; }
+.exercise, .answer, .choices > *, .practice-settings > * { min-width: 0; }
+.book-tools label, .book-tools select, .book-tools .btn { font-size: 16px; }
+#book-caption { font-size: 16px; line-height: 1.7; }
+.footer, .source-note { font-size: 16px; line-height: 1.8; }
+.top, .unit-links a { font-size: 16px; }
+.player .status { font-size: 14px; line-height: 1.6; }
+.player .btn, .speed-control, .speed-control select { font-size: 16px; }
+.player .btn, .speed-control select { min-height: 44px; }
+@media (max-width: 700px) {
+  .cards { grid-template-columns: minmax(0, 1fr); gap: 14px; }
+  .card { padding: 20px 44px 20px 18px; min-height: 164px; }
+  .en, .card .en { font-size: 32px; }
+  .sentence-cards .en { font-size: 30px; }
+  .zh { font-size: 24px; }
+  .ipa { font-size: 20px; }
+  .number { font-size: 16px; }
+  .english-title { font-size: 22px; }
+  .section-head { flex-wrap: wrap; align-items: center; }
+  .section-head h2 { font-size: 22px; }
+  .section-head > .btn { font-size: 16px; padding: 10px 14px; }
+  nav button { font-size: 14px; padding: 10px 4px; }
+  .category-tabs button { font-size: 16px; }
+  .book-tools { gap: 10px; }
+  .book-tools label, .book-tools select, .book-tools .btn { font-size: 16px; }
+  .prompt { font-size: 36px; }
+  .answer .en { font-size: 32px; }
+  .choices { grid-template-columns: minmax(0, 1fr); }
+  .exercise { padding: 24px 16px; }
+  .answer { padding: 20px 14px; }
+  .practice-settings label { flex-wrap: wrap; }
+  .practice-settings select { min-width: 0; width: 100%; }
+  .player .status { font-size: 14px; line-height: 22px; }
+}
+@media (max-width: 360px) {
+  nav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  nav button { font-size: 16px; }
+  .category-tabs { grid-template-columns: minmax(0, 1fr); }
+}

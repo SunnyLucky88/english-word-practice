@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="zh-CN">
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="lesson-version" content="25f6620cf866">
+<meta name="lesson-version" content="b828ae356447">
 <title>缤纷的世界 · 第五单元学习</title>
 <style>
 :root{color-scheme:light;--ink:#203e3a;--teal:#167467;--paper:#fffdf8;--muted:#667773;--line:#dce5dd;--orange:#ab4b26}*{box-sizing:border-box}body{margin:0;background:#f5f3ea;color:var(--ink);font-family:system-ui,"Microsoft YaHei",sans-serif}button,select{font:inherit}button{cursor:pointer}button:disabled{cursor:default;opacity:.5}button:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid #db8a43;outline-offset:4px}[hidden]{display:none!important}main{max-width:1020px;margin:auto;padding:26px 22px 120px}.top{display:flex;justify-content:space-between;gap:14px;font-size:13px;color:var(--muted);align-items:center}.badge{border:1px solid #c8d5c9;border-radius:99px;padding:6px 12px}.hero{margin:28px 0 24px;border-bottom:1px solid var(--line);padding-bottom:28px;display:flex;justify-content:space-between;align-items:center;gap:16px}.eyebrow{font-size:12px;letter-spacing:2px;color:var(--teal);font-weight:700}h1{font-size:clamp(32px,6vw,48px);margin:8px 0 4px;letter-spacing:-1px}.english-title{font-family:Georgia,serif;font-size:23px;color:var(--teal);margin:0 0 14px}.intro{line-height:1.8;color:var(--muted);margin:0;font-size:14px}.art{width:150px;height:130px;flex-shrink:0;background:#dcebf1;border-radius:80px 80px 24px 24px;display:flex;align-items:center;justify-content:center}.art svg{width:115px}nav{display:flex;gap:8px;margin-bottom:24px}nav button{border:1px solid var(--line);border-radius:12px;background:transparent;color:var(--ink);padding:13px 22px;font-weight:600}nav button[aria-selected=true]{color:white;background:var(--teal);border-color:var(--teal)}.section-head{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-bottom:16px}h2{font-size:20px;margin:0}.small{font-size:13px;color:var(--muted)}.btn{border:1px solid #c8d5c9;border-radius:10px;padding:11px 15px;background:var(--paper);color:var(--ink);min-height:44px}.primary{background:var(--teal);color:white;border-color:var(--teal)}.cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.card{position:relative;width:100%;text-align:left;background:var(--paper);border:1px solid var(--line);border-radius:15px;padding:19px 48px 19px 19px;color:var(--ink);min-height:125px;transition:background .15s,transform .15s}.card:hover{background:#edf4eb;transform:translateY(-2px)}.card.playing{outline:2px solid var(--teal);background:#edf4eb}.en{font-size:23px;font-weight:650;line-height:1.4;overflow-wrap:anywhere}.ipa{color:var(--muted);font-size:13px;margin:3px 0 9px}.zh{font-size:14px;line-height:1.6}.speaker{position:absolute;right:15px;top:20px;color:var(--teal);font-size:20px}.sentence-group{margin:26px 0 32px}.sentence-group h3{font-size:17px;margin:0}.sentence-group .section-head{margin-bottom:4px}.sentence-group .small{line-height:1.7}.sentence-cards{grid-template-columns:repeat(2,minmax(0,1fr))}.sentence-cards .en{font-size:20px}.sentence-cards .zh{margin-top:10px}.number{display:block;font-size:11px;color:var(--muted);margin-bottom:7px;letter-spacing:1px}.practice-settings{display:flex;gap:12px;flex-wrap:wrap;background:#e9eee3;padding:14px;border-radius:13px;margin:16px 0}label{font-size:13px;display:flex;gap:8px;align-items:center}select{max-width:100%;padding:9px;border:1px solid #c8d5c9;border-radius:8px;background:var(--paper);color:var(--ink)}.exercise{background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:28px;text-align:center;max-width:720px;margin:auto}.progress{font-size:12px;letter-spacing:1px;color:var(--muted)}.prompt{font-size:clamp(23px,5vw,32px);font-weight:650;line-height:1.6;margin:30px 0 18px;overflow-wrap:anywhere}.hint{color:var(--muted);font-size:14px;line-height:1.7}.answer{padding:20px;background:#edf3e8;border-radius:14px;margin:20px 0}.answer .en{color:var(--teal)}.actions{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:20px}.choices{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:22px 0}.choices button{padding:15px}.choices .correct{border:2px solid var(--teal);background:#e5f0e6}.choices .wrong{border:2px solid #b95536;background:#faece3}.feedback{min-height:24px;font-size:14px;color:var(--orange);margin-top:12px}.footer{margin-top:32px;line-height:1.8;font-size:12px;color:var(--muted)}.player-wrap{position:fixed;bottom:0;left:0;right:0;background:#fffdf8f5;border-top:1px solid var(--line);backdrop-filter:blur(12px);z-index:3}.player{max-width:1020px;margin:auto;padding:10px 22px;display:flex;align-items:center;gap:14px}.status{flex:1;font-size:13px;line-height:1.5;min-width:0}.player audio{height:36px;width:280px;max-width:100%}@media(max-width:700px){main{padding:20px 16px 155px}.art{width:95px;height:100px}.art svg{width:85px}.cards{grid-template-columns:repeat(2,minmax(0,1fr))}.sentence-cards{grid-template-columns:1fr}.card{padding:15px 36px 15px 14px}.speaker{right:12px;top:18px}nav button{flex:1;padding:12px 8px}.en{font-size:21px}.player{flex-wrap:wrap;padding:8px 16px;gap:6px 10px}.player audio{width:100%;order:3}.exercise{padding:24px 16px}.hero{gap:8px}.intro{font-size:13px}.section-head{align-items:flex-start}.practice-settings{flex-direction:column}.practice-settings select{flex:1}.choices{grid-template-columns:1fr}}
@@ -50,9 +50,72 @@ main{padding-bottom:calc(var(--player-height,150px) + 24px)}
 .hotspot:focus-visible { outline: 3px solid #db8a43; outline-offset: 2px; }
 
 </style>
+<style id="lesson-typography">
+/* Shared reading sizes for the six textbook units; bundled after base styles. */
+body { font-size: 20px; }
+.cards { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.card { min-width: 0; min-height: 176px; padding: 22px 52px 22px 22px; }
+.en, .card .en { font-size: 36px; line-height: 1.4; overflow-wrap: anywhere; word-break: normal; }
+.sentence-cards .en { font-size: 32px; line-height: 1.5; }
+.zh { font-size: 24px; line-height: 1.7; color: #34534d; }
+.ipa { font-size: 20px; line-height: 1.6; margin: 6px 0 10px; overflow-wrap: anywhere; }
+.word-meaning { display: inline-block; max-width: 100%; vertical-align: top; }
+.number { font-size: 16px; line-height: 1.5; letter-spacing: .03em; }
+.speaker { font-size: 24px; }
+.english-title { font-size: 26px; }
+.intro, .small, .section-head .small, .category-note, .song-pending { font-size: 18px; line-height: 1.7; }
+h2 { font-size: 24px; }
+.sentence-group h3 { font-size: 22px; line-height: 1.5; }
+.btn, label, select, nav button, .category-tabs button { font-size: 16px; line-height: 1.5; }
+.btn, select { min-height: 44px; }
+.prompt { font-size: 40px; line-height: 1.6; overflow-wrap: anywhere; word-break: normal; }
+.answer .en { font-size: 36px; line-height: 1.5; }
+.choices button { font-size: 24px; line-height: 1.6; overflow-wrap: anywhere; }
+.hint, .progress { font-size: 18px; line-height: 1.7; }
+.feedback { font-size: 20px; line-height: 1.6; }
+.exercise, .answer, .choices > *, .practice-settings > * { min-width: 0; }
+.book-tools label, .book-tools select, .book-tools .btn { font-size: 16px; }
+#book-caption { font-size: 16px; line-height: 1.7; }
+.footer, .source-note { font-size: 16px; line-height: 1.8; }
+.top, .unit-links a { font-size: 16px; }
+.player .status { font-size: 14px; line-height: 1.6; }
+.player .btn, .speed-control, .speed-control select { font-size: 16px; }
+.player .btn, .speed-control select { min-height: 44px; }
+@media (max-width: 700px) {
+  .cards { grid-template-columns: minmax(0, 1fr); gap: 14px; }
+  .card { padding: 20px 44px 20px 18px; min-height: 164px; }
+  .en, .card .en { font-size: 32px; }
+  .sentence-cards .en { font-size: 30px; }
+  .zh { font-size: 24px; }
+  .ipa { font-size: 20px; }
+  .number { font-size: 16px; }
+  .english-title { font-size: 22px; }
+  .section-head { flex-wrap: wrap; align-items: center; }
+  .section-head h2 { font-size: 22px; }
+  .section-head > .btn { font-size: 16px; padding: 10px 14px; }
+  nav button { font-size: 14px; padding: 10px 4px; }
+  .category-tabs button { font-size: 16px; }
+  .book-tools { gap: 10px; }
+  .book-tools label, .book-tools select, .book-tools .btn { font-size: 16px; }
+  .prompt { font-size: 36px; }
+  .answer .en { font-size: 32px; }
+  .choices { grid-template-columns: minmax(0, 1fr); }
+  .exercise { padding: 24px 16px; }
+  .answer { padding: 20px 14px; }
+  .practice-settings label { flex-wrap: wrap; }
+  .practice-settings select { min-width: 0; width: 100%; }
+  .player .status { font-size: 14px; line-height: 22px; }
+}
+@media (max-width: 360px) {
+  nav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  nav button { font-size: 16px; }
+  .category-tabs { grid-template-columns: minmax(0, 1fr); }
+}
+
+</style>
 <main>
-<div class="top"><span>PEP · 三年级上册 / UNIT 05</span><a class="badge" href="../?v=25f6620cf866" style="color:inherit;text-decoration:none">返回学习入口</a></div>
-<div class="unit-links" aria-label="选择单元"><a href="2026-10-23-pep-unit1.html?v=25f6620cf866">第一单元</a><a href="2026-10-23-pep-unit2.html?v=25f6620cf866">第二单元</a><a href="2026-10-23-pep-unit3.html?v=25f6620cf866">第三单元</a><a href="2026-10-23-pep-unit4.html?v=25f6620cf866">第四单元</a><a aria-current="page" href="2026-10-23-pep-unit5.html?v=25f6620cf866">第五单元</a><a href="2026-10-23-pep-unit6.html?v=25f6620cf866">第六单元</a></div><header class="hero"><div><div class="eyebrow">每天学一点英语</div><h1>缤纷的世界</h1><p class="english-title" lang="en">The colourful world</p><p class="intro">完整单元第 50—61 页 · 完整词表 16 词 · 谷歌原速<span class="hero-tip"><br>点一点听发音，说一说，再试着自己回想。</span></p></div><div class="art" aria-hidden="true" style="font-size:64px">🎨</div></header>
+<div class="top"><span>PEP · 三年级上册 / UNIT 05</span><a class="badge" href="../?v=b828ae356447" style="color:inherit;text-decoration:none">返回学习入口</a></div>
+<div class="unit-links" aria-label="选择单元"><a href="2026-10-23-pep-unit1.html?v=b828ae356447">第一单元</a><a href="2026-10-23-pep-unit2.html?v=b828ae356447">第二单元</a><a href="2026-10-23-pep-unit3.html?v=b828ae356447">第三单元</a><a href="2026-10-23-pep-unit4.html?v=b828ae356447">第四单元</a><a aria-current="page" href="2026-10-23-pep-unit5.html?v=b828ae356447">第五单元</a><a href="2026-10-23-pep-unit6.html?v=b828ae356447">第六单元</a></div><header class="hero"><div><div class="eyebrow">每天学一点英语</div><h1>缤纷的世界</h1><p class="english-title" lang="en">The colourful world</p><p class="intro">完整单元第 50—61 页 · 完整词表 16 词 · 谷歌原速<span class="hero-tip"><br>点一点听发音，说一说，再试着自己回想。</span></p></div><div class="art" aria-hidden="true" style="font-size:64px">🎨</div></header>
 <nav role="tablist" aria-label="学习内容"><button id="tab-book" role="tab" aria-controls="book" aria-selected="true">课本点读</button><button id="tab-words" role="tab" aria-controls="words" aria-selected="false" tabindex="-1">单词学习</button><button id="tab-sentences" role="tab" aria-controls="sentences" aria-selected="false" tabindex="-1">句子与歌曲</button><button id="tab-practice" role="tab" aria-controls="practice" aria-selected="false" tabindex="-1">小练习</button></nav>
 <section id="book" role="tabpanel" aria-labelledby="tab-book">
 <div class="section-head"><div><h2>在课本上点一点</h2><p class="small">直接点击英文听发音，浅色框内均可点读。</p></div><button class="btn" id="read-page">▶ 本页朗读</button></div>
@@ -160,7 +223,8 @@ audio.addEventListener('error',()=>{if(audio.getAttribute('src')){queue=[];repea
 $('stop').onclick=stop;
 const playerWrap=document.querySelector('.player-wrap');function syncPlayerHeight(){document.documentElement.style.setProperty('--player-height',Math.ceil(playerWrap.getBoundingClientRect().height)+'px')}
 if(typeof ResizeObserver!=='undefined')new ResizeObserver(syncPlayerHeight).observe(playerWrap);window.addEventListener('resize',syncPlayerHeight);syncPlayerHeight();
-function renderCards(items,target,kind='sentence'){items.forEach((item,i)=>{const card=document.createElement('button');card.type='button';card.className='card';card.dataset.file=item.file;card.setAttribute('aria-label','播放：'+item.en);const label=document.createElement('span');label.className='number';label.textContent=String(i+1).padStart(2,'0')+(kind==='word'?' · 课文第 '+item.page+' 页':kind==='key'?' · 附录第 '+item.page+' 页':'');const en=document.createElement('div');en.className='en';en.lang='en';en.textContent=item.en;card.appendChild(label);card.appendChild(en);if(item.ipa){const ipa=document.createElement('div');ipa.className='ipa';ipa.textContent=item.ipa;card.appendChild(ipa)}const zh=document.createElement('div');zh.className='zh';zh.textContent=item.zh;card.appendChild(zh);const speaker=document.createElement('span');speaker.className='speaker';speaker.textContent='♪';speaker.setAttribute('aria-hidden','true');card.appendChild(speaker);card.onclick=()=>play(item,card);$(target).appendChild(card)})}
+function setMeaningText(target,text){target.textContent='';const parts=text.split('；');parts.forEach((part,i)=>{const span=document.createElement('span');span.className='word-meaning';span.textContent=part+(i<parts.length-1?'；':'');target.appendChild(span)})}
+function renderCards(items,target,kind='sentence'){items.forEach((item,i)=>{const card=document.createElement('button');card.type='button';card.className='card';card.dataset.file=item.file;card.setAttribute('aria-label','播放：'+item.en);const label=document.createElement('span');label.className='number';label.textContent=String(i+1).padStart(2,'0')+(kind==='word'?' · 课文第 '+item.page+' 页':kind==='key'?' · 附录第 '+item.page+' 页':'');const en=document.createElement('div');en.className='en';en.lang='en';en.textContent=item.en;card.appendChild(label);card.appendChild(en);if(item.ipa){const ipa=document.createElement('div');ipa.className='ipa';ipa.textContent=item.ipaDisplay||item.ipa;card.appendChild(ipa)}const zh=document.createElement('div');zh.className='zh';if(kind==='word')setMeaningText(zh,item.zh);else zh.textContent=item.zh;card.appendChild(zh);const speaker=document.createElement('span');speaker.className='speaker';speaker.textContent='♪';speaker.setAttribute('aria-hidden','true');card.appendChild(speaker);card.onclick=()=>play(item,card);$(target).appendChild(card)})}
 renderCards(words,'word-cards','word');renderCards(expressions,'key-cards','key');
 const textItems=[],textReadItems=[];
 CONTENT.groups.forEach((group,i)=>{const section=document.createElement('section');section.className='sentence-group';const head=document.createElement('div');head.className='section-head';const h=document.createElement('h3');h.textContent=group.title;const button=document.createElement('button');button.className='btn';button.type='button';button.textContent='▶ 本组朗读';const note=document.createElement('p');note.className='small';note.textContent=group.note;const grid=document.createElement('div');grid.className='cards sentence-cards';grid.id='text-group-'+i;head.appendChild(h);head.appendChild(button);section.appendChild(head);section.appendChild(note);section.appendChild(grid);$('text-groups').appendChild(section);const items=group.clips.map(n=>sentences[n-1]);textReadItems.push(...items);renderCards(items,grid.id);button.onclick=()=>playSequence(items,grid);items.forEach(item=>{if(item.practice!==false&&!textItems.some(x=>x.en===item.en))textItems.push(item)})});
@@ -172,7 +236,7 @@ const tabs=[...document.querySelectorAll('nav[aria-label="学习内容"] [role=t
 tabs.forEach((tab,i)=>{tab.onclick=()=>showTab(tab);tab.onkeydown=e=>{if(['ArrowLeft','ArrowRight','Home','End'].includes(e.key)){e.preventDefault();const n=e.key==='Home'?0:e.key==='End'?tabs.length-1:(i+(e.key==='ArrowRight'?1:tabs.length-1))%tabs.length;tabs[n].focus();showTab(tabs[n])}}});
 function shuffle(items){const a=items.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
 function resetQuiz(){stop();quizIndex=0;const mode=$('mode').value;$('scope-label').hidden=mode!=='recall';const scope=$('scope').value;deck=shuffle(mode!=='recall'||scope==='words'?words:scope==='key'?expressions:textItems);renderQuiz()}
-function renderQuiz(){stop();answered=false;const item=deck[quizIndex],mode=$('mode').value;$('progress').textContent='第 '+(quizIndex+1)+' / '+deck.length+' 题';$('prompt').textContent=mode==='recall'?item.zh:mode==='listen'?'听一听，是哪个单词？':item.en;$('prompt').lang=mode==='translate'?'en':'zh-CN';$('hint').textContent=mode==='recall'?'先自己想一想，用英语说出来，再查看答案。':mode==='listen'?'点击“听一听”，选出听到的英文单词。':'选择正确的中文意思。';$('answer').hidden=true;$('answer-text').textContent='';$('reveal').hidden=mode!=='recall';$('listen-prompt').hidden=mode!=='listen';$('choices').hidden=mode==='recall';$('choices').textContent='';$('feedback').textContent='';$('prev').disabled=quizIndex===0;$('next').textContent=quizIndex===deck.length-1?'再练一轮':'下一题';if(mode!=='recall'){const distractors=shuffle(words.filter(w=>w.zh!==item.zh&&w.en!==item.en)).slice(0,3);shuffle([item,...distractors]).forEach(option=>{const b=document.createElement('button');b.className='btn';b.type='button';b.textContent=mode==='listen'?option.en:option.zh;b.onclick=()=>{if(answered)return;if(option.en===item.en){answered=true;b.classList.add('correct');$('feedback').textContent='答对了！'+item.en+' · '+item.zh}else{b.classList.add('wrong');b.disabled=true;$('feedback').textContent='再想一想，你可以继续选择。'}};$('choices').appendChild(b)})}}
+function renderQuiz(){stop();answered=false;const item=deck[quizIndex],mode=$('mode').value;$('progress').textContent='第 '+(quizIndex+1)+' / '+deck.length+' 题';const promptText=mode==='recall'?item.zh:mode==='listen'?'听一听，是哪个单词？':item.en;if(mode==='recall'&&$('scope').value==='words')setMeaningText($('prompt'),promptText);else $('prompt').textContent=promptText;$('prompt').lang=mode==='translate'?'en':'zh-CN';$('hint').textContent=mode==='recall'?'先自己想一想，用英语说出来，再查看答案。':mode==='listen'?'点击“听一听”，选出听到的英文单词。':'选择正确的中文意思。';$('answer').hidden=true;$('answer-text').textContent='';$('reveal').hidden=mode!=='recall';$('listen-prompt').hidden=mode!=='listen';$('choices').hidden=mode==='recall';$('choices').textContent='';$('feedback').textContent='';$('prev').disabled=quizIndex===0;$('next').textContent=quizIndex===deck.length-1?'再练一轮':'下一题';if(mode!=='recall'){const distractors=shuffle(words.filter(w=>w.zh!==item.zh&&w.en!==item.en)).slice(0,3);shuffle([item,...distractors]).forEach(option=>{const b=document.createElement('button');b.className='btn';b.type='button';if(mode==='listen')b.textContent=option.en;else setMeaningText(b,option.zh);b.onclick=()=>{if(answered)return;if(option.en===item.en){answered=true;b.classList.add('correct');$('feedback').textContent='答对了！'+item.en+' · '+item.zh}else{b.classList.add('wrong');b.disabled=true;$('feedback').textContent='再想一想，你可以继续选择。'}};$('choices').appendChild(b)})}}
 $('reveal').onclick=()=>{$('answer-text').textContent=deck[quizIndex].en;$('answer').hidden=false;$('reveal').hidden=true;$('hint').textContent='对照参考答案，再听一听、跟读一次。部分中文也有其他正确表达。'};
 $('answer-audio').onclick=()=>play(deck[quizIndex]);$('listen-prompt').onclick=()=>play(deck[quizIndex]);$('mode').onchange=resetQuiz;$('scope').onchange=resetQuiz;$('prev').onclick=()=>{if(quizIndex>0){quizIndex--;renderQuiz()}};$('next').onclick=()=>{if(quizIndex===deck.length-1)resetQuiz();else{quizIndex++;renderQuiz()}};
 showCategory('key');

@@ -99,7 +99,8 @@
     {
       "en": "red panda",
       "zh": "小熊猫",
-      "ipa": "/ˌred ˈpændə/",
+      "ipa": "/red/",
+      "ipaDisplay": "red /red/ panda",
       "page": 31,
       "file": "red-panda.mp3",
       "audioSource": "Google Translate"

@@ -3,6 +3,7 @@ module.exports=function lessonVersion(root,courses){
  const hash=crypto.createHash('sha256');
  hash.update(fs.readFileSync(path.join(root,'assets/pep-lesson-app.js')));
  hash.update(fs.readFileSync(path.join(root,'assets/pep-playback.css')));
+ hash.update(fs.readFileSync(path.join(root,'assets/pep-lesson-typography.css')));
  for(const course of courses.filter(c=>/pep-unit\d+\.html$/.test(c.href)).sort((a,b)=>a.href.localeCompare(b.href))){
   hash.update(course.href+'\n'+course.audioDirectory+'\n');
   const assets=path.join(root,'assets',path.basename(course.href,'.html'));
