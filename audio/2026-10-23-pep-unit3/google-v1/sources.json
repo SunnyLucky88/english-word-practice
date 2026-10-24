@@ -718,5 +718,23 @@
     "text": "They are all special.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=They+are+all+special.&tl=en&client=tw-ob&ttsspeed=1",
     "sha256": "703565a53b0b29e2991d5b11cf915f45ab560378edaa4d395ffcc8128e1cef3a"
+  },
+  {
+    "file": "topic-page26.mp3",
+    "text": "How are animals different?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+are+animals+different%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9440cee28cf601869d45398bfaf0321e306780b93df92377404ba0d15d42e959"
+  },
+  {
+    "file": "topic-page28.mp3",
+    "text": "What pets do you know?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+pets+do+you+know%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "51e6b3d4e85911e9b05f912004c4e859a85781aa14fd7f68dfaf9e896bda1402"
+  },
+  {
+    "file": "topic-page31.mp3",
+    "text": "What wild animals do you know?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+wild+animals+do+you+know%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1a063e825b51a011849f2f3f7e1aa646e57518f91ab21c3eb7607fb92ef0f955"
   }
 ]

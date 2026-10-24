@@ -905,9 +905,40 @@
       "page": 49,
       "file": "sentence-94.mp3",
       "audioSource": "Google Translate"
+    },
+    {
+      "en": "How do we connect with plants?",
+      "zh": "我们与植物有什么联系？",
+      "page": 38,
+      "file": "topic-page38.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What do we get from plants?",
+      "zh": "我们从植物中获得什么？",
+      "page": 40,
+      "file": "topic-page40.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "How can we help plants?",
+      "zh": "我们怎样帮助植物？",
+      "page": 43,
+      "file": "topic-page43.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
     }
   ],
   "groups": [
+    {
+      "title": "单元主题问句",
+      "note": "第 38 页 · 教材主题问句",
+      "clips": [
+        95
+      ]
+    },
     {
       "title": "导入思考与植物歌谣",
       "note": "第 39 页 · 谷歌原速朗读",
@@ -923,6 +954,13 @@
         9,
         10,
         11
+      ]
+    },
+    {
+      "title": "A · 主题问句",
+      "note": "第 40 页 · 教材主题问句",
+      "clips": [
+        96
       ]
     },
     {
@@ -986,6 +1024,13 @@
         29,
         30,
         31
+      ]
+    },
+    {
+      "title": "B · 主题问句",
+      "note": "第 43 页 · 教材主题问句",
+      "clips": [
+        97
       ]
     },
     {

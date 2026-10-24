@@ -1,0 +1,20 @@
+<button id="lookup-toggle" type="button" class="lookup-toggle" aria-expanded="false" aria-controls="lookup-panel">查词 / 查句</button>
+<aside id="lookup-panel" class="lookup-panel" aria-labelledby="lookup-title" hidden>
+  <div class="lookup-heading"><h2 id="lookup-title">查词 · 查句</h2><button id="lookup-close" type="button" class="btn" aria-label="收起查词查句">收起 ×</button></div>
+  <p class="small">查询六个单元已收录的词句，含 {{SUPPLEMENTAL_COUNT}} 项课文补充词。中文与谷歌原速音频均保存在本站。</p>
+  <form id="lookup-form">
+    <label for="lookup-input">英文单词或句子</label>
+    <textarea id="lookup-input" rows="3" maxlength="200" placeholder="例如：apple 或 How are you?" autocomplete="off" spellcheck="false"></textarea>
+    <div class="lookup-actions"><button id="lookup-submit" type="submit" class="btn primary">查询</button><span class="small">最多 200 字符<span class="keyboard-tip"> · Shift + Enter 换行</span></span></div>
+  </form>
+  <p id="lookup-message" class="small" role="status" aria-live="polite">输入课文单词、缩写、人名或已收录原句，例如 your、friends、I'm、Chen Jie。</p>
+  <div id="lookup-result" class="lookup-result" hidden>
+    <button id="lookup-audio" type="button" class="btn primary">▶ 听发音</button>
+    <div id="lookup-en" class="lookup-en" lang="en"></div>
+    <div id="lookup-zh" class="lookup-zh"></div>
+    <p id="lookup-source" class="small"></p>
+    <p id="lookup-note" class="lookup-note" hidden></p>
+    <section id="lookup-context-section" hidden><h3>原句与出处</h3><div id="lookup-contexts"></div></section>
+    <p class="small">沿用下方播放倍速。课文补充词不属于书后词汇表，也不自动加入默认练习。未收录的词句会提示，不请求实时翻译服务。</p>
+  </div>
+</aside>

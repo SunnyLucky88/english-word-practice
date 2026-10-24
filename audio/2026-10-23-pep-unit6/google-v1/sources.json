@@ -713,5 +713,23 @@
     "text": "Numbers are different around the world.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Numbers+are+different+around+the+world.&tl=en&client=tw-ob&ttsspeed=1",
     "sha256": "97caf90bf7c805b0e33e5cb2764fa0231095ad643cfdc3d307fcb46f379c10df"
+  },
+  {
+    "file": "topic-page62.mp3",
+    "text": "Why are numbers important?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Why+are+numbers+important%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8fdd0e83510fa5ebcd1708fd518d3427f61d5424060443599ed51980948a73eb"
+  },
+  {
+    "file": "topic-page64.mp3",
+    "text": "When do we use numbers?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=When+do+we+use+numbers%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "699608961f80c34fc8ad708e614ee4bb398cebebd5614feb5b03aa2a25b5de46"
+  },
+  {
+    "file": "topic-page67.mp3",
+    "text": "How useful are numbers?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+useful+are+numbers%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8673d269cd8914d104c53496f6d0252a36fc87a384160369731df3dc671047e3"
   }
 ]

@@ -1,0 +1,2974 @@
+{
+  "schemaVersion": 1,
+  "unit": 3,
+  "scope": "课文补充词，不属于教材书后词汇表，不进入默认练习",
+  "entries": [
+    {
+      "key": "are",
+      "en": "are",
+      "zh": "是（be 的一种形式）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/are.mp3",
+      "spokenText": "are",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "Whose hands are these?",
+          "zh": "这些是谁的手？",
+          "file": "sentence-01.mp3"
+        },
+        {
+          "page": 36,
+          "en": "Fish are amazing. Are we amazing, Mum?",
+          "zh": "鱼真神奇。妈妈，我们也神奇吗？",
+          "file": "sentence-87.mp3"
+        },
+        {
+          "page": 36,
+          "en": "But whale sharks are big too.",
+          "zh": "但是鲸鲨的体形也很大。",
+          "file": "sentence-89.mp3"
+        },
+        {
+          "page": 36,
+          "en": "But squids are fast too.",
+          "zh": "但是鱿鱼游得也很快。",
+          "file": "sentence-91.mp3"
+        },
+        {
+          "page": 37,
+          "en": "That's it! Our songs are special. That is amazing!",
+          "zh": "没错！我们的歌声很特别。这真神奇！",
+          "file": "sentence-95.mp3"
+        },
+        {
+          "page": 37,
+          "en": "Some animals are wild. Some others live with us.",
+          "zh": "有些动物是野生的，有些和我们一起生活。",
+          "file": "sentence-96.mp3"
+        },
+        {
+          "page": 37,
+          "en": "They are all special.",
+          "zh": "它们都很特别。",
+          "file": "sentence-98.mp3"
+        },
+        {
+          "page": 26,
+          "en": "How are animals different?",
+          "zh": "动物有哪些不同？",
+          "file": "topic-page26.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "they",
+      "en": "they",
+      "zh": "他们；她们；它们",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/they.mp3",
+      "spokenText": "they",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "They are all special.",
+          "zh": "它们都很特别。",
+          "file": "sentence-98.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "what",
+      "en": "what",
+      "zh": "什么",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/what.mp3",
+      "spokenText": "what",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "What animals do you know?",
+          "zh": "你知道哪些动物？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 28,
+          "en": "What pets do you know?",
+          "zh": "你知道哪些宠物？",
+          "file": "topic-page28.mp3"
+        },
+        {
+          "page": 31,
+          "en": "What wild animals do you know?",
+          "zh": "你知道哪些野生动物？",
+          "file": "topic-page31.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "you",
+      "en": "you",
+      "zh": "你；你们",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/you.mp3",
+      "spokenText": "you",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "What animals do you know?",
+          "zh": "你知道哪些动物？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Thanks. Do you have a pet?",
+          "zh": "谢谢。你有宠物吗？",
+          "file": "sentence-11.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Do you have a pet?",
+          "zh": "你有宠物吗？",
+          "file": "sentence-14.mp3"
+        },
+        {
+          "page": 28,
+          "en": "What pets do you know?",
+          "zh": "你知道哪些宠物？",
+          "file": "topic-page28.mp3"
+        },
+        {
+          "page": 31,
+          "en": "What wild animals do you know?",
+          "zh": "你知道哪些野生动物？",
+          "file": "topic-page31.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "a",
+      "en": "a",
+      "zh": "一个；一（不定冠词）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/a.mp3",
+      "spokenText": "a",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "Thanks. Do you have a pet?",
+          "zh": "谢谢。你有宠物吗？",
+          "file": "sentence-11.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Yes, I do. I have a cat.",
+          "zh": "是的，我有。我有一只猫。",
+          "file": "sentence-13.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Do you have a pet?",
+          "zh": "你有宠物吗？",
+          "file": "sentence-14.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Yes, I do. I have a dog.",
+          "zh": "是的，我有。我有一只狗。",
+          "file": "sentence-15.mp3"
+        },
+        {
+          "page": 29,
+          "en": "Run, run, run like a dog.",
+          "zh": "跑一跑，像狗一样跑。",
+          "file": "sentence-21.mp3"
+        },
+        {
+          "page": 29,
+          "en": "Sleep, sleep, sleep like a cat.",
+          "zh": "睡一睡，像猫一样睡。",
+          "file": "sentence-22.mp3"
+        },
+        {
+          "page": 29,
+          "en": "Sing, sing, sing like a bird.",
+          "zh": "唱一唱，像鸟一样唱。",
+          "file": "sentence-23.mp3"
+        },
+        {
+          "page": 29,
+          "en": "Hop, hop, hop like a rabbit.",
+          "zh": "跳一跳，像兔子一样跳。",
+          "file": "sentence-24.mp3"
+        },
+        {
+          "page": 29,
+          "en": "Swim, swim, swim like a fish.",
+          "zh": "游一游，像鱼一样游。",
+          "file": "sentence-25.mp3"
+        },
+        {
+          "page": 31,
+          "en": "It's a fox.",
+          "zh": "它是一只狐狸。",
+          "file": "sentence-46.mp3"
+        },
+        {
+          "page": 31,
+          "en": "It's a red panda.",
+          "zh": "它是一只小熊猫。",
+          "file": "sentence-48.mp3"
+        },
+        {
+          "page": 32,
+          "en": "It's a panda.",
+          "zh": "它是一只大熊猫。",
+          "file": "sentence-51.mp3"
+        },
+        {
+          "page": 32,
+          "en": "It's a monkey.",
+          "zh": "它是一只猴子。",
+          "file": "sentence-52.mp3"
+        },
+        {
+          "page": 32,
+          "en": "It's a tiger.",
+          "zh": "它是一只老虎。",
+          "file": "sentence-53.mp3"
+        },
+        {
+          "page": 32,
+          "en": "It's a lion.",
+          "zh": "它是一头狮子。",
+          "file": "sentence-55.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a monkey.",
+          "zh": "这是什么？它是一只猴子。",
+          "file": "sentence-57.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a panda.",
+          "zh": "这是什么？它是一只大熊猫。",
+          "file": "sentence-58.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a lion!",
+          "zh": "这是什么？它是一头狮子！",
+          "file": "sentence-59.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a tiger!",
+          "zh": "这是什么？它是一只老虎！",
+          "file": "sentence-60.mp3"
+        },
+        {
+          "page": 35,
+          "en": "This is a monkey.",
+          "zh": "这是一只猴子。",
+          "file": "sentence-84.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "what's",
+      "en": "What's",
+      "zh": "what is 的缩写；是什么",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "what is",
+      "note": "",
+      "file": "supplemental/what-s.mp3",
+      "spokenText": "What's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 31,
+          "en": "Look! What's this?",
+          "zh": "看！这是什么？",
+          "file": "sentence-45.mp3"
+        },
+        {
+          "page": 31,
+          "en": "Miss White, what's that?",
+          "zh": "怀特老师，那是什么？",
+          "file": "sentence-47.mp3"
+        },
+        {
+          "page": 31,
+          "en": "What's this?",
+          "zh": "这是什么？",
+          "file": "sentence-50.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's an elephant.",
+          "zh": "这是什么？它是一头大象。",
+          "file": "sentence-56.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a monkey.",
+          "zh": "这是什么？它是一只猴子。",
+          "file": "sentence-57.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a panda.",
+          "zh": "这是什么？它是一只大熊猫。",
+          "file": "sentence-58.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a lion!",
+          "zh": "这是什么？它是一头狮子！",
+          "file": "sentence-59.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a tiger!",
+          "zh": "这是什么？它是一只老虎！",
+          "file": "sentence-60.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "your",
+      "en": "your",
+      "zh": "你的；你们的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/your.mp3",
+      "spokenText": "your",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "I like your dog.",
+          "zh": "我喜欢你的狗。",
+          "file": "sentence-10.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "to",
+      "en": "to",
+      "zh": "到；向；用于 to meet 等动词结构",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/to.mp3",
+      "spokenText": "to",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 31,
+          "en": "Let's go to the zoo!",
+          "zh": "我们去动物园吧！",
+          "file": "sentence-43.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "let's",
+      "en": "Let's",
+      "zh": "let us 的缩写；让我们",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "let us",
+      "note": "",
+      "file": "supplemental/let-s.mp3",
+      "spokenText": "Let's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 31,
+          "en": "Let's go to the zoo!",
+          "zh": "我们去动物园吧！",
+          "file": "sentence-43.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "my",
+      "en": "my",
+      "zh": "我的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/my.mp3",
+      "spokenText": "my",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 29,
+          "en": "I like my dog.",
+          "zh": "我喜欢我的狗。",
+          "file": "sentence-20.mp3"
+        },
+        {
+          "page": 35,
+          "en": "This is my book.",
+          "zh": "这是我的书。",
+          "file": "sentence-83.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "is",
+      "en": "is",
+      "zh": "是（be 的一种形式）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/is.mp3",
+      "spokenText": "is",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 33,
+          "en": "The giraffe is tall!",
+          "zh": "长颈鹿很高！",
+          "file": "sentence-62.mp3"
+        },
+        {
+          "page": 33,
+          "en": "The lion is fast!",
+          "zh": "狮子跑得很快！",
+          "file": "sentence-63.mp3"
+        },
+        {
+          "page": 33,
+          "en": "The elephant is big!",
+          "zh": "大象很大！",
+          "file": "sentence-64.mp3"
+        },
+        {
+          "page": 33,
+          "en": "The fish is small!",
+          "zh": "鱼很小！",
+          "file": "sentence-65.mp3"
+        },
+        {
+          "page": 35,
+          "en": "This is my book.",
+          "zh": "这是我的书。",
+          "file": "sentence-83.mp3"
+        },
+        {
+          "page": 35,
+          "en": "This is a monkey.",
+          "zh": "这是一只猴子。",
+          "file": "sentence-84.mp3"
+        },
+        {
+          "page": 35,
+          "en": "This is an ...",
+          "zh": "这是一只……",
+          "file": "sentence-86.mp3"
+        },
+        {
+          "page": 37,
+          "en": "That's it! Our songs are special. That is amazing!",
+          "zh": "没错！我们的歌声很特别。这真神奇！",
+          "file": "sentence-95.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "too",
+      "en": "too",
+      "zh": "也",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/too.mp3",
+      "spokenText": "too",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 36,
+          "en": "But whale sharks are big too.",
+          "zh": "但是鲸鲨的体形也很大。",
+          "file": "sentence-89.mp3"
+        },
+        {
+          "page": 36,
+          "en": "But squids are fast too.",
+          "zh": "但是鱿鱼游得也很快。",
+          "file": "sentence-91.mp3"
+        },
+        {
+          "page": 37,
+          "en": "But sea lions can jump too.",
+          "zh": "但是海狮也会跳。",
+          "file": "sentence-93.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "be",
+      "en": "be",
+      "zh": "是；成为；处于某种状态",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/be.mp3",
+      "spokenText": "be",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "Animals can be big, small, fast or slow.",
+          "zh": "动物有大的、小的、快的和慢的。",
+          "file": "sentence-97.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "hands",
+      "en": "hands",
+      "zh": "手（hand 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "hand",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/hands.mp3",
+      "spokenText": "hands",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "Whose hands are these?",
+          "zh": "这些是谁的手？",
+          "file": "sentence-01.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "i",
+      "en": "I",
+      "zh": "我",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "代词“我”；释义与字母 I 名称分开。",
+      "file": "supplemental/i.mp3",
+      "spokenText": "I",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "I like your dog.",
+          "zh": "我喜欢你的狗。",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 28,
+          "en": "No, I don't.",
+          "zh": "不，我没有。",
+          "file": "sentence-12.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Yes, I do. I have a cat.",
+          "zh": "是的，我有。我有一只猫。",
+          "file": "sentence-13.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Yes, I do. I have a dog.",
+          "zh": "是的，我有。我有一只狗。",
+          "file": "sentence-15.mp3"
+        },
+        {
+          "page": 29,
+          "en": "I like fish.",
+          "zh": "我喜欢鱼。",
+          "file": "sentence-16.mp3"
+        },
+        {
+          "page": 29,
+          "en": "I like cats.",
+          "zh": "我喜欢猫。",
+          "file": "sentence-17.mp3"
+        },
+        {
+          "page": 29,
+          "en": "I like birds.",
+          "zh": "我喜欢鸟。",
+          "file": "sentence-18.mp3"
+        },
+        {
+          "page": 29,
+          "en": "I like rabbits.",
+          "zh": "我喜欢兔子。",
+          "file": "sentence-19.mp3"
+        },
+        {
+          "page": 29,
+          "en": "I like my dog.",
+          "zh": "我喜欢我的狗。",
+          "file": "sentence-20.mp3"
+        },
+        {
+          "page": 33,
+          "en": "I like fish!",
+          "zh": "我喜欢鱼！",
+          "file": "sentence-66.mp3"
+        },
+        {
+          "page": 34,
+          "en": "Animals I like",
+          "zh": "我喜欢的动物",
+          "file": "sentence-82.mp3"
+        },
+        {
+          "page": 37,
+          "en": "Aha! I know! We sing!",
+          "zh": "啊哈！我知道了！我们会唱歌！",
+          "file": "sentence-94.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "look",
+      "en": "look",
+      "zh": "看！",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/look.mp3",
+      "spokenText": "Look!",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 31,
+          "en": "Look! What's this?",
+          "zh": "看！这是什么？",
+          "file": "sentence-45.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit2/google-v1",
+        "file": "sentence-14.mp3",
+        "source": {
+          "file": "sentence-14.mp3",
+          "text": "Look!",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%21&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "7ced0d89b4ee5f3c7126153ac8badccbbf3af2be3e600d0edec8f4b5b6b23e68"
+        }
+      }
+    },
+    {
+      "key": "no",
+      "en": "no",
+      "zh": "不；不是",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/no.mp3",
+      "spokenText": "no",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "No, I don't.",
+          "zh": "不，我没有。",
+          "file": "sentence-12.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "it's",
+      "en": "It's",
+      "zh": "it is 的缩写；它是",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "it is",
+      "note": "",
+      "file": "supplemental/it-s.mp3",
+      "spokenText": "It's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 31,
+          "en": "It's a fox.",
+          "zh": "它是一只狐狸。",
+          "file": "sentence-46.mp3"
+        },
+        {
+          "page": 31,
+          "en": "It's a red panda.",
+          "zh": "它是一只小熊猫。",
+          "file": "sentence-48.mp3"
+        },
+        {
+          "page": 31,
+          "en": "It's cute!",
+          "zh": "它真可爱！",
+          "file": "sentence-49.mp3"
+        },
+        {
+          "page": 32,
+          "en": "It's a panda.",
+          "zh": "它是一只大熊猫。",
+          "file": "sentence-51.mp3"
+        },
+        {
+          "page": 32,
+          "en": "It's a monkey.",
+          "zh": "它是一只猴子。",
+          "file": "sentence-52.mp3"
+        },
+        {
+          "page": 32,
+          "en": "It's a tiger.",
+          "zh": "它是一只老虎。",
+          "file": "sentence-53.mp3"
+        },
+        {
+          "page": 32,
+          "en": "It's an elephant.",
+          "zh": "它是一头大象。",
+          "file": "sentence-54.mp3"
+        },
+        {
+          "page": 32,
+          "en": "It's a lion.",
+          "zh": "它是一头狮子。",
+          "file": "sentence-55.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's an elephant.",
+          "zh": "这是什么？它是一头大象。",
+          "file": "sentence-56.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a monkey.",
+          "zh": "这是什么？它是一只猴子。",
+          "file": "sentence-57.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a panda.",
+          "zh": "这是什么？它是一只大熊猫。",
+          "file": "sentence-58.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a lion!",
+          "zh": "这是什么？它是一头狮子！",
+          "file": "sentence-59.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a tiger!",
+          "zh": "这是什么？它是一只老虎！",
+          "file": "sentence-60.mp3"
+        },
+        {
+          "page": 35,
+          "en": "It's cute.",
+          "zh": "它很可爱。",
+          "file": "sentence-85.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "we",
+      "en": "we",
+      "zh": "我们",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/we.mp3",
+      "spokenText": "we",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "We love them all.",
+          "zh": "我们都喜欢它们。",
+          "file": "sentence-06.mp3"
+        },
+        {
+          "page": 36,
+          "en": "Fish are amazing. Are we amazing, Mum?",
+          "zh": "鱼真神奇。妈妈，我们也神奇吗？",
+          "file": "sentence-87.mp3"
+        },
+        {
+          "page": 37,
+          "en": "We can jump.",
+          "zh": "我们会跳。",
+          "file": "sentence-92.mp3"
+        },
+        {
+          "page": 37,
+          "en": "Aha! I know! We sing!",
+          "zh": "啊哈！我知道了！我们会唱歌！",
+          "file": "sentence-94.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-35.mp3",
+        "source": {
+          "file": "sentence-35.mp3",
+          "text": "we",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=we&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "245219d2449d2b882425c8e88fbe2ecfa382d97da218e0a1d2d5f2b3e1d3c8b1"
+        }
+      }
+    },
+    {
+      "key": "thanks",
+      "en": "thanks",
+      "zh": "谢谢！",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/thanks.mp3",
+      "spokenText": "Thanks!",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "Thanks. Do you have a pet?",
+          "zh": "谢谢。你有宠物吗？",
+          "file": "sentence-11.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-87.mp3",
+        "source": {
+          "file": "sentence-87.mp3",
+          "text": "Thanks!",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thanks%21&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "1971c4f879abfe93d4e68de178480cd0eda5a1fd4d2418fdfab283658ca445bf"
+        }
+      }
+    },
+    {
+      "key": "yes",
+      "en": "yes",
+      "zh": "是的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/yes.mp3",
+      "spokenText": "yes",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "Yes, I do. I have a cat.",
+          "zh": "是的，我有。我有一只猫。",
+          "file": "sentence-13.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Yes, I do. I have a dog.",
+          "zh": "是的，我有。我有一只狗。",
+          "file": "sentence-15.mp3"
+        },
+        {
+          "page": 36,
+          "en": "Yes. We're big.",
+          "zh": "是的。我们的体形很大。",
+          "file": "sentence-88.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-46.mp3",
+        "source": {
+          "file": "sentence-46.mp3",
+          "text": "yes",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yes&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "577e43126ded588f09876ac796281770020e0c824a6629a783c45113ffc118d7"
+        }
+      }
+    },
+    {
+      "key": "with",
+      "en": "with",
+      "zh": "和……一起；带有；以……方式",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "with care 表示“认真地；用心地”。",
+      "file": "supplemental/with.mp3",
+      "spokenText": "with",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "Some animals are wild. Some others live with us.",
+          "zh": "有些动物是野生的，有些和我们一起生活。",
+          "file": "sentence-96.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "do",
+      "en": "do",
+      "zh": "做；也用于构成问句等句式",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/do.mp3",
+      "spokenText": "do",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "What animals do you know?",
+          "zh": "你知道哪些动物？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Thanks. Do you have a pet?",
+          "zh": "谢谢。你有宠物吗？",
+          "file": "sentence-11.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Yes, I do. I have a cat.",
+          "zh": "是的，我有。我有一只猫。",
+          "file": "sentence-13.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Do you have a pet?",
+          "zh": "你有宠物吗？",
+          "file": "sentence-14.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Yes, I do. I have a dog.",
+          "zh": "是的，我有。我有一只狗。",
+          "file": "sentence-15.mp3"
+        },
+        {
+          "page": 28,
+          "en": "What pets do you know?",
+          "zh": "你知道哪些宠物？",
+          "file": "topic-page28.mp3"
+        },
+        {
+          "page": 31,
+          "en": "What wild animals do you know?",
+          "zh": "你知道哪些野生动物？",
+          "file": "topic-page31.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "this",
+      "en": "this",
+      "zh": "这；这个",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/this.mp3",
+      "spokenText": "this",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 31,
+          "en": "Look! What's this?",
+          "zh": "看！这是什么？",
+          "file": "sentence-45.mp3"
+        },
+        {
+          "page": 31,
+          "en": "What's this?",
+          "zh": "这是什么？",
+          "file": "sentence-50.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's an elephant.",
+          "zh": "这是什么？它是一头大象。",
+          "file": "sentence-56.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a monkey.",
+          "zh": "这是什么？它是一只猴子。",
+          "file": "sentence-57.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a panda.",
+          "zh": "这是什么？它是一只大熊猫。",
+          "file": "sentence-58.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a lion!",
+          "zh": "这是什么？它是一头狮子！",
+          "file": "sentence-59.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's a tiger!",
+          "zh": "这是什么？它是一只老虎！",
+          "file": "sentence-60.mp3"
+        },
+        {
+          "page": 35,
+          "en": "This is my book.",
+          "zh": "这是我的书。",
+          "file": "sentence-83.mp3"
+        },
+        {
+          "page": 35,
+          "en": "This is a monkey.",
+          "zh": "这是一只猴子。",
+          "file": "sentence-84.mp3"
+        },
+        {
+          "page": 35,
+          "en": "This is an ...",
+          "zh": "这是一只……",
+          "file": "sentence-86.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "that",
+      "en": "that",
+      "zh": "那；那个",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/that.mp3",
+      "spokenText": "that",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 31,
+          "en": "Miss White, what's that?",
+          "zh": "怀特老师，那是什么？",
+          "file": "sentence-47.mp3"
+        },
+        {
+          "page": 37,
+          "en": "That's it! Our songs are special. That is amazing!",
+          "zh": "没错！我们的歌声很特别。这真神奇！",
+          "file": "sentence-95.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "it",
+      "en": "it",
+      "zh": "它",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/it.mp3",
+      "spokenText": "it",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "That's it! Our songs are special. That is amazing!",
+          "zh": "没错！我们的歌声很特别。这真神奇！",
+          "file": "sentence-95.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "how",
+      "en": "how",
+      "zh": "怎样；多么",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/how.mp3",
+      "spokenText": "how",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 26,
+          "en": "How are animals different?",
+          "zh": "动物有哪些不同？",
+          "file": "topic-page26.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "the",
+      "en": "the",
+      "zh": "特指的人或事物（常不单独翻译）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/the.mp3",
+      "spokenText": "the",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 31,
+          "en": "Let's go to the zoo!",
+          "zh": "我们去动物园吧！",
+          "file": "sentence-43.mp3"
+        },
+        {
+          "page": 33,
+          "en": "The giraffe is tall!",
+          "zh": "长颈鹿很高！",
+          "file": "sentence-62.mp3"
+        },
+        {
+          "page": 33,
+          "en": "The lion is fast!",
+          "zh": "狮子跑得很快！",
+          "file": "sentence-63.mp3"
+        },
+        {
+          "page": 33,
+          "en": "The elephant is big!",
+          "zh": "大象很大！",
+          "file": "sentence-64.mp3"
+        },
+        {
+          "page": 33,
+          "en": "The fish is small!",
+          "zh": "鱼很小！",
+          "file": "sentence-65.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "different",
+      "en": "different",
+      "zh": "不同的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/different.mp3",
+      "spokenText": "different",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 26,
+          "en": "How are animals different?",
+          "zh": "动物有哪些不同？",
+          "file": "topic-page26.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "an",
+      "en": "an",
+      "zh": "一个；一（不定冠词）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/an.mp3",
+      "spokenText": "an",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 32,
+          "en": "It's an elephant.",
+          "zh": "它是一头大象。",
+          "file": "sentence-54.mp3"
+        },
+        {
+          "page": 32,
+          "en": "What's this? It's an elephant.",
+          "zh": "这是什么？它是一头大象。",
+          "file": "sentence-56.mp3"
+        },
+        {
+          "page": 35,
+          "en": "This is an ...",
+          "zh": "这是一只……",
+          "file": "sentence-86.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "but",
+      "en": "but",
+      "zh": "但是",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/but.mp3",
+      "spokenText": "but",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 36,
+          "en": "But whale sharks are big too.",
+          "zh": "但是鲸鲨的体形也很大。",
+          "file": "sentence-89.mp3"
+        },
+        {
+          "page": 36,
+          "en": "But squids are fast too.",
+          "zh": "但是鱿鱼游得也很快。",
+          "file": "sentence-91.mp3"
+        },
+        {
+          "page": 37,
+          "en": "But sea lions can jump too.",
+          "zh": "但是海狮也会跳。",
+          "file": "sentence-93.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "love",
+      "en": "love",
+      "zh": "爱；喜爱",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/love.mp3",
+      "spokenText": "love",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "We love them all.",
+          "zh": "我们都喜欢它们。",
+          "file": "sentence-06.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "or",
+      "en": "or",
+      "zh": "或者；还是",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/or.mp3",
+      "spokenText": "or",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "Animals can be big, small, fast or slow.",
+          "zh": "动物有大的、小的、快的和慢的。",
+          "file": "sentence-97.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "whose",
+      "en": "whose",
+      "zh": "谁的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/whose.mp3",
+      "spokenText": "whose",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "Whose hands are these?",
+          "zh": "这些是谁的手？",
+          "file": "sentence-01.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "these",
+      "en": "these",
+      "zh": "这些",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/these.mp3",
+      "spokenText": "these",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "Whose hands are these?",
+          "zh": "这些是谁的手？",
+          "file": "sentence-01.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "animals",
+      "en": "animals",
+      "zh": "动物（animal 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "animal",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/animals.mp3",
+      "spokenText": "animals",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "What animals do you know?",
+          "zh": "你知道哪些动物？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 27,
+          "en": "So many animals,",
+          "zh": "这么多动物，",
+          "file": "sentence-03.mp3"
+        },
+        {
+          "page": 27,
+          "en": "Pets and wild animals,",
+          "zh": "宠物和野生动物，",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 34,
+          "en": "Wild animals",
+          "zh": "野生动物",
+          "file": "sentence-81.mp3"
+        },
+        {
+          "page": 34,
+          "en": "Animals I like",
+          "zh": "我喜欢的动物",
+          "file": "sentence-82.mp3"
+        },
+        {
+          "page": 37,
+          "en": "Some animals are wild. Some others live with us.",
+          "zh": "有些动物是野生的，有些和我们一起生活。",
+          "file": "sentence-96.mp3"
+        },
+        {
+          "page": 37,
+          "en": "Animals can be big, small, fast or slow.",
+          "zh": "动物有大的、小的、快的和慢的。",
+          "file": "sentence-97.mp3"
+        },
+        {
+          "page": 26,
+          "en": "How are animals different?",
+          "zh": "动物有哪些不同？",
+          "file": "topic-page26.mp3"
+        },
+        {
+          "page": 31,
+          "en": "What wild animals do you know?",
+          "zh": "你知道哪些野生动物？",
+          "file": "topic-page31.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "know",
+      "en": "know",
+      "zh": "知道；认识",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/know.mp3",
+      "spokenText": "know",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "What animals do you know?",
+          "zh": "你知道哪些动物？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 37,
+          "en": "Aha! I know! We sing!",
+          "zh": "啊哈！我知道了！我们会唱歌！",
+          "file": "sentence-94.mp3"
+        },
+        {
+          "page": 28,
+          "en": "What pets do you know?",
+          "zh": "你知道哪些宠物？",
+          "file": "topic-page28.mp3"
+        },
+        {
+          "page": 31,
+          "en": "What wild animals do you know?",
+          "zh": "你知道哪些野生动物？",
+          "file": "topic-page31.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "so",
+      "en": "so",
+      "zh": "如此；这么",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/so.mp3",
+      "spokenText": "so",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "So many animals,",
+          "zh": "这么多动物，",
+          "file": "sentence-03.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "many",
+      "en": "many",
+      "zh": "许多",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/many.mp3",
+      "spokenText": "many",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "So many animals,",
+          "zh": "这么多动物，",
+          "file": "sentence-03.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "pets",
+      "en": "pets",
+      "zh": "宠物",
+      "kind": "form",
+      "aliases": [],
+      "base": "pet",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-80.mp3",
+      "spokenText": "Pets",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "Pets and wild animals,",
+          "zh": "宠物和野生动物，",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 34,
+          "en": "Pets",
+          "zh": "宠物",
+          "file": "sentence-80.mp3"
+        },
+        {
+          "page": 28,
+          "en": "What pets do you know?",
+          "zh": "你知道哪些宠物？",
+          "file": "topic-page28.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-80.mp3",
+        "source": {
+          "file": "sentence-80.mp3",
+          "text": "Pets",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Pets&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "1dedc5dfe37a1aaa41cc1e7de10ebbe10314bf2d28e1d6bde14544c83b0d8a3f"
+        }
+      }
+    },
+    {
+      "key": "wild",
+      "en": "wild",
+      "zh": "野生的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/wild.mp3",
+      "spokenText": "wild",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "Pets and wild animals,",
+          "zh": "宠物和野生动物，",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 34,
+          "en": "Wild animals",
+          "zh": "野生动物",
+          "file": "sentence-81.mp3"
+        },
+        {
+          "page": 37,
+          "en": "Some animals are wild. Some others live with us.",
+          "zh": "有些动物是野生的，有些和我们一起生活。",
+          "file": "sentence-96.mp3"
+        },
+        {
+          "page": 31,
+          "en": "What wild animals do you know?",
+          "zh": "你知道哪些野生动物？",
+          "file": "topic-page31.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "all",
+      "en": "all",
+      "zh": "所有的；全部",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/all.mp3",
+      "spokenText": "all",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "We love them all.",
+          "zh": "我们都喜欢它们。",
+          "file": "sentence-06.mp3"
+        },
+        {
+          "page": 37,
+          "en": "They are all special.",
+          "zh": "它们都很特别。",
+          "file": "sentence-98.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "song",
+      "en": "song",
+      "zh": "歌曲",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/song.mp3",
+      "spokenText": "song",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 27,
+          "en": "Animal song",
+          "zh": "动物歌",
+          "file": "sentence-07.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "morning",
+      "en": "morning",
+      "zh": "早晨；上午",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/morning.mp3",
+      "spokenText": "morning",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "Good morning, Mike!",
+          "zh": "早上好，迈克！",
+          "file": "sentence-08.mp3"
+        },
+        {
+          "page": 28,
+          "en": "Good morning! Come in.",
+          "zh": "早上好！请进。",
+          "file": "sentence-09.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "mike",
+      "en": "Mike",
+      "zh": "迈克（人名）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "file": "supplemental/mike.mp3",
+      "spokenText": "Mike",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "Good morning, Mike!",
+          "zh": "早上好，迈克！",
+          "file": "sentence-08.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "come",
+      "en": "come",
+      "zh": "来",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/come.mp3",
+      "spokenText": "come",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "Good morning! Come in.",
+          "zh": "早上好！请进。",
+          "file": "sentence-09.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "in",
+      "en": "in",
+      "zh": "在……里面",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/in.mp3",
+      "spokenText": "in",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "Good morning! Come in.",
+          "zh": "早上好！请进。",
+          "file": "sentence-09.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "don't",
+      "en": "don't",
+      "zh": "do not 的缩写；不（用于否定）",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "do not",
+      "note": "",
+      "file": "supplemental/don-t.mp3",
+      "spokenText": "don't",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 28,
+          "en": "No, I don't.",
+          "zh": "不，我没有。",
+          "file": "sentence-12.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "cats",
+      "en": "cats",
+      "zh": "猫（cat 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "cat",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/cats.mp3",
+      "spokenText": "cats",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 29,
+          "en": "I like cats.",
+          "zh": "我喜欢猫。",
+          "file": "sentence-17.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "birds",
+      "en": "birds",
+      "zh": "鸟（bird 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "bird",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/birds.mp3",
+      "spokenText": "birds",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 29,
+          "en": "I like birds.",
+          "zh": "我喜欢鸟。",
+          "file": "sentence-18.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "rabbits",
+      "en": "rabbits",
+      "zh": "兔（rabbit 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "rabbit",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/rabbits.mp3",
+      "spokenText": "rabbits",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 29,
+          "en": "I like rabbits.",
+          "zh": "我喜欢兔子。",
+          "file": "sentence-19.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "run",
+      "en": "run",
+      "zh": "跑！",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-61.mp3",
+      "spokenText": "Run!",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 29,
+          "en": "Run, run, run like a dog.",
+          "zh": "跑一跑，像狗一样跑。",
+          "file": "sentence-21.mp3"
+        },
+        {
+          "page": 32,
+          "en": "Run!",
+          "zh": "跑！",
+          "file": "sentence-61.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-61.mp3",
+        "source": {
+          "file": "sentence-61.mp3",
+          "text": "Run!",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Run%21&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "007d7c07d3e07acd5a1d305e3dabb01e2c3c233a01e744e649d3e717c8b0674c"
+        }
+      }
+    },
+    {
+      "key": "sleep",
+      "en": "sleep",
+      "zh": "睡觉",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/sleep.mp3",
+      "spokenText": "sleep",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 29,
+          "en": "Sleep, sleep, sleep like a cat.",
+          "zh": "睡一睡，像猫一样睡。",
+          "file": "sentence-22.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "sing",
+      "en": "sing",
+      "zh": "唱；唱歌",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/sing.mp3",
+      "spokenText": "sing",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 29,
+          "en": "Sing, sing, sing like a bird.",
+          "zh": "唱一唱，像鸟一样唱。",
+          "file": "sentence-23.mp3"
+        },
+        {
+          "page": 37,
+          "en": "Aha! I know! We sing!",
+          "zh": "啊哈！我知道了！我们会唱歌！",
+          "file": "sentence-94.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "hop",
+      "en": "hop",
+      "zh": "单脚跳",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/hop.mp3",
+      "spokenText": "hop",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 29,
+          "en": "Hop, hop, hop like a rabbit.",
+          "zh": "跳一跳，像兔子一样跳。",
+          "file": "sentence-24.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit4/google-v1",
+        "file": "sentence-41.mp3",
+        "source": {
+          "file": "sentence-41.mp3",
+          "text": "hop",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=hop&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "e561d9679812b8d582d6f1887ec53cc84ccb8d27ecf8db3f6e33b00340e3324b"
+        }
+      }
+    },
+    {
+      "key": "swim",
+      "en": "swim",
+      "zh": "游泳",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/swim.mp3",
+      "spokenText": "swim",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 29,
+          "en": "Swim, swim, swim like a fish.",
+          "zh": "游一游，像鱼一样游。",
+          "file": "sentence-25.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "ill",
+      "en": "ill",
+      "zh": "生病的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-30.mp3",
+      "spokenText": "ill",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "ill",
+          "zh": "生病的",
+          "file": "sentence-30.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-30.mp3",
+        "source": {
+          "file": "sentence-30.mp3",
+          "text": "ill",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=ill&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "19006cae6fa7d02f85b37fa6a7d288a5bf3a6505b48fde9fe636dd92898cd3f1"
+        }
+      }
+    },
+    {
+      "key": "kid",
+      "en": "kid",
+      "zh": "小孩",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-31.mp3",
+      "spokenText": "kid",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "kid",
+          "zh": "小孩",
+          "file": "sentence-31.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-31.mp3",
+        "source": {
+          "file": "sentence-31.mp3",
+          "text": "kid",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=kid&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "170da9022767f225cf54825cfca3f054cb3a15f7cc0b7bfa93b90c2493d2eee4"
+        }
+      }
+    },
+    {
+      "key": "job",
+      "en": "job",
+      "zh": "工作",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-32.mp3",
+      "spokenText": "job",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "job",
+          "zh": "工作",
+          "file": "sentence-32.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-32.mp3",
+        "source": {
+          "file": "sentence-32.mp3",
+          "text": "job",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=job&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "3327a36c5a5357af375a49ddc1d6e0e2a4b3efb54a80b79e6b3c20cce004ec92"
+        }
+      }
+    },
+    {
+      "key": "jet",
+      "en": "jet",
+      "zh": "喷气式飞机",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-33.mp3",
+      "spokenText": "jet",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "jet",
+          "zh": "喷气式飞机",
+          "file": "sentence-33.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-33.mp3",
+        "source": {
+          "file": "sentence-33.mp3",
+          "text": "jet",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=jet&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "597a4617bafa93818323ffa88c66b225b9fa9af6ca6f70123285e3ba789f6368"
+        }
+      }
+    },
+    {
+      "key": "kim",
+      "en": "Kim",
+      "zh": "金姆（人名）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；读音需试听确认。",
+      "file": "sentence-34.mp3",
+      "spokenText": "Kim",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "Kim",
+          "zh": "金姆（人名）",
+          "file": "sentence-34.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-34.mp3",
+        "source": {
+          "file": "sentence-34.mp3",
+          "text": "Kim",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Kim&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "780b206ca393aefa37b84b6e36288a2e27187b9d3763bc6f644f4a74d40030e3"
+        }
+      }
+    },
+    {
+      "key": "kite",
+      "en": "kite",
+      "zh": "风筝",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-35.mp3",
+      "spokenText": "kite",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "kite",
+          "zh": "风筝",
+          "file": "sentence-35.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-35.mp3",
+        "source": {
+          "file": "sentence-35.mp3",
+          "text": "kite",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=kite&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "5e0fe0ee946701314489ef4358f364d5cf52ff27a3a52748ba36d55dbf276272"
+        }
+      }
+    },
+    {
+      "key": "leg",
+      "en": "leg",
+      "zh": "腿",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-36.mp3",
+      "spokenText": "leg",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "leg",
+          "zh": "腿",
+          "file": "sentence-36.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-36.mp3",
+        "source": {
+          "file": "sentence-36.mp3",
+          "text": "leg",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=leg&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "9a995d0e93b092d6853c373998ef5ea7c93e58b10056ae661411a2974f09fb01"
+        }
+      }
+    },
+    {
+      "key": "dig",
+      "en": "dig",
+      "zh": "挖",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-39.mp3",
+      "spokenText": "dig",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "dig",
+          "zh": "挖",
+          "file": "sentence-39.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-39.mp3",
+        "source": {
+          "file": "sentence-39.mp3",
+          "text": "dig",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=dig&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "bdf5afeb56dbf6effea10213df8f1de1d757b8ed54651fab474f5e825cea13fb"
+        }
+      }
+    },
+    {
+      "key": "jim",
+      "en": "Jim",
+      "zh": "吉姆（人名）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；读音需试听确认。",
+      "file": "sentence-40.mp3",
+      "spokenText": "Jim",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "Jim",
+          "zh": "吉姆（人名）",
+          "file": "sentence-40.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-40.mp3",
+        "source": {
+          "file": "sentence-40.mp3",
+          "text": "Jim",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Jim&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "553ded74a62e1675caecb2aa409bbbdd9896ec81c59b668aed8ab5f7585789a0"
+        }
+      }
+    },
+    {
+      "key": "lab",
+      "en": "lab",
+      "zh": "实验室",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-41.mp3",
+      "spokenText": "lab",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "lab",
+          "zh": "实验室",
+          "file": "sentence-41.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-41.mp3",
+        "source": {
+          "file": "sentence-41.mp3",
+          "text": "lab",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=lab&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "44c67bd46af3442417a9df717a9397c9c3db20d5d7bfba67cd1c1d1a78ce436e"
+        }
+      }
+    },
+    {
+      "key": "led",
+      "en": "led",
+      "zh": "带领（过去式）",
+      "kind": "form",
+      "aliases": [],
+      "base": "lead",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-42.mp3",
+      "spokenText": "led",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 30,
+          "en": "led",
+          "zh": "带领（过去式）",
+          "file": "sentence-42.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-42.mp3",
+        "source": {
+          "file": "sentence-42.mp3",
+          "text": "led",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=led&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "a6d43e19ac1e57d93cde25fec9108c5c5dc2c99931510a98d88a50f60d4b64ed"
+        }
+      }
+    },
+    {
+      "key": "great",
+      "en": "great",
+      "zh": "太好了！",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-44.mp3",
+      "spokenText": "Great!",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 31,
+          "en": "Great!",
+          "zh": "太好了！",
+          "file": "sentence-44.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit3/google-v1",
+        "file": "sentence-44.mp3",
+        "source": {
+          "file": "sentence-44.mp3",
+          "text": "Great!",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Great%21&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "91a6842f025e4c8673152ec8c019581129111babd61a38dc25eeeac727b08561"
+        }
+      }
+    },
+    {
+      "key": "miss white",
+      "en": "Miss White",
+      "zh": "怀特老师（课文人物称呼）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "file": "supplemental/miss-white.mp3",
+      "spokenText": "Miss White",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 31,
+          "en": "Miss White, what's that?",
+          "zh": "怀特老师，那是什么？",
+          "file": "sentence-47.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "book",
+      "en": "book",
+      "zh": "书",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/book.mp3",
+      "spokenText": "book",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 35,
+          "en": "This is my book.",
+          "zh": "这是我的书。",
+          "file": "sentence-83.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "amazing",
+      "en": "amazing",
+      "zh": "令人惊奇的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/amazing.mp3",
+      "spokenText": "amazing",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 36,
+          "en": "Fish are amazing. Are we amazing, Mum?",
+          "zh": "鱼真神奇。妈妈，我们也神奇吗？",
+          "file": "sentence-87.mp3"
+        },
+        {
+          "page": 37,
+          "en": "That's it! Our songs are special. That is amazing!",
+          "zh": "没错！我们的歌声很特别。这真神奇！",
+          "file": "sentence-95.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "we're",
+      "en": "We're",
+      "zh": "we are 的缩写；我们是",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "we are",
+      "note": "",
+      "file": "supplemental/we-re.mp3",
+      "spokenText": "We're",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 36,
+          "en": "Yes. We're big.",
+          "zh": "是的。我们的体形很大。",
+          "file": "sentence-88.mp3"
+        },
+        {
+          "page": 36,
+          "en": "We're fast.",
+          "zh": "我们游得很快。",
+          "file": "sentence-90.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "whale",
+      "en": "whale",
+      "zh": "鲸",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "本课 whale sharks 是词组，表示“鲸鲨”，不是分别指鲸和鲨鱼。",
+      "file": "supplemental/whale.mp3",
+      "spokenText": "whale",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 36,
+          "en": "But whale sharks are big too.",
+          "zh": "但是鲸鲨的体形也很大。",
+          "file": "sentence-89.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "sharks",
+      "en": "sharks",
+      "zh": "鲨鱼（shark 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "shark",
+      "expanded": "",
+      "note": "本课 whale sharks 表示“鲸鲨”（复数）。",
+      "file": "supplemental/sharks.mp3",
+      "spokenText": "sharks",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 36,
+          "en": "But whale sharks are big too.",
+          "zh": "但是鲸鲨的体形也很大。",
+          "file": "sentence-89.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "squids",
+      "en": "squids",
+      "zh": "鱿鱼（squid 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "squid",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/squids.mp3",
+      "spokenText": "squids",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 36,
+          "en": "But squids are fast too.",
+          "zh": "但是鱿鱼游得也很快。",
+          "file": "sentence-91.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "jump",
+      "en": "jump",
+      "zh": "跳；跳跃",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/jump.mp3",
+      "spokenText": "jump",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "We can jump.",
+          "zh": "我们会跳。",
+          "file": "sentence-92.mp3"
+        },
+        {
+          "page": 37,
+          "en": "But sea lions can jump too.",
+          "zh": "但是海狮也会跳。",
+          "file": "sentence-93.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "lions",
+      "en": "lions",
+      "zh": "狮子（lion 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "lion",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/lions.mp3",
+      "spokenText": "lions",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "But sea lions can jump too.",
+          "zh": "但是海狮也会跳。",
+          "file": "sentence-93.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "aha",
+      "en": "aha",
+      "zh": "啊哈（发现或领会时的感叹）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/aha.mp3",
+      "spokenText": "aha",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "Aha! I know! We sing!",
+          "zh": "啊哈！我知道了！我们会唱歌！",
+          "file": "sentence-94.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "that's",
+      "en": "That's",
+      "zh": "that is 的缩写；那是",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "that is",
+      "note": "",
+      "file": "supplemental/that-s.mp3",
+      "spokenText": "That's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "That's it! Our songs are special. That is amazing!",
+          "zh": "没错！我们的歌声很特别。这真神奇！",
+          "file": "sentence-95.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "our",
+      "en": "our",
+      "zh": "我们的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/our.mp3",
+      "spokenText": "our",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "That's it! Our songs are special. That is amazing!",
+          "zh": "没错！我们的歌声很特别。这真神奇！",
+          "file": "sentence-95.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "songs",
+      "en": "songs",
+      "zh": "歌曲（song 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "song",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/songs.mp3",
+      "spokenText": "songs",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "That's it! Our songs are special. That is amazing!",
+          "zh": "没错！我们的歌声很特别。这真神奇！",
+          "file": "sentence-95.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "special",
+      "en": "special",
+      "zh": "特别的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/special.mp3",
+      "spokenText": "special",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "That's it! Our songs are special. That is amazing!",
+          "zh": "没错！我们的歌声很特别。这真神奇！",
+          "file": "sentence-95.mp3"
+        },
+        {
+          "page": 37,
+          "en": "They are all special.",
+          "zh": "它们都很特别。",
+          "file": "sentence-98.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "others",
+      "en": "others",
+      "zh": "其他人；其他事物",
+      "kind": "form",
+      "aliases": [],
+      "base": "other",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/others.mp3",
+      "spokenText": "others",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "Some animals are wild. Some others live with us.",
+          "zh": "有些动物是野生的，有些和我们一起生活。",
+          "file": "sentence-96.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "live",
+      "en": "live",
+      "zh": "生活；居住",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "本课使用动词义。该词有不同词性或词形读法，单词音频须重点核听，并与下方原句对照。",
+      "file": "supplemental/live.mp3",
+      "spokenText": "live",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "Some animals are wild. Some others live with us.",
+          "zh": "有些动物是野生的，有些和我们一起生活。",
+          "file": "sentence-96.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "slow",
+      "en": "slow",
+      "zh": "缓慢的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/slow.mp3",
+      "spokenText": "slow",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 37,
+          "en": "Animals can be big, small, fast or slow.",
+          "zh": "动物有大的、小的、快的和慢的。",
+          "file": "sentence-97.mp3"
+        }
+      ],
+      "reuse": null
+    }
+  ]
+}

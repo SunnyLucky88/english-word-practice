@@ -622,5 +622,17 @@
     "text": "Be careful!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Be+careful%21&tl=en&client=tw-ob&ttsspeed=1",
     "sha256": "a85d21f7e433c038fe57d1c7dac8397bdd110feac8d475b162afd4296c57a61c"
+  },
+  {
+    "file": "topic-page50.mp3",
+    "text": "Why are colours important?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Why+are+colours+important%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a8f27a25feec923af527738cf671afa310bc802fa1d932e3307cd45c9a805f0d"
+  },
+  {
+    "file": "topic-page55.mp3",
+    "text": "How do colours help us?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+do+colours+help+us%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8eb0311cd12d22a4e9218aea20800b6895ac04ec248ab868ce6dac3d2b11e600"
   }
 ]

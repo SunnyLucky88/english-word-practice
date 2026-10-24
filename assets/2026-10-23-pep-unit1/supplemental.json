@@ -1,0 +1,2611 @@
+{
+  "schemaVersion": 1,
+  "unit": 1,
+  "scope": "课文补充词，不属于教材书后词汇表，不进入默认练习",
+  "entries": [
+    {
+      "key": "are",
+      "en": "are",
+      "zh": "是（be 的一种形式）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/are.mp3",
+      "spokenText": "are",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "Are they friends?",
+          "zh": "他们是朋友吗？",
+          "file": "sentence-01.mp3"
+        },
+        {
+          "page": 13,
+          "en": "We are good friends now.",
+          "zh": "我们现在是好朋友了。",
+          "file": "sentence-81.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "they",
+      "en": "they",
+      "zh": "他们；她们；它们",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/they.mp3",
+      "spokenText": "they",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "Are they friends?",
+          "zh": "他们是朋友吗？",
+          "file": "sentence-01.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "friends",
+      "en": "friends",
+      "zh": "朋友（friend 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "friend",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/friends.mp3",
+      "spokenText": "friends",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "Are they friends?",
+          "zh": "他们是朋友吗？",
+          "file": "sentence-01.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Let's be friends.",
+          "zh": "我们做朋友吧。",
+          "file": "sentence-11.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I help my friends.",
+          "zh": "我帮助我的朋友们。",
+          "file": "sentence-60.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I am nice to my friends.",
+          "zh": "我对我的朋友们很好。",
+          "file": "key-11.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I am nice to my friends.",
+          "zh": "我对我的朋友们很好。",
+          "file": "key-11.mp3"
+        },
+        {
+          "page": 10,
+          "en": "What do friends do?",
+          "zh": "朋友们会做些什么？",
+          "file": "sentence-63.mp3"
+        },
+        {
+          "page": 11,
+          "en": "Make friends",
+          "zh": "交朋友（思维导图主题）",
+          "file": "sentence-69.mp3"
+        },
+        {
+          "page": 11,
+          "en": "Friends listen.",
+          "zh": "朋友们互相倾听。",
+          "file": "sentence-70.mp3"
+        },
+        {
+          "page": 11,
+          "en": "Friends help and share ...",
+          "zh": "朋友们帮助和分享……",
+          "file": "sentence-71.mp3"
+        },
+        {
+          "page": 13,
+          "en": "We are good friends now.",
+          "zh": "我们现在是好朋友了。",
+          "file": "sentence-81.mp3"
+        },
+        {
+          "page": 13,
+          "en": "Smile and say \"Hello!\" to make friends.",
+          "zh": "微笑着说“你好！”来交朋友。",
+          "file": "sentence-82.mp3"
+        },
+        {
+          "page": 13,
+          "en": "Good friends share, help and listen with care.",
+          "zh": "好朋友分享、帮助并认真倾听。",
+          "file": "sentence-83.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "what",
+      "en": "what",
+      "zh": "什么",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/what.mp3",
+      "spokenText": "what",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "What makes you a good friend?",
+          "zh": "怎样才能成为一个好朋友？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 10,
+          "en": "What do friends do?",
+          "zh": "朋友们会做些什么？",
+          "file": "sentence-63.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "makes",
+      "en": "makes",
+      "zh": "使；构成（make 的第三人称单数形式）",
+      "kind": "form",
+      "aliases": [],
+      "base": "make",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/makes.mp3",
+      "spokenText": "makes",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "What makes you a good friend?",
+          "zh": "怎样才能成为一个好朋友？",
+          "file": "sentence-02.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "you",
+      "en": "you",
+      "zh": "你；你们",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/you.mp3",
+      "spokenText": "you",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "What makes you a good friend?",
+          "zh": "怎样才能成为一个好朋友？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 3,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Thank you, Chen Jie.",
+          "zh": "谢谢你，陈杰。",
+          "file": "key-09.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Thank you.",
+          "zh": "谢谢你。",
+          "file": "sentence-48.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "a",
+      "en": "a",
+      "zh": "一个；一（不定冠词）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/a.mp3",
+      "spokenText": "a",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "What makes you a good friend?",
+          "zh": "怎样才能成为一个好朋友？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 3,
+          "en": "Let's play a game!",
+          "zh": "我们来玩个游戏吧！",
+          "file": "sentence-06.mp3"
+        },
+        {
+          "page": 8,
+          "en": "Am I a good friend? Yes, I am!",
+          "zh": "我是一个好朋友吗？是的，我是！",
+          "file": "sentence-54.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I am a good friend!",
+          "zh": "我是一个好朋友！",
+          "file": "sentence-62.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "hello",
+      "en": "hello",
+      "zh": "你好",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/hello.mp3",
+      "spokenText": "hello",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "Hello! Hello!",
+          "zh": "你好！你好！",
+          "file": "sentence-03.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Hello! Hello!",
+          "zh": "你好！你好！",
+          "file": "sentence-03.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Hello! I'm Mike Black.",
+          "zh": "你好！我是迈克·布莱克。",
+          "file": "sentence-07.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Hello there!",
+          "zh": "你好呀！",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Hello! My name is Mike Black.",
+          "zh": "你好！我叫迈克·布莱克。",
+          "file": "sentence-15.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Wave your hand. Hello!",
+          "zh": "挥挥你的手。你好！",
+          "file": "sentence-17.mp3"
+        },
+        {
+          "page": 13,
+          "en": "Smile and say \"Hello!\" to make friends.",
+          "zh": "微笑着说“你好！”来交朋友。",
+          "file": "sentence-82.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "what's",
+      "en": "What's",
+      "zh": "what is 的缩写；是什么",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "what is",
+      "note": "",
+      "file": "supplemental/what-s.mp3",
+      "spokenText": "What's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "What's your name?",
+          "zh": "你叫什么名字？",
+          "file": "sentence-04.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "your",
+      "en": "your",
+      "zh": "你的；你们的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/your.mp3",
+      "spokenText": "your",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "What's your name?",
+          "zh": "你叫什么名字？",
+          "file": "sentence-04.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Wave your hand. Hello!",
+          "zh": "挥挥你的手。你好！",
+          "file": "sentence-17.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Point to your ear. Listen!",
+          "zh": "指指你的耳朵。听！",
+          "file": "sentence-19.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Point to your mouth. Smile!",
+          "zh": "指指你的嘴。笑一笑！",
+          "file": "sentence-20.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Wave your arm. Bye!",
+          "zh": "挥挥你的手臂。再见！",
+          "file": "sentence-21.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "to",
+      "en": "to",
+      "zh": "到；向；用于 to meet 等动词结构",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/to.mp3",
+      "spokenText": "to",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Point to your ear. Listen!",
+          "zh": "指指你的耳朵。听！",
+          "file": "sentence-19.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Point to your mouth. Smile!",
+          "zh": "指指你的嘴。笑一笑！",
+          "file": "sentence-20.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I am nice to my friends.",
+          "zh": "我对我的朋友们很好。",
+          "file": "key-11.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I am nice to my friends.",
+          "zh": "我对我的朋友们很好。",
+          "file": "key-11.mp3"
+        },
+        {
+          "page": 13,
+          "en": "Smile and say \"Hello!\" to make friends.",
+          "zh": "微笑着说“你好！”来交朋友。",
+          "file": "sentence-82.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "meet",
+      "en": "meet",
+      "zh": "认识；见到",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/meet.mp3",
+      "spokenText": "meet",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "let's",
+      "en": "Let's",
+      "zh": "let us 的缩写；让我们",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "let us",
+      "note": "",
+      "file": "supplemental/let-s.mp3",
+      "spokenText": "Let's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "Let's play a game!",
+          "zh": "我们来玩个游戏吧！",
+          "file": "sentence-06.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Let's be friends.",
+          "zh": "我们做朋友吧。",
+          "file": "sentence-11.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Let's shake hands.",
+          "zh": "我们握握手吧。",
+          "file": "sentence-13.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "play",
+      "en": "play",
+      "zh": "玩；玩耍",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/play.mp3",
+      "spokenText": "play",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "Let's play a game!",
+          "zh": "我们来玩个游戏吧！",
+          "file": "sentence-06.mp3"
+        },
+        {
+          "page": 8,
+          "en": "I help and share. I play fair too.",
+          "zh": "我帮助别人并分享，玩游戏时也遵守公平规则。",
+          "file": "sentence-56.mp3"
+        },
+        {
+          "page": 10,
+          "en": "Play together.",
+          "zh": "一起玩。",
+          "file": "sentence-67.mp3"
+        },
+        {
+          "page": 13,
+          "en": "We play together.",
+          "zh": "我们一起玩。",
+          "file": "sentence-77.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "game",
+      "en": "game",
+      "zh": "游戏",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/game.mp3",
+      "spokenText": "game",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 3,
+          "en": "Let's play a game!",
+          "zh": "我们来玩个游戏吧！",
+          "file": "sentence-06.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "i'm",
+      "en": "I'm",
+      "zh": "I am 的缩写；我是",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "I am",
+      "note": "",
+      "file": "supplemental/i-m.mp3",
+      "spokenText": "I'm",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Hello! I'm Mike Black.",
+          "zh": "你好！我是迈克·布莱克。",
+          "file": "sentence-07.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Hi! I'm Sarah Miller.",
+          "zh": "嗨！我是萨拉·米勒。",
+          "file": "sentence-16.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Hi! I'm Zip.",
+          "zh": "嗨！我是次波。",
+          "file": "sentence-73.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "mike black",
+      "en": "Mike Black",
+      "zh": "迈克·布莱克",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；保留完整拼写，读音需试听确认。",
+      "file": "sentence-26.mp3",
+      "spokenText": "Mike Black",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Hello! I'm Mike Black.",
+          "zh": "你好！我是迈克·布莱克。",
+          "file": "sentence-07.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Hello! My name is Mike Black.",
+          "zh": "你好！我叫迈克·布莱克。",
+          "file": "sentence-15.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Mike Black",
+          "zh": "迈克·布莱克",
+          "file": "sentence-26.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-26.mp3",
+        "source": {
+          "file": "sentence-26.mp3",
+          "text": "Mike Black",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Mike%20Black&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "bace68c3447f57406461aa226d9aba1b5c48f9a375ac5661ef39a8303cf911d1"
+        }
+      }
+    },
+    {
+      "key": "hi",
+      "en": "hi",
+      "zh": "你好；嗨",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/hi.mp3",
+      "spokenText": "hi",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Hi! My name is Wu Binbin.",
+          "zh": "嗨！我叫吴斌斌。",
+          "file": "sentence-08.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Hi! I'm Sarah Miller.",
+          "zh": "嗨！我是萨拉·米勒。",
+          "file": "sentence-16.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Look into my eyes. Hi!",
+          "zh": "看着我的眼睛。嗨！",
+          "file": "sentence-18.mp3"
+        },
+        {
+          "page": 8,
+          "en": "I listen and say \"Hi!\" I smile too.",
+          "zh": "我倾听并说“嗨！”，我也微笑。",
+          "file": "sentence-55.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I say \"Hi!\" and \"Goodbye!\"",
+          "zh": "我说“嗨！”和“再见！”。",
+          "file": "sentence-57.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I say \"Hi!\"",
+          "zh": "我说“嗨！”。",
+          "file": "sentence-68.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Hi! I'm Zip.",
+          "zh": "嗨！我是次波。",
+          "file": "sentence-73.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Hi! My name is Zoom.",
+          "zh": "嗨！我叫祖姆。",
+          "file": "sentence-74.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "my",
+      "en": "my",
+      "zh": "我的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/my.mp3",
+      "spokenText": "my",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Hi! My name is Wu Binbin.",
+          "zh": "嗨！我叫吴斌斌。",
+          "file": "sentence-08.mp3"
+        },
+        {
+          "page": 4,
+          "en": "My name is Sarah.",
+          "zh": "我叫萨拉。",
+          "file": "sentence-12.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Hello! My name is Mike Black.",
+          "zh": "你好！我叫迈克·布莱克。",
+          "file": "sentence-15.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Look into my eyes. Hi!",
+          "zh": "看着我的眼睛。嗨！",
+          "file": "sentence-18.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I share my toys.",
+          "zh": "我分享我的玩具。",
+          "file": "sentence-59.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I help my friends.",
+          "zh": "我帮助我的朋友们。",
+          "file": "sentence-60.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I am nice to my friends.",
+          "zh": "我对我的朋友们很好。",
+          "file": "key-11.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I am nice to my friends.",
+          "zh": "我对我的朋友们很好。",
+          "file": "key-11.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Zoom is my new friend.",
+          "zh": "祖姆是我的新朋友。",
+          "file": "sentence-72.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Hi! My name is Zoom.",
+          "zh": "嗨！我叫祖姆。",
+          "file": "sentence-74.mp3"
+        },
+        {
+          "page": 13,
+          "en": "Ouch! My mouth!",
+          "zh": "哎哟！我的嘴！",
+          "file": "sentence-79.mp3"
+        },
+        {
+          "page": 13,
+          "en": "Hold my hand.",
+          "zh": "抓住我的手。",
+          "file": "sentence-80.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "is",
+      "en": "is",
+      "zh": "是（be 的一种形式）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/is.mp3",
+      "spokenText": "is",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Hi! My name is Wu Binbin.",
+          "zh": "嗨！我叫吴斌斌。",
+          "file": "sentence-08.mp3"
+        },
+        {
+          "page": 4,
+          "en": "My name is Sarah.",
+          "zh": "我叫萨拉。",
+          "file": "sentence-12.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Hello! My name is Mike Black.",
+          "zh": "你好！我叫迈克·布莱克。",
+          "file": "sentence-15.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Zoom is my new friend.",
+          "zh": "祖姆是我的新朋友。",
+          "file": "sentence-72.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Hi! My name is Zoom.",
+          "zh": "嗨！我叫祖姆。",
+          "file": "sentence-74.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Zoom is nice.",
+          "zh": "祖姆很友好。",
+          "file": "sentence-75.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "wu binbin",
+      "en": "Wu Binbin",
+      "zh": "吴斌斌",
+      "kind": "name",
+      "aliases": [
+        "wu"
+      ],
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；保留完整拼写，读音需试听确认。",
+      "file": "sentence-23.mp3",
+      "spokenText": "Wu Binbin",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Hi! My name is Wu Binbin.",
+          "zh": "嗨！我叫吴斌斌。",
+          "file": "sentence-08.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Wu Binbin",
+          "zh": "吴斌斌",
+          "file": "sentence-23.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-23.mp3",
+        "source": {
+          "file": "sentence-23.mp3",
+          "text": "Wu Binbin",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wu%20Binbin&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "13cfa3e81f053ae2e89f3a81f3fe44e8f91e64ca761f681dfbbc726a7592639b"
+        }
+      }
+    },
+    {
+      "key": "too",
+      "en": "too",
+      "zh": "也",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/too.mp3",
+      "spokenText": "too",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 8,
+          "en": "I listen and say \"Hi!\" I smile too.",
+          "zh": "我倾听并说“嗨！”，我也微笑。",
+          "file": "sentence-55.mp3"
+        },
+        {
+          "page": 8,
+          "en": "I help and share. I play fair too.",
+          "zh": "我帮助别人并分享，玩游戏时也遵守公平规则。",
+          "file": "sentence-56.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "there",
+      "en": "there",
+      "zh": "那里；在那儿",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/there.mp3",
+      "spokenText": "there",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Hello there!",
+          "zh": "你好呀！",
+          "file": "sentence-10.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "be",
+      "en": "be",
+      "zh": "是；成为；处于某种状态",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/be.mp3",
+      "spokenText": "be",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Let's be friends.",
+          "zh": "我们做朋友吧。",
+          "file": "sentence-11.mp3"
+        },
+        {
+          "page": 10,
+          "en": "Be nice.",
+          "zh": "友好待人。",
+          "file": "sentence-65.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "sarah",
+      "en": "Sarah",
+      "zh": "萨拉（人名）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "file": "supplemental/sarah.mp3",
+      "spokenText": "Sarah",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "My name is Sarah.",
+          "zh": "我叫萨拉。",
+          "file": "sentence-12.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Thanks, Sarah.",
+          "zh": "谢谢，萨拉。",
+          "file": "key-08.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Hey, Sarah! We can share.",
+          "zh": "嘿，萨拉！我们可以分享。",
+          "file": "key-07.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "shake",
+      "en": "shake",
+      "zh": "摇动；握（shake hands 表示握手）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/shake.mp3",
+      "spokenText": "shake",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Let's shake hands.",
+          "zh": "我们握握手吧。",
+          "file": "sentence-13.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "hands",
+      "en": "hands",
+      "zh": "手（hand 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "hand",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/hands.mp3",
+      "spokenText": "hands",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Let's shake hands.",
+          "zh": "我们握握手吧。",
+          "file": "sentence-13.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "i",
+      "en": "I",
+      "zh": "我",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "代词“我”；释义与字母 I 名称分开。",
+      "file": "supplemental/i.mp3",
+      "spokenText": "I",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "I am John.",
+          "zh": "我是约翰。",
+          "file": "sentence-14.mp3"
+        },
+        {
+          "page": 8,
+          "en": "I smile.",
+          "zh": "我微笑。",
+          "file": "sentence-50.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I smile.",
+          "zh": "我微笑。",
+          "file": "sentence-50.mp3"
+        },
+        {
+          "page": 8,
+          "en": "I listen.",
+          "zh": "我倾听。",
+          "file": "sentence-51.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I listen.",
+          "zh": "我倾听。",
+          "file": "sentence-51.mp3"
+        },
+        {
+          "page": 8,
+          "en": "I help.",
+          "zh": "我帮助别人。",
+          "file": "sentence-52.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I help.",
+          "zh": "我帮助别人。",
+          "file": "sentence-52.mp3"
+        },
+        {
+          "page": 8,
+          "en": "I share.",
+          "zh": "我分享。",
+          "file": "sentence-53.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I share.",
+          "zh": "我分享。",
+          "file": "sentence-53.mp3"
+        },
+        {
+          "page": 8,
+          "en": "Am I a good friend? Yes, I am!",
+          "zh": "我是一个好朋友吗？是的，我是！",
+          "file": "sentence-54.mp3"
+        },
+        {
+          "page": 8,
+          "en": "I listen and say \"Hi!\" I smile too.",
+          "zh": "我倾听并说“嗨！”，我也微笑。",
+          "file": "sentence-55.mp3"
+        },
+        {
+          "page": 8,
+          "en": "I help and share. I play fair too.",
+          "zh": "我帮助别人并分享，玩游戏时也遵守公平规则。",
+          "file": "sentence-56.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I say \"Hi!\" and \"Goodbye!\"",
+          "zh": "我说“嗨！”和“再见！”。",
+          "file": "sentence-57.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I listen with care.",
+          "zh": "我认真倾听。",
+          "file": "key-10.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I share my toys.",
+          "zh": "我分享我的玩具。",
+          "file": "sentence-59.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I help my friends.",
+          "zh": "我帮助我的朋友们。",
+          "file": "sentence-60.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I am nice to my friends.",
+          "zh": "我对我的朋友们很好。",
+          "file": "key-11.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I am nice to my friends.",
+          "zh": "我对我的朋友们很好。",
+          "file": "key-11.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I am a good friend!",
+          "zh": "我是一个好朋友！",
+          "file": "sentence-62.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I say \"Hi!\"",
+          "zh": "我说“嗨！”。",
+          "file": "sentence-68.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "am",
+      "en": "am",
+      "zh": "是（与 I 连用的 be 的形式）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/am.mp3",
+      "spokenText": "am",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "I am John.",
+          "zh": "我是约翰。",
+          "file": "sentence-14.mp3"
+        },
+        {
+          "page": 8,
+          "en": "Am I a good friend? Yes, I am!",
+          "zh": "我是一个好朋友吗？是的，我是！",
+          "file": "sentence-54.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I am nice to my friends.",
+          "zh": "我对我的朋友们很好。",
+          "file": "key-11.mp3"
+        },
+        {
+          "page": 10,
+          "en": "I am nice to my friends.",
+          "zh": "我对我的朋友们很好。",
+          "file": "key-11.mp3"
+        },
+        {
+          "page": 9,
+          "en": "I am a good friend!",
+          "zh": "我是一个好朋友！",
+          "file": "sentence-62.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "john",
+      "en": "John",
+      "zh": "约翰（人名）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "file": "supplemental/john.mp3",
+      "spokenText": "John",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "I am John.",
+          "zh": "我是约翰。",
+          "file": "sentence-14.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "sarah miller",
+      "en": "Sarah Miller",
+      "zh": "萨拉·米勒",
+      "kind": "name",
+      "aliases": [
+        "miller"
+      ],
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；保留完整拼写，读音需试听确认。",
+      "file": "sentence-25.mp3",
+      "spokenText": "Sarah Miller",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 5,
+          "en": "Hi! I'm Sarah Miller.",
+          "zh": "嗨！我是萨拉·米勒。",
+          "file": "sentence-16.mp3"
+        },
+        {
+          "page": 4,
+          "en": "Sarah Miller",
+          "zh": "萨拉·米勒",
+          "file": "sentence-25.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-25.mp3",
+        "source": {
+          "file": "sentence-25.mp3",
+          "text": "Sarah Miller",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Sarah%20Miller&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "c69f9e60608f816cb359812d7b042cbe47389d36f16d2e02706d98c584667953"
+        }
+      }
+    },
+    {
+      "key": "wave",
+      "en": "wave",
+      "zh": "挥动；挥手",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/wave.mp3",
+      "spokenText": "wave",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 5,
+          "en": "Wave your hand. Hello!",
+          "zh": "挥挥你的手。你好！",
+          "file": "sentence-17.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Wave your arm. Bye!",
+          "zh": "挥挥你的手臂。再见！",
+          "file": "sentence-21.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "look",
+      "en": "look",
+      "zh": "看！",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/look.mp3",
+      "spokenText": "Look!",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 5,
+          "en": "Look into my eyes. Hi!",
+          "zh": "看着我的眼睛。嗨！",
+          "file": "sentence-18.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit2/google-v1",
+        "file": "sentence-14.mp3",
+        "source": {
+          "file": "sentence-14.mp3",
+          "text": "Look!",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%21&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "7ced0d89b4ee5f3c7126153ac8badccbbf3af2be3e600d0edec8f4b5b6b23e68"
+        }
+      }
+    },
+    {
+      "key": "into",
+      "en": "into",
+      "zh": "进入；到……里面",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/into.mp3",
+      "spokenText": "into",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 5,
+          "en": "Look into my eyes. Hi!",
+          "zh": "看着我的眼睛。嗨！",
+          "file": "sentence-18.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "eyes",
+      "en": "eyes",
+      "zh": "眼睛（eye 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "eye",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/eyes.mp3",
+      "spokenText": "eyes",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 5,
+          "en": "Look into my eyes. Hi!",
+          "zh": "看着我的眼睛。嗨！",
+          "file": "sentence-18.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "point",
+      "en": "point",
+      "zh": "指；指向",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/point.mp3",
+      "spokenText": "point",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 5,
+          "en": "Point to your ear. Listen!",
+          "zh": "指指你的耳朵。听！",
+          "file": "sentence-19.mp3"
+        },
+        {
+          "page": 5,
+          "en": "Point to your mouth. Smile!",
+          "zh": "指指你的嘴。笑一笑！",
+          "file": "sentence-20.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "bye",
+      "en": "bye",
+      "zh": "再见",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/bye.mp3",
+      "spokenText": "bye",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 5,
+          "en": "Wave your arm. Bye!",
+          "zh": "挥挥你的手臂。再见！",
+          "file": "sentence-21.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "john baker",
+      "en": "John Baker",
+      "zh": "约翰·贝克",
+      "kind": "name",
+      "aliases": [
+        "baker"
+      ],
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；保留完整拼写，读音需试听确认。",
+      "file": "sentence-22.mp3",
+      "spokenText": "John Baker",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "John Baker",
+          "zh": "约翰·贝克",
+          "file": "sentence-22.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-22.mp3",
+        "source": {
+          "file": "sentence-22.mp3",
+          "text": "John Baker",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=John%20Baker&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "368ea5ea7d90ca31b469ef5c872e369ba20a77d7629bdfd489af17a29fda9158"
+        }
+      }
+    },
+    {
+      "key": "chen jie",
+      "en": "Chen Jie",
+      "zh": "陈杰",
+      "kind": "name",
+      "aliases": [
+        "chen",
+        "jie"
+      ],
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；保留完整拼写，读音需试听确认。",
+      "file": "sentence-24.mp3",
+      "spokenText": "Chen Jie",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 4,
+          "en": "Chen Jie",
+          "zh": "陈杰",
+          "file": "sentence-24.mp3"
+        },
+        {
+          "page": 7,
+          "en": "It's OK, Chen Jie.",
+          "zh": "没关系，陈杰。",
+          "file": "key-06.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Thank you, Chen Jie.",
+          "zh": "谢谢你，陈杰。",
+          "file": "key-09.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-24.mp3",
+        "source": {
+          "file": "sentence-24.mp3",
+          "text": "Chen Jie",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Chen%20Jie&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "8e348dd83fb0e2aed6d90979ffb0f4379f012487f831b7d6d4c4cc364d4d58b8"
+        }
+      }
+    },
+    {
+      "key": "bag",
+      "en": "bag",
+      "zh": "书包（字母例词）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-32.mp3",
+      "spokenText": "bag",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 6,
+          "en": "bag",
+          "zh": "书包（字母例词）",
+          "file": "sentence-32.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-32.mp3",
+        "source": {
+          "file": "sentence-32.mp3",
+          "text": "bag",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bag&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "5b9c7b3073faac4e10f4ce81caa5315b763a0250d7673b93864a62f594449f43"
+        }
+      }
+    },
+    {
+      "key": "bed",
+      "en": "bed",
+      "zh": "床（字母例词）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-33.mp3",
+      "spokenText": "bed",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 6,
+          "en": "bed",
+          "zh": "床（字母例词）",
+          "file": "sentence-33.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-33.mp3",
+        "source": {
+          "file": "sentence-33.mp3",
+          "text": "bed",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bed&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "872355c9dfeab1fe1b47a7e308eba804268bfc92b1b697f11a8b1a5e9dd9d57c"
+        }
+      }
+    },
+    {
+      "key": "bob",
+      "en": "Bob",
+      "zh": "鲍勃（人名例词）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；读音需试听确认。",
+      "file": "sentence-34.mp3",
+      "spokenText": "Bob",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 6,
+          "en": "Bob",
+          "zh": "鲍勃（人名例词）",
+          "file": "sentence-34.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-34.mp3",
+        "source": {
+          "file": "sentence-34.mp3",
+          "text": "Bob",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Bob&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "283f8c108aa2d69cc91b6b0f303c70cb41eda16cb212bde2621e95ee22d3f89e"
+        }
+      }
+    },
+    {
+      "key": "sad",
+      "en": "sad",
+      "zh": "伤心的（字母例词）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-38.mp3",
+      "spokenText": "sad",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 6,
+          "en": "sad",
+          "zh": "伤心的（字母例词）",
+          "file": "sentence-38.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-38.mp3",
+        "source": {
+          "file": "sentence-38.mp3",
+          "text": "sad",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=sad&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "eb7be5a4b3549904d2d6735a17c78f01bd387b15c4402a3fc00c47ca5633725c"
+        }
+      }
+    },
+    {
+      "key": "bad",
+      "en": "bad",
+      "zh": "坏的（组合例词）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-39.mp3",
+      "spokenText": "bad",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 6,
+          "en": "bad",
+          "zh": "坏的（组合例词）",
+          "file": "sentence-39.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-39.mp3",
+        "source": {
+          "file": "sentence-39.mp3",
+          "text": "bad",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bad&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "f60734ced0c7b68bd9fad67013b9be9feae2991a963a0d2311d80edf28f74f18"
+        }
+      }
+    },
+    {
+      "key": "cab",
+      "en": "cab",
+      "zh": "出租车（组合例词）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-40.mp3",
+      "spokenText": "cab",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 6,
+          "en": "cab",
+          "zh": "出租车（组合例词）",
+          "file": "sentence-40.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit1/google-v1",
+        "file": "sentence-40.mp3",
+        "source": {
+          "file": "sentence-40.mp3",
+          "text": "cab",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cab&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "cd87a44d593259fad3235ea3ca56c00b2c6e3eca402344e9548cefe0f602fd89"
+        }
+      }
+    },
+    {
+      "key": "oh",
+      "en": "oh",
+      "zh": "哦；啊",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/oh.mp3",
+      "spokenText": "oh",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 7,
+          "en": "Oh no!",
+          "zh": "噢，不！",
+          "file": "key-05.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "no",
+      "en": "no",
+      "zh": "不；不是",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/no.mp3",
+      "spokenText": "no",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 7,
+          "en": "Oh no!",
+          "zh": "噢，不！",
+          "file": "key-05.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "it's",
+      "en": "It's",
+      "zh": "it is 的缩写；它是",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "it is",
+      "note": "",
+      "file": "supplemental/it-s.mp3",
+      "spokenText": "It's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 7,
+          "en": "It's OK, Chen Jie.",
+          "zh": "没关系，陈杰。",
+          "file": "key-06.mp3"
+        },
+        {
+          "page": 7,
+          "en": "It's OK.",
+          "zh": "没关系。",
+          "file": "sentence-49.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "ok",
+      "en": "ok",
+      "zh": "好的。",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/ok.mp3",
+      "spokenText": "OK.",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 7,
+          "en": "It's OK, Chen Jie.",
+          "zh": "没关系，陈杰。",
+          "file": "key-06.mp3"
+        },
+        {
+          "page": 7,
+          "en": "It's OK.",
+          "zh": "没关系。",
+          "file": "sentence-49.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-53.mp3",
+        "source": {
+          "file": "sentence-53.mp3",
+          "text": "OK.",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=OK.&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "8430a611de130d9ab8c205a6728af8517493b49c66ea82cc67e4ee574102b213"
+        }
+      }
+    },
+    {
+      "key": "we",
+      "en": "we",
+      "zh": "我们",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/we.mp3",
+      "spokenText": "we",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 7,
+          "en": "We can share.",
+          "zh": "我们可以分享。",
+          "file": "sentence-44.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Hey, Sarah! We can share.",
+          "zh": "嘿，萨拉！我们可以分享。",
+          "file": "key-07.mp3"
+        },
+        {
+          "page": 12,
+          "en": "We share food.",
+          "zh": "我们分享食物。",
+          "file": "sentence-76.mp3"
+        },
+        {
+          "page": 13,
+          "en": "We play together.",
+          "zh": "我们一起玩。",
+          "file": "sentence-77.mp3"
+        },
+        {
+          "page": 13,
+          "en": "We listen with care and help each other.",
+          "zh": "我们认真倾听，并互相帮助。",
+          "file": "sentence-78.mp3"
+        },
+        {
+          "page": 13,
+          "en": "We are good friends now.",
+          "zh": "我们现在是好朋友了。",
+          "file": "sentence-81.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-35.mp3",
+        "source": {
+          "file": "sentence-35.mp3",
+          "text": "we",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=we&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "245219d2449d2b882425c8e88fbe2ecfa382d97da218e0a1d2d5f2b3e1d3c8b1"
+        }
+      }
+    },
+    {
+      "key": "thanks",
+      "en": "thanks",
+      "zh": "谢谢！",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/thanks.mp3",
+      "spokenText": "Thanks!",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 7,
+          "en": "Thanks, Sarah.",
+          "zh": "谢谢，萨拉。",
+          "file": "key-08.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-87.mp3",
+        "source": {
+          "file": "sentence-87.mp3",
+          "text": "Thanks!",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thanks%21&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "1971c4f879abfe93d4e68de178480cd0eda5a1fd4d2418fdfab283658ca445bf"
+        }
+      }
+    },
+    {
+      "key": "hey",
+      "en": "hey",
+      "zh": "嘿（招呼声）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/hey.mp3",
+      "spokenText": "hey",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 7,
+          "en": "Hey, Sarah! We can share.",
+          "zh": "嘿，萨拉！我们可以分享。",
+          "file": "key-07.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "thank",
+      "en": "thank",
+      "zh": "感谢",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/thank.mp3",
+      "spokenText": "thank",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 7,
+          "en": "Thank you, Chen Jie.",
+          "zh": "谢谢你，陈杰。",
+          "file": "key-09.mp3"
+        },
+        {
+          "page": 7,
+          "en": "Thank you.",
+          "zh": "谢谢你。",
+          "file": "sentence-48.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "yes",
+      "en": "yes",
+      "zh": "是的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/yes.mp3",
+      "spokenText": "yes",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 8,
+          "en": "Am I a good friend? Yes, I am!",
+          "zh": "我是一个好朋友吗？是的，我是！",
+          "file": "sentence-54.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-46.mp3",
+        "source": {
+          "file": "sentence-46.mp3",
+          "text": "yes",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yes&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "577e43126ded588f09876ac796281770020e0c824a6629a783c45113ffc118d7"
+        }
+      }
+    },
+    {
+      "key": "fair",
+      "en": "fair",
+      "zh": "公平的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/fair.mp3",
+      "spokenText": "fair",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 8,
+          "en": "I help and share. I play fair too.",
+          "zh": "我帮助别人并分享，玩游戏时也遵守公平规则。",
+          "file": "sentence-56.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "with",
+      "en": "with",
+      "zh": "和……一起；带有；以……方式",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "with care 表示“认真地；用心地”。",
+      "file": "supplemental/with.mp3",
+      "spokenText": "with",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 9,
+          "en": "I listen with care.",
+          "zh": "我认真倾听。",
+          "file": "key-10.mp3"
+        },
+        {
+          "page": 13,
+          "en": "We listen with care and help each other.",
+          "zh": "我们认真倾听，并互相帮助。",
+          "file": "sentence-78.mp3"
+        },
+        {
+          "page": 13,
+          "en": "Good friends share, help and listen with care.",
+          "zh": "好朋友分享、帮助并认真倾听。",
+          "file": "sentence-83.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "care",
+      "en": "care",
+      "zh": "认真；用心",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "本课 with care 表示“认真地；用心地”，不是“照顾”。",
+      "file": "supplemental/care.mp3",
+      "spokenText": "care",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 9,
+          "en": "I listen with care.",
+          "zh": "我认真倾听。",
+          "file": "key-10.mp3"
+        },
+        {
+          "page": 13,
+          "en": "We listen with care and help each other.",
+          "zh": "我们认真倾听，并互相帮助。",
+          "file": "sentence-78.mp3"
+        },
+        {
+          "page": 13,
+          "en": "Good friends share, help and listen with care.",
+          "zh": "好朋友分享、帮助并认真倾听。",
+          "file": "sentence-83.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "toys",
+      "en": "toys",
+      "zh": "玩具（toy 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "toy",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/toys.mp3",
+      "spokenText": "toys",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 9,
+          "en": "I share my toys.",
+          "zh": "我分享我的玩具。",
+          "file": "sentence-59.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "do",
+      "en": "do",
+      "zh": "做；也用于构成问句等句式",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/do.mp3",
+      "spokenText": "do",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 10,
+          "en": "What do friends do?",
+          "zh": "朋友们会做些什么？",
+          "file": "sentence-63.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "together",
+      "en": "together",
+      "zh": "一起",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/together.mp3",
+      "spokenText": "together",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 10,
+          "en": "Play together.",
+          "zh": "一起玩。",
+          "file": "sentence-67.mp3"
+        },
+        {
+          "page": 13,
+          "en": "We play together.",
+          "zh": "我们一起玩。",
+          "file": "sentence-77.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "zoom",
+      "en": "Zoom",
+      "zh": "祖姆（课文角色名）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "file": "supplemental/zoom.mp3",
+      "spokenText": "Zoom",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 12,
+          "en": "Zoom is my new friend.",
+          "zh": "祖姆是我的新朋友。",
+          "file": "sentence-72.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Hi! My name is Zoom.",
+          "zh": "嗨！我叫祖姆。",
+          "file": "sentence-74.mp3"
+        },
+        {
+          "page": 12,
+          "en": "Zoom is nice.",
+          "zh": "祖姆很友好。",
+          "file": "sentence-75.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "zip",
+      "en": "Zip",
+      "zh": "次波（课文角色名）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "课文角色名；不同单元已有译名分别保留，谷歌读法待核听。",
+      "file": "supplemental/zip.mp3",
+      "spokenText": "Zip",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 12,
+          "en": "Hi! I'm Zip.",
+          "zh": "嗨！我是次波。",
+          "file": "sentence-73.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-41.mp3",
+        "source": {
+          "file": "sentence-41.mp3",
+          "text": "Zip",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Zip&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "001ad5bebfecd3681c1555796685614f3be1e91eb2eb97c08c2fd860fd2aa6a3"
+        }
+      }
+    },
+    {
+      "key": "food",
+      "en": "food",
+      "zh": "食物",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/food.mp3",
+      "spokenText": "food",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 12,
+          "en": "We share food.",
+          "zh": "我们分享食物。",
+          "file": "sentence-76.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "each",
+      "en": "each",
+      "zh": "每个",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "与 other 连用，each other 表示“互相；彼此”。",
+      "file": "supplemental/each.mp3",
+      "spokenText": "each",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 13,
+          "en": "We listen with care and help each other.",
+          "zh": "我们认真倾听，并互相帮助。",
+          "file": "sentence-78.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "other",
+      "en": "other",
+      "zh": "另一个；其他的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "与 each 连用，each other 表示“互相；彼此”。",
+      "file": "supplemental/other.mp3",
+      "spokenText": "other",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 13,
+          "en": "We listen with care and help each other.",
+          "zh": "我们认真倾听，并互相帮助。",
+          "file": "sentence-78.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "ouch",
+      "en": "ouch",
+      "zh": "哎哟（疼痛时的叫声）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/ouch.mp3",
+      "spokenText": "ouch",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 13,
+          "en": "Ouch! My mouth!",
+          "zh": "哎哟！我的嘴！",
+          "file": "sentence-79.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "hold",
+      "en": "hold",
+      "zh": "握住；抓住",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/hold.mp3",
+      "spokenText": "hold",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 13,
+          "en": "Hold my hand.",
+          "zh": "抓住我的手。",
+          "file": "sentence-80.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "now",
+      "en": "now",
+      "zh": "现在",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/now.mp3",
+      "spokenText": "now",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 13,
+          "en": "We are good friends now.",
+          "zh": "我们现在是好朋友了。",
+          "file": "sentence-81.mp3"
+        }
+      ],
+      "reuse": null
+    }
+  ]
+}

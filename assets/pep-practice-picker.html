@@ -1,0 +1,17 @@
+<div id="practice-extra" class="practice-extra">
+  <label>出题范围<select id="practice-source"><option value="standard">默认练习</option><option value="custom">我的自选</option></select></label>
+  <span id="selection-summary" role="status"></span>
+</div>
+<details id="custom-picker" class="custom-picker">
+  <summary>选择本单元要练的单词和句子</summary>
+  <p class="small">勾选后点击“开始自选练习”。选择保存在当前浏览器；重复句合并，教材词表保持原顺序。</p>
+  <div class="picker-filters">
+    <label>类型<select id="picker-kind"><option value="all">全部</option><option value="word">单词</option><option value="sentence">句子</option></select></label>
+    <label>课本页码<select id="picker-page"><option value="all">全部页码</option></select></label>
+    <label class="picker-search-label">搜索<input id="picker-search" type="search" placeholder="英文或中文" autocomplete="off"></label>
+  </div>
+  <div class="picker-actions"><button id="select-visible" class="btn" type="button">勾选筛选结果</button><button id="clear-selection" class="btn" type="button">清空所有选择</button></div>
+  <p id="picker-count" class="small" aria-live="polite"></p>
+  <div id="picker-list" class="picker-list"></div>
+  <div class="picker-actions"><button id="start-custom" class="btn primary" type="button">开始自选练习</button><span id="selection-storage-note" class="small"></span></div>
+</details>

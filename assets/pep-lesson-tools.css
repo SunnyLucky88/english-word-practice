@@ -1,0 +1,28 @@
+.practice-extra,.picker-filters,.picker-actions,.lookup-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.practice-extra{margin:0 0 16px;padding:14px 16px;background:#e9eee3;border-radius:12px;font-size:18px}
+.custom-picker{margin:0 0 24px;padding:18px;border:1px solid #c8d5c9;border-radius:16px;background:var(--paper)}
+.custom-picker summary{font-size:20px;font-weight:650;cursor:pointer;min-height:44px;line-height:1.6}
+.picker-filters{align-items:flex-end;margin:16px 0}.picker-filters label{flex-direction:column;align-items:flex-start;gap:6px}
+.picker-filters input{font:inherit;color:var(--ink);border:1px solid #c8d5c9;border-radius:8px;padding:10px;min-height:44px;max-width:100%;width:100%;background:white}
+.picker-search-label{flex:1;min-width:150px}.picker-actions{margin:12px 0}
+.picker-list{max-height:460px;overflow:auto;overscroll-behavior:contain;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.picker-row{display:flex;gap:14px;align-items:flex-start;padding:16px 8px;border-bottom:1px solid var(--line);cursor:pointer}
+.picker-row:last-child{border-bottom:0}.picker-row input{width:24px;height:24px;margin:8px 0 0;flex-shrink:0;accent-color:var(--teal)}
+.picker-copy{min-width:0;flex:1}.picker-en{font-size:32px;line-height:1.5;overflow-wrap:anywhere;font-weight:600}.picker-zh{font-size:24px;line-height:1.7;overflow-wrap:anywhere}.picker-meta{font-size:16px;line-height:1.6;color:var(--muted)}
+.picker-empty{font-size:18px;line-height:1.7;padding:16px}.lookup-toggle{position:fixed;right:18px;bottom:calc(var(--player-height,150px) + 14px);z-index:8;border:0;border-radius:99px;background:var(--teal);color:white;box-shadow:0 4px 20px #203e3a35;min-height:52px;padding:12px 20px;font-size:17px;font-weight:650}
+.lookup-panel{position:fixed;right:18px;bottom:calc(var(--player-height,150px) + 12px);z-index:9;width:520px;max-width:calc(100% - 28px);max-height:calc(100vh - var(--player-height,150px) - 30px);max-height:calc(100dvh - var(--player-height,150px) - 30px);overflow:auto;padding:22px;background:var(--paper);border:1px solid #aebfb1;border-radius:20px;box-shadow:0 12px 55px #203e3a40;overscroll-behavior:contain}
+.lookup-heading{display:flex;justify-content:space-between;gap:10px;align-items:center}.lookup-heading h2{font-size:24px}.lookup-heading .btn{white-space:nowrap;flex-shrink:0}
+.lookup-panel label{font-size:18px;margin-bottom:8px}.lookup-panel textarea{font:inherit;font-size:24px;line-height:1.5;color:var(--ink);width:100%;resize:vertical;min-height:105px;max-height:220px;border:1px solid #aebfb1;border-radius:12px;padding:12px;background:white;box-sizing:border-box}
+.lookup-actions{margin-top:12px}.lookup-panel .small{font-size:16px;line-height:1.7}.lookup-result{border-top:1px solid var(--line);padding-top:18px;margin-top:16px}.lookup-en{font-size:32px;line-height:1.5;font-weight:650;overflow-wrap:anywhere}.lookup-zh{font-size:24px;line-height:1.7;margin-top:12px;overflow-wrap:anywhere}
+.lookup-panel input:focus,.lookup-panel textarea:focus,.picker-filters input:focus{outline:3px solid #db8a43;outline-offset:2px}
+@media(max-width:700px){.custom-picker{padding:14px}.picker-filters{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.picker-filters label{min-width:0;width:100%}.picker-search-label{grid-column:1/-1}.picker-filters select{width:100%;min-width:0}.picker-en{font-size:30px}.practice-extra{align-items:flex-start}.practice-extra label{flex-wrap:wrap}.lookup-toggle{right:14px;padding:12px 16px}.lookup-panel{right:14px;padding:18px;border-radius:16px}.lookup-en{font-size:30px}.lookup-panel textarea{font-size:24px}.picker-list{max-height:55vh}}
+
+.picker-row.word .picker-en,.lookup-word .lookup-en{font-size:36px}
+@media(max-width:700px){.picker-row.word .picker-en,.lookup-word .lookup-en{font-size:32px}}
+
+.lookup-result>.btn{margin-bottom:16px}
+.lookup-note{font-size:18px;line-height:1.7;padding:12px;background:#fff1cf;border-radius:10px;overflow-wrap:anywhere}
+#lookup-context-section h3{font-size:20px;margin:20px 0 10px}.lookup-context{border-top:1px solid var(--line);padding:14px 0}
+.lookup-context-en{font-size:32px;line-height:1.5;overflow-wrap:anywhere;margin:10px 0}.lookup-context-zh{font-size:24px;line-height:1.7;overflow-wrap:anywhere;margin:10px 0}
+@media(max-width:700px){.lookup-context-en{font-size:30px}}
+@media(max-width:700px){.keyboard-tip{display:none}}

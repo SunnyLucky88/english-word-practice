@@ -71,7 +71,7 @@ function followPlayingCard(card){
 }
 function followCurrentPlayback(){if(!audio.paused&&followPlayingCard(followCard))followedGeneration=generation}
 function finishFollowing(){followEnabled=false;followPaused=false;clearTimeout(followTimer);followCard=null;}
-function play(item,card,continuing=false){if(!continuing)stop();const token=++generation;active=item;followCard=card;document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(card)card.classList.add('playing');audio.src=AUDIO_BASE+item.file;applySpeed();$('status').textContent='正在加载：'+audioLabel(item);const result=audio.play();if(result)result.then(()=>{if(token===generation){$('status').textContent='正在播放：'+audioLabel(item)}}).catch(()=>{if(token===generation){queue=[];repeatSequence=null;finishFollowing();$('status').textContent='未能播放，请点击播放器重试，并检查网络和媒体音量。'}})}
+function play(item,card,continuing=false){if(!continuing)stop();const token=++generation;active=item;followCard=card;document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(card)card.classList.add('playing');audio.src=item.audioUrl||AUDIO_BASE+item.file;applySpeed();$('status').textContent='正在加载：'+audioLabel(item);const result=audio.play();if(result)result.then(()=>{if(token===generation){$('status').textContent='正在播放：'+audioLabel(item)}}).catch(()=>{if(token===generation){queue=[];repeatSequence=null;finishFollowing();$('status').textContent='未能播放，请点击播放器重试，并检查网络和媒体音量。'}})}
 function playSequence(items,container,repeat=false){if(!items.length)return;stop();pointerHeld=false;touchHeld=false;followEnabled=true;followedGeneration=-1;const occurrences={};const entries=items.map(item=>{const cards=container?container.querySelectorAll('[data-file="'+item.file+'"]'):[];const occurrence=occurrences[item.file]||0;occurrences[item.file]=occurrence+1;return {item,card:cards.length?cards[Math.min(occurrence,cards.length-1)]:null}});queue=entries.slice();if(repeat)repeatSequence=entries;const first=queue.shift();play(first.item,first.card,true)}
 audio.addEventListener('ended',()=>{document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(!queue.length&&repeatSequence)queue=repeatSequence.slice();if(queue.length){const entry=queue.shift();play(entry.item,entry.card,true)}else{finishFollowing();$('status').textContent='播放完毕，可以再读一遍。'}});
 audio.addEventListener('playing',()=>{if(active)$('status').textContent='正在播放：'+audioLabel(active);followCurrentPlayback()});
@@ -92,8 +92,34 @@ $('read-words').onclick=()=>playSequence(words,$('word-cards'));$('read-sentence
 const tabs=[...document.querySelectorAll('nav[aria-label="学习内容"] [role=tab]')];function showTab(tab){stop();tabs.forEach(b=>{const selected=b===tab;b.setAttribute('aria-selected',selected);b.tabIndex=selected?0:-1;$(b.getAttribute('aria-controls')).hidden=!selected});if(tab.id==='tab-practice')resetQuiz()}
 tabs.forEach((tab,i)=>{tab.onclick=()=>showTab(tab);tab.onkeydown=e=>{if(['ArrowLeft','ArrowRight','Home','End'].includes(e.key)){e.preventDefault();const n=e.key==='Home'?0:e.key==='End'?tabs.length-1:(i+(e.key==='ArrowRight'?1:tabs.length-1))%tabs.length;tabs[n].focus();showTab(tabs[n])}}});
 function shuffle(items){const a=items.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
-function resetQuiz(){stop();quizIndex=0;const mode=$('mode').value;$('scope-label').hidden=mode!=='recall';const scope=$('scope').value;deck=shuffle(mode!=='recall'||scope==='words'?words:scope==='key'?expressions:textItems);renderQuiz()}
-function renderQuiz(){stop();answered=false;const item=deck[quizIndex],mode=$('mode').value;$('progress').textContent='第 '+(quizIndex+1)+' / '+deck.length+' 题';const promptText=mode==='recall'?item.zh:mode==='listen'?'听一听，是哪个单词？':item.en;if(mode==='recall'&&$('scope').value==='words')setMeaningText($('prompt'),promptText);else $('prompt').textContent=promptText;$('prompt').lang=mode==='translate'?'en':'zh-CN';$('hint').textContent=mode==='recall'?'先自己想一想，用英语说出来，再查看答案。':mode==='listen'?'点击“听一听”，选出听到的英文单词。':'选择正确的中文意思。';$('answer').hidden=true;$('answer-text').textContent='';$('reveal').hidden=mode!=='recall';$('listen-prompt').hidden=mode!=='listen';$('choices').hidden=mode==='recall';$('choices').textContent='';$('feedback').textContent='';$('prev').disabled=quizIndex===0;$('next').textContent=quizIndex===deck.length-1?'再练一轮':'下一题';if(mode!=='recall'){const distractors=shuffle(words.filter(w=>w.zh!==item.zh&&w.en!==item.en)).slice(0,3);shuffle([item,...distractors]).forEach(option=>{const b=document.createElement('button');b.className='btn';b.type='button';if(mode==='listen')b.textContent=option.en;else setMeaningText(b,option.zh);b.onclick=()=>{if(answered)return;if(option.en===item.en){answered=true;b.classList.add('correct');$('feedback').textContent='答对了！'+item.en+' · '+item.zh}else{b.classList.add('wrong');b.disabled=true;$('feedback').textContent='再想一想，你可以继续选择。'}};$('choices').appendChild(b)})}}
-$('reveal').onclick=()=>{$('answer-text').textContent=deck[quizIndex].en;$('answer').hidden=false;$('reveal').hidden=true;$('hint').textContent='对照参考答案，再听一听、跟读一次。部分中文也有其他正确表达。'};
-$('answer-audio').onclick=()=>play(deck[quizIndex]);$('listen-prompt').onclick=()=>play(deck[quizIndex]);$('mode').onchange=resetQuiz;$('scope').onchange=resetQuiz;$('prev').onclick=()=>{if(quizIndex>0){quizIndex--;renderQuiz()}};$('next').onclick=()=>{if(quizIndex===deck.length-1)resetQuiz();else{quizIndex++;renderQuiz()}};
+function resetQuiz(){
+ stop();quizIndex=0;const mode=$('mode').value;
+ $('scope-label').hidden=mode!=='recall'||customPracticeActive();
+ deck=shuffle(getQuizPool());renderQuiz();
+}
+function renderQuiz(){
+ stop();answered=false;const item=deck[quizIndex],mode=$('mode').value;
+ $('progress').textContent=deck.length?'第 '+(quizIndex+1)+' / '+deck.length+' 题'+(customPracticeActive()?' · 我的自选':''):'尚未选择练习内容';
+ $('answer').hidden=true;$('answer-text').textContent='';$('choices').textContent='';$('feedback').textContent='';
+ $('reveal').hidden=!item||mode!=='recall';$('listen-prompt').hidden=!item||mode!=='listen';$('choices').hidden=!item||mode==='recall';
+ $('prev').disabled=!item||quizIndex===0;$('next').disabled=!item;
+ if(!item){$('prompt').textContent='先选一些单词或句子';$('hint').textContent='展开上方选择面板，勾选内容后开始自选练习。';return}
+ $('next').textContent=quizIndex===deck.length-1?'再练一轮':'下一题';
+ const promptText=mode==='recall'?item.zh:mode==='listen'?'听一听，选出听到的英文':item.en;
+ if(mode==='recall'&&words.includes(item))setMeaningText($('prompt'),promptText);else $('prompt').textContent=promptText;
+ $('prompt').lang=mode==='translate'?'en':'zh-CN';
+ $('hint').textContent=mode==='recall'?'先自己想一想，用英语说出来，再查看答案。':mode==='listen'?'点击“听一听”，选择对应的单词或句子。':'选择正确的中文意思。';
+ if(mode!=='recall'){
+  const distractors=shuffle(getQuizPool().filter(option=>option.zh!==item.zh&&option.en!==item.en)).slice(0,3);
+  if(!distractors.length)$('hint').textContent='当前范围仅有一种可选答案，可先听读，再切换“看中文，想英文”回想；也可以多选一些内容。';
+  shuffle([item,...distractors]).forEach(option=>{
+   const button=document.createElement('button');button.className='btn';button.type='button';
+   if(mode==='listen'){button.textContent=option.en;button.lang='en'}else setMeaningText(button,option.zh);
+   button.onclick=()=>{if(answered)return;if(option.en===item.en){answered=true;button.classList.add('correct');$('feedback').textContent='答对了！'+item.en+' · '+item.zh}else{button.classList.add('wrong');button.disabled=true;$('feedback').textContent='再想一想，你可以继续选择。'}};
+   $('choices').appendChild(button);
+  });
+ }
+}
+$('reveal').onclick=()=>{if(!deck[quizIndex])return;$('answer-text').textContent=deck[quizIndex].en;$('answer').hidden=false;$('reveal').hidden=true;$('hint').textContent='对照参考答案，再听一听、跟读一次。部分中文也有其他正确表达。'};
+$('answer-audio').onclick=()=>{if(deck[quizIndex])play(deck[quizIndex])};$('listen-prompt').onclick=()=>{if(deck[quizIndex])play(deck[quizIndex])};$('mode').onchange=resetQuiz;$('scope').onchange=resetQuiz;$('prev').onclick=()=>{if(quizIndex>0){quizIndex--;renderQuiz()}};$('next').onclick=()=>{if(quizIndex===deck.length-1)resetQuiz();else{quizIndex++;renderQuiz()}};
 showCategory('key');

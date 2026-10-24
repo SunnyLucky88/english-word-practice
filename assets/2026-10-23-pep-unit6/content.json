@@ -953,9 +953,40 @@
       "page": 73,
       "file": "sentence-103.mp3",
       "audioSource": "Google Translate"
+    },
+    {
+      "en": "Why are numbers important?",
+      "zh": "数字为什么重要？",
+      "page": 62,
+      "file": "topic-page62.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "When do we use numbers?",
+      "zh": "我们什么时候使用数字？",
+      "page": 64,
+      "file": "topic-page64.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "How useful are numbers?",
+      "zh": "数字有多大用处？",
+      "page": 67,
+      "file": "topic-page67.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
     }
   ],
   "groups": [
+    {
+      "title": "单元主题问句",
+      "note": "第 62 页 · 教材主题问句",
+      "clips": [
+        104
+      ]
+    },
     {
       "title": "导入思考与数字歌谣",
       "note": "第 63 页 · 谷歌原速朗读",
@@ -967,6 +998,13 @@
         5,
         6,
         7
+      ]
+    },
+    {
+      "title": "A · 主题问句",
+      "note": "第 64 页 · 教材主题问句",
+      "clips": [
+        105
       ]
     },
     {
@@ -1038,6 +1076,13 @@
         30,
         31,
         32
+      ]
+    },
+    {
+      "title": "B · 主题问句",
+      "note": "第 67 页 · 教材主题问句",
+      "clips": [
+        106
       ]
     },
     {

@@ -5,6 +5,10 @@ const crypto = require('node:crypto');
 const root = path.resolve(__dirname, '..');
 const courses = JSON.parse(fs.readFileSync(path.join(root, 'courses.json'), 'utf8'));
 const version = require('./lesson-version.cjs')(root, courses);
+const lookupConfig=JSON.parse(fs.readFileSync(path.join(root,'assets/pep-lookup-config.json'),'utf8'));
+const lookupBase=lookupConfig.apiBase||'';
+if(lookupConfig.stage==='test'&&!process.argv.includes('--preview'))throw new Error('Lookup is still in test stage. User preview approval is required before publishing; use --preview for local validation.');
+if(lookupBase&&new URL(lookupBase).hostname.endsWith('.trycloudflare.com')&&!process.argv.includes('--preview'))throw new Error('Temporary lookup endpoint is for preview only. Configure a persistent service before publishing; use --preview for local validation.');
 const directories = new Set();
 let audioCount = 0;
 for (const course of courses) {
@@ -30,6 +34,7 @@ for (const course of courses) {
   }
   if (content) {
     assert.ok(html.includes(`<meta name="lesson-version" content="${version}">`),'Missing current lesson version');
+    assert.ok(html.includes(`<meta name="lookup-api-base" content="${lookupBase}">`),'Lookup service configuration differs from source');
     assert.ok(!/127\.0\.0\.1|localhost|Libby/.test(html), `Draft reference: ${course.href}`);
     const sources = JSON.parse(fs.readFileSync(path.join(root, course.audioDirectory, 'sources.json'), 'utf8'));
     const items = [...content.words, ...content.sentences, ...(content.expressions || []), ...(content.songs || []).flatMap(song => song.lines)];
@@ -54,8 +59,23 @@ for (const course of courses) {
     assert.deepEqual(content, sourceContent, 'Bundled content differs from canonical source');
     const app = html.match(/<script id="lesson-controller">([\s\S]*?)<\/script>/)?.[1];
     assert.ok(app, 'Missing bundled lesson app');
-    const expectedApp = fs.readFileSync(path.join(root, 'assets/pep-lesson-app.js'), 'utf8').replace('const AUDIO_BASE = "audio/google-v1/";', `const AUDIO_BASE = "${expected}";`);
+    const expectedApp = fs.readFileSync(path.join(root, 'assets/pep-lesson-app.js'), 'utf8').replace('const AUDIO_BASE = "audio/google-v1/";', `const AUDIO_BASE = "${expected}";`)+'\n'+fs.readFileSync(path.join(root,'assets/pep-lesson-tools.js'),'utf8');
     assert.equal(app.trim(), expectedApp.trim(), 'Bundled app differs from shared source');
+    assert.equal(html.match(/<style id="lesson-tools-styles">\n([\s\S]*?)\n<\/style>/)?.[1],fs.readFileSync(path.join(root,'assets/pep-lesson-tools.css'),'utf8'),'Bundled tool styles differ from shared source');
+    for(const id of ['lookup-toggle','lookup-library','lookup-form','practice-source','picker-list'])assert.equal([...html.matchAll(new RegExp('id="'+id+'"','g'))].length,1,'Tool markup must appear exactly once: '+id);
+    const library=JSON.parse(html.match(/id="lookup-library">([\s\S]*?)<\/script>/)[1]);
+    for(const item of library)assert.ok(fs.existsSync(path.resolve(root,path.posix.dirname(course.href),item.audioUrl)),'Missing library audio: '+item.en);
+    assert.equal(lookupConfig.mode,'course-library');assert.equal(lookupBase,'');assert.ok(!/fetch\s*\(/.test(app),'Static lookup must never call an online translation service');
+    const extra=JSON.parse(fs.readFileSync(path.join(root,'assets',path.basename(course.href,'.html'),'supplemental.json'),'utf8'));
+    const extraDir=path.join(root,course.audioDirectory,'supplemental');const extraSources=JSON.parse(fs.readFileSync(path.join(extraDir,'sources.json'),'utf8'));
+    assert.equal(fs.readdirSync(extraDir).filter(f=>f.endsWith('.mp3')).length,extraSources.length,'Unregistered supplemental audio');
+    for(const item of extra.entries){
+      assert.ok(item.zh&&item.occurrences.length);assert.ok(!content.words.some(w=>w.en.toLowerCase()===item.key),'Supplemental entries must not replace textbook vocabulary');
+      const sourceItems=[...content.sentences,...content.expressions,...(content.songs||[]).flatMap(song=>song.lines||[])];
+      assert.ok(item.occurrences.every(o=>sourceItems.some(s=>s.en===o.en&&s.zh===o.zh)),'Supplemental source must reference existing course content');
+      const data=fs.readFileSync(path.join(root,course.audioDirectory,item.file));
+      if(item.file.startsWith('supplemental/')){const source=extraSources.find(s=>s.file===path.basename(item.file));assert.ok(source);assert.equal(source.text,item.en);assert.equal(crypto.createHash('sha256').update(data).digest('hex'),source.sha256);assert.equal(new URL(source.source).hostname,'translate.google.com');assert.equal(new URL(source.source).searchParams.get('q'),source.spokenText);assert.equal(new URL(source.source).searchParams.get('ttsspeed'),'1');audioCount++}
+    }
     for (const group of content.groups) for (const ref of group.clips) assert.ok(content.sentences[ref - 1], 'Invalid group reference');
     for (const song of content.songs || []) {
       if (song.lyricsStatus === 'awaiting-user-pages') assert.equal(song.lines.length, 0, 'Pending song must not pretend to have lyrics');

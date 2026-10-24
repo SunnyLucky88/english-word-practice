@@ -665,9 +665,32 @@
       "page": 25,
       "file": "sentence-72.mp3",
       "practice": true
+    },
+    {
+      "en": "What makes a family?",
+      "zh": "什么构成了一个家庭？",
+      "page": 14,
+      "file": "topic-page14.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Who lives with you?",
+      "zh": "谁和你住在一起？",
+      "page": 16,
+      "file": "topic-page16.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
     }
   ],
   "groups": [
+    {
+      "title": "单元主题问句",
+      "note": "第 14 页 · 教材主题问句",
+      "clips": [
+        73
+      ]
+    },
     {
       "title": "导入思考",
       "note": "第 15 页 · 看图思考",
@@ -685,6 +708,13 @@
         27,
         28,
         29
+      ]
+    },
+    {
+      "title": "A · 主题问句",
+      "note": "第 16 页 · 教材主题问句",
+      "clips": [
+        74
       ]
     },
     {

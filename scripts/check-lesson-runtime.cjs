@@ -30,7 +30,8 @@ async function check(course){
  const $=id=>{assert.ok(nodes[id],id);return nodes[id]};nodes['playback-speed'].value='1';nodes.mode.value='recall';nodes.scope.value='words';
  const document={getElementById:$,createElement:element,createTextNode:t=>{const e=element();e.textContent=t;return e},documentElement:{style:{setProperty(){}},clientHeight:800},
   querySelector:s=>s==='.player-wrap'?player:null,querySelectorAll:s=>s==='.playing'?all.filter(e=>e.classList.contains('playing')):s==='[data-category]'?category:s.includes('[role=tab]')?['book','words','sentences','practice'].map(k=>nodes['tab-'+k]):[]};
- const context={CONTENT,document,window:{innerHeight:800,scrollX:0,scrollY:0,addEventListener:(k,f)=>(listeners[k]??=[]).push(f),matchMedia:()=>({matches:false}),scrollTo(x,y){if(typeof x==='number'&&typeof y==='number'){this.scrollX=x;this.scrollY=y;scrolls++}},scrollBy(value){if(!legacyPlayback||typeof value==='number')scrolls++}},setTimeout:(f,ms)=>{assert.equal(ms,5000);timers.set(++timerId,f);return timerId},clearTimeout:id=>timers.delete(id)};
+ const saved=new Map();nodes['lookup-library'].textContent=html.match(/id="lookup-library">([\s\S]*?)<\/script>/)[1];
+ const context={CONTENT,document,window:{localStorage:{getItem:key=>saved.get(key)||null,setItem:(key,value)=>saved.set(key,value)},innerHeight:800,scrollX:0,scrollY:0,addEventListener:(k,f)=>(listeners[k]??=[]).push(f),matchMedia:()=>({matches:false}),scrollTo(x,y){if(typeof x==='number'&&typeof y==='number'){this.scrollX=x;this.scrollY=y;scrolls++}},scrollBy(value){if(!legacyPlayback||typeof value==='number')scrolls++}},setTimeout:(f,ms)=>{assert.ok([5000,45000].includes(ms));timers.set(++timerId,f);return timerId},clearTimeout:id=>timers.delete(id)};
  vm.createContext(context);const run=s=>vm.runInContext(s,context),flush=async()=>{await Promise.resolve();await Promise.resolve()};
  run(html.match(/id="lesson-controller">([\s\S]*?)<\/script>/)[1]);
  run(html.match(/id="textbook-controller">([\s\S]*?)<\/script>/)[1]);
@@ -66,6 +67,43 @@ async function check(course){
  nodes.stop.onclick();noPlayingEvent=true;nodes['tab-words'].onclick();const progressBefore=scrolls;nodes['read-words'].onclick();await flush();assert.equal(scrolls,progressBefore);for(const f of events.timeupdate||[])f();assert.ok(scrolls>progressBefore,'Playback progress must recover missing playing notifications');
  const progressAfter=scrolls;for(const f of events.timeupdate||[])f();assert.equal(scrolls,progressAfter,'Progress events must not repeatedly pull the same card');
  nodes.stop.onclick();
- console.log(`Unit ${unit}: ${pagesPlayed} page queues, exercises, manual idle recovery, no-Promise phone playback, inner/root scrolling, focus changes and progress fallback passed.`);
+ // Custom questions and distractors must both remain inside the chosen pool.
+ const sourceBefore=JSON.stringify(CONTENT.words);
+ run("selectedPracticeIds=new Set([practiceBank.find(e=>e.kind==='word').id,practiceBank.find(e=>e.kind==='sentence').id]);savePracticeSelection()");
+ assert.equal(JSON.parse(saved.get('pep-custom-unit-'+unit+'-v1')).length,2);
+ nodes['practice-source'].value='custom';nodes['practice-source'].onchange();
+ for(const mode of ['recall','listen','translate']){
+  nodes.mode.value=mode;nodes.mode.onchange();assert.equal(run('deck.length'),2);
+  assert.equal(nodes['scope-label'].hidden,true);
+  if(mode!=='recall'){
+   assert.equal(nodes.choices.children.length,2,'No unselected distractors');
+   const allowed=run(mode==='listen'?'getQuizPool().map(i=>i.en)':'getQuizPool().map(i=>i.zh)');
+   nodes.choices.children.forEach(choice=>assert.ok(allowed.includes(choice.textContent)));
+  }
+ }
+ nodes['picker-kind'].value='sentence';nodes['picker-kind'].onchange();
+ assert.ok(run("filteredPracticeEntries().every(e=>e.kind==='sentence')"));
+ nodes['picker-page'].value=String(CONTENT.words[0].page);nodes['picker-page'].onchange();
+ assert.ok(run('filteredPracticeEntries().every(e=>e.pages.includes(Number($("picker-page").value)))'));
+ nodes['picker-search'].value='NO_MATCH_784';nodes['picker-search'].oninput();assert.equal(run('filteredPracticeEntries().length'),0);
+ nodes['clear-selection'].onclick();assert.equal(run('deck.length'),0);assert.equal(nodes.next.disabled,true);assert.equal(nodes.reveal.hidden,true);
+ nodes['practice-source'].value='standard';nodes.mode.value='recall';nodes.scope.value='words';nodes['practice-source'].onchange();assert.equal(run('deck.length'),CONTENT.words.length);
+ assert.equal(JSON.stringify(CONTENT.words),sourceBefore,'Picker must not mutate the textbook word list');
+ // Static lookup must work without any online API, including missing words.
+ let networkRequests=0;context.fetch=()=>{networkRequests++;throw Error('online lookup forbidden')};
+ nodes['lookup-input'].value=CONTENT.words[0].en;await run('lookupText()');assert.equal(nodes['lookup-zh'].textContent,CONTENT.words[0].zh);nodes['lookup-audio'].onclick();assert.equal(audio.src,audioBase+CONTENT.words[0].file);
+ const extras=JSON.parse(fs.readFileSync(path.join(root,'assets',path.basename(course.href,'.html'),'supplemental.json'),'utf8')).entries;
+ for(const item of extras){
+  nodes['lookup-input'].value=item.en;await run('lookupText()');assert.equal(nodes['lookup-zh'].textContent,item.zh,item.en);nodes['lookup-audio'].onclick();assert.equal(audio.src,audioBase+item.file,item.en+' must use saved original audio');
+  assert.ok(nodes['lookup-source'].textContent.includes('课文补充释义'));assert.equal(nodes['lookup-context-section'].hidden,false);assert.ok(nodes['lookup-contexts'].children.length);
+  const row=nodes['lookup-contexts'].children[0];row.children[row.children.length-1].onclick();assert.ok(audio.src.endsWith(item.occurrences[0].file),'Original sentence remains playable');
+ }
+ for(const [query,expected]of [['I','我'],['a','一个；一（不定冠词）'],['Chen Jie','陈杰'],['chen','陈杰'],['6th','第六（序数词 sixth）']]){nodes['lookup-input'].value=query;await run('lookupText()');assert.equal(nodes['lookup-zh'].textContent,expected,query)}
+ nodes['lookup-input'].value='letter A';await run('lookupText()');assert.match(nodes['lookup-zh'].textContent,/字母 A/,'Explicit letter query stays available');
+ nodes['lookup-input'].value='your';await run('lookupText()');assert.equal(nodes['lookup-en'].textContent,'your');
+ nodes['lookup-input'].value='unlisted-query-795';await run('lookupText()');assert.equal(nodes['lookup-result'].hidden,true);assert.match(nodes['lookup-message'].textContent,/暂未收录/);assert.equal(nodes['lookup-submit'].disabled,false);
+ nodes['lookup-input'].value='<script>中文</script>';await run('lookupText()');assert.equal(nodes['lookup-result'].hidden,true);
+ assert.equal(networkRequests,0,'Known words, missing words and invalid input must not call an online service');assert.equal(JSON.stringify(CONTENT.words),sourceBefore,'Supplemental lookup must not mutate the textbook word list');
+ console.log(`Unit ${unit}: ${pagesPlayed} page queues, exercises, manual idle recovery, no-Promise phone playback, inner/root scrolling, focus changes, progress fallback, custom selection and static supplemental lookup checks passed.`);
 }
 (async()=>{const courses=JSON.parse(fs.readFileSync(path.resolve(__dirname,'../courses.json'),'utf8'));for(const course of courses.filter(c=>/pep-unit\d+\.html$/.test(c.href)))await check(course)})().catch(e=>{console.error(e);process.exitCode=1});

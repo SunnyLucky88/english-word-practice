@@ -1,0 +1,1142 @@
+{
+  "are": {
+    "zh": "是（be 的一种形式）",
+    "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。"
+  },
+  "they": {
+    "zh": "他们；她们；它们"
+  },
+  "friends": {
+    "zh": "朋友（friend 的复数）",
+    "kind": "form",
+    "base": "friend"
+  },
+  "what": {
+    "zh": "什么"
+  },
+  "makes": {
+    "zh": "使；构成（make 的第三人称单数形式）",
+    "kind": "form",
+    "base": "make"
+  },
+  "you": {
+    "zh": "你；你们"
+  },
+  "a": {
+    "zh": "一个；一（不定冠词）",
+    "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。"
+  },
+  "hello": {
+    "zh": "你好"
+  },
+  "what's": {
+    "zh": "what is 的缩写；是什么",
+    "en": "What's",
+    "kind": "contraction",
+    "expanded": "what is"
+  },
+  "your": {
+    "zh": "你的；你们的"
+  },
+  "to": {
+    "zh": "到；向；用于 to meet 等动词结构",
+    "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。"
+  },
+  "meet": {
+    "zh": "认识；见到"
+  },
+  "let's": {
+    "zh": "let us 的缩写；让我们",
+    "en": "Let's",
+    "kind": "contraction",
+    "expanded": "let us"
+  },
+  "play": {
+    "zh": "玩；玩耍"
+  },
+  "game": {
+    "zh": "游戏"
+  },
+  "i'm": {
+    "zh": "I am 的缩写；我是",
+    "en": "I'm",
+    "kind": "contraction",
+    "expanded": "I am"
+  },
+  "hi": {
+    "zh": "你好；嗨"
+  },
+  "my": {
+    "zh": "我的"
+  },
+  "is": {
+    "zh": "是（be 的一种形式）",
+    "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。"
+  },
+  "too": {
+    "zh": "也"
+  },
+  "there": {
+    "zh": "那里；在那儿"
+  },
+  "be": {
+    "zh": "是；成为；处于某种状态",
+    "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。"
+  },
+  "sarah": {
+    "zh": "萨拉（人名）",
+    "en": "Sarah",
+    "kind": "name",
+    "note": "人名或课文人物称呼；谷歌英语合成读法待核听。"
+  },
+  "shake": {
+    "zh": "摇动；握（shake hands 表示握手）"
+  },
+  "hands": {
+    "zh": "手（hand 的复数）",
+    "kind": "form",
+    "base": "hand"
+  },
+  "i": {
+    "zh": "我",
+    "en": "I",
+    "note": "代词“我”；释义与字母 I 名称分开。"
+  },
+  "am": {
+    "zh": "是（与 I 连用的 be 的形式）",
+    "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。"
+  },
+  "john": {
+    "zh": "约翰（人名）",
+    "en": "John",
+    "kind": "name",
+    "note": "人名或课文人物称呼；谷歌英语合成读法待核听。"
+  },
+  "wave": {
+    "zh": "挥动；挥手"
+  },
+  "into": {
+    "zh": "进入；到……里面"
+  },
+  "eyes": {
+    "zh": "眼睛（eye 的复数）",
+    "kind": "form",
+    "base": "eye"
+  },
+  "point": {
+    "zh": "指；指向"
+  },
+  "bye": {
+    "zh": "再见"
+  },
+  "oh": {
+    "zh": "哦；啊"
+  },
+  "no": {
+    "zh": "不；不是"
+  },
+  "it's": {
+    "zh": "it is 的缩写；它是",
+    "en": "It's",
+    "kind": "contraction",
+    "expanded": "it is"
+  },
+  "hey": {
+    "zh": "嘿（招呼声）"
+  },
+  "thank": {
+    "zh": "感谢"
+  },
+  "fair": {
+    "zh": "公平的"
+  },
+  "with": {
+    "zh": "和……一起；带有；以……方式",
+    "note": "with care 表示“认真地；用心地”。"
+  },
+  "care": {
+    "zh": "认真；用心",
+    "note": "本课 with care 表示“认真地；用心地”，不是“照顾”。"
+  },
+  "toys": {
+    "zh": "玩具（toy 的复数）",
+    "kind": "form",
+    "base": "toy"
+  },
+  "do": {
+    "zh": "做；也用于构成问句等句式"
+  },
+  "together": {
+    "zh": "一起"
+  },
+  "zoom": {
+    "zh": "祖姆（课文角色名）",
+    "en": "Zoom",
+    "kind": "name",
+    "note": "人名或课文人物称呼；谷歌英语合成读法待核听。"
+  },
+  "food": {
+    "zh": "食物"
+  },
+  "each": {
+    "zh": "每个",
+    "note": "与 other 连用，each other 表示“互相；彼此”。"
+  },
+  "other": {
+    "zh": "另一个；其他的",
+    "note": "与 each 连用，each other 表示“互相；彼此”。"
+  },
+  "ouch": {
+    "zh": "哎哟（疼痛时的叫声）"
+  },
+  "hold": {
+    "zh": "握住；抓住"
+  },
+  "now": {
+    "zh": "现在"
+  },
+  "this": {
+    "zh": "这；这个"
+  },
+  "that": {
+    "zh": "那；那个"
+  },
+  "it": {
+    "zh": "它"
+  },
+  "how": {
+    "zh": "怎样；多么"
+  },
+  "why": {
+    "zh": "为什么"
+  },
+  "the": {
+    "zh": "特指的人或事物（常不单独翻译）",
+    "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。"
+  },
+  "people": {
+    "zh": "人；人们"
+  },
+  "families": {
+    "zh": "家庭（family 的复数）",
+    "kind": "form",
+    "base": "family"
+  },
+  "different": {
+    "zh": "不同的"
+  },
+  "happy": {
+    "zh": "快乐的；开心的"
+  },
+  "daddy": {
+    "zh": "爸爸（亲昵称呼）"
+  },
+  "finger": {
+    "zh": "手指"
+  },
+  "where": {
+    "zh": "哪里；在哪里"
+  },
+  "an": {
+    "zh": "一个；一（不定冠词）",
+    "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。"
+  },
+  "cousins": {
+    "zh": "堂（表）兄弟姐妹（cousin 的复数）",
+    "kind": "form",
+    "base": "cousin"
+  },
+  "but": {
+    "zh": "但是"
+  },
+  "love": {
+    "zh": "爱；喜爱"
+  },
+  "same": {
+    "zh": "相同的"
+  },
+  "talk": {
+    "zh": "交谈；谈话"
+  },
+  "or": {
+    "zh": "或者；还是"
+  },
+  "members": {
+    "zh": "成员（member 的复数）",
+    "kind": "form",
+    "base": "member"
+  },
+  "who": {
+    "zh": "谁"
+  },
+  "lives": {
+    "zh": "居住；生活（live 的第三人称单数形式）",
+    "kind": "form",
+    "base": "live",
+    "note": "本课使用动词义。该词有不同词性或词形读法，单词音频须重点核听，并与下方原句对照。"
+  },
+  "whose": {
+    "zh": "谁的"
+  },
+  "these": {
+    "zh": "这些"
+  },
+  "animals": {
+    "zh": "动物（animal 的复数）",
+    "kind": "form",
+    "base": "animal"
+  },
+  "know": {
+    "zh": "知道；认识"
+  },
+  "so": {
+    "zh": "如此；这么"
+  },
+  "many": {
+    "zh": "许多"
+  },
+  "wild": {
+    "zh": "野生的"
+  },
+  "all": {
+    "zh": "所有的；全部"
+  },
+  "song": {
+    "zh": "歌曲"
+  },
+  "morning": {
+    "zh": "早晨；上午"
+  },
+  "mike": {
+    "zh": "迈克（人名）",
+    "en": "Mike",
+    "kind": "name",
+    "note": "人名或课文人物称呼；谷歌英语合成读法待核听。"
+  },
+  "come": {
+    "zh": "来"
+  },
+  "in": {
+    "zh": "在……里面"
+  },
+  "don't": {
+    "zh": "do not 的缩写；不（用于否定）",
+    "en": "don't",
+    "kind": "contraction",
+    "expanded": "do not"
+  },
+  "cats": {
+    "zh": "猫（cat 的复数）",
+    "kind": "form",
+    "base": "cat"
+  },
+  "birds": {
+    "zh": "鸟（bird 的复数）",
+    "kind": "form",
+    "base": "bird"
+  },
+  "rabbits": {
+    "zh": "兔（rabbit 的复数）",
+    "kind": "form",
+    "base": "rabbit"
+  },
+  "sleep": {
+    "zh": "睡觉"
+  },
+  "sing": {
+    "zh": "唱；唱歌"
+  },
+  "swim": {
+    "zh": "游泳"
+  },
+  "miss white": {
+    "zh": "怀特老师（课文人物称呼）",
+    "en": "Miss White",
+    "kind": "name",
+    "note": "人名或课文人物称呼；谷歌英语合成读法待核听。"
+  },
+  "book": {
+    "zh": "书"
+  },
+  "amazing": {
+    "zh": "令人惊奇的"
+  },
+  "we're": {
+    "zh": "we are 的缩写；我们是",
+    "en": "We're",
+    "kind": "contraction",
+    "expanded": "we are"
+  },
+  "whale": {
+    "zh": "鲸",
+    "note": "本课 whale sharks 是词组，表示“鲸鲨”，不是分别指鲸和鲨鱼。"
+  },
+  "sharks": {
+    "zh": "鲨鱼（shark 的复数）",
+    "kind": "form",
+    "base": "shark",
+    "note": "本课 whale sharks 表示“鲸鲨”（复数）。"
+  },
+  "squids": {
+    "zh": "鱿鱼（squid 的复数）",
+    "kind": "form",
+    "base": "squid"
+  },
+  "jump": {
+    "zh": "跳；跳跃"
+  },
+  "lions": {
+    "zh": "狮子（lion 的复数）",
+    "kind": "form",
+    "base": "lion"
+  },
+  "aha": {
+    "zh": "啊哈（发现或领会时的感叹）"
+  },
+  "that's": {
+    "zh": "that is 的缩写；那是",
+    "en": "That's",
+    "kind": "contraction",
+    "expanded": "that is"
+  },
+  "our": {
+    "zh": "我们的"
+  },
+  "songs": {
+    "zh": "歌曲（song 的复数）",
+    "kind": "form",
+    "base": "song"
+  },
+  "special": {
+    "zh": "特别的"
+  },
+  "others": {
+    "zh": "其他人；其他事物",
+    "kind": "form",
+    "base": "other"
+  },
+  "live": {
+    "zh": "生活；居住",
+    "note": "本课使用动词义。该词有不同词性或词形读法，单词音频须重点核听，并与下方原句对照。"
+  },
+  "slow": {
+    "zh": "缓慢的"
+  },
+  "plants": {
+    "zh": "植物（plant 的复数）",
+    "kind": "form",
+    "base": "plant"
+  },
+  "fruit": {
+    "zh": "水果"
+  },
+  "grow": {
+    "zh": "种植；生长"
+  },
+  "fresh": {
+    "zh": "新鲜的"
+  },
+  "long": {
+    "zh": "长的"
+  },
+  "strong": {
+    "zh": "强壮的；茁壮的"
+  },
+  "things": {
+    "zh": "东西；事物（thing 的复数）",
+    "kind": "form",
+    "base": "thing"
+  },
+  "leaves": {
+    "zh": "树叶（leaf 的复数）",
+    "kind": "form",
+    "base": "leaf"
+  },
+  "spring": {
+    "zh": "春天"
+  },
+  "gardens": {
+    "zh": "花园（garden 的复数）",
+    "kind": "form",
+    "base": "garden"
+  },
+  "turn": {
+    "zh": "翻动；转动",
+    "note": "园艺句中指翻动；turn around 表示转身或转圈。"
+  },
+  "does": {
+    "zh": "do 的第三人称单数形式；也用于构成问句",
+    "kind": "form",
+    "base": "do"
+  },
+  "cold": {
+    "zh": "寒冷的"
+  },
+  "beautiful": {
+    "zh": "美丽的"
+  },
+  "connect": {
+    "zh": "联系；连接"
+  },
+  "get": {
+    "zh": "得到；获得"
+  },
+  "from": {
+    "zh": "从；来自"
+  },
+  "colours": {
+    "zh": "颜色（colour 的复数）",
+    "kind": "form",
+    "base": "colour"
+  },
+  "about": {
+    "zh": "关于"
+  },
+  "sky": {
+    "zh": "天空"
+  },
+  "roses": {
+    "zh": "玫瑰（rose 的复数）",
+    "kind": "form",
+    "base": "rose"
+  },
+  "snow": {
+    "zh": "雪"
+  },
+  "please": {
+    "zh": "请"
+  },
+  "tell": {
+    "zh": "告诉"
+  },
+  "world": {
+    "zh": "世界"
+  },
+  "colourful": {
+    "zh": "色彩丰富的；五颜六色的"
+  },
+  "here": {
+    "zh": "这里；在这里"
+  },
+  "else": {
+    "zh": "其他；别的"
+  },
+  "useful": {
+    "zh": "有用的"
+  },
+  "down": {
+    "zh": "向下"
+  },
+  "around": {
+    "zh": "周围；转圈"
+  },
+  "touch": {
+    "zh": "触摸"
+  },
+  "ground": {
+    "zh": "地面"
+  },
+  "use": {
+    "zh": "使用",
+    "note": "本课使用动词义。该词有不同词性或词形读法，单词音频须重点核听，并与下方原句对照。"
+  },
+  "again": {
+    "zh": "再一次；又"
+  },
+  "careful": {
+    "zh": "小心的"
+  },
+  "ducks": {
+    "zh": "鸭（duck 的复数）",
+    "kind": "form",
+    "base": "duck"
+  },
+  "sunflower": {
+    "zh": "向日葵"
+  },
+  "then": {
+    "zh": "然后；接着"
+  },
+  "bees": {
+    "zh": "蜜蜂（bee 的复数）",
+    "kind": "form",
+    "base": "bee"
+  },
+  "gone": {
+    "zh": "离去了；不见了（本课指花朵凋谢了）",
+    "kind": "form",
+    "base": "go"
+  },
+  "children": {
+    "zh": "儿童；孩子们（child 的复数）",
+    "kind": "form",
+    "base": "child"
+  },
+  "everywhere": {
+    "zh": "到处"
+  },
+  "important": {
+    "zh": "重要的"
+  },
+  "boy": {
+    "zh": "男孩"
+  },
+  "boys": {
+    "zh": "男孩（boy 的复数）",
+    "kind": "form",
+    "base": "boy"
+  },
+  "more": {
+    "zh": "更多"
+  },
+  "binbin": {
+    "zh": "彬彬（沿用该句中文译名的人名）",
+    "en": "Binbin",
+    "kind": "name",
+    "note": "人名或课文人物称呼；谷歌英语合成读法待核听。"
+  },
+  "sam": {
+    "zh": "萨姆（人名）",
+    "en": "Sam",
+    "kind": "name",
+    "note": "人名或课文人物称呼；谷歌英语合成读法待核听。"
+  },
+  "xinxin": {
+    "zh": "欣欣（人名）",
+    "en": "Xinxin",
+    "kind": "name",
+    "note": "人名或课文人物称呼；谷歌英语合成读法待核听。"
+  },
+  "years": {
+    "zh": "年；岁（year 的复数）",
+    "kind": "form",
+    "base": "year"
+  },
+  "xiaoli": {
+    "zh": "小丽（人名）",
+    "en": "Xiaoli",
+    "kind": "name",
+    "note": "人名或课文人物称呼；谷歌英语合成读法待核听。"
+  },
+  "high": {
+    "zh": "高的（high five 表示击掌）"
+  },
+  "such": {
+    "zh": "这样；如此（such fun 表示真开心）"
+  },
+  "fun": {
+    "zh": "乐趣；有趣的事"
+  },
+  "yuan": {
+    "zh": "元（人民币单位）"
+  },
+  "shop": {
+    "zh": "商店"
+  },
+  "head": {
+    "zh": "头"
+  },
+  "legs": {
+    "zh": "腿（leg 的复数）",
+    "kind": "form",
+    "base": "leg"
+  },
+  "toes": {
+    "zh": "脚趾（toe 的复数）",
+    "kind": "form",
+    "base": "toe"
+  },
+  "child": {
+    "zh": "儿童；孩子"
+  },
+  "spider": {
+    "zh": "蜘蛛"
+  },
+  "wings": {
+    "zh": "翅膀（wing 的复数）",
+    "kind": "form",
+    "base": "wing"
+  },
+  "bee": {
+    "zh": "蜜蜂"
+  },
+  "hurry": {
+    "zh": "赶快；匆忙"
+  },
+  "birthday": {
+    "zh": "生日"
+  },
+  "cuts": {
+    "zh": "刀；切割的次数（cut 的复数）",
+    "kind": "form",
+    "base": "cut",
+    "note": "本课 Three cuts. 表示“切三刀”，这里是名词复数。"
+  },
+  "dogs": {
+    "zh": "狗（dog 的复数）",
+    "kind": "form",
+    "base": "dog"
+  },
+  "for": {
+    "zh": "给；为了；表示对象或用途"
+  },
+  "matt": {
+    "zh": "马特（人名）",
+    "en": "Matt",
+    "kind": "name",
+    "note": "人名或课文人物称呼；谷歌英语合成读法待核听。"
+  },
+  "invited": {
+    "zh": "受邀的；被邀请（invite 的过去分词）",
+    "kind": "form",
+    "base": "invite"
+  },
+  "time": {
+    "zh": "时间"
+  },
+  "party": {
+    "zh": "聚会"
+  },
+  "on": {
+    "zh": "在……上面；用于具体日期前"
+  },
+  "card": {
+    "zh": "卡片"
+  },
+  "xinxin's": {
+    "zh": "欣欣的（人名的所有格）",
+    "kind": "form",
+    "base": "Xinxin",
+    "en": "Xinxin's",
+    "spokenText": "xinxin's"
+  },
+  "6th": {
+    "zh": "第六（序数词 sixth）",
+    "spokenText": "sixth",
+    "kind": "form",
+    "base": "six",
+    "note": "课文写作 6th，朗读为 sixth；不是字母 th。"
+  },
+  "home": {
+    "zh": "家"
+  },
+  "cards": {
+    "zh": "卡片（card 的复数）",
+    "kind": "form",
+    "base": "card"
+  },
+  "hmm": {
+    "zh": "嗯（思考时的声音）"
+  },
+  "you're": {
+    "zh": "you are 的缩写；你是；你们是",
+    "en": "You're",
+    "kind": "contraction",
+    "expanded": "you are"
+  },
+  "chinese": {
+    "zh": "汉语；中文",
+    "en": "Chinese",
+    "note": "本课 in Chinese 表示“用汉语”。"
+  },
+  "jiaguwen": {
+    "zh": "甲骨文（课文使用的汉语拼音名称）",
+    "en": "Jiaguwen",
+    "kind": "term",
+    "note": "汉语拼音名称；英语合成读法待核听，请结合原句理解。"
+  },
+  "number": {
+    "zh": "数字"
+  },
+  "over": {
+    "zh": "超过（本课用于表示年龄或年代）"
+  },
+  "helpful": {
+    "zh": "有帮助的；乐于助人的"
+  },
+  "when": {
+    "zh": "什么时候"
+  },
+  "brothers": {
+    "zh": "哥哥；弟弟（brother 的复数）",
+    "kind": "form",
+    "base": "brother"
+  },
+  "sisters": {
+    "zh": "姐姐；妹妹（sister 的复数）",
+    "kind": "form",
+    "base": "sister"
+  },
+  "mike black": {
+    "zh": "迈克·布莱克",
+    "kind": "name",
+    "en": "Mike Black",
+    "note": "课文人名；保留完整拼写，读音需试听确认。"
+  },
+  "wu binbin": {
+    "zh": "吴斌斌",
+    "kind": "name",
+    "en": "Wu Binbin",
+    "note": "课文人名；保留完整拼写，读音需试听确认。"
+  },
+  "sarah miller": {
+    "zh": "萨拉·米勒",
+    "kind": "name",
+    "en": "Sarah Miller",
+    "note": "课文人名；保留完整拼写，读音需试听确认。"
+  },
+  "look": {
+    "zh": "看！",
+    "kind": "word"
+  },
+  "john baker": {
+    "zh": "约翰·贝克",
+    "kind": "name",
+    "en": "John Baker",
+    "note": "课文人名；保留完整拼写，读音需试听确认。"
+  },
+  "chen jie": {
+    "zh": "陈杰",
+    "kind": "name",
+    "en": "Chen Jie",
+    "note": "课文人名；保留完整拼写，读音需试听确认。"
+  },
+  "bag": {
+    "zh": "书包（字母例词）",
+    "kind": "word"
+  },
+  "bed": {
+    "zh": "床（字母例词）",
+    "kind": "word"
+  },
+  "bob": {
+    "zh": "鲍勃（人名例词）",
+    "kind": "name",
+    "en": "Bob",
+    "note": "课文人名；读音需试听确认。"
+  },
+  "sad": {
+    "zh": "伤心的（字母例词）",
+    "kind": "word"
+  },
+  "bad": {
+    "zh": "坏的（组合例词）",
+    "kind": "word"
+  },
+  "cab": {
+    "zh": "出租车（组合例词）",
+    "kind": "word"
+  },
+  "ok": {
+    "zh": "好的。",
+    "kind": "word"
+  },
+  "we": {
+    "zh": "我们",
+    "kind": "word"
+  },
+  "thanks": {
+    "zh": "谢谢！",
+    "kind": "word"
+  },
+  "yes": {
+    "zh": "是的",
+    "kind": "word"
+  },
+  "zip": {
+    "zh": "次波（课文角色名）",
+    "kind": "name",
+    "en": "Zip",
+    "unitMeanings": {
+      "6": "兹普（角色名，沿用该处原有译名）"
+    },
+    "note": "课文角色名；不同单元已有译名分别保留，谷歌读法待核听。"
+  },
+  "egg": {
+    "zh": "鸡蛋",
+    "kind": "word"
+  },
+  "nest": {
+    "zh": "鸟巢",
+    "kind": "word"
+  },
+  "beef": {
+    "zh": "牛肉",
+    "kind": "word"
+  },
+  "girl": {
+    "zh": "女孩",
+    "kind": "word"
+  },
+  "pig": {
+    "zh": "猪",
+    "kind": "word"
+  },
+  "hot": {
+    "zh": "热的",
+    "kind": "word"
+  },
+  "hat": {
+    "zh": "帽子",
+    "kind": "word"
+  },
+  "fed": {
+    "zh": "喂养（过去式）",
+    "kind": "form",
+    "base": "feed"
+  },
+  "gab": {
+    "zh": "闲聊",
+    "kind": "word"
+  },
+  "had": {
+    "zh": "有（过去式）",
+    "kind": "form",
+    "base": "have"
+  },
+  "pets": {
+    "zh": "宠物",
+    "kind": "form",
+    "base": "pet"
+  },
+  "run": {
+    "zh": "跑！",
+    "kind": "word"
+  },
+  "hop": {
+    "zh": "单脚跳",
+    "kind": "word"
+  },
+  "ill": {
+    "zh": "生病的",
+    "kind": "word"
+  },
+  "kid": {
+    "zh": "小孩",
+    "kind": "word"
+  },
+  "job": {
+    "zh": "工作",
+    "kind": "word"
+  },
+  "jet": {
+    "zh": "喷气式飞机",
+    "kind": "word"
+  },
+  "kim": {
+    "zh": "金姆（人名）",
+    "kind": "name",
+    "en": "Kim",
+    "note": "课文人名；读音需试听确认。"
+  },
+  "kite": {
+    "zh": "风筝",
+    "kind": "word"
+  },
+  "leg": {
+    "zh": "腿",
+    "kind": "word"
+  },
+  "dig": {
+    "zh": "挖",
+    "kind": "word"
+  },
+  "jim": {
+    "zh": "吉姆（人名）",
+    "kind": "name",
+    "en": "Jim",
+    "note": "课文人名；读音需试听确认。"
+  },
+  "lab": {
+    "zh": "实验室",
+    "kind": "word"
+  },
+  "led": {
+    "zh": "带领（过去式）",
+    "kind": "form",
+    "base": "lead"
+  },
+  "great": {
+    "zh": "太好了！",
+    "kind": "word"
+  },
+  "see": {
+    "zh": "看见",
+    "kind": "word"
+  },
+  "grapes": {
+    "zh": "葡萄（复数）",
+    "kind": "form",
+    "base": "grape"
+  },
+  "apples": {
+    "zh": "苹果（复数）",
+    "kind": "form",
+    "base": "apple"
+  },
+  "bananas": {
+    "zh": "香蕉（复数）",
+    "kind": "form",
+    "base": "banana"
+  },
+  "oranges": {
+    "zh": "橙子（复数）",
+    "kind": "form",
+    "base": "orange"
+  },
+  "trees": {
+    "zh": "树（复数）",
+    "kind": "form",
+    "base": "tree"
+  },
+  "flowers": {
+    "zh": "花（复数）",
+    "kind": "form",
+    "base": "flower"
+  },
+  "map": {
+    "zh": "地图",
+    "kind": "word"
+  },
+  "fan": {
+    "zh": "风扇",
+    "kind": "word"
+  },
+  "pen": {
+    "zh": "钢笔",
+    "kind": "word"
+  },
+  "cup": {
+    "zh": "杯子",
+    "kind": "word"
+  },
+  "nod": {
+    "zh": "点头",
+    "kind": "word"
+  },
+  "men": {
+    "zh": "男人（复数）",
+    "kind": "form",
+    "base": "man"
+  },
+  "nap": {
+    "zh": "小睡",
+    "kind": "word"
+  },
+  "wow": {
+    "zh": "哇！",
+    "kind": "word"
+  },
+  "quiet": {
+    "zh": "安静的",
+    "kind": "word"
+  },
+  "queen": {
+    "zh": "女王",
+    "kind": "word"
+  },
+  "ruler": {
+    "zh": "尺子",
+    "kind": "word"
+  },
+  "bus": {
+    "zh": "公共汽车",
+    "kind": "word"
+  },
+  "ted": {
+    "zh": "特德（人名）",
+    "kind": "name",
+    "en": "Ted",
+    "note": "课文人名；读音需试听确认。"
+  },
+  "sit": {
+    "zh": "坐",
+    "kind": "word"
+  },
+  "up": {
+    "zh": "向上",
+    "kind": "word"
+  },
+  "quit": {
+    "zh": "停止；放弃",
+    "kind": "word"
+  },
+  "rot": {
+    "zh": "腐烂",
+    "kind": "word"
+  },
+  "set": {
+    "zh": "放置",
+    "kind": "word"
+  },
+  "tap": {
+    "zh": "轻拍",
+    "kind": "word"
+  },
+  "tub": {
+    "zh": "浴盆",
+    "kind": "word"
+  },
+  "numbers": {
+    "zh": "数字",
+    "kind": "form",
+    "base": "number"
+  },
+  "van": {
+    "zh": "厢式货车",
+    "kind": "word"
+  },
+  "vet": {
+    "zh": "兽医",
+    "kind": "word"
+  },
+  "win": {
+    "zh": "获胜",
+    "kind": "word"
+  },
+  "box": {
+    "zh": "盒子",
+    "kind": "word"
+  },
+  "yo-yo": {
+    "zh": "悠悠球",
+    "kind": "word"
+  },
+  "quiz": {
+    "zh": "小测验",
+    "kind": "word"
+  },
+  "wet": {
+    "zh": "湿的（拼读示例）",
+    "kind": "word"
+  },
+  "vat": {
+    "zh": "大桶",
+    "kind": "word"
+  },
+  "won": {
+    "zh": "获胜（过去式）",
+    "kind": "form",
+    "base": "win"
+  },
+  "yum": {
+    "zh": "好吃",
+    "kind": "word"
+  },
+  "zig": {
+    "zh": "急转",
+    "kind": "word"
+  },
+  "odd": {
+    "zh": "奇数",
+    "kind": "word"
+  },
+  "even": {
+    "zh": "偶数",
+    "kind": "word"
+  },
+  "right": {
+    "zh": "对。",
+    "kind": "word"
+  }
+}

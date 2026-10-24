@@ -962,9 +962,40 @@
       "page": 37,
       "file": "sentence-98.mp3",
       "audioSource": "Google Translate"
+    },
+    {
+      "en": "How are animals different?",
+      "zh": "动物有哪些不同？",
+      "page": 26,
+      "file": "topic-page26.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What pets do you know?",
+      "zh": "你知道哪些宠物？",
+      "page": 28,
+      "file": "topic-page28.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What wild animals do you know?",
+      "zh": "你知道哪些野生动物？",
+      "page": 31,
+      "file": "topic-page31.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
     }
   ],
   "groups": [
+    {
+      "title": "单元主题问句",
+      "note": "第 26 页 · 教材主题问句",
+      "clips": [
+        99
+      ]
+    },
     {
       "title": "导入思考与动物歌谣",
       "note": "第 27 页 · 谷歌原速朗读",
@@ -976,6 +1007,13 @@
         5,
         6,
         7
+      ]
+    },
+    {
+      "title": "A · 主题问句",
+      "note": "第 28 页 · 教材主题问句",
+      "clips": [
+        100
       ]
     },
     {
@@ -1040,6 +1078,13 @@
         27,
         28,
         29
+      ]
+    },
+    {
+      "title": "B · 主题问句",
+      "note": "第 31 页 · 教材主题问句",
+      "clips": [
+        101
       ]
     },
     {

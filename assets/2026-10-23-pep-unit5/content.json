@@ -809,9 +809,32 @@
       "page": 61,
       "file": "sentence-85.mp3",
       "audioSource": "Google Translate"
+    },
+    {
+      "en": "Why are colours important?",
+      "zh": "颜色为什么重要？",
+      "page": 50,
+      "file": "topic-page50.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "How do colours help us?",
+      "zh": "颜色怎样帮助我们？",
+      "page": 55,
+      "file": "topic-page55.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
     }
   ],
   "groups": [
+    {
+      "title": "单元主题问句",
+      "note": "第 50 页 · 教材主题问句",
+      "clips": [
+        86
+      ]
+    },
     {
       "title": "导入思考与颜色歌谣",
       "note": "第 51 页 · 谷歌原速朗读",
@@ -894,6 +917,13 @@
         27,
         28,
         29
+      ]
+    },
+    {
+      "title": "B · 主题问句",
+      "note": "第 55 页 · 教材主题问句",
+      "clips": [
+        87
       ]
     },
     {

@@ -1,0 +1,2692 @@
+{
+  "schemaVersion": 1,
+  "unit": 5,
+  "scope": "课文补充词，不属于教材书后词汇表，不进入默认练习",
+  "entries": [
+    {
+      "key": "are",
+      "en": "are",
+      "zh": "是（be 的一种形式）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/are.mp3",
+      "spokenText": "are",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "Roses are red.",
+          "zh": "玫瑰是红色的。",
+          "file": "sentence-06.mp3"
+        },
+        {
+          "page": 56,
+          "en": "Colours are useful!",
+          "zh": "颜色很有用！",
+          "file": "sentence-51.mp3"
+        },
+        {
+          "page": 59,
+          "en": "Bananas are yellow.",
+          "zh": "香蕉是黄色的。",
+          "file": "sentence-73.mp3"
+        },
+        {
+          "page": 59,
+          "en": "Ducks are ...",
+          "zh": "鸭子是……颜色的。",
+          "file": "sentence-74.mp3"
+        },
+        {
+          "page": 60,
+          "en": "They are yellow and black.",
+          "zh": "它们是黄色和黑色相间的。",
+          "file": "sentence-79.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Colours are everywhere.",
+          "zh": "颜色无处不在。",
+          "file": "sentence-83.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Colours are beautiful.",
+          "zh": "颜色很美。",
+          "file": "sentence-84.mp3"
+        },
+        {
+          "page": 50,
+          "en": "Why are colours important?",
+          "zh": "颜色为什么重要？",
+          "file": "topic-page50.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "they",
+      "en": "they",
+      "zh": "他们；她们；它们",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/they.mp3",
+      "spokenText": "they",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 60,
+          "en": "They are yellow and black.",
+          "zh": "它们是黄色和黑色相间的。",
+          "file": "sentence-79.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "what",
+      "en": "what",
+      "zh": "什么",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/what.mp3",
+      "spokenText": "what",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "What colours do you see?",
+          "zh": "你看到了哪些颜色？",
+          "file": "sentence-01.mp3"
+        },
+        {
+          "page": 51,
+          "en": "What colours do you like?",
+          "zh": "你喜欢哪些颜色？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 55,
+          "en": "What colours do you like?",
+          "zh": "你喜欢哪些颜色？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 51,
+          "en": "What about the sky and sea?",
+          "zh": "天空和大海是什么颜色呢？",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 52,
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 57,
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 58,
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 53,
+          "en": "A big brown bear. What else can you see?",
+          "zh": "一只大棕熊。你还能看到什么？",
+          "file": "sentence-24.mp3"
+        },
+        {
+          "page": 59,
+          "en": "What colours do you like, Sarah?",
+          "zh": "萨拉，你喜欢哪些颜色？",
+          "file": "sentence-70.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "you",
+      "en": "you",
+      "zh": "你；你们",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/you.mp3",
+      "spokenText": "you",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "What colours do you see?",
+          "zh": "你看到了哪些颜色？",
+          "file": "sentence-01.mp3"
+        },
+        {
+          "page": 51,
+          "en": "What colours do you like?",
+          "zh": "你喜欢哪些颜色？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 55,
+          "en": "What colours do you like?",
+          "zh": "你喜欢哪些颜色？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 53,
+          "en": "A big brown bear. What else can you see?",
+          "zh": "一只大棕熊。你还能看到什么？",
+          "file": "sentence-24.mp3"
+        },
+        {
+          "page": 59,
+          "en": "What colours do you like, Sarah?",
+          "zh": "萨拉，你喜欢哪些颜色？",
+          "file": "sentence-70.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "a",
+      "en": "a",
+      "zh": "一个；一（不定冠词）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/a.mp3",
+      "spokenText": "a",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 53,
+          "en": "a brown bear",
+          "zh": "一只棕色的熊",
+          "file": "sentence-16.mp3"
+        },
+        {
+          "page": 53,
+          "en": "a yellow duck",
+          "zh": "一只黄色的鸭子",
+          "file": "sentence-17.mp3"
+        },
+        {
+          "page": 53,
+          "en": "a purple flower",
+          "zh": "一朵紫色的花",
+          "file": "sentence-18.mp3"
+        },
+        {
+          "page": 53,
+          "en": "A big brown bear. What else can you see?",
+          "zh": "一只大棕熊。你还能看到什么？",
+          "file": "sentence-24.mp3"
+        },
+        {
+          "page": 60,
+          "en": "I am a sunflower. I am tall and green.",
+          "zh": "我是一株向日葵。我很高，是绿色的。",
+          "file": "sentence-75.mp3"
+        },
+        {
+          "page": 60,
+          "en": "Now I am a big yellow flower.",
+          "zh": "现在我是一朵大大的黄花。",
+          "file": "sentence-77.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "let's",
+      "en": "Let's",
+      "zh": "let us 的缩写；让我们",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "let us",
+      "note": "",
+      "file": "supplemental/let-s.mp3",
+      "spokenText": "Let's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 55,
+          "en": "OK. Let's draw some red and pink flowers.",
+          "zh": "好的。我们画些红色和粉色的花吧。",
+          "file": "sentence-47.mp3"
+        },
+        {
+          "page": 55,
+          "en": "Let's draw some purple and brown birds.",
+          "zh": "我们画些紫色和棕色的鸟吧。",
+          "file": "sentence-49.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "my",
+      "en": "my",
+      "zh": "我的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/my.mp3",
+      "spokenText": "my",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 59,
+          "en": "This is my book.",
+          "zh": "这是我的书。",
+          "file": "sentence-72.mp3"
+        },
+        {
+          "page": 61,
+          "en": "I am gone. But my children grow.",
+          "zh": "我凋谢了。但我的孩子们在生长。",
+          "file": "sentence-82.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "is",
+      "en": "is",
+      "zh": "是（be 的一种形式）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/is.mp3",
+      "spokenText": "is",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "The sun is orange.",
+          "zh": "太阳是橙红色的。",
+          "file": "sentence-03.mp3"
+        },
+        {
+          "page": 51,
+          "en": "Grass is green.",
+          "zh": "草是绿色的。",
+          "file": "sentence-04.mp3"
+        },
+        {
+          "page": 51,
+          "en": "Snow is white.",
+          "zh": "雪是白色的。",
+          "file": "sentence-07.mp3"
+        },
+        {
+          "page": 52,
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 57,
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 58,
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 53,
+          "en": "The world is colourful!",
+          "zh": "世界是五彩缤纷的！",
+          "file": "sentence-21.mp3"
+        },
+        {
+          "page": 59,
+          "en": "This is my book.",
+          "zh": "这是我的书。",
+          "file": "sentence-72.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Now it is cold. I am green and brown.",
+          "zh": "现在天气冷了。我变成了绿色和棕色。",
+          "file": "sentence-81.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "there",
+      "en": "there",
+      "zh": "那里；在那儿",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/there.mp3",
+      "spokenText": "there",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 53,
+          "en": "I see colours here and there.",
+          "zh": "我到处都能看见色彩。",
+          "file": "sentence-22.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "be",
+      "en": "be",
+      "zh": "是；成为；处于某种状态",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/be.mp3",
+      "spokenText": "be",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 57,
+          "en": "It's yellow. Yellow can say \"Be careful!\"",
+          "zh": "这是黄色。黄色可以表示“小心！”",
+          "file": "sentence-64.mp3"
+        },
+        {
+          "page": 90,
+          "en": "Be careful!",
+          "zh": "小心！",
+          "file": "key-08.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "sarah",
+      "en": "Sarah",
+      "zh": "萨拉（人名）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "file": "supplemental/sarah.mp3",
+      "spokenText": "Sarah",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 59,
+          "en": "What colours do you like, Sarah?",
+          "zh": "萨拉，你喜欢哪些颜色？",
+          "file": "sentence-70.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "i",
+      "en": "I",
+      "zh": "我",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "代词“我”；释义与字母 I 名称分开。",
+      "file": "supplemental/i.mp3",
+      "spokenText": "I",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 53,
+          "en": "I see colours here and there.",
+          "zh": "我到处都能看见色彩。",
+          "file": "sentence-22.mp3"
+        },
+        {
+          "page": 55,
+          "en": "I like red and pink.",
+          "zh": "我喜欢红色和粉色。",
+          "file": "sentence-46.mp3"
+        },
+        {
+          "page": 55,
+          "en": "I like green and yellow.",
+          "zh": "我喜欢绿色和黄色。",
+          "file": "sentence-50.mp3"
+        },
+        {
+          "page": 59,
+          "en": "I like yellow, red and blue.",
+          "zh": "我喜欢黄色、红色和蓝色。",
+          "file": "sentence-71.mp3"
+        },
+        {
+          "page": 60,
+          "en": "I am a sunflower. I am tall and green.",
+          "zh": "我是一株向日葵。我很高，是绿色的。",
+          "file": "sentence-75.mp3"
+        },
+        {
+          "page": 60,
+          "en": "Then I am green and yellow.",
+          "zh": "然后我变成了绿色和黄色。",
+          "file": "sentence-76.mp3"
+        },
+        {
+          "page": 60,
+          "en": "Now I am a big yellow flower.",
+          "zh": "现在我是一朵大大的黄花。",
+          "file": "sentence-77.mp3"
+        },
+        {
+          "page": 60,
+          "en": "I give them food.",
+          "zh": "我给它们食物。",
+          "file": "sentence-80.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Now it is cold. I am green and brown.",
+          "zh": "现在天气冷了。我变成了绿色和棕色。",
+          "file": "sentence-81.mp3"
+        },
+        {
+          "page": 61,
+          "en": "I am gone. But my children grow.",
+          "zh": "我凋谢了。但我的孩子们在生长。",
+          "file": "sentence-82.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "am",
+      "en": "am",
+      "zh": "是（与 I 连用的 be 的形式）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/am.mp3",
+      "spokenText": "am",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 60,
+          "en": "I am a sunflower. I am tall and green.",
+          "zh": "我是一株向日葵。我很高，是绿色的。",
+          "file": "sentence-75.mp3"
+        },
+        {
+          "page": 60,
+          "en": "Then I am green and yellow.",
+          "zh": "然后我变成了绿色和黄色。",
+          "file": "sentence-76.mp3"
+        },
+        {
+          "page": 60,
+          "en": "Now I am a big yellow flower.",
+          "zh": "现在我是一朵大大的黄花。",
+          "file": "sentence-77.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Now it is cold. I am green and brown.",
+          "zh": "现在天气冷了。我变成了绿色和棕色。",
+          "file": "sentence-81.mp3"
+        },
+        {
+          "page": 61,
+          "en": "I am gone. But my children grow.",
+          "zh": "我凋谢了。但我的孩子们在生长。",
+          "file": "sentence-82.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "look",
+      "en": "look",
+      "zh": "看！",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/look.mp3",
+      "spokenText": "Look!",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 52,
+          "en": "Look! Red and blue make purple.",
+          "zh": "看！红色和蓝色混合成紫色。",
+          "file": "sentence-13.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit2/google-v1",
+        "file": "sentence-14.mp3",
+        "source": {
+          "file": "sentence-14.mp3",
+          "text": "Look!",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%21&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "7ced0d89b4ee5f3c7126153ac8badccbbf3af2be3e600d0edec8f4b5b6b23e68"
+        }
+      }
+    },
+    {
+      "key": "no",
+      "en": "no",
+      "zh": "不；不是",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/no.mp3",
+      "spokenText": "no",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 57,
+          "en": "It's red. Red can say \"No!\"",
+          "zh": "这是红色。红色可以表示“不行！”",
+          "file": "sentence-61.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "it's",
+      "en": "It's",
+      "zh": "it is 的缩写；它是",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "it is",
+      "note": "",
+      "file": "supplemental/it-s.mp3",
+      "spokenText": "It's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 52,
+          "en": "It's orange.",
+          "zh": "它是橙红色的。",
+          "file": "sentence-11.mp3"
+        },
+        {
+          "page": 52,
+          "en": "It's green.",
+          "zh": "它是绿色的。",
+          "file": "sentence-12.mp3"
+        },
+        {
+          "page": 58,
+          "en": "It's green.",
+          "zh": "它是绿色的。",
+          "file": "sentence-12.mp3"
+        },
+        {
+          "page": 57,
+          "en": "It's red. Red can say \"No!\"",
+          "zh": "这是红色。红色可以表示“不行！”",
+          "file": "sentence-61.mp3"
+        },
+        {
+          "page": 57,
+          "en": "It's green. Green can say \"Go!\"",
+          "zh": "这是绿色。绿色可以表示“通行！”",
+          "file": "sentence-62.mp3"
+        },
+        {
+          "page": 57,
+          "en": "It's blue. Blue can say \"Use again!\"",
+          "zh": "这是蓝色。蓝色可以表示“再次使用！”",
+          "file": "sentence-63.mp3"
+        },
+        {
+          "page": 57,
+          "en": "It's yellow. Yellow can say \"Be careful!\"",
+          "zh": "这是黄色。黄色可以表示“小心！”",
+          "file": "sentence-64.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "ok",
+      "en": "ok",
+      "zh": "好的。",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/ok.mp3",
+      "spokenText": "OK.",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 55,
+          "en": "OK. Let's draw some red and pink flowers.",
+          "zh": "好的。我们画些红色和粉色的花吧。",
+          "file": "sentence-47.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-53.mp3",
+        "source": {
+          "file": "sentence-53.mp3",
+          "text": "OK.",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=OK.&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "8430a611de130d9ab8c205a6728af8517493b49c66ea82cc67e4ee574102b213"
+        }
+      }
+    },
+    {
+      "key": "do",
+      "en": "do",
+      "zh": "做；也用于构成问句等句式",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/do.mp3",
+      "spokenText": "do",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "What colours do you see?",
+          "zh": "你看到了哪些颜色？",
+          "file": "sentence-01.mp3"
+        },
+        {
+          "page": 51,
+          "en": "What colours do you like?",
+          "zh": "你喜欢哪些颜色？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 55,
+          "en": "What colours do you like?",
+          "zh": "你喜欢哪些颜色？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 59,
+          "en": "What colours do you like, Sarah?",
+          "zh": "萨拉，你喜欢哪些颜色？",
+          "file": "sentence-70.mp3"
+        },
+        {
+          "page": 55,
+          "en": "How do colours help us?",
+          "zh": "颜色怎样帮助我们？",
+          "file": "topic-page55.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "food",
+      "en": "food",
+      "zh": "食物",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/food.mp3",
+      "spokenText": "food",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 60,
+          "en": "I give them food.",
+          "zh": "我给它们食物。",
+          "file": "sentence-80.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "now",
+      "en": "now",
+      "zh": "现在",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/now.mp3",
+      "spokenText": "now",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 60,
+          "en": "Now I am a big yellow flower.",
+          "zh": "现在我是一朵大大的黄花。",
+          "file": "sentence-77.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Now it is cold. I am green and brown.",
+          "zh": "现在天气冷了。我变成了绿色和棕色。",
+          "file": "sentence-81.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "this",
+      "en": "this",
+      "zh": "这；这个",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/this.mp3",
+      "spokenText": "this",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 59,
+          "en": "This is my book.",
+          "zh": "这是我的书。",
+          "file": "sentence-72.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "it",
+      "en": "it",
+      "zh": "它",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/it.mp3",
+      "spokenText": "it",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 52,
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 57,
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 58,
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？",
+          "file": "sentence-10.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Now it is cold. I am green and brown.",
+          "zh": "现在天气冷了。我变成了绿色和棕色。",
+          "file": "sentence-81.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "how",
+      "en": "how",
+      "zh": "怎样；多么",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/how.mp3",
+      "spokenText": "how",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 55,
+          "en": "How do colours help us?",
+          "zh": "颜色怎样帮助我们？",
+          "file": "topic-page55.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "why",
+      "en": "why",
+      "zh": "为什么",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/why.mp3",
+      "spokenText": "why",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "Please, please tell me why!",
+          "zh": "请告诉我为什么！",
+          "file": "sentence-08.mp3"
+        },
+        {
+          "page": 50,
+          "en": "Why are colours important?",
+          "zh": "颜色为什么重要？",
+          "file": "topic-page50.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "the",
+      "en": "the",
+      "zh": "特指的人或事物（常不单独翻译）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "file": "supplemental/the.mp3",
+      "spokenText": "the",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "The sun is orange.",
+          "zh": "太阳是橙红色的。",
+          "file": "sentence-03.mp3"
+        },
+        {
+          "page": 51,
+          "en": "What about the sky and sea?",
+          "zh": "天空和大海是什么颜色呢？",
+          "file": "sentence-05.mp3"
+        },
+        {
+          "page": 53,
+          "en": "The world is colourful!",
+          "zh": "世界是五彩缤纷的！",
+          "file": "sentence-21.mp3"
+        },
+        {
+          "page": 55,
+          "en": "And the birds?",
+          "zh": "鸟儿呢？",
+          "file": "sentence-48.mp3"
+        },
+        {
+          "page": 56,
+          "en": "Pink and red, touch the ground.",
+          "zh": "粉色和红色，摸摸地面。",
+          "file": "sentence-58.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "but",
+      "en": "but",
+      "zh": "但是",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/but.mp3",
+      "spokenText": "but",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 61,
+          "en": "I am gone. But my children grow.",
+          "zh": "我凋谢了。但我的孩子们在生长。",
+          "file": "sentence-82.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "talk",
+      "en": "talk",
+      "zh": "交谈；谈话",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/talk.mp3",
+      "spokenText": "talk",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 57,
+          "en": "Colours can talk!",
+          "zh": "颜色会说话！",
+          "file": "sentence-60.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "many",
+      "en": "many",
+      "zh": "许多",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/many.mp3",
+      "spokenText": "many",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 61,
+          "en": "Colours help us and tell us many things.",
+          "zh": "颜色帮助我们，告诉我们许多事情。",
+          "file": "sentence-85.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "song",
+      "en": "song",
+      "zh": "歌曲",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/song.mp3",
+      "spokenText": "song",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "Colour song",
+          "zh": "颜色歌",
+          "file": "sentence-09.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "come",
+      "en": "come",
+      "zh": "来",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/come.mp3",
+      "spokenText": "come",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 60,
+          "en": "Bees come.",
+          "zh": "蜜蜂来了。",
+          "file": "sentence-78.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "birds",
+      "en": "birds",
+      "zh": "鸟（bird 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "bird",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/birds.mp3",
+      "spokenText": "birds",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 55,
+          "en": "And the birds?",
+          "zh": "鸟儿呢？",
+          "file": "sentence-48.mp3"
+        },
+        {
+          "page": 55,
+          "en": "Let's draw some purple and brown birds.",
+          "zh": "我们画些紫色和棕色的鸟吧。",
+          "file": "sentence-49.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "run",
+      "en": "run",
+      "zh": "跑！",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-39.mp3",
+      "spokenText": "run",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "run",
+          "zh": "跑",
+          "file": "sentence-39.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-39.mp3",
+        "source": {
+          "file": "sentence-39.mp3",
+          "text": "run",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=run&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "d28236202791d09ea302c6ff042d28af3398dfe1bc747f40600eafcffbdc8235"
+        }
+      }
+    },
+    {
+      "key": "book",
+      "en": "book",
+      "zh": "书",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/book.mp3",
+      "spokenText": "book",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 59,
+          "en": "This is my book.",
+          "zh": "这是我的书。",
+          "file": "sentence-72.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "jump",
+      "en": "jump",
+      "zh": "跳；跳跃",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/jump.mp3",
+      "spokenText": "jump",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 56,
+          "en": "Orange and red, jump up and down.",
+          "zh": "橙红色和红色，上下跳一跳。",
+          "file": "sentence-59.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "see",
+      "en": "see",
+      "zh": "看见",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-34.mp3",
+      "spokenText": "see",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "What colours do you see?",
+          "zh": "你看到了哪些颜色？",
+          "file": "sentence-01.mp3"
+        },
+        {
+          "page": 53,
+          "en": "I see colours here and there.",
+          "zh": "我到处都能看见色彩。",
+          "file": "sentence-22.mp3"
+        },
+        {
+          "page": 53,
+          "en": "A big brown bear. What else can you see?",
+          "zh": "一只大棕熊。你还能看到什么？",
+          "file": "sentence-24.mp3"
+        },
+        {
+          "page": 54,
+          "en": "see",
+          "zh": "看见",
+          "file": "sentence-34.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-34.mp3",
+        "source": {
+          "file": "sentence-34.mp3",
+          "text": "see",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=see&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "0014a0856ab69c5317fbcb7c625ad7a520e7157d8d3a2777f302d3fad8ffb9ee"
+        }
+      }
+    },
+    {
+      "key": "grow",
+      "en": "grow",
+      "zh": "种植；生长",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/grow.mp3",
+      "spokenText": "grow",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 61,
+          "en": "I am gone. But my children grow.",
+          "zh": "我凋谢了。但我的孩子们在生长。",
+          "file": "sentence-82.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "bananas",
+      "en": "bananas",
+      "zh": "香蕉（复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "banana",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/bananas.mp3",
+      "spokenText": "bananas",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 59,
+          "en": "Bananas are yellow.",
+          "zh": "香蕉是黄色的。",
+          "file": "sentence-73.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit4/google-v1",
+        "file": "sentence-20.mp3",
+        "source": {
+          "file": "sentence-20.mp3",
+          "text": "bananas",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bananas&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "fa3dc8b7d882b741c1b92605cb9a7405200ed558ae05f70e66dfe925001c4338"
+        }
+      }
+    },
+    {
+      "key": "things",
+      "en": "things",
+      "zh": "东西；事物（thing 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "thing",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/things.mp3",
+      "spokenText": "things",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 61,
+          "en": "Colours help us and tell us many things.",
+          "zh": "颜色帮助我们，告诉我们许多事情。",
+          "file": "sentence-85.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "flowers",
+      "en": "flowers",
+      "zh": "花（复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "flower",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/flowers.mp3",
+      "spokenText": "flowers",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 53,
+          "en": "Purple flowers, green grass and blue sea.",
+          "zh": "紫色的花、绿色的草和蓝色的大海。",
+          "file": "sentence-23.mp3"
+        },
+        {
+          "page": 55,
+          "en": "OK. Let's draw some red and pink flowers.",
+          "zh": "好的。我们画些红色和粉色的花吧。",
+          "file": "sentence-47.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit4/google-v1",
+        "file": "sentence-56.mp3",
+        "source": {
+          "file": "sentence-56.mp3",
+          "text": "flowers",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=flowers&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "4e971ff4e101d6ae2c944ecdcdbc71a52a771cbc72831bb5abcc042318282676"
+        }
+      }
+    },
+    {
+      "key": "turn",
+      "en": "turn",
+      "zh": "翻动；转动",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "园艺句中指翻动；turn around 表示转身或转圈。",
+      "file": "supplemental/turn.mp3",
+      "spokenText": "turn",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 56,
+          "en": "White, white, turn around.",
+          "zh": "白色，白色，转个圈。",
+          "file": "sentence-57.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "cold",
+      "en": "cold",
+      "zh": "寒冷的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/cold.mp3",
+      "spokenText": "cold",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 61,
+          "en": "Now it is cold. I am green and brown.",
+          "zh": "现在天气冷了。我变成了绿色和棕色。",
+          "file": "sentence-81.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "beautiful",
+      "en": "beautiful",
+      "zh": "美丽的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/beautiful.mp3",
+      "spokenText": "beautiful",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 61,
+          "en": "Colours are beautiful.",
+          "zh": "颜色很美。",
+          "file": "sentence-84.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "colours",
+      "en": "colours",
+      "zh": "颜色（colour 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "colour",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/colours.mp3",
+      "spokenText": "colours",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "What colours do you see?",
+          "zh": "你看到了哪些颜色？",
+          "file": "sentence-01.mp3"
+        },
+        {
+          "page": 51,
+          "en": "What colours do you like?",
+          "zh": "你喜欢哪些颜色？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 55,
+          "en": "What colours do you like?",
+          "zh": "你喜欢哪些颜色？",
+          "file": "sentence-02.mp3"
+        },
+        {
+          "page": 53,
+          "en": "I see colours here and there.",
+          "zh": "我到处都能看见色彩。",
+          "file": "sentence-22.mp3"
+        },
+        {
+          "page": 56,
+          "en": "Colours are useful!",
+          "zh": "颜色很有用！",
+          "file": "sentence-51.mp3"
+        },
+        {
+          "page": 57,
+          "en": "Colours can talk!",
+          "zh": "颜色会说话！",
+          "file": "sentence-60.mp3"
+        },
+        {
+          "page": 59,
+          "en": "What colours do you like, Sarah?",
+          "zh": "萨拉，你喜欢哪些颜色？",
+          "file": "sentence-70.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Colours are everywhere.",
+          "zh": "颜色无处不在。",
+          "file": "sentence-83.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Colours are beautiful.",
+          "zh": "颜色很美。",
+          "file": "sentence-84.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Colours help us and tell us many things.",
+          "zh": "颜色帮助我们，告诉我们许多事情。",
+          "file": "sentence-85.mp3"
+        },
+        {
+          "page": 50,
+          "en": "Why are colours important?",
+          "zh": "颜色为什么重要？",
+          "file": "topic-page50.mp3"
+        },
+        {
+          "page": 55,
+          "en": "How do colours help us?",
+          "zh": "颜色怎样帮助我们？",
+          "file": "topic-page55.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "about",
+      "en": "about",
+      "zh": "关于",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/about.mp3",
+      "spokenText": "about",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "What about the sky and sea?",
+          "zh": "天空和大海是什么颜色呢？",
+          "file": "sentence-05.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "sky",
+      "en": "sky",
+      "zh": "天空",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/sky.mp3",
+      "spokenText": "sky",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "What about the sky and sea?",
+          "zh": "天空和大海是什么颜色呢？",
+          "file": "sentence-05.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "roses",
+      "en": "roses",
+      "zh": "玫瑰（rose 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "rose",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/roses.mp3",
+      "spokenText": "roses",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "Roses are red.",
+          "zh": "玫瑰是红色的。",
+          "file": "sentence-06.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "snow",
+      "en": "snow",
+      "zh": "雪",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/snow.mp3",
+      "spokenText": "snow",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "Snow is white.",
+          "zh": "雪是白色的。",
+          "file": "sentence-07.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "please",
+      "en": "please",
+      "zh": "请",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/please.mp3",
+      "spokenText": "please",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "Please, please tell me why!",
+          "zh": "请告诉我为什么！",
+          "file": "sentence-08.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "tell",
+      "en": "tell",
+      "zh": "告诉",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/tell.mp3",
+      "spokenText": "tell",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 51,
+          "en": "Please, please tell me why!",
+          "zh": "请告诉我为什么！",
+          "file": "sentence-08.mp3"
+        },
+        {
+          "page": 61,
+          "en": "Colours help us and tell us many things.",
+          "zh": "颜色帮助我们，告诉我们许多事情。",
+          "file": "sentence-85.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "wow",
+      "en": "wow",
+      "zh": "哇！",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-14.mp3",
+      "spokenText": "Wow!",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 52,
+          "en": "Wow!",
+          "zh": "哇！",
+          "file": "sentence-14.mp3"
+        },
+        {
+          "page": 52,
+          "en": "Wow! Blue and yellow make green.",
+          "zh": "哇！蓝色和黄色混合成绿色。",
+          "file": "sentence-15.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-14.mp3",
+        "source": {
+          "file": "sentence-14.mp3",
+          "text": "Wow!",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wow%21&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "713fbebffb7e53aa9aed34094b4e9017fb11542dd61ea19b804b4efa4059d625"
+        }
+      }
+    },
+    {
+      "key": "world",
+      "en": "world",
+      "zh": "世界",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/world.mp3",
+      "spokenText": "world",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 53,
+          "en": "The world is colourful!",
+          "zh": "世界是五彩缤纷的！",
+          "file": "sentence-21.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "colourful",
+      "en": "colourful",
+      "zh": "色彩丰富的；五颜六色的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/colourful.mp3",
+      "spokenText": "colourful",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 53,
+          "en": "The world is colourful!",
+          "zh": "世界是五彩缤纷的！",
+          "file": "sentence-21.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "here",
+      "en": "here",
+      "zh": "这里；在这里",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/here.mp3",
+      "spokenText": "here",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 53,
+          "en": "I see colours here and there.",
+          "zh": "我到处都能看见色彩。",
+          "file": "sentence-22.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "else",
+      "en": "else",
+      "zh": "其他；别的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/else.mp3",
+      "spokenText": "else",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 53,
+          "en": "A big brown bear. What else can you see?",
+          "zh": "一只大棕熊。你还能看到什么？",
+          "file": "sentence-24.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "quiet",
+      "en": "quiet",
+      "zh": "安静的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-30.mp3",
+      "spokenText": "quiet",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "quiet",
+          "zh": "安静的",
+          "file": "sentence-30.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-30.mp3",
+        "source": {
+          "file": "sentence-30.mp3",
+          "text": "quiet",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=quiet&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "70736d6d32aadfd0a9b4543ff0f2a660c112e665f5c7f2c7ba24936076642f1c"
+        }
+      }
+    },
+    {
+      "key": "queen",
+      "en": "queen",
+      "zh": "女王",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-31.mp3",
+      "spokenText": "queen",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "queen",
+          "zh": "女王",
+          "file": "sentence-31.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-31.mp3",
+        "source": {
+          "file": "sentence-31.mp3",
+          "text": "queen",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=queen&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "d36d256ca2a04e9e23a4960aee49d78015f191e2e126cf485ff13f29f471228e"
+        }
+      }
+    },
+    {
+      "key": "ruler",
+      "en": "ruler",
+      "zh": "尺子",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-33.mp3",
+      "spokenText": "ruler",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "ruler",
+          "zh": "尺子",
+          "file": "sentence-33.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-33.mp3",
+        "source": {
+          "file": "sentence-33.mp3",
+          "text": "ruler",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=ruler&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "787b11d69b2188512b89c5d2e5712564636a31c0f23a2fd54a4d0a67c8014517"
+        }
+      }
+    },
+    {
+      "key": "bus",
+      "en": "bus",
+      "zh": "公共汽车",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-35.mp3",
+      "spokenText": "bus",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "bus",
+          "zh": "公共汽车",
+          "file": "sentence-35.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-35.mp3",
+        "source": {
+          "file": "sentence-35.mp3",
+          "text": "bus",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bus&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "0ac591a1acefa474e176f5f4413498f1406c20f3fe0edf137df51a23733c1841"
+        }
+      }
+    },
+    {
+      "key": "ted",
+      "en": "Ted",
+      "zh": "特德（人名）",
+      "kind": "name",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；读音需试听确认。",
+      "file": "sentence-36.mp3",
+      "spokenText": "Ted",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "Ted",
+          "zh": "特德（人名）",
+          "file": "sentence-36.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-36.mp3",
+        "source": {
+          "file": "sentence-36.mp3",
+          "text": "Ted",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Ted&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "d389e21cc51a0ce40d6b3bf2bbb1a84106daa85f7d2d8c6ca2d22b9fe30b018b"
+        }
+      }
+    },
+    {
+      "key": "sit",
+      "en": "sit",
+      "zh": "坐",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-37.mp3",
+      "spokenText": "sit",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "sit",
+          "zh": "坐",
+          "file": "sentence-37.mp3"
+        },
+        {
+          "page": 56,
+          "en": "Black, black, sit down.",
+          "zh": "黑色，黑色，坐下来。",
+          "file": "sentence-56.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-37.mp3",
+        "source": {
+          "file": "sentence-37.mp3",
+          "text": "sit",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=sit&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "9ae3927313e09d1861e6046aa56ce29170ca669e622a9dc3936976e21edfbe70"
+        }
+      }
+    },
+    {
+      "key": "up",
+      "en": "up",
+      "zh": "向上",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-38.mp3",
+      "spokenText": "up",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "up",
+          "zh": "向上",
+          "file": "sentence-38.mp3"
+        },
+        {
+          "page": 56,
+          "en": "Orange and red, jump up and down.",
+          "zh": "橙红色和红色，上下跳一跳。",
+          "file": "sentence-59.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-38.mp3",
+        "source": {
+          "file": "sentence-38.mp3",
+          "text": "up",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=up&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "acdda4074e5815ae24b2a824ddf8260fb124911c1058c236a459c7066d98b42d"
+        }
+      }
+    },
+    {
+      "key": "quit",
+      "en": "quit",
+      "zh": "停止；放弃",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-41.mp3",
+      "spokenText": "quit",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "quit",
+          "zh": "停止；放弃",
+          "file": "sentence-41.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-41.mp3",
+        "source": {
+          "file": "sentence-41.mp3",
+          "text": "quit",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=quit&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "69ed6b834b7fa1f0ab52d783c7605aa9b6a4275e05082ef7910bd883247120ab"
+        }
+      }
+    },
+    {
+      "key": "rot",
+      "en": "rot",
+      "zh": "腐烂",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-42.mp3",
+      "spokenText": "rot",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "rot",
+          "zh": "腐烂",
+          "file": "sentence-42.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-42.mp3",
+        "source": {
+          "file": "sentence-42.mp3",
+          "text": "rot",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=rot&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "0700fea3fa53a3f1e775478c7a0b8cbc19f7137d987df7f242c2b6c599bee468"
+        }
+      }
+    },
+    {
+      "key": "set",
+      "en": "set",
+      "zh": "放置",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-43.mp3",
+      "spokenText": "set",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "set",
+          "zh": "放置",
+          "file": "sentence-43.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-43.mp3",
+        "source": {
+          "file": "sentence-43.mp3",
+          "text": "set",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=set&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "524892c9cbd68eaace80b59dba298a90f865a2cec186da6f35279c54eab2a22b"
+        }
+      }
+    },
+    {
+      "key": "tap",
+      "en": "tap",
+      "zh": "轻拍",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-44.mp3",
+      "spokenText": "tap",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "tap",
+          "zh": "轻拍",
+          "file": "sentence-44.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-44.mp3",
+        "source": {
+          "file": "sentence-44.mp3",
+          "text": "tap",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tap&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "7827124e5fbc7529677f65a134314ea0f33d93244f9add424f08a86af03b5b8b"
+        }
+      }
+    },
+    {
+      "key": "tub",
+      "en": "tub",
+      "zh": "浴盆",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-45.mp3",
+      "spokenText": "tub",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 54,
+          "en": "tub",
+          "zh": "浴盆",
+          "file": "sentence-45.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-45.mp3",
+        "source": {
+          "file": "sentence-45.mp3",
+          "text": "tub",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tub&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "1a105303a9e96d4c237c60c9a398585eeeef2cc2d1ca41e037bf2970e01b8568"
+        }
+      }
+    },
+    {
+      "key": "useful",
+      "en": "useful",
+      "zh": "有用的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/useful.mp3",
+      "spokenText": "useful",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 56,
+          "en": "Colours are useful!",
+          "zh": "颜色很有用！",
+          "file": "sentence-51.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "down",
+      "en": "down",
+      "zh": "向下",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/down.mp3",
+      "spokenText": "down",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 56,
+          "en": "Black, black, sit down.",
+          "zh": "黑色，黑色，坐下来。",
+          "file": "sentence-56.mp3"
+        },
+        {
+          "page": 56,
+          "en": "Orange and red, jump up and down.",
+          "zh": "橙红色和红色，上下跳一跳。",
+          "file": "sentence-59.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "around",
+      "en": "around",
+      "zh": "周围；转圈",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/around.mp3",
+      "spokenText": "around",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 56,
+          "en": "White, white, turn around.",
+          "zh": "白色，白色，转个圈。",
+          "file": "sentence-57.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "touch",
+      "en": "touch",
+      "zh": "触摸",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/touch.mp3",
+      "spokenText": "touch",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 56,
+          "en": "Pink and red, touch the ground.",
+          "zh": "粉色和红色，摸摸地面。",
+          "file": "sentence-58.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "ground",
+      "en": "ground",
+      "zh": "地面",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/ground.mp3",
+      "spokenText": "ground",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 56,
+          "en": "Pink and red, touch the ground.",
+          "zh": "粉色和红色，摸摸地面。",
+          "file": "sentence-58.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "use",
+      "en": "use",
+      "zh": "使用",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "本课使用动词义。该词有不同词性或词形读法，单词音频须重点核听，并与下方原句对照。",
+      "file": "supplemental/use.mp3",
+      "spokenText": "use",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 57,
+          "en": "It's blue. Blue can say \"Use again!\"",
+          "zh": "这是蓝色。蓝色可以表示“再次使用！”",
+          "file": "sentence-63.mp3"
+        },
+        {
+          "page": 90,
+          "en": "Use again!",
+          "zh": "再次利用！",
+          "file": "key-07.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "again",
+      "en": "again",
+      "zh": "再一次；又",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/again.mp3",
+      "spokenText": "again",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 57,
+          "en": "It's blue. Blue can say \"Use again!\"",
+          "zh": "这是蓝色。蓝色可以表示“再次使用！”",
+          "file": "sentence-63.mp3"
+        },
+        {
+          "page": 90,
+          "en": "Use again!",
+          "zh": "再次利用！",
+          "file": "key-07.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "careful",
+      "en": "careful",
+      "zh": "小心的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/careful.mp3",
+      "spokenText": "careful",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 57,
+          "en": "It's yellow. Yellow can say \"Be careful!\"",
+          "zh": "这是黄色。黄色可以表示“小心！”",
+          "file": "sentence-64.mp3"
+        },
+        {
+          "page": 90,
+          "en": "Be careful!",
+          "zh": "小心！",
+          "file": "key-08.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "ducks",
+      "en": "ducks",
+      "zh": "鸭（duck 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "duck",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/ducks.mp3",
+      "spokenText": "ducks",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 59,
+          "en": "Ducks are ...",
+          "zh": "鸭子是……颜色的。",
+          "file": "sentence-74.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "sunflower",
+      "en": "sunflower",
+      "zh": "向日葵",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/sunflower.mp3",
+      "spokenText": "sunflower",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 60,
+          "en": "I am a sunflower. I am tall and green.",
+          "zh": "我是一株向日葵。我很高，是绿色的。",
+          "file": "sentence-75.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "then",
+      "en": "then",
+      "zh": "然后；接着",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/then.mp3",
+      "spokenText": "then",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 60,
+          "en": "Then I am green and yellow.",
+          "zh": "然后我变成了绿色和黄色。",
+          "file": "sentence-76.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "bees",
+      "en": "bees",
+      "zh": "蜜蜂（bee 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "bee",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/bees.mp3",
+      "spokenText": "bees",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 60,
+          "en": "Bees come.",
+          "zh": "蜜蜂来了。",
+          "file": "sentence-78.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "gone",
+      "en": "gone",
+      "zh": "离去了；不见了（本课指花朵凋谢了）",
+      "kind": "form",
+      "aliases": [],
+      "base": "go",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/gone.mp3",
+      "spokenText": "gone",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 61,
+          "en": "I am gone. But my children grow.",
+          "zh": "我凋谢了。但我的孩子们在生长。",
+          "file": "sentence-82.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "children",
+      "en": "children",
+      "zh": "儿童；孩子们（child 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "child",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/children.mp3",
+      "spokenText": "children",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 61,
+          "en": "I am gone. But my children grow.",
+          "zh": "我凋谢了。但我的孩子们在生长。",
+          "file": "sentence-82.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "everywhere",
+      "en": "everywhere",
+      "zh": "到处",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/everywhere.mp3",
+      "spokenText": "everywhere",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 61,
+          "en": "Colours are everywhere.",
+          "zh": "颜色无处不在。",
+          "file": "sentence-83.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "important",
+      "en": "important",
+      "zh": "重要的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/important.mp3",
+      "spokenText": "important",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 50,
+          "en": "Why are colours important?",
+          "zh": "颜色为什么重要？",
+          "file": "topic-page50.mp3"
+        }
+      ],
+      "reuse": null
+    }
+  ]
+}
