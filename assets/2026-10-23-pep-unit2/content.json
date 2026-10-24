@@ -2,7 +2,7 @@
   "words": [
     {
       "en": "mum",
-      "zh": "妈妈",
+      "zh": "（口语）妈妈",
       "ipa": "/mʌm/",
       "page": 16,
       "file": "mum.mp3",
@@ -10,7 +10,7 @@
     },
     {
       "en": "dad",
-      "zh": "爸爸",
+      "zh": "（口语）爸爸；爹爹",
       "ipa": "/dæd/",
       "page": 16,
       "file": "dad.mp3",
@@ -18,7 +18,7 @@
     },
     {
       "en": "grandma",
-      "zh": "奶奶；外婆",
+      "zh": "奶奶；姥姥",
       "ipa": "/ˈɡrænmɑː/",
       "page": 16,
       "file": "grandma.mp3",
@@ -26,7 +26,7 @@
     },
     {
       "en": "grandpa",
-      "zh": "爷爷；外公",
+      "zh": "爷爷；姥爷",
       "ipa": "/ˈɡrænpɑː/",
       "page": 16,
       "file": "grandpa.mp3",
@@ -34,7 +34,7 @@
     },
     {
       "en": "grandfather",
-      "zh": "祖父；外祖父",
+      "zh": "（外）祖父；爷爷；姥爷；外公",
       "ipa": "/ˈɡrænfɑːðə(r)/",
       "page": 17,
       "file": "grandfather.mp3",
@@ -42,7 +42,7 @@
     },
     {
       "en": "grandmother",
-      "zh": "祖母；外祖母",
+      "zh": "（外）祖母；奶奶；姥姥；外婆",
       "ipa": "/ˈɡrænmʌðə(r)/",
       "page": 17,
       "file": "grandmother.mp3",
@@ -74,7 +74,7 @@
     },
     {
       "en": "sister",
-      "zh": "姐姐；妹妹",
+      "zh": "姐；妹",
       "ipa": "/ˈsɪstə(r)/",
       "page": 17,
       "file": "sister.mp3",
@@ -106,7 +106,7 @@
     },
     {
       "en": "cousin",
-      "zh": "堂（表）兄弟姐妹",
+      "zh": "堂（表）兄弟；堂（表）姐妹",
       "ipa": "/ˈkʌzn/",
       "page": 19,
       "file": "cousin.mp3",
@@ -114,7 +114,7 @@
     },
     {
       "en": "brother",
-      "zh": "哥哥；弟弟",
+      "zh": "哥；弟",
       "ipa": "/ˈbrʌðə(r)/",
       "page": 19,
       "file": "brother.mp3",
@@ -138,7 +138,7 @@
     },
     {
       "en": "aunt",
-      "zh": "伯母；婶母；舅母；姑妈；姨妈",
+      "zh": "伯母；婶母；舅母；姑母；姨母",
       "ipa": "/ɑːnt/",
       "page": 20,
       "file": "aunt.mp3",
