@@ -327,6 +327,462 @@
       "page": 4,
       "file": "sentence-26.mp3",
       "practice": false
+    },
+    {
+      "en": "A",
+      "zh": "字母 A（名称音）",
+      "page": 6,
+      "file": "sentence-27.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "B",
+      "zh": "字母 B（名称音）",
+      "page": 6,
+      "file": "sentence-28.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "C",
+      "zh": "字母 C（名称音）",
+      "page": 6,
+      "file": "sentence-29.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "D",
+      "zh": "字母 D（名称音）",
+      "page": 6,
+      "file": "sentence-30.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "apple",
+      "zh": "苹果（字母例词）",
+      "page": 6,
+      "file": "sentence-31.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "bag",
+      "zh": "书包（字母例词）",
+      "page": 6,
+      "file": "sentence-32.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "bed",
+      "zh": "床（字母例词）",
+      "page": 6,
+      "file": "sentence-33.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Bob",
+      "zh": "鲍勃（人名例词）",
+      "page": 6,
+      "file": "sentence-34.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "cat",
+      "zh": "猫（字母例词）",
+      "page": 6,
+      "file": "sentence-35.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "can",
+      "zh": "罐；罐头盒（字母例词）",
+      "page": 6,
+      "file": "can.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "dog",
+      "zh": "狗（字母例词）",
+      "page": 6,
+      "file": "sentence-37.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "sad",
+      "zh": "伤心的（字母例词）",
+      "page": 6,
+      "file": "sentence-38.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "bad",
+      "zh": "坏的（组合例词）",
+      "page": 6,
+      "file": "sentence-39.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "cab",
+      "zh": "出租车（组合例词）",
+      "page": 6,
+      "file": "sentence-40.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "dad",
+      "zh": "爸爸（组合例词）",
+      "page": 6,
+      "file": "sentence-41.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Oh no!",
+      "zh": "噢，不！",
+      "page": 7,
+      "file": "key-05.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's OK, Chen Jie.",
+      "zh": "没关系，陈杰。",
+      "page": 7,
+      "file": "key-06.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We can share.",
+      "zh": "我们可以分享。",
+      "page": 7,
+      "file": "sentence-44.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Thanks, Sarah.",
+      "zh": "谢谢，萨拉。",
+      "page": 7,
+      "file": "key-08.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Hey, Sarah! We can share.",
+      "zh": "嘿，萨拉！我们可以分享。",
+      "page": 7,
+      "file": "key-07.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Thank you, Chen Jie.",
+      "zh": "谢谢你，陈杰。",
+      "page": 7,
+      "file": "key-09.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Thank you.",
+      "zh": "谢谢你。",
+      "page": 7,
+      "file": "sentence-48.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "It's OK.",
+      "zh": "没关系。",
+      "page": 7,
+      "file": "sentence-49.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I smile.",
+      "zh": "我微笑。",
+      "page": 8,
+      "file": "sentence-50.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I listen.",
+      "zh": "我倾听。",
+      "page": 8,
+      "file": "sentence-51.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I help.",
+      "zh": "我帮助别人。",
+      "page": 8,
+      "file": "sentence-52.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I share.",
+      "zh": "我分享。",
+      "page": 8,
+      "file": "sentence-53.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Am I a good friend? Yes, I am!",
+      "zh": "我是一个好朋友吗？是的，我是！",
+      "page": 8,
+      "file": "sentence-54.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I listen and say \"Hi!\" I smile too.",
+      "zh": "我倾听并说“嗨！”，我也微笑。",
+      "page": 8,
+      "file": "sentence-55.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I help and share. I play fair too.",
+      "zh": "我帮助别人并分享，玩游戏时也遵守公平规则。",
+      "page": 8,
+      "file": "sentence-56.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I say \"Hi!\" and \"Goodbye!\"",
+      "zh": "我说“嗨！”和“再见！”。",
+      "page": 9,
+      "file": "sentence-57.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I listen with care.",
+      "zh": "我认真倾听。",
+      "page": 9,
+      "file": "key-10.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I share my toys.",
+      "zh": "我分享我的玩具。",
+      "page": 9,
+      "file": "sentence-59.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I help my friends.",
+      "zh": "我帮助我的朋友们。",
+      "page": 9,
+      "file": "sentence-60.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I am nice to my friends.",
+      "zh": "我对我的朋友们很好。",
+      "page": 9,
+      "file": "key-11.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I am a good friend!",
+      "zh": "我是一个好朋友！",
+      "page": 9,
+      "file": "sentence-62.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "What do friends do?",
+      "zh": "朋友们会做些什么？",
+      "page": 10,
+      "file": "sentence-63.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Smile.",
+      "zh": "微笑。",
+      "page": 10,
+      "file": "sentence-64.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Be nice.",
+      "zh": "友好待人。",
+      "page": 10,
+      "file": "sentence-65.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Listen.",
+      "zh": "倾听。",
+      "page": 10,
+      "file": "sentence-66.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Play together.",
+      "zh": "一起玩。",
+      "page": 10,
+      "file": "sentence-67.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I say \"Hi!\"",
+      "zh": "我说“嗨！”。",
+      "page": 10,
+      "file": "sentence-68.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Make friends",
+      "zh": "交朋友（思维导图主题）",
+      "page": 11,
+      "file": "sentence-69.mp3",
+      "practice": false,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Friends listen.",
+      "zh": "朋友们互相倾听。",
+      "page": 11,
+      "file": "sentence-70.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Friends help and share ...",
+      "zh": "朋友们帮助和分享……",
+      "page": 11,
+      "file": "sentence-71.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Zoom is my new friend.",
+      "zh": "祖姆是我的新朋友。",
+      "page": 12,
+      "file": "sentence-72.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Hi! I'm Zip.",
+      "zh": "嗨！我是次波。",
+      "page": 12,
+      "file": "sentence-73.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Hi! My name is Zoom.",
+      "zh": "嗨！我叫祖姆。",
+      "page": 12,
+      "file": "sentence-74.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Zoom is nice.",
+      "zh": "祖姆很友好。",
+      "page": 12,
+      "file": "sentence-75.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We share food.",
+      "zh": "我们分享食物。",
+      "page": 12,
+      "file": "sentence-76.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We play together.",
+      "zh": "我们一起玩。",
+      "page": 13,
+      "file": "sentence-77.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We listen with care and help each other.",
+      "zh": "我们认真倾听，并互相帮助。",
+      "page": 13,
+      "file": "sentence-78.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Ouch! My mouth!",
+      "zh": "哎哟！我的嘴！",
+      "page": 13,
+      "file": "sentence-79.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Hold my hand.",
+      "zh": "抓住我的手。",
+      "page": 13,
+      "file": "sentence-80.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We are good friends now.",
+      "zh": "我们现在是好朋友了。",
+      "page": 13,
+      "file": "sentence-81.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Smile and say \"Hello!\" to make friends.",
+      "zh": "微笑着说“你好！”来交朋友。",
+      "page": 13,
+      "file": "sentence-82.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Good friends share, help and listen with care.",
+      "zh": "好朋友分享、帮助并认真倾听。",
+      "page": 13,
+      "file": "sentence-83.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
     }
   ],
   "groups": [
@@ -400,6 +856,145 @@
         19,
         20,
         21
+      ]
+    },
+    {
+      "title": "字母 A—D 与例词",
+      "note": "第 6 页 · 字母名称与完整例词；不放入单词或中文回想题池",
+      "clips": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "title": "书写字母复读",
+      "note": "第 6 页 · 字母名称，非独立音素",
+      "clips": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "title": "B · 分享与感谢",
+      "note": "第 7 页 · 完整对话；沿用已确认的谷歌原速音频",
+      "clips": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ]
+    },
+    {
+      "title": "问答配对表达",
+      "note": "第 7 页 · 按课本每组先上后下的顺序朗读，不代做配对",
+      "clips": [
+        44,
+        48,
+        5,
+        9,
+        42,
+        49
+      ]
+    },
+    {
+      "title": "四个交友行动",
+      "note": "第 8 页 · 微笑、倾听、帮助、分享",
+      "clips": [
+        50,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "title": "好朋友歌谣",
+      "note": "第 8 页 · 谷歌原速朗读，非演唱；保留重复句",
+      "clips": [
+        54,
+        55,
+        54,
+        56
+      ]
+    },
+    {
+      "title": "阅读海报 · 我是好朋友",
+      "note": "第 9 页 · 逐句点读；右侧跨行主题句只读一次",
+      "clips": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "title": "项目活动 · 朋友会做什么",
+      "note": "第 10 页 · 人物回答与表达示例，保留重复出现",
+      "clips": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        50,
+        51,
+        52,
+        53,
+        61
+      ]
+    },
+    {
+      "title": "分享交友思维导图",
+      "note": "第 11 页 · 主题与人物示例；不替孩子填写空白内容",
+      "clips": [
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "title": "阅读故事 · 新朋友",
+      "note": "第 12 页 · 叙述和对话按原页顺序跟读",
+      "clips": [
+        72,
+        73,
+        74,
+        5,
+        9,
+        75,
+        76
+      ]
+    },
+    {
+      "title": "阅读故事 · 成为好朋友",
+      "note": "第 13 页 · 故事结尾及交友总结",
+      "clips": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
       ]
     }
   ],

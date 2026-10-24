@@ -304,5 +304,299 @@
     "text": "I am nice to my friends.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+nice+to+my+friends.&tl=en&client=tw-ob&ttsspeed=1",
     "sha256": "b3904a67605062c9c7f4b7853d7a85a29edf77422b54dfd8885a23294dac5290"
+  },
+  {
+    "file": "sentence-27.mp3",
+    "text": "A",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=A&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "55e7ca4356c1bb279d0764a5858f54fbda0fa70f7b00c0836b3ae0117c928ba2"
+  },
+  {
+    "file": "sentence-28.mp3",
+    "text": "B",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=B&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "66c2990c026f99c6578adfe7384e77763fe7c71530c05d1d7c094f8835c224f8"
+  },
+  {
+    "file": "sentence-29.mp3",
+    "text": "C",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=C&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c171d5d39da895f56d7f9eb1f28d61eb610d7249c1fd7cde06494b17f0ad481d"
+  },
+  {
+    "file": "sentence-30.mp3",
+    "text": "D",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=D&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a0c86074bdd780c6f28b561edf22ebedfe301ba8776ab2793324cc2c8b56e4c0"
+  },
+  {
+    "file": "sentence-31.mp3",
+    "text": "apple",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "975b26de0a6ecb7b53c3edacd2cdab5f11bad729bc853afb808f3b6d052342b1"
+  },
+  {
+    "file": "sentence-32.mp3",
+    "text": "bag",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bag&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5b9c7b3073faac4e10f4ce81caa5315b763a0250d7673b93864a62f594449f43"
+  },
+  {
+    "file": "sentence-33.mp3",
+    "text": "bed",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bed&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "872355c9dfeab1fe1b47a7e308eba804268bfc92b1b697f11a8b1a5e9dd9d57c"
+  },
+  {
+    "file": "sentence-34.mp3",
+    "text": "Bob",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Bob&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "283f8c108aa2d69cc91b6b0f303c70cb41eda16cb212bde2621e95ee22d3f89e"
+  },
+  {
+    "file": "sentence-35.mp3",
+    "text": "cat",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cat&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "fb98c66514e908ae32e701ef040ccf5295fd06fa553e586171713866d1d5c459"
+  },
+  {
+    "file": "sentence-37.mp3",
+    "text": "dog",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=dog&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a1a536ae869865db5844657964896c4b0c0fbbe051604d14279a860d0042051f"
+  },
+  {
+    "file": "sentence-38.mp3",
+    "text": "sad",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=sad&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "eb7be5a4b3549904d2d6735a17c78f01bd387b15c4402a3fc00c47ca5633725c"
+  },
+  {
+    "file": "sentence-39.mp3",
+    "text": "bad",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bad&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f60734ced0c7b68bd9fad67013b9be9feae2991a963a0d2311d80edf28f74f18"
+  },
+  {
+    "file": "sentence-40.mp3",
+    "text": "cab",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cab&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "cd87a44d593259fad3235ea3ca56c00b2c6e3eca402344e9548cefe0f602fd89"
+  },
+  {
+    "file": "sentence-41.mp3",
+    "text": "dad",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=dad&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1ed94835aaad8b0ca5fc897cb7f9017547ae72fa871ecebcdbd13f6fa967e184"
+  },
+  {
+    "file": "sentence-44.mp3",
+    "text": "We can share.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+share.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "eaafc2aac872b61f69f01dceffd53580d5c32670371d5a92d662c183c5cccf6a"
+  },
+  {
+    "file": "sentence-48.mp3",
+    "text": "Thank you.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thank+you.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c5e8c7588f5825086bf46cc3823a8dc5fe877db2a87ac5942dbf2c623e25180e"
+  },
+  {
+    "file": "sentence-49.mp3",
+    "text": "It's OK.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+OK.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1f98ae930e2f967a16d84d8c333d764bcfd56f43f7a8736802f89f57331b5c47"
+  },
+  {
+    "file": "sentence-50.mp3",
+    "text": "I smile.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+smile.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "770e58cb6fe1cc428f0f316728bb5d82f93ac9972e41f2c9c7c458c446efaa6d"
+  },
+  {
+    "file": "sentence-51.mp3",
+    "text": "I listen.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+listen.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9d1cb11a142adb9512df5a4d85085f28226473a07fa5dd0d3f05d5d6c633cfc6"
+  },
+  {
+    "file": "sentence-52.mp3",
+    "text": "I help.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+help.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "192a4ee205a57e4c3971269ee99ef40f04cdc82e6c4b89bd8c0f7a34c0a84440"
+  },
+  {
+    "file": "sentence-53.mp3",
+    "text": "I share.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+share.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "ec725d89453db94dbf22fd5ab4e7c32a970f07236ccc5bdf9a51263efeb2bf1c"
+  },
+  {
+    "file": "sentence-54.mp3",
+    "text": "Am I a good friend? Yes, I am!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Am+I+a+good+friend%3F+Yes%2C+I+am%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "238da9863604bc0b3a83fde1aa2aa2e85c7632c7316d4eae3f9efd050f954c41"
+  },
+  {
+    "file": "sentence-55.mp3",
+    "text": "I listen and say \"Hi!\" I smile too.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+listen+and+say+%22Hi%21%22+I+smile+too.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "467e665896c1f0997daf5ea1504f59bc2375f706b1cbf6c99febfb2bbe290aae"
+  },
+  {
+    "file": "sentence-56.mp3",
+    "text": "I help and share. I play fair too.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+help+and+share.+I+play+fair+too.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c11e38cf0bd86bbe268aa6970b900bb7557442d28076a69cc4194775222dc9b6"
+  },
+  {
+    "file": "sentence-57.mp3",
+    "text": "I say \"Hi!\" and \"Goodbye!\"",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+say+%22Hi%21%22+and+%22Goodbye%21%22&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "2c773adca9191c738a369a5fedf217b71d28319261cd43b39e713e5a45d68a28"
+  },
+  {
+    "file": "sentence-59.mp3",
+    "text": "I share my toys.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+share+my+toys.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f546ee46410a0768d255552282a4bd88a6094aa086de51bad3c1fbef28036b54"
+  },
+  {
+    "file": "sentence-60.mp3",
+    "text": "I help my friends.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+help+my+friends.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "2cd79ba99d5cee3ea2373d251a302eac92bd46c38e4a57bafc9cbea3eddbfc2e"
+  },
+  {
+    "file": "sentence-62.mp3",
+    "text": "I am a good friend!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+a+good+friend%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f3f8a66f91b66f6ec6f1703873df5ba98c669473f816f444f1ff1ff40397cc15"
+  },
+  {
+    "file": "sentence-63.mp3",
+    "text": "What do friends do?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+do+friends+do%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "51f94c439df4c3ad0234de3e58dd850aa587afa8790e2f82a63c27b6affb356a"
+  },
+  {
+    "file": "sentence-64.mp3",
+    "text": "Smile.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Smile.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "209b13459d2ad6fa97e9646f1d8518b97fd28930c19165d3122d9edb318ba5f8"
+  },
+  {
+    "file": "sentence-65.mp3",
+    "text": "Be nice.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Be+nice.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "110d5754009433a96290a739c7fdffb38635c144e388da2af955a8512eb6c811"
+  },
+  {
+    "file": "sentence-66.mp3",
+    "text": "Listen.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Listen.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f95ef97cfffa55c6b1a295e4d37d05f6073837ab19d0dd2297134e08b8ae6328"
+  },
+  {
+    "file": "sentence-67.mp3",
+    "text": "Play together.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Play+together.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "80ba2a5051a2f3c6abb9b3a62a4292eca244f779ba35e0129ead386552653c20"
+  },
+  {
+    "file": "sentence-68.mp3",
+    "text": "I say \"Hi!\"",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+say+%22Hi%21%22&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "e787107340d312d5eac012205c7209b1be8ec53f04061e8b3fe2a365a7a7810f"
+  },
+  {
+    "file": "sentence-69.mp3",
+    "text": "Make friends",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Make+friends&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "48b8aea6dbeb1984f714d59676bb7ffd5f7aba893af71452d73f53d0de6136f3"
+  },
+  {
+    "file": "sentence-70.mp3",
+    "text": "Friends listen.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Friends+listen.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "97579d64c8daf94bbcbec52c931bdde494b387fdbc6018ce52724301568f067e"
+  },
+  {
+    "file": "sentence-71.mp3",
+    "text": "Friends help and share ...",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Friends+help+and+share+...&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "89a8fe8ba73dc9fe781616142970b10c6e06ee578f0c784d8765b680696acef5"
+  },
+  {
+    "file": "sentence-72.mp3",
+    "text": "Zoom is my new friend.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Zoom+is+my+new+friend.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "7f38357184279560486325030c3e7453489a32a50e1afa4564915509a5bd6617"
+  },
+  {
+    "file": "sentence-73.mp3",
+    "text": "Hi! I'm Zip.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%21+I%27m+Zip.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1bd979b584031610c95b7a5f3718fda4218dcac56c19e205b20ab9aed6a702f1"
+  },
+  {
+    "file": "sentence-74.mp3",
+    "text": "Hi! My name is Zoom.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%21+My+name+is+Zoom.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "93dc43910af5ebd8719cc4b8b3a84c4b50ee1bd334629053e8c2e1e0afabe712"
+  },
+  {
+    "file": "sentence-75.mp3",
+    "text": "Zoom is nice.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Zoom+is+nice.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3c9e3cf049bb77e493937dbfa0fcdccf1a9d84815a166b122651382ed00f886e"
+  },
+  {
+    "file": "sentence-76.mp3",
+    "text": "We share food.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+share+food.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "56da515f1c4899501daeaa9474cce6522b753d0046cbf77e780a7679dd7c4383"
+  },
+  {
+    "file": "sentence-77.mp3",
+    "text": "We play together.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+play+together.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f684a188917b92d2b111bc4bff6fd35fb2189ad17df14c2e83c773e51dbe5493"
+  },
+  {
+    "file": "sentence-78.mp3",
+    "text": "We listen with care and help each other.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+listen+with+care+and+help+each+other.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3a4294cec1718d1cc547e8c4e10b836f631a261ba750b4d89f9a4f3fd3ee661c"
+  },
+  {
+    "file": "sentence-79.mp3",
+    "text": "Ouch! My mouth!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Ouch%21+My+mouth%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "35da7171485b34700c1248aa73a1412bb13846a438674a12452c446e52cb582a"
+  },
+  {
+    "file": "sentence-80.mp3",
+    "text": "Hold my hand.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hold+my+hand.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "77f92d07dabc617373181898aa95cbf59cc1eab0475561fad9de7f777ac8c9e1"
+  },
+  {
+    "file": "sentence-81.mp3",
+    "text": "We are good friends now.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+are+good+friends+now.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "78351c1679fa09ea475c51514616f6cffa1d1b1fbed5f79f75000df497a25dc0"
+  },
+  {
+    "file": "sentence-82.mp3",
+    "text": "Smile and say \"Hello!\" to make friends.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Smile+and+say+%22Hello%21%22+to+make+friends.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5e992cea6aadfd64f7eb3d35001e13b5b4e79b3838c49bd1c5625d5272fa5fb2"
+  },
+  {
+    "file": "sentence-83.mp3",
+    "text": "Good friends share, help and listen with care.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Good+friends+share%2C+help+and+listen+with+care.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c16097be4e098e2d83c5d684982bbc4bcd1138666f7c723942d790c86aab96e0"
   }
 ]
