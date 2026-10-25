@@ -1,0 +1,2811 @@
+{
+  "schemaVersion": 1,
+  "unit": 1,
+  "scope": "课本逐词跟读；不修改书后词表或默认练习",
+  "words": {
+    "how": {
+      "key": "how",
+      "en": "How",
+      "spokenText": "how",
+      "zh": "怎样；多么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/how.mp3"
+    },
+    "do": {
+      "key": "do",
+      "en": "do",
+      "spokenText": "do",
+      "zh": "做；也用于构成问句等句式",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/do.mp3"
+    },
+    "we": {
+      "key": "we",
+      "en": "we",
+      "spokenText": "we",
+      "zh": "我们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/we.mp3"
+    },
+    "make": {
+      "key": "make",
+      "en": "make",
+      "spokenText": "make",
+      "zh": "使出现；做",
+      "ipa": "/meɪk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "word-follow/d05aa2a15fb3c40e.mp3"
+    },
+    "friends": {
+      "key": "friends",
+      "en": "friends",
+      "spokenText": "friends",
+      "zh": "朋友（friend 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "friend",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/friends.mp3"
+    },
+    "are": {
+      "key": "are",
+      "en": "Are",
+      "spokenText": "are",
+      "zh": "是（be 的一种形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/are.mp3"
+    },
+    "they": {
+      "key": "they",
+      "en": "they",
+      "spokenText": "they",
+      "zh": "他们；她们；它们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/they.mp3"
+    },
+    "what": {
+      "key": "what",
+      "en": "What",
+      "spokenText": "what",
+      "zh": "什么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/what.mp3"
+    },
+    "makes": {
+      "key": "makes",
+      "en": "makes",
+      "spokenText": "makes",
+      "zh": "使；构成（make 的第三人称单数形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "make",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/makes.mp3"
+    },
+    "you": {
+      "key": "you",
+      "en": "you",
+      "spokenText": "you",
+      "zh": "你；你们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/you.mp3"
+    },
+    "a": {
+      "key": "a",
+      "en": "a",
+      "spokenText": "a",
+      "zh": "一个；一（不定冠词）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/a.mp3"
+    },
+    "good": {
+      "key": "good",
+      "en": "good",
+      "spokenText": "good",
+      "zh": "好的",
+      "ipa": "/ɡʊd/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "good.mp3"
+    },
+    "friend": {
+      "key": "friend",
+      "en": "friend",
+      "spokenText": "friend",
+      "zh": "朋友",
+      "ipa": "/frend/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "friend.mp3"
+    },
+    "hello": {
+      "key": "hello",
+      "en": "Hello",
+      "spokenText": "hello",
+      "zh": "你好",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/hello.mp3"
+    },
+    "what's": {
+      "key": "what's",
+      "en": "What's",
+      "spokenText": "What's",
+      "zh": "what is 的缩写；是什么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "what is",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/what-s.mp3"
+    },
+    "your": {
+      "key": "your",
+      "en": "your",
+      "spokenText": "your",
+      "zh": "你的；你们的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/your.mp3"
+    },
+    "name": {
+      "key": "name",
+      "en": "name",
+      "spokenText": "name",
+      "zh": "名字",
+      "ipa": "/neɪm/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "name.mp3"
+    },
+    "nice": {
+      "key": "nice",
+      "en": "Nice",
+      "spokenText": "nice",
+      "zh": "令人愉快的；友好的",
+      "ipa": "/naɪs/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "nice.mp3"
+    },
+    "to": {
+      "key": "to",
+      "en": "to",
+      "spokenText": "to",
+      "zh": "到；向；用于 to meet 等动词结构",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/to.mp3"
+    },
+    "meet": {
+      "key": "meet",
+      "en": "meet",
+      "spokenText": "meet",
+      "zh": "认识；见到",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/meet.mp3"
+    },
+    "let's": {
+      "key": "let's",
+      "en": "Let's",
+      "spokenText": "Let's",
+      "zh": "let us 的缩写；让我们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "let us",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/let-s.mp3"
+    },
+    "play": {
+      "key": "play",
+      "en": "play",
+      "spokenText": "play",
+      "zh": "玩；玩耍",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/play.mp3"
+    },
+    "game": {
+      "key": "game",
+      "en": "game",
+      "spokenText": "game",
+      "zh": "游戏",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/game.mp3"
+    },
+    "greet": {
+      "key": "greet",
+      "en": "greet",
+      "spokenText": "greet",
+      "zh": "问候；打招呼",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/greet.mp3"
+    },
+    "i'm": {
+      "key": "i'm",
+      "en": "I'm",
+      "spokenText": "I'm",
+      "zh": "I am 的缩写；我是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "I am",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/i-m.mp3"
+    },
+    "mike black": {
+      "key": "mike black",
+      "en": "Mike Black",
+      "spokenText": "Mike Black",
+      "zh": "迈克·布莱克",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；保留完整拼写，读音需试听确认。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "sentence-26.mp3"
+    },
+    "hi": {
+      "key": "hi",
+      "en": "Hi",
+      "spokenText": "hi",
+      "zh": "你好；嗨",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/hi.mp3"
+    },
+    "my": {
+      "key": "my",
+      "en": "My",
+      "spokenText": "my",
+      "zh": "我的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/my.mp3"
+    },
+    "is": {
+      "key": "is",
+      "en": "is",
+      "spokenText": "is",
+      "zh": "是（be 的一种形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/is.mp3"
+    },
+    "wu binbin": {
+      "key": "wu binbin",
+      "en": "Wu Binbin",
+      "spokenText": "Wu Binbin",
+      "zh": "吴斌斌",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；保留完整拼写，读音需试听确认。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "sentence-23.mp3"
+    },
+    "too": {
+      "key": "too",
+      "en": "too",
+      "spokenText": "too",
+      "zh": "也",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/too.mp3"
+    },
+    "sarah": {
+      "key": "sarah",
+      "en": "Sarah",
+      "spokenText": "Sarah",
+      "zh": "萨拉（人名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/sarah.mp3"
+    },
+    "john": {
+      "key": "john",
+      "en": "John",
+      "spokenText": "John",
+      "zh": "约翰（人名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/john.mp3"
+    },
+    "sarah miller": {
+      "key": "sarah miller",
+      "en": "Sarah Miller",
+      "spokenText": "Sarah Miller",
+      "zh": "萨拉·米勒",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；保留完整拼写，读音需试听确认。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "sentence-25.mp3"
+    },
+    "wave": {
+      "key": "wave",
+      "en": "Wave",
+      "spokenText": "wave",
+      "zh": "挥动；挥手",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/wave.mp3"
+    },
+    "hand": {
+      "key": "hand",
+      "en": "hand",
+      "spokenText": "hand",
+      "zh": "手",
+      "ipa": "/hænd/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "hand.mp3"
+    },
+    "look": {
+      "key": "look",
+      "en": "Look",
+      "spokenText": "Look!",
+      "zh": "看！",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/look.mp3"
+    },
+    "into": {
+      "key": "into",
+      "en": "into",
+      "spokenText": "into",
+      "zh": "进入；到……里面",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/into.mp3"
+    },
+    "eyes": {
+      "key": "eyes",
+      "en": "eyes",
+      "spokenText": "eyes",
+      "zh": "眼睛（eye 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "eye",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/eyes.mp3"
+    },
+    "point": {
+      "key": "point",
+      "en": "Point",
+      "spokenText": "point",
+      "zh": "指；指向",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/point.mp3"
+    },
+    "ear": {
+      "key": "ear",
+      "en": "ear",
+      "spokenText": "ear",
+      "zh": "耳朵",
+      "ipa": "/ɪə(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "ear.mp3"
+    },
+    "listen": {
+      "key": "listen",
+      "en": "Listen",
+      "spokenText": "listen",
+      "zh": "听；倾听",
+      "ipa": "/ˈlɪsn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "listen.mp3"
+    },
+    "mouth": {
+      "key": "mouth",
+      "en": "mouth",
+      "spokenText": "mouth",
+      "zh": "嘴",
+      "ipa": "/maʊθ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "mouth.mp3"
+    },
+    "smile": {
+      "key": "smile",
+      "en": "Smile",
+      "spokenText": "smile",
+      "zh": "微笑；笑",
+      "ipa": "/smaɪl/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "smile.mp3"
+    },
+    "arm": {
+      "key": "arm",
+      "en": "arm",
+      "spokenText": "arm",
+      "zh": "胳膊",
+      "ipa": "/ɑːm/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "arm.mp3"
+    },
+    "bye": {
+      "key": "bye",
+      "en": "Bye",
+      "spokenText": "bye",
+      "zh": "再见",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/bye.mp3"
+    },
+    "can": {
+      "key": "can",
+      "en": "can",
+      "spokenText": "can",
+      "zh": "可以",
+      "ipa": "/kən, kæn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "can.mp3"
+    },
+    "be": {
+      "key": "be",
+      "en": "be",
+      "spokenText": "be",
+      "zh": "是；成为；处于某种状态",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/be.mp3"
+    },
+    "oh": {
+      "key": "oh",
+      "en": "Oh",
+      "spokenText": "oh",
+      "zh": "哦；啊",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/oh.mp3"
+    },
+    "no": {
+      "key": "no",
+      "en": "no",
+      "spokenText": "no",
+      "zh": "不；不是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/no.mp3"
+    },
+    "it's": {
+      "key": "it's",
+      "en": "It's",
+      "spokenText": "It's",
+      "zh": "it is 的缩写；它是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "it is",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/it-s.mp3"
+    },
+    "ok": {
+      "key": "ok",
+      "en": "OK",
+      "spokenText": "OK.",
+      "zh": "好的。",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/ok.mp3"
+    },
+    "chen jie": {
+      "key": "chen jie",
+      "en": "Chen Jie",
+      "spokenText": "Chen Jie",
+      "zh": "陈杰",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "课文人名；保留完整拼写，读音需试听确认。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "sentence-24.mp3"
+    },
+    "share": {
+      "key": "share",
+      "en": "share",
+      "spokenText": "share",
+      "zh": "分享",
+      "ipa": "/ʃeə(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "share.mp3"
+    },
+    "thanks": {
+      "key": "thanks",
+      "en": "Thanks",
+      "spokenText": "Thanks!",
+      "zh": "谢谢！",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/thanks.mp3"
+    },
+    "hey": {
+      "key": "hey",
+      "en": "Hey",
+      "spokenText": "hey",
+      "zh": "嘿（招呼声）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/hey.mp3"
+    },
+    "thank": {
+      "key": "thank",
+      "en": "Thank",
+      "spokenText": "thank",
+      "zh": "感谢",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/thank.mp3"
+    },
+    "i": {
+      "key": "i",
+      "en": "I",
+      "spokenText": "I",
+      "zh": "我",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "代词“我”；释义与字母 I 名称分开。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/i.mp3"
+    },
+    "help": {
+      "key": "help",
+      "en": "help",
+      "spokenText": "help",
+      "zh": "帮助",
+      "ipa": "/help/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "help.mp3"
+    },
+    "am": {
+      "key": "am",
+      "en": "Am",
+      "spokenText": "am",
+      "zh": "是（与 I 连用的 be 的形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/am.mp3"
+    },
+    "yes": {
+      "key": "yes",
+      "en": "Yes",
+      "spokenText": "yes",
+      "zh": "是的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/yes.mp3"
+    },
+    "and": {
+      "key": "and",
+      "en": "and",
+      "spokenText": "and",
+      "zh": "和；与",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/and.mp3"
+    },
+    "say": {
+      "key": "say",
+      "en": "say",
+      "spokenText": "say",
+      "zh": "说；讲",
+      "ipa": "/seɪ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "say.mp3"
+    },
+    "fair": {
+      "key": "fair",
+      "en": "fair",
+      "spokenText": "fair",
+      "zh": "公平的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/fair.mp3"
+    },
+    "together": {
+      "key": "together",
+      "en": "together",
+      "spokenText": "together",
+      "zh": "一起",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/together.mp3"
+    },
+    "zoom": {
+      "key": "zoom",
+      "en": "Zoom",
+      "spokenText": "Zoom",
+      "zh": "祖姆（课文角色名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/zoom.mp3"
+    },
+    "new": {
+      "key": "new",
+      "en": "new",
+      "spokenText": "new",
+      "zh": "新的",
+      "ipa": "/njuː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "word-follow/11507a0e2f5e69d5.mp3"
+    },
+    "zip": {
+      "key": "zip",
+      "en": "Zip",
+      "spokenText": "Zip",
+      "zh": "次波（课文角色名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "课文角色名；不同单元已有译名分别保留，谷歌读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/zip.mp3"
+    },
+    "food": {
+      "key": "food",
+      "en": "food",
+      "spokenText": "food",
+      "zh": "食物",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/food.mp3"
+    },
+    "with": {
+      "key": "with",
+      "en": "with",
+      "spokenText": "with",
+      "zh": "和……一起；带有；以……方式",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "with care 表示“认真地；用心地”。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/with.mp3"
+    },
+    "care": {
+      "key": "care",
+      "en": "care",
+      "spokenText": "care",
+      "zh": "认真；用心",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "本课 with care 表示“认真地；用心地”，不是“照顾”。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/care.mp3"
+    },
+    "each": {
+      "key": "each",
+      "en": "each",
+      "spokenText": "each",
+      "zh": "每个",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "与 other 连用，each other 表示“互相；彼此”。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/each.mp3"
+    },
+    "other": {
+      "key": "other",
+      "en": "other",
+      "spokenText": "other",
+      "zh": "另一个；其他的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "与 each 连用，each other 表示“互相；彼此”。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/other.mp3"
+    },
+    "ouch": {
+      "key": "ouch",
+      "en": "Ouch",
+      "spokenText": "ouch",
+      "zh": "哎哟（疼痛时的叫声）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/ouch.mp3"
+    },
+    "hold": {
+      "key": "hold",
+      "en": "Hold",
+      "spokenText": "hold",
+      "zh": "握住；抓住",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/hold.mp3"
+    },
+    "now": {
+      "key": "now",
+      "en": "now",
+      "spokenText": "now",
+      "zh": "现在",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "supplemental/now.mp3"
+    }
+  },
+  "sentences": {
+    "How do we make friends?": {
+      "en": "How do we make friends?",
+      "zh": "我们怎样交朋友？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "do",
+          "start": 4,
+          "end": 6,
+          "key": "do"
+        },
+        {
+          "text": "we",
+          "start": 7,
+          "end": 9,
+          "key": "we"
+        },
+        {
+          "text": "make",
+          "start": 10,
+          "end": 14,
+          "key": "make"
+        },
+        {
+          "text": "friends",
+          "start": 15,
+          "end": 22,
+          "key": "friends"
+        }
+      ]
+    },
+    "Are they friends?": {
+      "en": "Are they friends?",
+      "zh": "他们是朋友吗？",
+      "tokens": [
+        {
+          "text": "Are",
+          "start": 0,
+          "end": 3,
+          "key": "are"
+        },
+        {
+          "text": "they",
+          "start": 4,
+          "end": 8,
+          "key": "they"
+        },
+        {
+          "text": "friends",
+          "start": 9,
+          "end": 16,
+          "key": "friends"
+        }
+      ]
+    },
+    "What makes you a good friend?": {
+      "en": "What makes you a good friend?",
+      "zh": "怎样才能成为一个好朋友？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "makes",
+          "start": 5,
+          "end": 10,
+          "key": "makes"
+        },
+        {
+          "text": "you",
+          "start": 11,
+          "end": 14,
+          "key": "you"
+        },
+        {
+          "text": "a",
+          "start": 15,
+          "end": 16,
+          "key": "a"
+        },
+        {
+          "text": "good",
+          "start": 17,
+          "end": 21,
+          "key": "good"
+        },
+        {
+          "text": "friend",
+          "start": 22,
+          "end": 28,
+          "key": "friend"
+        }
+      ]
+    },
+    "Hello! Hello!": {
+      "en": "Hello! Hello!",
+      "zh": "你好！你好！",
+      "tokens": [
+        {
+          "text": "Hello",
+          "start": 0,
+          "end": 5,
+          "key": "hello"
+        },
+        {
+          "text": "Hello",
+          "start": 7,
+          "end": 12,
+          "key": "hello"
+        }
+      ]
+    },
+    "What's your name?": {
+      "en": "What's your name?",
+      "zh": "你叫什么名字？",
+      "tokens": [
+        {
+          "text": "What's",
+          "start": 0,
+          "end": 6,
+          "key": "what's"
+        },
+        {
+          "text": "your",
+          "start": 7,
+          "end": 11,
+          "key": "your"
+        },
+        {
+          "text": "name",
+          "start": 12,
+          "end": 16,
+          "key": "name"
+        }
+      ]
+    },
+    "Nice to meet you.": {
+      "en": "Nice to meet you.",
+      "zh": "见到你很高兴。",
+      "tokens": [
+        {
+          "text": "Nice",
+          "start": 0,
+          "end": 4,
+          "key": "nice"
+        },
+        {
+          "text": "to",
+          "start": 5,
+          "end": 7,
+          "key": "to"
+        },
+        {
+          "text": "meet",
+          "start": 8,
+          "end": 12,
+          "key": "meet"
+        },
+        {
+          "text": "you",
+          "start": 13,
+          "end": 16,
+          "key": "you"
+        }
+      ]
+    },
+    "Let's play a game!": {
+      "en": "Let's play a game!",
+      "zh": "我们来玩个游戏吧！",
+      "tokens": [
+        {
+          "text": "Let's",
+          "start": 0,
+          "end": 5,
+          "key": "let's"
+        },
+        {
+          "text": "play",
+          "start": 6,
+          "end": 10,
+          "key": "play"
+        },
+        {
+          "text": "a",
+          "start": 11,
+          "end": 12,
+          "key": "a"
+        },
+        {
+          "text": "game",
+          "start": 13,
+          "end": 17,
+          "key": "game"
+        }
+      ]
+    },
+    "Nice to meet you!": {
+      "en": "Nice to meet you!",
+      "zh": "见到你很高兴！",
+      "tokens": [
+        {
+          "text": "Nice",
+          "start": 0,
+          "end": 4,
+          "key": "nice"
+        },
+        {
+          "text": "to",
+          "start": 5,
+          "end": 7,
+          "key": "to"
+        },
+        {
+          "text": "meet",
+          "start": 8,
+          "end": 12,
+          "key": "meet"
+        },
+        {
+          "text": "you",
+          "start": 13,
+          "end": 16,
+          "key": "you"
+        }
+      ]
+    },
+    "How do we greet friends?": {
+      "en": "How do we greet friends?",
+      "zh": "我们怎样问候朋友？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "do",
+          "start": 4,
+          "end": 6,
+          "key": "do"
+        },
+        {
+          "text": "we",
+          "start": 7,
+          "end": 9,
+          "key": "we"
+        },
+        {
+          "text": "greet",
+          "start": 10,
+          "end": 15,
+          "key": "greet"
+        },
+        {
+          "text": "friends",
+          "start": 16,
+          "end": 23,
+          "key": "friends"
+        }
+      ]
+    },
+    "Hello! I'm Mike Black.": {
+      "en": "Hello! I'm Mike Black.",
+      "zh": "你好！我是迈克·布莱克。",
+      "tokens": [
+        {
+          "text": "Hello",
+          "start": 0,
+          "end": 5,
+          "key": "hello"
+        },
+        {
+          "text": "I'm",
+          "start": 7,
+          "end": 10,
+          "key": "i'm"
+        },
+        {
+          "text": "Mike Black",
+          "start": 11,
+          "end": 21,
+          "key": "mike black"
+        }
+      ]
+    },
+    "Hi! My name is Wu Binbin.": {
+      "en": "Hi! My name is Wu Binbin.",
+      "zh": "嗨！我叫吴斌斌。",
+      "tokens": [
+        {
+          "text": "Hi",
+          "start": 0,
+          "end": 2,
+          "key": "hi"
+        },
+        {
+          "text": "My",
+          "start": 4,
+          "end": 6,
+          "key": "my"
+        },
+        {
+          "text": "name",
+          "start": 7,
+          "end": 11,
+          "key": "name"
+        },
+        {
+          "text": "is",
+          "start": 12,
+          "end": 14,
+          "key": "is"
+        },
+        {
+          "text": "Wu Binbin",
+          "start": 15,
+          "end": 24,
+          "key": "wu binbin"
+        }
+      ]
+    },
+    "Nice to meet you too.": {
+      "en": "Nice to meet you too.",
+      "zh": "见到你（我）也很高兴。",
+      "tokens": [
+        {
+          "text": "Nice",
+          "start": 0,
+          "end": 4,
+          "key": "nice"
+        },
+        {
+          "text": "to",
+          "start": 5,
+          "end": 7,
+          "key": "to"
+        },
+        {
+          "text": "meet",
+          "start": 8,
+          "end": 12,
+          "key": "meet"
+        },
+        {
+          "text": "you",
+          "start": 13,
+          "end": 16,
+          "key": "you"
+        },
+        {
+          "text": "too",
+          "start": 17,
+          "end": 20,
+          "key": "too"
+        }
+      ]
+    },
+    "Hello! My name is Sarah.": {
+      "en": "Hello! My name is Sarah.",
+      "zh": "你好！我的名字叫萨拉。",
+      "tokens": [
+        {
+          "text": "Hello",
+          "start": 0,
+          "end": 5,
+          "key": "hello"
+        },
+        {
+          "text": "My",
+          "start": 7,
+          "end": 9,
+          "key": "my"
+        },
+        {
+          "text": "name",
+          "start": 10,
+          "end": 14,
+          "key": "name"
+        },
+        {
+          "text": "is",
+          "start": 15,
+          "end": 17,
+          "key": "is"
+        },
+        {
+          "text": "Sarah",
+          "start": 18,
+          "end": 23,
+          "key": "sarah"
+        }
+      ]
+    },
+    "Hi! I'm John.": {
+      "en": "Hi! I'm John.",
+      "zh": "嗨！我是约翰。",
+      "tokens": [
+        {
+          "text": "Hi",
+          "start": 0,
+          "end": 2,
+          "key": "hi"
+        },
+        {
+          "text": "I'm",
+          "start": 4,
+          "end": 7,
+          "key": "i'm"
+        },
+        {
+          "text": "John",
+          "start": 8,
+          "end": 12,
+          "key": "john"
+        }
+      ]
+    },
+    "Hello! My name is Mike Black.": {
+      "en": "Hello! My name is Mike Black.",
+      "zh": "你好！我叫迈克·布莱克。",
+      "tokens": [
+        {
+          "text": "Hello",
+          "start": 0,
+          "end": 5,
+          "key": "hello"
+        },
+        {
+          "text": "My",
+          "start": 7,
+          "end": 9,
+          "key": "my"
+        },
+        {
+          "text": "name",
+          "start": 10,
+          "end": 14,
+          "key": "name"
+        },
+        {
+          "text": "is",
+          "start": 15,
+          "end": 17,
+          "key": "is"
+        },
+        {
+          "text": "Mike Black",
+          "start": 18,
+          "end": 28,
+          "key": "mike black"
+        }
+      ]
+    },
+    "Hi! I'm Sarah Miller.": {
+      "en": "Hi! I'm Sarah Miller.",
+      "zh": "嗨！我是萨拉·米勒。",
+      "tokens": [
+        {
+          "text": "Hi",
+          "start": 0,
+          "end": 2,
+          "key": "hi"
+        },
+        {
+          "text": "I'm",
+          "start": 4,
+          "end": 7,
+          "key": "i'm"
+        },
+        {
+          "text": "Sarah Miller",
+          "start": 8,
+          "end": 20,
+          "key": "sarah miller"
+        }
+      ]
+    },
+    "Wave your hand. Hello!": {
+      "en": "Wave your hand. Hello!",
+      "zh": "挥挥你的手。你好！",
+      "tokens": [
+        {
+          "text": "Wave",
+          "start": 0,
+          "end": 4,
+          "key": "wave"
+        },
+        {
+          "text": "your",
+          "start": 5,
+          "end": 9,
+          "key": "your"
+        },
+        {
+          "text": "hand",
+          "start": 10,
+          "end": 14,
+          "key": "hand"
+        },
+        {
+          "text": "Hello",
+          "start": 16,
+          "end": 21,
+          "key": "hello"
+        }
+      ]
+    },
+    "Look into my eyes. Hi!": {
+      "en": "Look into my eyes. Hi!",
+      "zh": "看着我的眼睛。嗨！",
+      "tokens": [
+        {
+          "text": "Look",
+          "start": 0,
+          "end": 4,
+          "key": "look"
+        },
+        {
+          "text": "into",
+          "start": 5,
+          "end": 9,
+          "key": "into"
+        },
+        {
+          "text": "my",
+          "start": 10,
+          "end": 12,
+          "key": "my"
+        },
+        {
+          "text": "eyes",
+          "start": 13,
+          "end": 17,
+          "key": "eyes"
+        },
+        {
+          "text": "Hi",
+          "start": 19,
+          "end": 21,
+          "key": "hi"
+        }
+      ]
+    },
+    "Point to your ear. Listen!": {
+      "en": "Point to your ear. Listen!",
+      "zh": "指指你的耳朵。听！",
+      "tokens": [
+        {
+          "text": "Point",
+          "start": 0,
+          "end": 5,
+          "key": "point"
+        },
+        {
+          "text": "to",
+          "start": 6,
+          "end": 8,
+          "key": "to"
+        },
+        {
+          "text": "your",
+          "start": 9,
+          "end": 13,
+          "key": "your"
+        },
+        {
+          "text": "ear",
+          "start": 14,
+          "end": 17,
+          "key": "ear"
+        },
+        {
+          "text": "Listen",
+          "start": 19,
+          "end": 25,
+          "key": "listen"
+        }
+      ]
+    },
+    "Point to your mouth. Smile!": {
+      "en": "Point to your mouth. Smile!",
+      "zh": "指指你的嘴。笑一笑！",
+      "tokens": [
+        {
+          "text": "Point",
+          "start": 0,
+          "end": 5,
+          "key": "point"
+        },
+        {
+          "text": "to",
+          "start": 6,
+          "end": 8,
+          "key": "to"
+        },
+        {
+          "text": "your",
+          "start": 9,
+          "end": 13,
+          "key": "your"
+        },
+        {
+          "text": "mouth",
+          "start": 14,
+          "end": 19,
+          "key": "mouth"
+        },
+        {
+          "text": "Smile",
+          "start": 21,
+          "end": 26,
+          "key": "smile"
+        }
+      ]
+    },
+    "Wave your arm. Bye!": {
+      "en": "Wave your arm. Bye!",
+      "zh": "挥挥你的手臂。再见！",
+      "tokens": [
+        {
+          "text": "Wave",
+          "start": 0,
+          "end": 4,
+          "key": "wave"
+        },
+        {
+          "text": "your",
+          "start": 5,
+          "end": 9,
+          "key": "your"
+        },
+        {
+          "text": "arm",
+          "start": 10,
+          "end": 13,
+          "key": "arm"
+        },
+        {
+          "text": "Bye",
+          "start": 15,
+          "end": 18,
+          "key": "bye"
+        }
+      ]
+    },
+    "How can we be a good friend?": {
+      "en": "How can we be a good friend?",
+      "zh": "我们怎样成为一个好朋友？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "can",
+          "start": 4,
+          "end": 7,
+          "key": "can"
+        },
+        {
+          "text": "we",
+          "start": 8,
+          "end": 10,
+          "key": "we"
+        },
+        {
+          "text": "be",
+          "start": 11,
+          "end": 13,
+          "key": "be"
+        },
+        {
+          "text": "a",
+          "start": 14,
+          "end": 15,
+          "key": "a"
+        },
+        {
+          "text": "good",
+          "start": 16,
+          "end": 20,
+          "key": "good"
+        },
+        {
+          "text": "friend",
+          "start": 21,
+          "end": 27,
+          "key": "friend"
+        }
+      ]
+    },
+    "Oh no!": {
+      "en": "Oh no!",
+      "zh": "噢，不！",
+      "tokens": [
+        {
+          "text": "Oh",
+          "start": 0,
+          "end": 2,
+          "key": "oh"
+        },
+        {
+          "text": "no",
+          "start": 3,
+          "end": 5,
+          "key": "no"
+        }
+      ]
+    },
+    "It's OK, Chen Jie.": {
+      "en": "It's OK, Chen Jie.",
+      "zh": "没关系，陈杰。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "OK",
+          "start": 5,
+          "end": 7,
+          "key": "ok"
+        },
+        {
+          "text": "Chen Jie",
+          "start": 9,
+          "end": 17,
+          "key": "chen jie"
+        }
+      ]
+    },
+    "We can share.": {
+      "en": "We can share.",
+      "zh": "我们可以分享。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "can",
+          "start": 3,
+          "end": 6,
+          "key": "can"
+        },
+        {
+          "text": "share",
+          "start": 7,
+          "end": 12,
+          "key": "share"
+        }
+      ]
+    },
+    "Thanks, Sarah.": {
+      "en": "Thanks, Sarah.",
+      "zh": "谢谢，萨拉。",
+      "tokens": [
+        {
+          "text": "Thanks",
+          "start": 0,
+          "end": 6,
+          "key": "thanks"
+        },
+        {
+          "text": "Sarah",
+          "start": 8,
+          "end": 13,
+          "key": "sarah"
+        }
+      ]
+    },
+    "Hey, Sarah! We can share.": {
+      "en": "Hey, Sarah! We can share.",
+      "zh": "嘿，萨拉！我们可以分享。",
+      "tokens": [
+        {
+          "text": "Hey",
+          "start": 0,
+          "end": 3,
+          "key": "hey"
+        },
+        {
+          "text": "Sarah",
+          "start": 5,
+          "end": 10,
+          "key": "sarah"
+        },
+        {
+          "text": "We",
+          "start": 12,
+          "end": 14,
+          "key": "we"
+        },
+        {
+          "text": "can",
+          "start": 15,
+          "end": 18,
+          "key": "can"
+        },
+        {
+          "text": "share",
+          "start": 19,
+          "end": 24,
+          "key": "share"
+        }
+      ]
+    },
+    "Thank you, Chen Jie.": {
+      "en": "Thank you, Chen Jie.",
+      "zh": "谢谢你，陈杰。",
+      "tokens": [
+        {
+          "text": "Thank",
+          "start": 0,
+          "end": 5,
+          "key": "thank"
+        },
+        {
+          "text": "you",
+          "start": 6,
+          "end": 9,
+          "key": "you"
+        },
+        {
+          "text": "Chen Jie",
+          "start": 11,
+          "end": 19,
+          "key": "chen jie"
+        }
+      ]
+    },
+    "Thank you.": {
+      "en": "Thank you.",
+      "zh": "谢谢你。",
+      "tokens": [
+        {
+          "text": "Thank",
+          "start": 0,
+          "end": 5,
+          "key": "thank"
+        },
+        {
+          "text": "you",
+          "start": 6,
+          "end": 9,
+          "key": "you"
+        }
+      ]
+    },
+    "It's OK.": {
+      "en": "It's OK.",
+      "zh": "没关系。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "OK",
+          "start": 5,
+          "end": 7,
+          "key": "ok"
+        }
+      ]
+    },
+    "I smile.": {
+      "en": "I smile.",
+      "zh": "我微笑。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "smile",
+          "start": 2,
+          "end": 7,
+          "key": "smile"
+        }
+      ]
+    },
+    "I listen.": {
+      "en": "I listen.",
+      "zh": "我倾听。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "listen",
+          "start": 2,
+          "end": 8,
+          "key": "listen"
+        }
+      ]
+    },
+    "I help.": {
+      "en": "I help.",
+      "zh": "我帮助别人。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "help",
+          "start": 2,
+          "end": 6,
+          "key": "help"
+        }
+      ]
+    },
+    "I share.": {
+      "en": "I share.",
+      "zh": "我分享。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "share",
+          "start": 2,
+          "end": 7,
+          "key": "share"
+        }
+      ]
+    },
+    "Am I a good friend? Yes, I am!": {
+      "en": "Am I a good friend? Yes, I am!",
+      "zh": "我是一个好朋友吗？是的，我是！",
+      "tokens": [
+        {
+          "text": "Am",
+          "start": 0,
+          "end": 2,
+          "key": "am"
+        },
+        {
+          "text": "I",
+          "start": 3,
+          "end": 4,
+          "key": "i"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "good",
+          "start": 7,
+          "end": 11,
+          "key": "good"
+        },
+        {
+          "text": "friend",
+          "start": 12,
+          "end": 18,
+          "key": "friend"
+        },
+        {
+          "text": "Yes",
+          "start": 20,
+          "end": 23,
+          "key": "yes"
+        },
+        {
+          "text": "I",
+          "start": 25,
+          "end": 26,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 27,
+          "end": 29,
+          "key": "am"
+        }
+      ]
+    },
+    "I listen and say \"Hi!\" I smile too.": {
+      "en": "I listen and say \"Hi!\" I smile too.",
+      "zh": "我倾听并说“嗨！”，我也微笑。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "listen",
+          "start": 2,
+          "end": 8,
+          "key": "listen"
+        },
+        {
+          "text": "and",
+          "start": 9,
+          "end": 12,
+          "key": "and"
+        },
+        {
+          "text": "say",
+          "start": 13,
+          "end": 16,
+          "key": "say"
+        },
+        {
+          "text": "Hi",
+          "start": 18,
+          "end": 20,
+          "key": "hi"
+        },
+        {
+          "text": "I",
+          "start": 23,
+          "end": 24,
+          "key": "i"
+        },
+        {
+          "text": "smile",
+          "start": 25,
+          "end": 30,
+          "key": "smile"
+        },
+        {
+          "text": "too",
+          "start": 31,
+          "end": 34,
+          "key": "too"
+        }
+      ]
+    },
+    "I help and share. I play fair too.": {
+      "en": "I help and share. I play fair too.",
+      "zh": "我帮助别人并分享，玩游戏时也遵守公平规则。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "help",
+          "start": 2,
+          "end": 6,
+          "key": "help"
+        },
+        {
+          "text": "and",
+          "start": 7,
+          "end": 10,
+          "key": "and"
+        },
+        {
+          "text": "share",
+          "start": 11,
+          "end": 16,
+          "key": "share"
+        },
+        {
+          "text": "I",
+          "start": 18,
+          "end": 19,
+          "key": "i"
+        },
+        {
+          "text": "play",
+          "start": 20,
+          "end": 24,
+          "key": "play"
+        },
+        {
+          "text": "fair",
+          "start": 25,
+          "end": 29,
+          "key": "fair"
+        },
+        {
+          "text": "too",
+          "start": 30,
+          "end": 33,
+          "key": "too"
+        }
+      ]
+    },
+    "I say \"Hi!\"": {
+      "en": "I say \"Hi!\"",
+      "zh": "我说“嗨！”。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "say",
+          "start": 2,
+          "end": 5,
+          "key": "say"
+        },
+        {
+          "text": "Hi",
+          "start": 7,
+          "end": 9,
+          "key": "hi"
+        }
+      ]
+    },
+    "I am nice to my friends.": {
+      "en": "I am nice to my friends.",
+      "zh": "我对我的朋友们很好。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 2,
+          "end": 4,
+          "key": "am"
+        },
+        {
+          "text": "nice",
+          "start": 5,
+          "end": 9,
+          "key": "nice"
+        },
+        {
+          "text": "to",
+          "start": 10,
+          "end": 12,
+          "key": "to"
+        },
+        {
+          "text": "my",
+          "start": 13,
+          "end": 15,
+          "key": "my"
+        },
+        {
+          "text": "friends",
+          "start": 16,
+          "end": 23,
+          "key": "friends"
+        }
+      ]
+    },
+    "I am a good friend!": {
+      "en": "I am a good friend!",
+      "zh": "我是一个好朋友！",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 2,
+          "end": 4,
+          "key": "am"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "good",
+          "start": 7,
+          "end": 11,
+          "key": "good"
+        },
+        {
+          "text": "friend",
+          "start": 12,
+          "end": 18,
+          "key": "friend"
+        }
+      ]
+    },
+    "What do friends do?": {
+      "en": "What do friends do?",
+      "zh": "朋友们会做些什么？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "do",
+          "start": 5,
+          "end": 7,
+          "key": "do"
+        },
+        {
+          "text": "friends",
+          "start": 8,
+          "end": 15,
+          "key": "friends"
+        },
+        {
+          "text": "do",
+          "start": 16,
+          "end": 18,
+          "key": "do"
+        }
+      ]
+    },
+    "Play together.": {
+      "en": "Play together.",
+      "zh": "一起玩。",
+      "tokens": [
+        {
+          "text": "Play",
+          "start": 0,
+          "end": 4,
+          "key": "play"
+        },
+        {
+          "text": "together",
+          "start": 5,
+          "end": 13,
+          "key": "together"
+        }
+      ]
+    },
+    "I say \"Bye!\"": {
+      "en": "I say \"Bye!\"",
+      "zh": "我说“再见！”。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "say",
+          "start": 2,
+          "end": 5,
+          "key": "say"
+        },
+        {
+          "text": "Bye",
+          "start": 7,
+          "end": 10,
+          "key": "bye"
+        }
+      ]
+    },
+    "Make friends": {
+      "en": "Make friends",
+      "zh": "交朋友（思维导图主题）",
+      "tokens": [
+        {
+          "text": "Make",
+          "start": 0,
+          "end": 4,
+          "key": "make"
+        },
+        {
+          "text": "friends",
+          "start": 5,
+          "end": 12,
+          "key": "friends"
+        }
+      ]
+    },
+    "Friends listen.": {
+      "en": "Friends listen.",
+      "zh": "朋友们互相倾听。",
+      "tokens": [
+        {
+          "text": "Friends",
+          "start": 0,
+          "end": 7,
+          "key": "friends"
+        },
+        {
+          "text": "listen",
+          "start": 8,
+          "end": 14,
+          "key": "listen"
+        }
+      ]
+    },
+    "Friends help and share ...": {
+      "en": "Friends help and share ...",
+      "zh": "朋友们帮助和分享……",
+      "tokens": [
+        {
+          "text": "Friends",
+          "start": 0,
+          "end": 7,
+          "key": "friends"
+        },
+        {
+          "text": "help",
+          "start": 8,
+          "end": 12,
+          "key": "help"
+        },
+        {
+          "text": "and",
+          "start": 13,
+          "end": 16,
+          "key": "and"
+        },
+        {
+          "text": "share",
+          "start": 17,
+          "end": 22,
+          "key": "share"
+        }
+      ]
+    },
+    "Zoom is my new friend.": {
+      "en": "Zoom is my new friend.",
+      "zh": "祖姆是我的新朋友。",
+      "tokens": [
+        {
+          "text": "Zoom",
+          "start": 0,
+          "end": 4,
+          "key": "zoom"
+        },
+        {
+          "text": "is",
+          "start": 5,
+          "end": 7,
+          "key": "is"
+        },
+        {
+          "text": "my",
+          "start": 8,
+          "end": 10,
+          "key": "my"
+        },
+        {
+          "text": "new",
+          "start": 11,
+          "end": 14,
+          "key": "new"
+        },
+        {
+          "text": "friend",
+          "start": 15,
+          "end": 21,
+          "key": "friend"
+        }
+      ]
+    },
+    "Hi! I'm Zip.": {
+      "en": "Hi! I'm Zip.",
+      "zh": "嗨！我是次波。",
+      "tokens": [
+        {
+          "text": "Hi",
+          "start": 0,
+          "end": 2,
+          "key": "hi"
+        },
+        {
+          "text": "I'm",
+          "start": 4,
+          "end": 7,
+          "key": "i'm"
+        },
+        {
+          "text": "Zip",
+          "start": 8,
+          "end": 11,
+          "key": "zip"
+        }
+      ]
+    },
+    "Hi! My name is Zoom.": {
+      "en": "Hi! My name is Zoom.",
+      "zh": "嗨！我叫祖姆。",
+      "tokens": [
+        {
+          "text": "Hi",
+          "start": 0,
+          "end": 2,
+          "key": "hi"
+        },
+        {
+          "text": "My",
+          "start": 4,
+          "end": 6,
+          "key": "my"
+        },
+        {
+          "text": "name",
+          "start": 7,
+          "end": 11,
+          "key": "name"
+        },
+        {
+          "text": "is",
+          "start": 12,
+          "end": 14,
+          "key": "is"
+        },
+        {
+          "text": "Zoom",
+          "start": 15,
+          "end": 19,
+          "key": "zoom"
+        }
+      ]
+    },
+    "Zoom is nice.": {
+      "en": "Zoom is nice.",
+      "zh": "祖姆很友好。",
+      "tokens": [
+        {
+          "text": "Zoom",
+          "start": 0,
+          "end": 4,
+          "key": "zoom"
+        },
+        {
+          "text": "is",
+          "start": 5,
+          "end": 7,
+          "key": "is"
+        },
+        {
+          "text": "nice",
+          "start": 8,
+          "end": 12,
+          "key": "nice"
+        }
+      ]
+    },
+    "We share food.": {
+      "en": "We share food.",
+      "zh": "我们分享食物。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "share",
+          "start": 3,
+          "end": 8,
+          "key": "share"
+        },
+        {
+          "text": "food",
+          "start": 9,
+          "end": 13,
+          "key": "food"
+        }
+      ]
+    },
+    "We play together.": {
+      "en": "We play together.",
+      "zh": "我们一起玩。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "play",
+          "start": 3,
+          "end": 7,
+          "key": "play"
+        },
+        {
+          "text": "together",
+          "start": 8,
+          "end": 16,
+          "key": "together"
+        }
+      ]
+    },
+    "We listen with care and help each other.": {
+      "en": "We listen with care and help each other.",
+      "zh": "我们认真倾听并相互帮助。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "listen",
+          "start": 3,
+          "end": 9,
+          "key": "listen"
+        },
+        {
+          "text": "with",
+          "start": 10,
+          "end": 14,
+          "key": "with"
+        },
+        {
+          "text": "care",
+          "start": 15,
+          "end": 19,
+          "key": "care"
+        },
+        {
+          "text": "and",
+          "start": 20,
+          "end": 23,
+          "key": "and"
+        },
+        {
+          "text": "help",
+          "start": 24,
+          "end": 28,
+          "key": "help"
+        },
+        {
+          "text": "each",
+          "start": 29,
+          "end": 33,
+          "key": "each"
+        },
+        {
+          "text": "other",
+          "start": 34,
+          "end": 39,
+          "key": "other"
+        }
+      ]
+    },
+    "Ouch! My mouth!": {
+      "en": "Ouch! My mouth!",
+      "zh": "哎哟！我的嘴！",
+      "tokens": [
+        {
+          "text": "Ouch",
+          "start": 0,
+          "end": 4,
+          "key": "ouch"
+        },
+        {
+          "text": "My",
+          "start": 6,
+          "end": 8,
+          "key": "my"
+        },
+        {
+          "text": "mouth",
+          "start": 9,
+          "end": 14,
+          "key": "mouth"
+        }
+      ]
+    },
+    "Hold my hand.": {
+      "en": "Hold my hand.",
+      "zh": "拉住我的手。",
+      "tokens": [
+        {
+          "text": "Hold",
+          "start": 0,
+          "end": 4,
+          "key": "hold"
+        },
+        {
+          "text": "my",
+          "start": 5,
+          "end": 7,
+          "key": "my"
+        },
+        {
+          "text": "hand",
+          "start": 8,
+          "end": 12,
+          "key": "hand"
+        }
+      ]
+    },
+    "We are good friends now.": {
+      "en": "We are good friends now.",
+      "zh": "现在我们是好朋友了。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "are",
+          "start": 3,
+          "end": 6,
+          "key": "are"
+        },
+        {
+          "text": "good",
+          "start": 7,
+          "end": 11,
+          "key": "good"
+        },
+        {
+          "text": "friends",
+          "start": 12,
+          "end": 19,
+          "key": "friends"
+        },
+        {
+          "text": "now",
+          "start": 20,
+          "end": 23,
+          "key": "now"
+        }
+      ]
+    }
+  }
+}

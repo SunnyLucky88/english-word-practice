@@ -1,0 +1,3342 @@
+{
+  "schemaVersion": 1,
+  "unit": 5,
+  "scope": "课本逐词跟读；不修改书后词表或默认练习",
+  "words": {
+    "why": {
+      "key": "why",
+      "en": "Why",
+      "spokenText": "why",
+      "zh": "为什么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/why.mp3"
+    },
+    "are": {
+      "key": "are",
+      "en": "are",
+      "spokenText": "are",
+      "zh": "是（be 的一种形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/are.mp3"
+    },
+    "colours": {
+      "key": "colours",
+      "en": "colours",
+      "spokenText": "colours",
+      "zh": "颜色（colour 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "colour",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/colours.mp3"
+    },
+    "important": {
+      "key": "important",
+      "en": "important",
+      "spokenText": "important",
+      "zh": "重要的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/important.mp3"
+    },
+    "what": {
+      "key": "what",
+      "en": "What",
+      "spokenText": "what",
+      "zh": "什么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/what.mp3"
+    },
+    "do": {
+      "key": "do",
+      "en": "do",
+      "spokenText": "do",
+      "zh": "做；也用于构成问句等句式",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/do.mp3"
+    },
+    "you": {
+      "key": "you",
+      "en": "you",
+      "spokenText": "you",
+      "zh": "你；你们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/you.mp3"
+    },
+    "see": {
+      "key": "see",
+      "en": "see",
+      "spokenText": "see",
+      "zh": "看见",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "sentence-34.mp3"
+    },
+    "like": {
+      "key": "like",
+      "en": "like",
+      "spokenText": "like",
+      "zh": "喜欢",
+      "ipa": "/laɪk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "word-follow/cab2644828bcc1f2.mp3"
+    },
+    "the": {
+      "key": "the",
+      "en": "The",
+      "spokenText": "the",
+      "zh": "特指的人或事物（常不单独翻译）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/the.mp3"
+    },
+    "sun": {
+      "key": "sun",
+      "en": "sun",
+      "spokenText": "sun",
+      "zh": "阳光；太阳",
+      "ipa": "/sʌn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "word-follow/27756f050e14a1cb.mp3"
+    },
+    "is": {
+      "key": "is",
+      "en": "is",
+      "spokenText": "is",
+      "zh": "是（be 的一种形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/is.mp3"
+    },
+    "orange": {
+      "key": "orange",
+      "en": "orange",
+      "spokenText": "orange",
+      "zh": "橙红色；橙红色的",
+      "ipa": "/ˈɒrɪndʒ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "orange.mp3"
+    },
+    "grass": {
+      "key": "grass",
+      "en": "Grass",
+      "spokenText": "grass",
+      "zh": "草；草地",
+      "ipa": "/ɡrɑːs/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "word-follow/f6cc5b085b61387a.mp3"
+    },
+    "green": {
+      "key": "green",
+      "en": "green",
+      "spokenText": "green",
+      "zh": "绿色；绿色的",
+      "ipa": "/ɡriːn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "green.mp3"
+    },
+    "about": {
+      "key": "about",
+      "en": "about",
+      "spokenText": "about",
+      "zh": "关于",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/about.mp3"
+    },
+    "sky": {
+      "key": "sky",
+      "en": "sky",
+      "spokenText": "sky",
+      "zh": "天空",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/sky.mp3"
+    },
+    "and": {
+      "key": "and",
+      "en": "and",
+      "spokenText": "and",
+      "zh": "和；与",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/and.mp3"
+    },
+    "sea": {
+      "key": "sea",
+      "en": "sea",
+      "spokenText": "sea",
+      "zh": "海；海洋",
+      "ipa": "/siː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "sea.mp3"
+    },
+    "roses": {
+      "key": "roses",
+      "en": "Roses",
+      "spokenText": "roses",
+      "zh": "玫瑰（rose 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "rose",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/roses.mp3"
+    },
+    "red": {
+      "key": "red",
+      "en": "red",
+      "spokenText": "red",
+      "zh": "红色；红色的",
+      "ipa": "/red/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "red.mp3"
+    },
+    "snow": {
+      "key": "snow",
+      "en": "Snow",
+      "spokenText": "snow",
+      "zh": "雪",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/snow.mp3"
+    },
+    "white": {
+      "key": "white",
+      "en": "white",
+      "spokenText": "white",
+      "zh": "白色；白色的",
+      "ipa": "/waɪt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "white.mp3"
+    },
+    "please": {
+      "key": "please",
+      "en": "Please",
+      "spokenText": "please",
+      "zh": "请",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/please.mp3"
+    },
+    "tell": {
+      "key": "tell",
+      "en": "tell",
+      "spokenText": "tell",
+      "zh": "告诉",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/tell.mp3"
+    },
+    "me": {
+      "key": "me",
+      "en": "me",
+      "spokenText": "me",
+      "zh": "我",
+      "ipa": "/miː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/2744ccd10c7533bd.mp3"
+    },
+    "colour": {
+      "key": "colour",
+      "en": "Colour",
+      "spokenText": "colour",
+      "zh": "颜色",
+      "ipa": "/ˈkʌlə(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "colour.mp3"
+    },
+    "song": {
+      "key": "song",
+      "en": "song",
+      "spokenText": "song",
+      "zh": "歌曲",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/song.mp3"
+    },
+    "it": {
+      "key": "it",
+      "en": "it",
+      "spokenText": "it",
+      "zh": "它",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/it.mp3"
+    },
+    "it's": {
+      "key": "it's",
+      "en": "It's",
+      "spokenText": "It's",
+      "zh": "it is 的缩写；它是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "it is",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/it-s.mp3"
+    },
+    "look": {
+      "key": "look",
+      "en": "Look",
+      "spokenText": "Look!",
+      "zh": "看！",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/look.mp3"
+    },
+    "blue": {
+      "key": "blue",
+      "en": "blue",
+      "spokenText": "blue",
+      "zh": "蓝色；蓝色的",
+      "ipa": "/bluː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "blue.mp3"
+    },
+    "make": {
+      "key": "make",
+      "en": "make",
+      "spokenText": "make",
+      "zh": "使出现；做",
+      "ipa": "/meɪk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "make.mp3"
+    },
+    "purple": {
+      "key": "purple",
+      "en": "purple",
+      "spokenText": "purple",
+      "zh": "紫色；紫色的",
+      "ipa": "/ˈpɜːpl/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "purple.mp3"
+    },
+    "wow": {
+      "key": "wow",
+      "en": "Wow",
+      "spokenText": "Wow!",
+      "zh": "哇！",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "sentence-14.mp3"
+    },
+    "yellow": {
+      "key": "yellow",
+      "en": "yellow",
+      "spokenText": "yellow",
+      "zh": "黄色；黄色的",
+      "ipa": "/ˈjeləʊ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "yellow.mp3"
+    },
+    "a": {
+      "key": "a",
+      "en": "a",
+      "spokenText": "a",
+      "zh": "一个；一（不定冠词）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/a.mp3"
+    },
+    "brown": {
+      "key": "brown",
+      "en": "brown",
+      "spokenText": "brown",
+      "zh": "棕色；棕色的",
+      "ipa": "/braʊn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "brown.mp3"
+    },
+    "bear": {
+      "key": "bear",
+      "en": "bear",
+      "spokenText": "bear",
+      "zh": "熊",
+      "ipa": "/beə(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "bear.mp3"
+    },
+    "duck": {
+      "key": "duck",
+      "en": "duck",
+      "spokenText": "duck",
+      "zh": "鸭",
+      "ipa": "/dʌk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "duck.mp3"
+    },
+    "flower": {
+      "key": "flower",
+      "en": "flower",
+      "spokenText": "flower",
+      "zh": "花；花朵",
+      "ipa": "/ˈflaʊə(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "word-follow/c06b0cfe0cc5e900.mp3"
+    },
+    "world": {
+      "key": "world",
+      "en": "world",
+      "spokenText": "world",
+      "zh": "世界",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/world.mp3"
+    },
+    "colourful": {
+      "key": "colourful",
+      "en": "colourful",
+      "spokenText": "colourful",
+      "zh": "色彩丰富的；五颜六色的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/colourful.mp3"
+    },
+    "i": {
+      "key": "i",
+      "en": "I",
+      "spokenText": "I",
+      "zh": "我",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "代词“我”；释义与字母 I 名称分开。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/i.mp3"
+    },
+    "here": {
+      "key": "here",
+      "en": "here",
+      "spokenText": "here",
+      "zh": "这里；在这里",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/here.mp3"
+    },
+    "there": {
+      "key": "there",
+      "en": "there",
+      "spokenText": "there",
+      "zh": "那里；在那儿",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/there.mp3"
+    },
+    "flowers": {
+      "key": "flowers",
+      "en": "flowers",
+      "spokenText": "flowers",
+      "zh": "花（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "flower",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/flowers.mp3"
+    },
+    "big": {
+      "key": "big",
+      "en": "big",
+      "spokenText": "big",
+      "zh": "大的",
+      "ipa": "/bɪɡ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/2a21fe6d592a19b7.mp3"
+    },
+    "else": {
+      "key": "else",
+      "en": "else",
+      "spokenText": "else",
+      "zh": "其他；别的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/else.mp3"
+    },
+    "can": {
+      "key": "can",
+      "en": "can",
+      "spokenText": "can",
+      "zh": "可以",
+      "ipa": "/kən, kæn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "word-follow/9f584196e7fe6de8.mp3"
+    },
+    "how": {
+      "key": "how",
+      "en": "How",
+      "spokenText": "how",
+      "zh": "怎样；多么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/how.mp3"
+    },
+    "help": {
+      "key": "help",
+      "en": "help",
+      "spokenText": "help",
+      "zh": "帮助",
+      "ipa": "/help/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "word-follow/106a5842fc5fce6f.mp3"
+    },
+    "us": {
+      "key": "us",
+      "en": "us",
+      "spokenText": "us",
+      "zh": "我们",
+      "ipa": "/ʌs/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "word-follow/79adb2a2fce5c6ba.mp3"
+    },
+    "pink": {
+      "key": "pink",
+      "en": "pink",
+      "spokenText": "pink",
+      "zh": "粉色；粉色的",
+      "ipa": "/pɪŋk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "pink.mp3"
+    },
+    "ok": {
+      "key": "ok",
+      "en": "OK",
+      "spokenText": "OK.",
+      "zh": "好的。",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/ok.mp3"
+    },
+    "let's": {
+      "key": "let's",
+      "en": "Let's",
+      "spokenText": "Let's",
+      "zh": "let us 的缩写；让我们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "let us",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/let-s.mp3"
+    },
+    "draw": {
+      "key": "draw",
+      "en": "draw",
+      "spokenText": "draw",
+      "zh": "画",
+      "ipa": "/drɔː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "draw.mp3"
+    },
+    "some": {
+      "key": "some",
+      "en": "some",
+      "spokenText": "some",
+      "zh": "一些",
+      "ipa": "/səm, sʌm/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "some.mp3"
+    },
+    "birds": {
+      "key": "birds",
+      "en": "birds",
+      "spokenText": "birds",
+      "zh": "鸟（bird 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "bird",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/birds.mp3"
+    },
+    "useful": {
+      "key": "useful",
+      "en": "useful",
+      "spokenText": "useful",
+      "zh": "有用的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/useful.mp3"
+    },
+    "black": {
+      "key": "black",
+      "en": "Black",
+      "spokenText": "black",
+      "zh": "黑色；黑色的",
+      "ipa": "/blæk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "black.mp3"
+    },
+    "sit": {
+      "key": "sit",
+      "en": "sit",
+      "spokenText": "sit",
+      "zh": "坐",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "sentence-37.mp3"
+    },
+    "down": {
+      "key": "down",
+      "en": "down",
+      "spokenText": "down",
+      "zh": "向下",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/down.mp3"
+    },
+    "turn": {
+      "key": "turn",
+      "en": "turn",
+      "spokenText": "turn",
+      "zh": "翻动；转动",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "园艺句中指翻动；turn around 表示转身或转圈。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/turn.mp3"
+    },
+    "around": {
+      "key": "around",
+      "en": "around",
+      "spokenText": "around",
+      "zh": "周围；转圈",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/around.mp3"
+    },
+    "touch": {
+      "key": "touch",
+      "en": "touch",
+      "spokenText": "touch",
+      "zh": "触摸",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/touch.mp3"
+    },
+    "ground": {
+      "key": "ground",
+      "en": "ground",
+      "spokenText": "ground",
+      "zh": "地面",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/ground.mp3"
+    },
+    "jump": {
+      "key": "jump",
+      "en": "jump",
+      "spokenText": "jump",
+      "zh": "跳；跳跃",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/jump.mp3"
+    },
+    "up": {
+      "key": "up",
+      "en": "up",
+      "spokenText": "up",
+      "zh": "向上",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "sentence-38.mp3"
+    },
+    "talk": {
+      "key": "talk",
+      "en": "talk",
+      "spokenText": "talk",
+      "zh": "交谈；谈话",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/talk.mp3"
+    },
+    "say": {
+      "key": "say",
+      "en": "say",
+      "spokenText": "say",
+      "zh": "说；讲",
+      "ipa": "/seɪ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "word-follow/a0b967fc60136d2e.mp3"
+    },
+    "no": {
+      "key": "no",
+      "en": "No",
+      "spokenText": "no",
+      "zh": "不；不是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/no.mp3"
+    },
+    "go": {
+      "key": "go",
+      "en": "Go",
+      "spokenText": "go",
+      "zh": "去；走",
+      "ipa": "/ɡəʊ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "word-follow/4cd0e21a9a0795a1.mp3"
+    },
+    "use": {
+      "key": "use",
+      "en": "Use",
+      "spokenText": "use",
+      "zh": "使用",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "本课使用动词义。该词有不同词性或词形读法，单词音频须重点核听，并与下方原句对照。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/use.mp3"
+    },
+    "again": {
+      "key": "again",
+      "en": "again",
+      "spokenText": "again",
+      "zh": "再一次；又",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/again.mp3"
+    },
+    "be": {
+      "key": "be",
+      "en": "Be",
+      "spokenText": "be",
+      "zh": "是；成为；处于某种状态",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/be.mp3"
+    },
+    "careful": {
+      "key": "careful",
+      "en": "careful",
+      "spokenText": "careful",
+      "zh": "小心的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/careful.mp3"
+    },
+    "sarah": {
+      "key": "sarah",
+      "en": "Sarah",
+      "spokenText": "Sarah",
+      "zh": "萨拉（人名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/sarah.mp3"
+    },
+    "this": {
+      "key": "this",
+      "en": "This",
+      "spokenText": "this",
+      "zh": "这；这个",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/this.mp3"
+    },
+    "my": {
+      "key": "my",
+      "en": "my",
+      "spokenText": "my",
+      "zh": "我的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/my.mp3"
+    },
+    "book": {
+      "key": "book",
+      "en": "book",
+      "spokenText": "book",
+      "zh": "书",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/book.mp3"
+    },
+    "bananas": {
+      "key": "bananas",
+      "en": "Bananas",
+      "spokenText": "bananas",
+      "zh": "香蕉（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "banana",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/bananas.mp3"
+    },
+    "ducks": {
+      "key": "ducks",
+      "en": "Ducks",
+      "spokenText": "ducks",
+      "zh": "鸭（duck 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "duck",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/ducks.mp3"
+    },
+    "am": {
+      "key": "am",
+      "en": "am",
+      "spokenText": "am",
+      "zh": "是（与 I 连用的 be 的形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/am.mp3"
+    },
+    "sunflower": {
+      "key": "sunflower",
+      "en": "sunflower",
+      "spokenText": "sunflower",
+      "zh": "向日葵",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/sunflower.mp3"
+    },
+    "tall": {
+      "key": "tall",
+      "en": "tall",
+      "spokenText": "tall",
+      "zh": "高的",
+      "ipa": "/tɔːl/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "word-follow/241daf2e753a6a2f.mp3"
+    },
+    "then": {
+      "key": "then",
+      "en": "Then",
+      "spokenText": "then",
+      "zh": "然后；接着",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/then.mp3"
+    },
+    "now": {
+      "key": "now",
+      "en": "Now",
+      "spokenText": "now",
+      "zh": "现在",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/now.mp3"
+    },
+    "bees": {
+      "key": "bees",
+      "en": "Bees",
+      "spokenText": "bees",
+      "zh": "蜜蜂（bee 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "bee",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/bees.mp3"
+    },
+    "come": {
+      "key": "come",
+      "en": "come",
+      "spokenText": "come",
+      "zh": "来",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/come.mp3"
+    },
+    "they": {
+      "key": "they",
+      "en": "They",
+      "spokenText": "they",
+      "zh": "他们；她们；它们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/they.mp3"
+    },
+    "give": {
+      "key": "give",
+      "en": "give",
+      "spokenText": "give",
+      "zh": "给",
+      "ipa": "/ɡɪv/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "word-follow/0895a532e404a5c9.mp3"
+    },
+    "them": {
+      "key": "them",
+      "en": "them",
+      "spokenText": "them",
+      "zh": "它们；他们；她们",
+      "ipa": "/ðəm, ðem/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "word-follow/c9a8dc336964db7f.mp3"
+    },
+    "food": {
+      "key": "food",
+      "en": "food",
+      "spokenText": "food",
+      "zh": "食物",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/food.mp3"
+    },
+    "cold": {
+      "key": "cold",
+      "en": "cold",
+      "spokenText": "cold",
+      "zh": "寒冷的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/cold.mp3"
+    },
+    "gone": {
+      "key": "gone",
+      "en": "gone",
+      "spokenText": "gone",
+      "zh": "离去了；不见了（本课指花朵凋谢了）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "go",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/gone.mp3"
+    },
+    "but": {
+      "key": "but",
+      "en": "But",
+      "spokenText": "but",
+      "zh": "但是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/but.mp3"
+    },
+    "children": {
+      "key": "children",
+      "en": "children",
+      "spokenText": "children",
+      "zh": "儿童；孩子们（child 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "child",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/children.mp3"
+    },
+    "grow": {
+      "key": "grow",
+      "en": "grow",
+      "spokenText": "grow",
+      "zh": "种植；生长",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "supplemental/grow.mp3"
+    }
+  },
+  "sentences": {
+    "Why are colours important?": {
+      "en": "Why are colours important?",
+      "zh": "颜色为什么重要？",
+      "tokens": [
+        {
+          "text": "Why",
+          "start": 0,
+          "end": 3,
+          "key": "why"
+        },
+        {
+          "text": "are",
+          "start": 4,
+          "end": 7,
+          "key": "are"
+        },
+        {
+          "text": "colours",
+          "start": 8,
+          "end": 15,
+          "key": "colours"
+        },
+        {
+          "text": "important",
+          "start": 16,
+          "end": 25,
+          "key": "important"
+        }
+      ]
+    },
+    "What colours do you see?": {
+      "en": "What colours do you see?",
+      "zh": "你看到了什么颜色？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "colours",
+          "start": 5,
+          "end": 12,
+          "key": "colours"
+        },
+        {
+          "text": "do",
+          "start": 13,
+          "end": 15,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 16,
+          "end": 19,
+          "key": "you"
+        },
+        {
+          "text": "see",
+          "start": 20,
+          "end": 23,
+          "key": "see"
+        }
+      ]
+    },
+    "What colours do you like?": {
+      "en": "What colours do you like?",
+      "zh": "你喜欢什么颜色？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "colours",
+          "start": 5,
+          "end": 12,
+          "key": "colours"
+        },
+        {
+          "text": "do",
+          "start": 13,
+          "end": 15,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 16,
+          "end": 19,
+          "key": "you"
+        },
+        {
+          "text": "like",
+          "start": 20,
+          "end": 24,
+          "key": "like"
+        }
+      ]
+    },
+    "The sun is orange.": {
+      "en": "The sun is orange.",
+      "zh": "太阳是橙红色的。",
+      "tokens": [
+        {
+          "text": "The",
+          "start": 0,
+          "end": 3,
+          "key": "the"
+        },
+        {
+          "text": "sun",
+          "start": 4,
+          "end": 7,
+          "key": "sun"
+        },
+        {
+          "text": "is",
+          "start": 8,
+          "end": 10,
+          "key": "is"
+        },
+        {
+          "text": "orange",
+          "start": 11,
+          "end": 17,
+          "key": "orange"
+        }
+      ]
+    },
+    "Grass is green.": {
+      "en": "Grass is green.",
+      "zh": "草是绿色的。",
+      "tokens": [
+        {
+          "text": "Grass",
+          "start": 0,
+          "end": 5,
+          "key": "grass"
+        },
+        {
+          "text": "is",
+          "start": 6,
+          "end": 8,
+          "key": "is"
+        },
+        {
+          "text": "green",
+          "start": 9,
+          "end": 14,
+          "key": "green"
+        }
+      ]
+    },
+    "What about the sky and sea?": {
+      "en": "What about the sky and sea?",
+      "zh": "天空和大海是什么颜色呢？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "about",
+          "start": 5,
+          "end": 10,
+          "key": "about"
+        },
+        {
+          "text": "the",
+          "start": 11,
+          "end": 14,
+          "key": "the"
+        },
+        {
+          "text": "sky",
+          "start": 15,
+          "end": 18,
+          "key": "sky"
+        },
+        {
+          "text": "and",
+          "start": 19,
+          "end": 22,
+          "key": "and"
+        },
+        {
+          "text": "sea",
+          "start": 23,
+          "end": 26,
+          "key": "sea"
+        }
+      ]
+    },
+    "Roses are red.": {
+      "en": "Roses are red.",
+      "zh": "玫瑰是红色的。",
+      "tokens": [
+        {
+          "text": "Roses",
+          "start": 0,
+          "end": 5,
+          "key": "roses"
+        },
+        {
+          "text": "are",
+          "start": 6,
+          "end": 9,
+          "key": "are"
+        },
+        {
+          "text": "red",
+          "start": 10,
+          "end": 13,
+          "key": "red"
+        }
+      ]
+    },
+    "Snow is white.": {
+      "en": "Snow is white.",
+      "zh": "雪是白色的。",
+      "tokens": [
+        {
+          "text": "Snow",
+          "start": 0,
+          "end": 4,
+          "key": "snow"
+        },
+        {
+          "text": "is",
+          "start": 5,
+          "end": 7,
+          "key": "is"
+        },
+        {
+          "text": "white",
+          "start": 8,
+          "end": 13,
+          "key": "white"
+        }
+      ]
+    },
+    "Please, please tell me why!": {
+      "en": "Please, please tell me why!",
+      "zh": "请告诉我为什么！",
+      "tokens": [
+        {
+          "text": "Please",
+          "start": 0,
+          "end": 6,
+          "key": "please"
+        },
+        {
+          "text": "please",
+          "start": 8,
+          "end": 14,
+          "key": "please"
+        },
+        {
+          "text": "tell",
+          "start": 15,
+          "end": 19,
+          "key": "tell"
+        },
+        {
+          "text": "me",
+          "start": 20,
+          "end": 22,
+          "key": "me"
+        },
+        {
+          "text": "why",
+          "start": 23,
+          "end": 26,
+          "key": "why"
+        }
+      ]
+    },
+    "Colour song": {
+      "en": "Colour song",
+      "zh": "颜色歌",
+      "tokens": [
+        {
+          "text": "Colour",
+          "start": 0,
+          "end": 6,
+          "key": "colour"
+        },
+        {
+          "text": "song",
+          "start": 7,
+          "end": 11,
+          "key": "song"
+        }
+      ]
+    },
+    "What colour is it?": {
+      "en": "What colour is it?",
+      "zh": "它是什么颜色？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "colour",
+          "start": 5,
+          "end": 11,
+          "key": "colour"
+        },
+        {
+          "text": "is",
+          "start": 12,
+          "end": 14,
+          "key": "is"
+        },
+        {
+          "text": "it",
+          "start": 15,
+          "end": 17,
+          "key": "it"
+        }
+      ]
+    },
+    "It's orange.": {
+      "en": "It's orange.",
+      "zh": "它是橙红色。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "orange",
+          "start": 5,
+          "end": 11,
+          "key": "orange"
+        }
+      ]
+    },
+    "It's green.": {
+      "en": "It's green.",
+      "zh": "它是绿色的。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "green",
+          "start": 5,
+          "end": 10,
+          "key": "green"
+        }
+      ]
+    },
+    "Look! Red and blue make purple.": {
+      "en": "Look! Red and blue make purple.",
+      "zh": "看！红色和蓝色混合成紫色。",
+      "tokens": [
+        {
+          "text": "Look",
+          "start": 0,
+          "end": 4,
+          "key": "look"
+        },
+        {
+          "text": "Red",
+          "start": 6,
+          "end": 9,
+          "key": "red"
+        },
+        {
+          "text": "and",
+          "start": 10,
+          "end": 13,
+          "key": "and"
+        },
+        {
+          "text": "blue",
+          "start": 14,
+          "end": 18,
+          "key": "blue"
+        },
+        {
+          "text": "make",
+          "start": 19,
+          "end": 23,
+          "key": "make"
+        },
+        {
+          "text": "purple",
+          "start": 24,
+          "end": 30,
+          "key": "purple"
+        }
+      ]
+    },
+    "Wow! Blue and yellow make green.": {
+      "en": "Wow! Blue and yellow make green.",
+      "zh": "哇！蓝色和黄色混合成绿色。",
+      "tokens": [
+        {
+          "text": "Wow",
+          "start": 0,
+          "end": 3,
+          "key": "wow"
+        },
+        {
+          "text": "Blue",
+          "start": 5,
+          "end": 9,
+          "key": "blue"
+        },
+        {
+          "text": "and",
+          "start": 10,
+          "end": 13,
+          "key": "and"
+        },
+        {
+          "text": "yellow",
+          "start": 14,
+          "end": 20,
+          "key": "yellow"
+        },
+        {
+          "text": "make",
+          "start": 21,
+          "end": 25,
+          "key": "make"
+        },
+        {
+          "text": "green",
+          "start": 26,
+          "end": 31,
+          "key": "green"
+        }
+      ]
+    },
+    "a brown bear": {
+      "en": "a brown bear",
+      "zh": "一只棕色的熊",
+      "tokens": [
+        {
+          "text": "a",
+          "start": 0,
+          "end": 1,
+          "key": "a"
+        },
+        {
+          "text": "brown",
+          "start": 2,
+          "end": 7,
+          "key": "brown"
+        },
+        {
+          "text": "bear",
+          "start": 8,
+          "end": 12,
+          "key": "bear"
+        }
+      ]
+    },
+    "a yellow duck": {
+      "en": "a yellow duck",
+      "zh": "一只黄色的鸭子",
+      "tokens": [
+        {
+          "text": "a",
+          "start": 0,
+          "end": 1,
+          "key": "a"
+        },
+        {
+          "text": "yellow",
+          "start": 2,
+          "end": 8,
+          "key": "yellow"
+        },
+        {
+          "text": "duck",
+          "start": 9,
+          "end": 13,
+          "key": "duck"
+        }
+      ]
+    },
+    "a purple flower": {
+      "en": "a purple flower",
+      "zh": "一朵紫色的花",
+      "tokens": [
+        {
+          "text": "a",
+          "start": 0,
+          "end": 1,
+          "key": "a"
+        },
+        {
+          "text": "purple",
+          "start": 2,
+          "end": 8,
+          "key": "purple"
+        },
+        {
+          "text": "flower",
+          "start": 9,
+          "end": 15,
+          "key": "flower"
+        }
+      ]
+    },
+    "green grass": {
+      "en": "green grass",
+      "zh": "绿色的草",
+      "tokens": [
+        {
+          "text": "green",
+          "start": 0,
+          "end": 5,
+          "key": "green"
+        },
+        {
+          "text": "grass",
+          "start": 6,
+          "end": 11,
+          "key": "grass"
+        }
+      ]
+    },
+    "blue sea": {
+      "en": "blue sea",
+      "zh": "蓝色的大海",
+      "tokens": [
+        {
+          "text": "blue",
+          "start": 0,
+          "end": 4,
+          "key": "blue"
+        },
+        {
+          "text": "sea",
+          "start": 5,
+          "end": 8,
+          "key": "sea"
+        }
+      ]
+    },
+    "The world is colourful!": {
+      "en": "The world is colourful!",
+      "zh": "世界是五彩缤纷的！",
+      "tokens": [
+        {
+          "text": "The",
+          "start": 0,
+          "end": 3,
+          "key": "the"
+        },
+        {
+          "text": "world",
+          "start": 4,
+          "end": 9,
+          "key": "world"
+        },
+        {
+          "text": "is",
+          "start": 10,
+          "end": 12,
+          "key": "is"
+        },
+        {
+          "text": "colourful",
+          "start": 13,
+          "end": 22,
+          "key": "colourful"
+        }
+      ]
+    },
+    "I see colours here and there.": {
+      "en": "I see colours here and there.",
+      "zh": "我到处都能看见色彩。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "see",
+          "start": 2,
+          "end": 5,
+          "key": "see"
+        },
+        {
+          "text": "colours",
+          "start": 6,
+          "end": 13,
+          "key": "colours"
+        },
+        {
+          "text": "here",
+          "start": 14,
+          "end": 18,
+          "key": "here"
+        },
+        {
+          "text": "and",
+          "start": 19,
+          "end": 22,
+          "key": "and"
+        },
+        {
+          "text": "there",
+          "start": 23,
+          "end": 28,
+          "key": "there"
+        }
+      ]
+    },
+    "Purple flowers, green grass and blue sea.": {
+      "en": "Purple flowers, green grass and blue sea.",
+      "zh": "紫色的花、绿色的草和蓝色的大海。",
+      "tokens": [
+        {
+          "text": "Purple",
+          "start": 0,
+          "end": 6,
+          "key": "purple"
+        },
+        {
+          "text": "flowers",
+          "start": 7,
+          "end": 14,
+          "key": "flowers"
+        },
+        {
+          "text": "green",
+          "start": 16,
+          "end": 21,
+          "key": "green"
+        },
+        {
+          "text": "grass",
+          "start": 22,
+          "end": 27,
+          "key": "grass"
+        },
+        {
+          "text": "and",
+          "start": 28,
+          "end": 31,
+          "key": "and"
+        },
+        {
+          "text": "blue",
+          "start": 32,
+          "end": 36,
+          "key": "blue"
+        },
+        {
+          "text": "sea",
+          "start": 37,
+          "end": 40,
+          "key": "sea"
+        }
+      ]
+    },
+    "A big brown bear. What else can you see?": {
+      "en": "A big brown bear. What else can you see?",
+      "zh": "一只大棕熊。你还能看到什么？",
+      "tokens": [
+        {
+          "text": "A",
+          "start": 0,
+          "end": 1,
+          "key": "a"
+        },
+        {
+          "text": "big",
+          "start": 2,
+          "end": 5,
+          "key": "big"
+        },
+        {
+          "text": "brown",
+          "start": 6,
+          "end": 11,
+          "key": "brown"
+        },
+        {
+          "text": "bear",
+          "start": 12,
+          "end": 16,
+          "key": "bear"
+        },
+        {
+          "text": "What",
+          "start": 18,
+          "end": 22,
+          "key": "what"
+        },
+        {
+          "text": "else",
+          "start": 23,
+          "end": 27,
+          "key": "else"
+        },
+        {
+          "text": "can",
+          "start": 28,
+          "end": 31,
+          "key": "can"
+        },
+        {
+          "text": "you",
+          "start": 32,
+          "end": 35,
+          "key": "you"
+        },
+        {
+          "text": "see",
+          "start": 36,
+          "end": 39,
+          "key": "see"
+        }
+      ]
+    },
+    "How do colours help us?": {
+      "en": "How do colours help us?",
+      "zh": "颜色怎样帮助我们？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "do",
+          "start": 4,
+          "end": 6,
+          "key": "do"
+        },
+        {
+          "text": "colours",
+          "start": 7,
+          "end": 14,
+          "key": "colours"
+        },
+        {
+          "text": "help",
+          "start": 15,
+          "end": 19,
+          "key": "help"
+        },
+        {
+          "text": "us",
+          "start": 20,
+          "end": 22,
+          "key": "us"
+        }
+      ]
+    },
+    "I like red and pink.": {
+      "en": "I like red and pink.",
+      "zh": "我喜欢红色和粉色。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "red",
+          "start": 7,
+          "end": 10,
+          "key": "red"
+        },
+        {
+          "text": "and",
+          "start": 11,
+          "end": 14,
+          "key": "and"
+        },
+        {
+          "text": "pink",
+          "start": 15,
+          "end": 19,
+          "key": "pink"
+        }
+      ]
+    },
+    "OK. Let's draw some red and pink flowers.": {
+      "en": "OK. Let's draw some red and pink flowers.",
+      "zh": "好的。我们画些红色和粉色的花吧。",
+      "tokens": [
+        {
+          "text": "OK",
+          "start": 0,
+          "end": 2,
+          "key": "ok"
+        },
+        {
+          "text": "Let's",
+          "start": 4,
+          "end": 9,
+          "key": "let's"
+        },
+        {
+          "text": "draw",
+          "start": 10,
+          "end": 14,
+          "key": "draw"
+        },
+        {
+          "text": "some",
+          "start": 15,
+          "end": 19,
+          "key": "some"
+        },
+        {
+          "text": "red",
+          "start": 20,
+          "end": 23,
+          "key": "red"
+        },
+        {
+          "text": "and",
+          "start": 24,
+          "end": 27,
+          "key": "and"
+        },
+        {
+          "text": "pink",
+          "start": 28,
+          "end": 32,
+          "key": "pink"
+        },
+        {
+          "text": "flowers",
+          "start": 33,
+          "end": 40,
+          "key": "flowers"
+        }
+      ]
+    },
+    "And the birds?": {
+      "en": "And the birds?",
+      "zh": "鸟儿呢？",
+      "tokens": [
+        {
+          "text": "And",
+          "start": 0,
+          "end": 3,
+          "key": "and"
+        },
+        {
+          "text": "the",
+          "start": 4,
+          "end": 7,
+          "key": "the"
+        },
+        {
+          "text": "birds",
+          "start": 8,
+          "end": 13,
+          "key": "birds"
+        }
+      ]
+    },
+    "Let's draw some purple and brown birds.": {
+      "en": "Let's draw some purple and brown birds.",
+      "zh": "我们一起画一些紫色和棕色的鸟吧。",
+      "tokens": [
+        {
+          "text": "Let's",
+          "start": 0,
+          "end": 5,
+          "key": "let's"
+        },
+        {
+          "text": "draw",
+          "start": 6,
+          "end": 10,
+          "key": "draw"
+        },
+        {
+          "text": "some",
+          "start": 11,
+          "end": 15,
+          "key": "some"
+        },
+        {
+          "text": "purple",
+          "start": 16,
+          "end": 22,
+          "key": "purple"
+        },
+        {
+          "text": "and",
+          "start": 23,
+          "end": 26,
+          "key": "and"
+        },
+        {
+          "text": "brown",
+          "start": 27,
+          "end": 32,
+          "key": "brown"
+        },
+        {
+          "text": "birds",
+          "start": 33,
+          "end": 38,
+          "key": "birds"
+        }
+      ]
+    },
+    "I like green and yellow.": {
+      "en": "I like green and yellow.",
+      "zh": "我喜欢绿色和黄色。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "green",
+          "start": 7,
+          "end": 12,
+          "key": "green"
+        },
+        {
+          "text": "and",
+          "start": 13,
+          "end": 16,
+          "key": "and"
+        },
+        {
+          "text": "yellow",
+          "start": 17,
+          "end": 23,
+          "key": "yellow"
+        }
+      ]
+    },
+    "Colours are useful!": {
+      "en": "Colours are useful!",
+      "zh": "颜色很有用！",
+      "tokens": [
+        {
+          "text": "Colours",
+          "start": 0,
+          "end": 7,
+          "key": "colours"
+        },
+        {
+          "text": "are",
+          "start": 8,
+          "end": 11,
+          "key": "are"
+        },
+        {
+          "text": "useful",
+          "start": 12,
+          "end": 18,
+          "key": "useful"
+        }
+      ]
+    },
+    "Black, black, sit down.": {
+      "en": "Black, black, sit down.",
+      "zh": "黑色，黑色，坐下来。",
+      "tokens": [
+        {
+          "text": "Black",
+          "start": 0,
+          "end": 5,
+          "key": "black"
+        },
+        {
+          "text": "black",
+          "start": 7,
+          "end": 12,
+          "key": "black"
+        },
+        {
+          "text": "sit",
+          "start": 14,
+          "end": 17,
+          "key": "sit"
+        },
+        {
+          "text": "down",
+          "start": 18,
+          "end": 22,
+          "key": "down"
+        }
+      ]
+    },
+    "White, white, turn around.": {
+      "en": "White, white, turn around.",
+      "zh": "白色，白色，转个圈。",
+      "tokens": [
+        {
+          "text": "White",
+          "start": 0,
+          "end": 5,
+          "key": "white"
+        },
+        {
+          "text": "white",
+          "start": 7,
+          "end": 12,
+          "key": "white"
+        },
+        {
+          "text": "turn",
+          "start": 14,
+          "end": 18,
+          "key": "turn"
+        },
+        {
+          "text": "around",
+          "start": 19,
+          "end": 25,
+          "key": "around"
+        }
+      ]
+    },
+    "Pink and red, touch the ground.": {
+      "en": "Pink and red, touch the ground.",
+      "zh": "粉色和红色，摸摸地面。",
+      "tokens": [
+        {
+          "text": "Pink",
+          "start": 0,
+          "end": 4,
+          "key": "pink"
+        },
+        {
+          "text": "and",
+          "start": 5,
+          "end": 8,
+          "key": "and"
+        },
+        {
+          "text": "red",
+          "start": 9,
+          "end": 12,
+          "key": "red"
+        },
+        {
+          "text": "touch",
+          "start": 14,
+          "end": 19,
+          "key": "touch"
+        },
+        {
+          "text": "the",
+          "start": 20,
+          "end": 23,
+          "key": "the"
+        },
+        {
+          "text": "ground",
+          "start": 24,
+          "end": 30,
+          "key": "ground"
+        }
+      ]
+    },
+    "Orange and red, jump up and down.": {
+      "en": "Orange and red, jump up and down.",
+      "zh": "橙红色和红色，上下跳一跳。",
+      "tokens": [
+        {
+          "text": "Orange",
+          "start": 0,
+          "end": 6,
+          "key": "orange"
+        },
+        {
+          "text": "and",
+          "start": 7,
+          "end": 10,
+          "key": "and"
+        },
+        {
+          "text": "red",
+          "start": 11,
+          "end": 14,
+          "key": "red"
+        },
+        {
+          "text": "jump",
+          "start": 16,
+          "end": 20,
+          "key": "jump"
+        },
+        {
+          "text": "up",
+          "start": 21,
+          "end": 23,
+          "key": "up"
+        },
+        {
+          "text": "and",
+          "start": 24,
+          "end": 27,
+          "key": "and"
+        },
+        {
+          "text": "down",
+          "start": 28,
+          "end": 32,
+          "key": "down"
+        }
+      ]
+    },
+    "Colours can talk!": {
+      "en": "Colours can talk!",
+      "zh": "颜色会说话！",
+      "tokens": [
+        {
+          "text": "Colours",
+          "start": 0,
+          "end": 7,
+          "key": "colours"
+        },
+        {
+          "text": "can",
+          "start": 8,
+          "end": 11,
+          "key": "can"
+        },
+        {
+          "text": "talk",
+          "start": 12,
+          "end": 16,
+          "key": "talk"
+        }
+      ]
+    },
+    "It's red. Red can say \"No!\"": {
+      "en": "It's red. Red can say \"No!\"",
+      "zh": "这是红色。红色可以表示“不行！”",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "red",
+          "start": 5,
+          "end": 8,
+          "key": "red"
+        },
+        {
+          "text": "Red",
+          "start": 10,
+          "end": 13,
+          "key": "red"
+        },
+        {
+          "text": "can",
+          "start": 14,
+          "end": 17,
+          "key": "can"
+        },
+        {
+          "text": "say",
+          "start": 18,
+          "end": 21,
+          "key": "say"
+        },
+        {
+          "text": "No",
+          "start": 23,
+          "end": 25,
+          "key": "no"
+        }
+      ]
+    },
+    "It's green. Green can say \"Go!\"": {
+      "en": "It's green. Green can say \"Go!\"",
+      "zh": "这是绿色。绿色可以表示“通行！”",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "green",
+          "start": 5,
+          "end": 10,
+          "key": "green"
+        },
+        {
+          "text": "Green",
+          "start": 12,
+          "end": 17,
+          "key": "green"
+        },
+        {
+          "text": "can",
+          "start": 18,
+          "end": 21,
+          "key": "can"
+        },
+        {
+          "text": "say",
+          "start": 22,
+          "end": 25,
+          "key": "say"
+        },
+        {
+          "text": "Go",
+          "start": 27,
+          "end": 29,
+          "key": "go"
+        }
+      ]
+    },
+    "It's blue. Blue can say \"Use again!\"": {
+      "en": "It's blue. Blue can say \"Use again!\"",
+      "zh": "这是蓝色。蓝色可以表示“再次使用！”",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "blue",
+          "start": 5,
+          "end": 9,
+          "key": "blue"
+        },
+        {
+          "text": "Blue",
+          "start": 11,
+          "end": 15,
+          "key": "blue"
+        },
+        {
+          "text": "can",
+          "start": 16,
+          "end": 19,
+          "key": "can"
+        },
+        {
+          "text": "say",
+          "start": 20,
+          "end": 23,
+          "key": "say"
+        },
+        {
+          "text": "Use",
+          "start": 25,
+          "end": 28,
+          "key": "use"
+        },
+        {
+          "text": "again",
+          "start": 29,
+          "end": 34,
+          "key": "again"
+        }
+      ]
+    },
+    "It's yellow. Yellow can say \"Be careful!\"": {
+      "en": "It's yellow. Yellow can say \"Be careful!\"",
+      "zh": "这是黄色。黄色可以表示“小心！”",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "yellow",
+          "start": 5,
+          "end": 11,
+          "key": "yellow"
+        },
+        {
+          "text": "Yellow",
+          "start": 13,
+          "end": 19,
+          "key": "yellow"
+        },
+        {
+          "text": "can",
+          "start": 20,
+          "end": 23,
+          "key": "can"
+        },
+        {
+          "text": "say",
+          "start": 24,
+          "end": 27,
+          "key": "say"
+        },
+        {
+          "text": "Be",
+          "start": 29,
+          "end": 31,
+          "key": "be"
+        },
+        {
+          "text": "careful",
+          "start": 32,
+          "end": 39,
+          "key": "careful"
+        }
+      ]
+    },
+    "What colours do you like, Sarah?": {
+      "en": "What colours do you like, Sarah?",
+      "zh": "萨拉，你喜欢哪些颜色？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "colours",
+          "start": 5,
+          "end": 12,
+          "key": "colours"
+        },
+        {
+          "text": "do",
+          "start": 13,
+          "end": 15,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 16,
+          "end": 19,
+          "key": "you"
+        },
+        {
+          "text": "like",
+          "start": 20,
+          "end": 24,
+          "key": "like"
+        },
+        {
+          "text": "Sarah",
+          "start": 26,
+          "end": 31,
+          "key": "sarah"
+        }
+      ]
+    },
+    "I like yellow, red and blue.": {
+      "en": "I like yellow, red and blue.",
+      "zh": "我喜欢黄色、红色和蓝色。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "yellow",
+          "start": 7,
+          "end": 13,
+          "key": "yellow"
+        },
+        {
+          "text": "red",
+          "start": 15,
+          "end": 18,
+          "key": "red"
+        },
+        {
+          "text": "and",
+          "start": 19,
+          "end": 22,
+          "key": "and"
+        },
+        {
+          "text": "blue",
+          "start": 23,
+          "end": 27,
+          "key": "blue"
+        }
+      ]
+    },
+    "This is my book.": {
+      "en": "This is my book.",
+      "zh": "这是我的书。",
+      "tokens": [
+        {
+          "text": "This",
+          "start": 0,
+          "end": 4,
+          "key": "this"
+        },
+        {
+          "text": "is",
+          "start": 5,
+          "end": 7,
+          "key": "is"
+        },
+        {
+          "text": "my",
+          "start": 8,
+          "end": 10,
+          "key": "my"
+        },
+        {
+          "text": "book",
+          "start": 11,
+          "end": 15,
+          "key": "book"
+        }
+      ]
+    },
+    "Bananas are yellow.": {
+      "en": "Bananas are yellow.",
+      "zh": "香蕉是黄色的。",
+      "tokens": [
+        {
+          "text": "Bananas",
+          "start": 0,
+          "end": 7,
+          "key": "bananas"
+        },
+        {
+          "text": "are",
+          "start": 8,
+          "end": 11,
+          "key": "are"
+        },
+        {
+          "text": "yellow",
+          "start": 12,
+          "end": 18,
+          "key": "yellow"
+        }
+      ]
+    },
+    "Ducks are ...": {
+      "en": "Ducks are ...",
+      "zh": "鸭子是……颜色的。",
+      "tokens": [
+        {
+          "text": "Ducks",
+          "start": 0,
+          "end": 5,
+          "key": "ducks"
+        },
+        {
+          "text": "are",
+          "start": 6,
+          "end": 9,
+          "key": "are"
+        }
+      ]
+    },
+    "I am a sunflower. I am tall and green.": {
+      "en": "I am a sunflower. I am tall and green.",
+      "zh": "我是一株向日葵。我很高，是绿色的。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 2,
+          "end": 4,
+          "key": "am"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "sunflower",
+          "start": 7,
+          "end": 16,
+          "key": "sunflower"
+        },
+        {
+          "text": "I",
+          "start": 18,
+          "end": 19,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 20,
+          "end": 22,
+          "key": "am"
+        },
+        {
+          "text": "tall",
+          "start": 23,
+          "end": 27,
+          "key": "tall"
+        },
+        {
+          "text": "and",
+          "start": 28,
+          "end": 31,
+          "key": "and"
+        },
+        {
+          "text": "green",
+          "start": 32,
+          "end": 37,
+          "key": "green"
+        }
+      ]
+    },
+    "Then I am green and yellow.": {
+      "en": "Then I am green and yellow.",
+      "zh": "然后我变成了绿色和黄色。",
+      "tokens": [
+        {
+          "text": "Then",
+          "start": 0,
+          "end": 4,
+          "key": "then"
+        },
+        {
+          "text": "I",
+          "start": 5,
+          "end": 6,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 7,
+          "end": 9,
+          "key": "am"
+        },
+        {
+          "text": "green",
+          "start": 10,
+          "end": 15,
+          "key": "green"
+        },
+        {
+          "text": "and",
+          "start": 16,
+          "end": 19,
+          "key": "and"
+        },
+        {
+          "text": "yellow",
+          "start": 20,
+          "end": 26,
+          "key": "yellow"
+        }
+      ]
+    },
+    "Now I am a big yellow flower.": {
+      "en": "Now I am a big yellow flower.",
+      "zh": "现在我是一朵大大的黄花。",
+      "tokens": [
+        {
+          "text": "Now",
+          "start": 0,
+          "end": 3,
+          "key": "now"
+        },
+        {
+          "text": "I",
+          "start": 4,
+          "end": 5,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 6,
+          "end": 8,
+          "key": "am"
+        },
+        {
+          "text": "a",
+          "start": 9,
+          "end": 10,
+          "key": "a"
+        },
+        {
+          "text": "big",
+          "start": 11,
+          "end": 14,
+          "key": "big"
+        },
+        {
+          "text": "yellow",
+          "start": 15,
+          "end": 21,
+          "key": "yellow"
+        },
+        {
+          "text": "flower",
+          "start": 22,
+          "end": 28,
+          "key": "flower"
+        }
+      ]
+    },
+    "Bees come.": {
+      "en": "Bees come.",
+      "zh": "蜜蜂来了。",
+      "tokens": [
+        {
+          "text": "Bees",
+          "start": 0,
+          "end": 4,
+          "key": "bees"
+        },
+        {
+          "text": "come",
+          "start": 5,
+          "end": 9,
+          "key": "come"
+        }
+      ]
+    },
+    "They are yellow and black.": {
+      "en": "They are yellow and black.",
+      "zh": "它们是黄色和黑色相间的。",
+      "tokens": [
+        {
+          "text": "They",
+          "start": 0,
+          "end": 4,
+          "key": "they"
+        },
+        {
+          "text": "are",
+          "start": 5,
+          "end": 8,
+          "key": "are"
+        },
+        {
+          "text": "yellow",
+          "start": 9,
+          "end": 15,
+          "key": "yellow"
+        },
+        {
+          "text": "and",
+          "start": 16,
+          "end": 19,
+          "key": "and"
+        },
+        {
+          "text": "black",
+          "start": 20,
+          "end": 25,
+          "key": "black"
+        }
+      ]
+    },
+    "I give them food.": {
+      "en": "I give them food.",
+      "zh": "我给它们食物。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "give",
+          "start": 2,
+          "end": 6,
+          "key": "give"
+        },
+        {
+          "text": "them",
+          "start": 7,
+          "end": 11,
+          "key": "them"
+        },
+        {
+          "text": "food",
+          "start": 12,
+          "end": 16,
+          "key": "food"
+        }
+      ]
+    },
+    "Now it is cold. I am green and brown.": {
+      "en": "Now it is cold. I am green and brown.",
+      "zh": "现在天气冷了。我变成了绿色和棕色。",
+      "tokens": [
+        {
+          "text": "Now",
+          "start": 0,
+          "end": 3,
+          "key": "now"
+        },
+        {
+          "text": "it",
+          "start": 4,
+          "end": 6,
+          "key": "it"
+        },
+        {
+          "text": "is",
+          "start": 7,
+          "end": 9,
+          "key": "is"
+        },
+        {
+          "text": "cold",
+          "start": 10,
+          "end": 14,
+          "key": "cold"
+        },
+        {
+          "text": "I",
+          "start": 16,
+          "end": 17,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 18,
+          "end": 20,
+          "key": "am"
+        },
+        {
+          "text": "green",
+          "start": 21,
+          "end": 26,
+          "key": "green"
+        },
+        {
+          "text": "and",
+          "start": 27,
+          "end": 30,
+          "key": "and"
+        },
+        {
+          "text": "brown",
+          "start": 31,
+          "end": 36,
+          "key": "brown"
+        }
+      ]
+    },
+    "I am gone. But my children grow.": {
+      "en": "I am gone. But my children grow.",
+      "zh": "我凋谢了。但我的孩子们在生长。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 2,
+          "end": 4,
+          "key": "am"
+        },
+        {
+          "text": "gone",
+          "start": 5,
+          "end": 9,
+          "key": "gone"
+        },
+        {
+          "text": "But",
+          "start": 11,
+          "end": 14,
+          "key": "but"
+        },
+        {
+          "text": "my",
+          "start": 15,
+          "end": 17,
+          "key": "my"
+        },
+        {
+          "text": "children",
+          "start": 18,
+          "end": 26,
+          "key": "children"
+        },
+        {
+          "text": "grow",
+          "start": 27,
+          "end": 31,
+          "key": "grow"
+        }
+      ]
+    }
+  }
+}

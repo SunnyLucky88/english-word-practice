@@ -65,8 +65,10 @@ updateSelectionSummary();renderPracticePicker();
 let lookupItem=null;
 const lookupLibrary=(()=>{try{return JSON.parse($('lookup-library').textContent)}catch(error){return []}})();
 function showLookup(open){
+ if(open&&typeof closeWordFollow==='function')closeWordFollow();
  $('lookup-panel').hidden=!open;$('lookup-toggle').hidden=open;$('lookup-toggle').setAttribute('aria-expanded',String(open));
  if(open){stop();$('lookup-input').focus()}else{if(active===lookupItem)stop();$('lookup-toggle').focus()}
+ if(typeof syncWordFollowUI==='function')syncWordFollowUI();
 }
 $('lookup-toggle').onclick=()=>showLookup(true);$('lookup-close').onclick=()=>showLookup(false);
 $('lookup-panel').onkeydown=event=>{if(event.key==='Escape'){event.preventDefault();showLookup(false)}};

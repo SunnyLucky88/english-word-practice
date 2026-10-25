@@ -2,13 +2,14 @@ const BOOK_PAGES = [{"page": 38, "image": "../assets/2026-10-23-pep-unit4/images
 let currentPage=0;
 function pageItem(ref){return typeof ref==='string'?words.find(w=>w.en===ref):sentences[ref-1]}
 function renderBook(){
+ if(typeof closeWordFollow==='function')closeWordFollow();
  stop();const page=BOOK_PAGES[currentPage],canvas=$('book-canvas');
  $('page-label').textContent='第 '+page.page+' 页';
  $('previous-page').disabled=currentPage===0;$('next-page').disabled=currentPage===BOOK_PAGES.length-1;
  $('read-page').disabled=page.sequence.length===0;
  $('book-page').value=String(currentPage);canvas.textContent='';
  const img=document.createElement('img');img.src=page.image;img.alt='人教版 PEP 三年级上册第 '+page.page+' 页';img.draggable=false;canvas.appendChild(img);
- page.spots.forEach(spot=>{const item=pageItem(spot.w||spot.s),b=document.createElement('button');b.className='hotspot';b.type='button';b.dataset.file=item.file;b.dataset.readIndex=String(spot.readIndex);b.setAttribute('aria-label','课本点读：'+item.en);b.title=item.en;const [x,y,w,h]=spot.box;Object.assign(b.style,{left:x/1080*100+'%',top:y/1527*100+'%',width:w/1080*100+'%',height:h/1527*100+'%'});b.onclick=()=>play(item,b);canvas.appendChild(b)});
+ page.spots.forEach(spot=>{const item=pageItem(spot.w||spot.s),b=document.createElement('button');b.className='hotspot';b.type='button';b.dataset.file=item.file;b.dataset.readIndex=String(spot.readIndex);b.setAttribute('aria-label','课本点读：'+item.en);b.title=item.en;const [x,y,w,h]=spot.box;Object.assign(b.style,{left:x/1080*100+'%',top:y/1527*100+'%',width:w/1080*100+'%',height:h/1527*100+'%'});b.onclick=()=>typeof handleBookPoint==='function'?handleBookPoint(item,b):play(item,b);canvas.appendChild(b)});
  $('book-caption').textContent=page.caption;
 }
 $('previous-page').onclick=()=>{if(currentPage>0){currentPage--;renderBook()}};
@@ -16,5 +17,5 @@ $('next-page').onclick=()=>{if(currentPage<BOOK_PAGES.length-1){currentPage++;re
 $('book-page').onchange=e=>{currentPage=Number(e.target.value);renderBook()};
 $('book-zoom').onchange=e=>{$('book-canvas').style.width=e.target.value+'%'};
 $('show-spots').onchange=e=>$('book-canvas').classList.toggle('show-spots',e.target.checked);
-$('read-page').onclick=()=>playSequence(BOOK_PAGES[currentPage].sequence.map(pageItem),$('book-canvas'));
+$('read-page').onclick=()=>{if(typeof closeWordFollow==='function')closeWordFollow();playSequence(BOOK_PAGES[currentPage].sequence.map(pageItem),$('book-canvas'))};
 renderBook();

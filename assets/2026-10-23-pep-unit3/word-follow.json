@@ -1,0 +1,3327 @@
+{
+  "schemaVersion": 1,
+  "unit": 3,
+  "scope": "课本逐词跟读；不修改书后词表或默认练习",
+  "words": {
+    "how": {
+      "key": "how",
+      "en": "How",
+      "spokenText": "how",
+      "zh": "怎样；多么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/how.mp3"
+    },
+    "are": {
+      "key": "are",
+      "en": "are",
+      "spokenText": "are",
+      "zh": "是（be 的一种形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/are.mp3"
+    },
+    "animals": {
+      "key": "animals",
+      "en": "animals",
+      "spokenText": "animals",
+      "zh": "动物（animal 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "animal",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/animals.mp3"
+    },
+    "different": {
+      "key": "different",
+      "en": "different",
+      "spokenText": "different",
+      "zh": "不同的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/different.mp3"
+    },
+    "whose": {
+      "key": "whose",
+      "en": "Whose",
+      "spokenText": "whose",
+      "zh": "谁的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/whose.mp3"
+    },
+    "hands": {
+      "key": "hands",
+      "en": "hands",
+      "spokenText": "hands",
+      "zh": "手（hand 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "hand",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/hands.mp3"
+    },
+    "these": {
+      "key": "these",
+      "en": "these",
+      "spokenText": "these",
+      "zh": "这些",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/these.mp3"
+    },
+    "what": {
+      "key": "what",
+      "en": "What",
+      "spokenText": "what",
+      "zh": "什么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/what.mp3"
+    },
+    "do": {
+      "key": "do",
+      "en": "do",
+      "spokenText": "do",
+      "zh": "做；也用于构成问句等句式",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/do.mp3"
+    },
+    "you": {
+      "key": "you",
+      "en": "you",
+      "spokenText": "you",
+      "zh": "你；你们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/you.mp3"
+    },
+    "know": {
+      "key": "know",
+      "en": "know",
+      "spokenText": "know",
+      "zh": "知道；认识",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/know.mp3"
+    },
+    "so": {
+      "key": "so",
+      "en": "So",
+      "spokenText": "so",
+      "zh": "如此；这么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/so.mp3"
+    },
+    "many": {
+      "key": "many",
+      "en": "many",
+      "spokenText": "many",
+      "zh": "许多",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/many.mp3"
+    },
+    "big": {
+      "key": "big",
+      "en": "Big",
+      "spokenText": "big",
+      "zh": "大的",
+      "ipa": "/bɪɡ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/2a21fe6d592a19b7.mp3"
+    },
+    "tall": {
+      "key": "tall",
+      "en": "tall",
+      "spokenText": "tall",
+      "zh": "高的",
+      "ipa": "/tɔːl/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "tall.mp3"
+    },
+    "and": {
+      "key": "and",
+      "en": "and",
+      "spokenText": "and",
+      "zh": "和；与",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/and.mp3"
+    },
+    "small": {
+      "key": "small",
+      "en": "small",
+      "spokenText": "small",
+      "zh": "小的",
+      "ipa": "/smɔːl/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/81db8ebbbbc69c6c.mp3"
+    },
+    "pets": {
+      "key": "pets",
+      "en": "Pets",
+      "spokenText": "Pets",
+      "zh": "宠物",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "pet",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "sentence-80.mp3"
+    },
+    "wild": {
+      "key": "wild",
+      "en": "wild",
+      "spokenText": "wild",
+      "zh": "野生的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/wild.mp3"
+    },
+    "we": {
+      "key": "we",
+      "en": "We",
+      "spokenText": "we",
+      "zh": "我们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/we.mp3"
+    },
+    "love": {
+      "key": "love",
+      "en": "love",
+      "spokenText": "love",
+      "zh": "爱；喜爱",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/love.mp3"
+    },
+    "them": {
+      "key": "them",
+      "en": "them",
+      "spokenText": "them",
+      "zh": "它们；他们；她们",
+      "ipa": "/ðəm, ðem/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "word-follow/c9a8dc336964db7f.mp3"
+    },
+    "all": {
+      "key": "all",
+      "en": "all",
+      "spokenText": "all",
+      "zh": "所有的；全部",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/all.mp3"
+    },
+    "animal": {
+      "key": "animal",
+      "en": "Animal",
+      "spokenText": "animal",
+      "zh": "动物",
+      "ipa": "/ˈænɪml/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "animal.mp3"
+    },
+    "song": {
+      "key": "song",
+      "en": "song",
+      "spokenText": "song",
+      "zh": "歌曲",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/song.mp3"
+    },
+    "good": {
+      "key": "good",
+      "en": "Good",
+      "spokenText": "good",
+      "zh": "好的",
+      "ipa": "/ɡʊd/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "word-follow/770e607624d68926.mp3"
+    },
+    "morning": {
+      "key": "morning",
+      "en": "morning",
+      "spokenText": "morning",
+      "zh": "早晨；上午",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/morning.mp3"
+    },
+    "mike": {
+      "key": "mike",
+      "en": "Mike",
+      "spokenText": "Mike",
+      "zh": "迈克（人名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/mike.mp3"
+    },
+    "come": {
+      "key": "come",
+      "en": "Come",
+      "spokenText": "come",
+      "zh": "来",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/come.mp3"
+    },
+    "in": {
+      "key": "in",
+      "en": "in",
+      "spokenText": "in",
+      "zh": "在……里面",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/in.mp3"
+    },
+    "i": {
+      "key": "i",
+      "en": "I",
+      "spokenText": "I",
+      "zh": "我",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "代词“我”；释义与字母 I 名称分开。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/i.mp3"
+    },
+    "like": {
+      "key": "like",
+      "en": "like",
+      "spokenText": "like",
+      "zh": "喜欢",
+      "ipa": "/laɪk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "like.mp3"
+    },
+    "your": {
+      "key": "your",
+      "en": "your",
+      "spokenText": "your",
+      "zh": "你的；你们的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/your.mp3"
+    },
+    "dog": {
+      "key": "dog",
+      "en": "dog",
+      "spokenText": "dog",
+      "zh": "狗",
+      "ipa": "/dɒɡ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "dog.mp3"
+    },
+    "thanks": {
+      "key": "thanks",
+      "en": "Thanks",
+      "spokenText": "Thanks!",
+      "zh": "谢谢！",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/thanks.mp3"
+    },
+    "have": {
+      "key": "have",
+      "en": "have",
+      "spokenText": "have",
+      "zh": "有",
+      "ipa": "/hæv/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/193c45b5281908d2.mp3"
+    },
+    "a": {
+      "key": "a",
+      "en": "a",
+      "spokenText": "a",
+      "zh": "一个；一（不定冠词）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/a.mp3"
+    },
+    "pet": {
+      "key": "pet",
+      "en": "pet",
+      "spokenText": "pet",
+      "zh": "宠物",
+      "ipa": "/pet/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "pet.mp3"
+    },
+    "no": {
+      "key": "no",
+      "en": "No",
+      "spokenText": "no",
+      "zh": "不；不是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/no.mp3"
+    },
+    "don't": {
+      "key": "don't",
+      "en": "don't",
+      "spokenText": "don't",
+      "zh": "do not 的缩写；不（用于否定）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "do not",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/don-t.mp3"
+    },
+    "yes": {
+      "key": "yes",
+      "en": "Yes",
+      "spokenText": "yes",
+      "zh": "是的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/yes.mp3"
+    },
+    "cat": {
+      "key": "cat",
+      "en": "cat",
+      "spokenText": "cat",
+      "zh": "猫",
+      "ipa": "/kæt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "cat.mp3"
+    },
+    "fish": {
+      "key": "fish",
+      "en": "fish",
+      "spokenText": "fish",
+      "zh": "鱼；鱼肉",
+      "ipa": "/fɪʃ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "fish.mp3"
+    },
+    "cats": {
+      "key": "cats",
+      "en": "cats",
+      "spokenText": "cats",
+      "zh": "猫（cat 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "cat",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/cats.mp3"
+    },
+    "birds": {
+      "key": "birds",
+      "en": "birds",
+      "spokenText": "birds",
+      "zh": "鸟（bird 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "bird",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/birds.mp3"
+    },
+    "rabbits": {
+      "key": "rabbits",
+      "en": "rabbits",
+      "spokenText": "rabbits",
+      "zh": "兔（rabbit 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "rabbit",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/rabbits.mp3"
+    },
+    "my": {
+      "key": "my",
+      "en": "my",
+      "spokenText": "my",
+      "zh": "我的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/my.mp3"
+    },
+    "run": {
+      "key": "run",
+      "en": "Run",
+      "spokenText": "Run!",
+      "zh": "跑！",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "sentence-61.mp3"
+    },
+    "sleep": {
+      "key": "sleep",
+      "en": "Sleep",
+      "spokenText": "sleep",
+      "zh": "睡觉",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/sleep.mp3"
+    },
+    "sing": {
+      "key": "sing",
+      "en": "Sing",
+      "spokenText": "sing",
+      "zh": "唱；唱歌",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/sing.mp3"
+    },
+    "bird": {
+      "key": "bird",
+      "en": "bird",
+      "spokenText": "bird",
+      "zh": "鸟",
+      "ipa": "/bɜːd/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "bird.mp3"
+    },
+    "hop": {
+      "key": "hop",
+      "en": "Hop",
+      "spokenText": "hop",
+      "zh": "单脚跳",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/hop.mp3"
+    },
+    "rabbit": {
+      "key": "rabbit",
+      "en": "rabbit",
+      "spokenText": "rabbit",
+      "zh": "兔",
+      "ipa": "/ˈræbɪt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "rabbit.mp3"
+    },
+    "swim": {
+      "key": "swim",
+      "en": "Swim",
+      "spokenText": "swim",
+      "zh": "游泳",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/swim.mp3"
+    },
+    "let's": {
+      "key": "let's",
+      "en": "Let's",
+      "spokenText": "Let's",
+      "zh": "let us 的缩写；让我们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "let us",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/let-s.mp3"
+    },
+    "go": {
+      "key": "go",
+      "en": "go",
+      "spokenText": "go",
+      "zh": "去；走",
+      "ipa": "/ɡəʊ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "go.mp3"
+    },
+    "to": {
+      "key": "to",
+      "en": "to",
+      "spokenText": "to",
+      "zh": "到；向；用于 to meet 等动词结构",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/to.mp3"
+    },
+    "the": {
+      "key": "the",
+      "en": "the",
+      "spokenText": "the",
+      "zh": "特指的人或事物（常不单独翻译）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/the.mp3"
+    },
+    "zoo": {
+      "key": "zoo",
+      "en": "zoo",
+      "spokenText": "zoo",
+      "zh": "动物园",
+      "ipa": "/zuː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "zoo.mp3"
+    },
+    "look": {
+      "key": "look",
+      "en": "Look",
+      "spokenText": "Look!",
+      "zh": "看！",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/look.mp3"
+    },
+    "what's": {
+      "key": "what's",
+      "en": "What's",
+      "spokenText": "What's",
+      "zh": "what is 的缩写；是什么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "what is",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/what-s.mp3"
+    },
+    "this": {
+      "key": "this",
+      "en": "this",
+      "spokenText": "this",
+      "zh": "这；这个",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/this.mp3"
+    },
+    "it's": {
+      "key": "it's",
+      "en": "It's",
+      "spokenText": "It's",
+      "zh": "it is 的缩写；它是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "it is",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/it-s.mp3"
+    },
+    "fox": {
+      "key": "fox",
+      "en": "fox",
+      "spokenText": "fox",
+      "zh": "狐狸",
+      "ipa": "/fɒks/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "fox.mp3"
+    },
+    "miss white": {
+      "key": "miss white",
+      "en": "Miss White",
+      "spokenText": "Miss White",
+      "zh": "怀特老师（课文人物称呼）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/miss-white.mp3"
+    },
+    "that": {
+      "key": "that",
+      "en": "that",
+      "spokenText": "that",
+      "zh": "那；那个",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/that.mp3"
+    },
+    "red": {
+      "key": "red",
+      "en": "red",
+      "spokenText": "red",
+      "zh": "红色；红色的",
+      "ipa": "/red/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "word-follow/b1f51a511f1da0cd.mp3"
+    },
+    "panda": {
+      "key": "panda",
+      "en": "panda",
+      "spokenText": "panda",
+      "zh": "大熊猫",
+      "ipa": "/ˈpændə/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "panda.mp3"
+    },
+    "cute": {
+      "key": "cute",
+      "en": "cute",
+      "spokenText": "cute",
+      "zh": "可爱的",
+      "ipa": "/kjuːt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "cute.mp3"
+    },
+    "monkey": {
+      "key": "monkey",
+      "en": "monkey",
+      "spokenText": "monkey",
+      "zh": "猴子",
+      "ipa": "/ˈmʌŋki/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "monkey.mp3"
+    },
+    "tiger": {
+      "key": "tiger",
+      "en": "tiger",
+      "spokenText": "tiger",
+      "zh": "老虎",
+      "ipa": "/ˈtaɪɡə(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "tiger.mp3"
+    },
+    "an": {
+      "key": "an",
+      "en": "an",
+      "spokenText": "an",
+      "zh": "一个；一（不定冠词）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/an.mp3"
+    },
+    "elephant": {
+      "key": "elephant",
+      "en": "elephant",
+      "spokenText": "elephant",
+      "zh": "大象",
+      "ipa": "/ˈelɪfənt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "elephant.mp3"
+    },
+    "lion": {
+      "key": "lion",
+      "en": "lion",
+      "spokenText": "lion",
+      "zh": "狮；狮子",
+      "ipa": "/ˈlaɪən/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "lion.mp3"
+    },
+    "giraffe": {
+      "key": "giraffe",
+      "en": "giraffe",
+      "spokenText": "giraffe",
+      "zh": "长颈鹿",
+      "ipa": "/dʒəˈrɑːf/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "giraffe.mp3"
+    },
+    "is": {
+      "key": "is",
+      "en": "is",
+      "spokenText": "is",
+      "zh": "是（be 的一种形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/is.mp3"
+    },
+    "fast": {
+      "key": "fast",
+      "en": "fast",
+      "spokenText": "fast",
+      "zh": "快的",
+      "ipa": "/fɑːst/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "fast.mp3"
+    },
+    "book": {
+      "key": "book",
+      "en": "book",
+      "spokenText": "book",
+      "zh": "书",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/book.mp3"
+    },
+    "mum": {
+      "key": "mum",
+      "en": "Mum",
+      "spokenText": "mum",
+      "zh": "（口语）妈妈",
+      "ipa": "/mʌm/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/f2d758f9e379babc.mp3"
+    },
+    "makes": {
+      "key": "makes",
+      "en": "makes",
+      "spokenText": "makes",
+      "zh": "使；构成（make 的第三人称单数形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "make",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/makes.mp3"
+    },
+    "us": {
+      "key": "us",
+      "en": "us",
+      "spokenText": "us",
+      "zh": "我们",
+      "ipa": "/ʌs/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "word-follow/79adb2a2fce5c6ba.mp3"
+    },
+    "great": {
+      "key": "great",
+      "en": "great",
+      "spokenText": "Great!",
+      "zh": "太好了！",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "sentence-44.mp3"
+    },
+    "elephants": {
+      "key": "elephants",
+      "en": "Elephants",
+      "spokenText": "elephants",
+      "zh": "大象（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "elephant",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/elephants.mp3"
+    },
+    "too": {
+      "key": "too",
+      "en": "too",
+      "spokenText": "too",
+      "zh": "也",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/too.mp3"
+    },
+    "eat": {
+      "key": "eat",
+      "en": "eat",
+      "spokenText": "eat",
+      "zh": "吃",
+      "ipa": "/iːt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "word-follow/e57bd924047ef39d.mp3"
+    },
+    "lot": {
+      "key": "lot",
+      "en": "lot",
+      "spokenText": "lot",
+      "zh": "很多；大量（a lot 表示“很多”）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/lot.mp3"
+    },
+    "pandas": {
+      "key": "pandas",
+      "en": "Pandas",
+      "spokenText": "pandas",
+      "zh": "大熊猫（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "panda",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/pandas.mp3"
+    },
+    "can": {
+      "key": "can",
+      "en": "can",
+      "spokenText": "can",
+      "zh": "可以",
+      "ipa": "/kən, kæn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "word-follow/9f584196e7fe6de8.mp3"
+    },
+    "nice": {
+      "key": "nice",
+      "en": "nice",
+      "spokenText": "nice",
+      "zh": "令人愉快的；友好的",
+      "ipa": "/naɪs/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "word-follow/e186022d0931afe9.mp3"
+    },
+    "songs": {
+      "key": "songs",
+      "en": "songs",
+      "spokenText": "songs",
+      "zh": "歌曲（song 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "song",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "supplemental/songs.mp3"
+    }
+  },
+  "sentences": {
+    "How are animals different?": {
+      "en": "How are animals different?",
+      "zh": "动物有哪些不同？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "are",
+          "start": 4,
+          "end": 7,
+          "key": "are"
+        },
+        {
+          "text": "animals",
+          "start": 8,
+          "end": 15,
+          "key": "animals"
+        },
+        {
+          "text": "different",
+          "start": 16,
+          "end": 25,
+          "key": "different"
+        }
+      ]
+    },
+    "Whose hands are these?": {
+      "en": "Whose hands are these?",
+      "zh": "这些是谁的手？",
+      "tokens": [
+        {
+          "text": "Whose",
+          "start": 0,
+          "end": 5,
+          "key": "whose"
+        },
+        {
+          "text": "hands",
+          "start": 6,
+          "end": 11,
+          "key": "hands"
+        },
+        {
+          "text": "are",
+          "start": 12,
+          "end": 15,
+          "key": "are"
+        },
+        {
+          "text": "these",
+          "start": 16,
+          "end": 21,
+          "key": "these"
+        }
+      ]
+    },
+    "What animals do you know?": {
+      "en": "What animals do you know?",
+      "zh": "你知道哪些动物？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "animals",
+          "start": 5,
+          "end": 12,
+          "key": "animals"
+        },
+        {
+          "text": "do",
+          "start": 13,
+          "end": 15,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 16,
+          "end": 19,
+          "key": "you"
+        },
+        {
+          "text": "know",
+          "start": 20,
+          "end": 24,
+          "key": "know"
+        }
+      ]
+    },
+    "So many animals,": {
+      "en": "So many animals,",
+      "zh": "这么多动物，",
+      "tokens": [
+        {
+          "text": "So",
+          "start": 0,
+          "end": 2,
+          "key": "so"
+        },
+        {
+          "text": "many",
+          "start": 3,
+          "end": 7,
+          "key": "many"
+        },
+        {
+          "text": "animals",
+          "start": 8,
+          "end": 15,
+          "key": "animals"
+        }
+      ]
+    },
+    "Big, tall and small.": {
+      "en": "Big, tall and small.",
+      "zh": "有大的、高的和小的。",
+      "tokens": [
+        {
+          "text": "Big",
+          "start": 0,
+          "end": 3,
+          "key": "big"
+        },
+        {
+          "text": "tall",
+          "start": 5,
+          "end": 9,
+          "key": "tall"
+        },
+        {
+          "text": "and",
+          "start": 10,
+          "end": 13,
+          "key": "and"
+        },
+        {
+          "text": "small",
+          "start": 14,
+          "end": 19,
+          "key": "small"
+        }
+      ]
+    },
+    "Pets and wild animals,": {
+      "en": "Pets and wild animals,",
+      "zh": "宠物和野生动物，",
+      "tokens": [
+        {
+          "text": "Pets",
+          "start": 0,
+          "end": 4,
+          "key": "pets"
+        },
+        {
+          "text": "and",
+          "start": 5,
+          "end": 8,
+          "key": "and"
+        },
+        {
+          "text": "wild",
+          "start": 9,
+          "end": 13,
+          "key": "wild"
+        },
+        {
+          "text": "animals",
+          "start": 14,
+          "end": 21,
+          "key": "animals"
+        }
+      ]
+    },
+    "We love them all.": {
+      "en": "We love them all.",
+      "zh": "我们都喜欢它们。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "love",
+          "start": 3,
+          "end": 7,
+          "key": "love"
+        },
+        {
+          "text": "them",
+          "start": 8,
+          "end": 12,
+          "key": "them"
+        },
+        {
+          "text": "all",
+          "start": 13,
+          "end": 16,
+          "key": "all"
+        }
+      ]
+    },
+    "Animal song": {
+      "en": "Animal song",
+      "zh": "动物歌",
+      "tokens": [
+        {
+          "text": "Animal",
+          "start": 0,
+          "end": 6,
+          "key": "animal"
+        },
+        {
+          "text": "song",
+          "start": 7,
+          "end": 11,
+          "key": "song"
+        }
+      ]
+    },
+    "What pets do you know?": {
+      "en": "What pets do you know?",
+      "zh": "你知道哪些宠物？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "pets",
+          "start": 5,
+          "end": 9,
+          "key": "pets"
+        },
+        {
+          "text": "do",
+          "start": 10,
+          "end": 12,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 13,
+          "end": 16,
+          "key": "you"
+        },
+        {
+          "text": "know",
+          "start": 17,
+          "end": 21,
+          "key": "know"
+        }
+      ]
+    },
+    "Good morning, Mike!": {
+      "en": "Good morning, Mike!",
+      "zh": "早上好，迈克！",
+      "tokens": [
+        {
+          "text": "Good",
+          "start": 0,
+          "end": 4,
+          "key": "good"
+        },
+        {
+          "text": "morning",
+          "start": 5,
+          "end": 12,
+          "key": "morning"
+        },
+        {
+          "text": "Mike",
+          "start": 14,
+          "end": 18,
+          "key": "mike"
+        }
+      ]
+    },
+    "Good morning! Come in.": {
+      "en": "Good morning! Come in.",
+      "zh": "早上好！进来吧。",
+      "tokens": [
+        {
+          "text": "Good",
+          "start": 0,
+          "end": 4,
+          "key": "good"
+        },
+        {
+          "text": "morning",
+          "start": 5,
+          "end": 12,
+          "key": "morning"
+        },
+        {
+          "text": "Come",
+          "start": 14,
+          "end": 18,
+          "key": "come"
+        },
+        {
+          "text": "in",
+          "start": 19,
+          "end": 21,
+          "key": "in"
+        }
+      ]
+    },
+    "I like your dog.": {
+      "en": "I like your dog.",
+      "zh": "我喜欢你的狗。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "your",
+          "start": 7,
+          "end": 11,
+          "key": "your"
+        },
+        {
+          "text": "dog",
+          "start": 12,
+          "end": 15,
+          "key": "dog"
+        }
+      ]
+    },
+    "Thanks. Do you have a pet?": {
+      "en": "Thanks. Do you have a pet?",
+      "zh": "谢谢。你有宠物吗？",
+      "tokens": [
+        {
+          "text": "Thanks",
+          "start": 0,
+          "end": 6,
+          "key": "thanks"
+        },
+        {
+          "text": "Do",
+          "start": 8,
+          "end": 10,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 11,
+          "end": 14,
+          "key": "you"
+        },
+        {
+          "text": "have",
+          "start": 15,
+          "end": 19,
+          "key": "have"
+        },
+        {
+          "text": "a",
+          "start": 20,
+          "end": 21,
+          "key": "a"
+        },
+        {
+          "text": "pet",
+          "start": 22,
+          "end": 25,
+          "key": "pet"
+        }
+      ]
+    },
+    "No, I don't.": {
+      "en": "No, I don't.",
+      "zh": "不，我没有。",
+      "tokens": [
+        {
+          "text": "No",
+          "start": 0,
+          "end": 2,
+          "key": "no"
+        },
+        {
+          "text": "I",
+          "start": 4,
+          "end": 5,
+          "key": "i"
+        },
+        {
+          "text": "don't",
+          "start": 6,
+          "end": 11,
+          "key": "don't"
+        }
+      ]
+    },
+    "Yes, I do. I have a cat.": {
+      "en": "Yes, I do. I have a cat.",
+      "zh": "是的，我有。我有一只猫。",
+      "tokens": [
+        {
+          "text": "Yes",
+          "start": 0,
+          "end": 3,
+          "key": "yes"
+        },
+        {
+          "text": "I",
+          "start": 5,
+          "end": 6,
+          "key": "i"
+        },
+        {
+          "text": "do",
+          "start": 7,
+          "end": 9,
+          "key": "do"
+        },
+        {
+          "text": "I",
+          "start": 11,
+          "end": 12,
+          "key": "i"
+        },
+        {
+          "text": "have",
+          "start": 13,
+          "end": 17,
+          "key": "have"
+        },
+        {
+          "text": "a",
+          "start": 18,
+          "end": 19,
+          "key": "a"
+        },
+        {
+          "text": "cat",
+          "start": 20,
+          "end": 23,
+          "key": "cat"
+        }
+      ]
+    },
+    "Do you have a pet?": {
+      "en": "Do you have a pet?",
+      "zh": "你有宠物吗？",
+      "tokens": [
+        {
+          "text": "Do",
+          "start": 0,
+          "end": 2,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 3,
+          "end": 6,
+          "key": "you"
+        },
+        {
+          "text": "have",
+          "start": 7,
+          "end": 11,
+          "key": "have"
+        },
+        {
+          "text": "a",
+          "start": 12,
+          "end": 13,
+          "key": "a"
+        },
+        {
+          "text": "pet",
+          "start": 14,
+          "end": 17,
+          "key": "pet"
+        }
+      ]
+    },
+    "Yes, I do. I have a dog.": {
+      "en": "Yes, I do. I have a dog.",
+      "zh": "是的，我有。我有一只狗。",
+      "tokens": [
+        {
+          "text": "Yes",
+          "start": 0,
+          "end": 3,
+          "key": "yes"
+        },
+        {
+          "text": "I",
+          "start": 5,
+          "end": 6,
+          "key": "i"
+        },
+        {
+          "text": "do",
+          "start": 7,
+          "end": 9,
+          "key": "do"
+        },
+        {
+          "text": "I",
+          "start": 11,
+          "end": 12,
+          "key": "i"
+        },
+        {
+          "text": "have",
+          "start": 13,
+          "end": 17,
+          "key": "have"
+        },
+        {
+          "text": "a",
+          "start": 18,
+          "end": 19,
+          "key": "a"
+        },
+        {
+          "text": "dog",
+          "start": 20,
+          "end": 23,
+          "key": "dog"
+        }
+      ]
+    },
+    "I like fish.": {
+      "en": "I like fish.",
+      "zh": "我喜欢鱼。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "fish",
+          "start": 7,
+          "end": 11,
+          "key": "fish"
+        }
+      ]
+    },
+    "I like cats.": {
+      "en": "I like cats.",
+      "zh": "我喜欢猫。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "cats",
+          "start": 7,
+          "end": 11,
+          "key": "cats"
+        }
+      ]
+    },
+    "I like birds.": {
+      "en": "I like birds.",
+      "zh": "我喜欢鸟。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "birds",
+          "start": 7,
+          "end": 12,
+          "key": "birds"
+        }
+      ]
+    },
+    "I like rabbits.": {
+      "en": "I like rabbits.",
+      "zh": "我喜欢兔子。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "rabbits",
+          "start": 7,
+          "end": 14,
+          "key": "rabbits"
+        }
+      ]
+    },
+    "I like my dog.": {
+      "en": "I like my dog.",
+      "zh": "我喜欢我的狗。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "my",
+          "start": 7,
+          "end": 9,
+          "key": "my"
+        },
+        {
+          "text": "dog",
+          "start": 10,
+          "end": 13,
+          "key": "dog"
+        }
+      ]
+    },
+    "Run, run, run like a dog.": {
+      "en": "Run, run, run like a dog.",
+      "zh": "跑一跑，像狗一样跑。",
+      "tokens": [
+        {
+          "text": "Run",
+          "start": 0,
+          "end": 3,
+          "key": "run"
+        },
+        {
+          "text": "run",
+          "start": 5,
+          "end": 8,
+          "key": "run"
+        },
+        {
+          "text": "run",
+          "start": 10,
+          "end": 13,
+          "key": "run"
+        },
+        {
+          "text": "like",
+          "start": 14,
+          "end": 18,
+          "key": "like"
+        },
+        {
+          "text": "a",
+          "start": 19,
+          "end": 20,
+          "key": "a"
+        },
+        {
+          "text": "dog",
+          "start": 21,
+          "end": 24,
+          "key": "dog"
+        }
+      ]
+    },
+    "Sleep, sleep, sleep like a cat.": {
+      "en": "Sleep, sleep, sleep like a cat.",
+      "zh": "睡一睡，像猫一样睡。",
+      "tokens": [
+        {
+          "text": "Sleep",
+          "start": 0,
+          "end": 5,
+          "key": "sleep"
+        },
+        {
+          "text": "sleep",
+          "start": 7,
+          "end": 12,
+          "key": "sleep"
+        },
+        {
+          "text": "sleep",
+          "start": 14,
+          "end": 19,
+          "key": "sleep"
+        },
+        {
+          "text": "like",
+          "start": 20,
+          "end": 24,
+          "key": "like"
+        },
+        {
+          "text": "a",
+          "start": 25,
+          "end": 26,
+          "key": "a"
+        },
+        {
+          "text": "cat",
+          "start": 27,
+          "end": 30,
+          "key": "cat"
+        }
+      ]
+    },
+    "Sing, sing, sing like a bird.": {
+      "en": "Sing, sing, sing like a bird.",
+      "zh": "唱一唱，像鸟一样唱。",
+      "tokens": [
+        {
+          "text": "Sing",
+          "start": 0,
+          "end": 4,
+          "key": "sing"
+        },
+        {
+          "text": "sing",
+          "start": 6,
+          "end": 10,
+          "key": "sing"
+        },
+        {
+          "text": "sing",
+          "start": 12,
+          "end": 16,
+          "key": "sing"
+        },
+        {
+          "text": "like",
+          "start": 17,
+          "end": 21,
+          "key": "like"
+        },
+        {
+          "text": "a",
+          "start": 22,
+          "end": 23,
+          "key": "a"
+        },
+        {
+          "text": "bird",
+          "start": 24,
+          "end": 28,
+          "key": "bird"
+        }
+      ]
+    },
+    "Hop, hop, hop like a rabbit.": {
+      "en": "Hop, hop, hop like a rabbit.",
+      "zh": "跳一跳，像兔子一样跳。",
+      "tokens": [
+        {
+          "text": "Hop",
+          "start": 0,
+          "end": 3,
+          "key": "hop"
+        },
+        {
+          "text": "hop",
+          "start": 5,
+          "end": 8,
+          "key": "hop"
+        },
+        {
+          "text": "hop",
+          "start": 10,
+          "end": 13,
+          "key": "hop"
+        },
+        {
+          "text": "like",
+          "start": 14,
+          "end": 18,
+          "key": "like"
+        },
+        {
+          "text": "a",
+          "start": 19,
+          "end": 20,
+          "key": "a"
+        },
+        {
+          "text": "rabbit",
+          "start": 21,
+          "end": 27,
+          "key": "rabbit"
+        }
+      ]
+    },
+    "Swim, swim, swim like a fish.": {
+      "en": "Swim, swim, swim like a fish.",
+      "zh": "游一游，像鱼一样游。",
+      "tokens": [
+        {
+          "text": "Swim",
+          "start": 0,
+          "end": 4,
+          "key": "swim"
+        },
+        {
+          "text": "swim",
+          "start": 6,
+          "end": 10,
+          "key": "swim"
+        },
+        {
+          "text": "swim",
+          "start": 12,
+          "end": 16,
+          "key": "swim"
+        },
+        {
+          "text": "like",
+          "start": 17,
+          "end": 21,
+          "key": "like"
+        },
+        {
+          "text": "a",
+          "start": 22,
+          "end": 23,
+          "key": "a"
+        },
+        {
+          "text": "fish",
+          "start": 24,
+          "end": 28,
+          "key": "fish"
+        }
+      ]
+    },
+    "What wild animals do you know?": {
+      "en": "What wild animals do you know?",
+      "zh": "你知道哪些野生动物？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "wild",
+          "start": 5,
+          "end": 9,
+          "key": "wild"
+        },
+        {
+          "text": "animals",
+          "start": 10,
+          "end": 17,
+          "key": "animals"
+        },
+        {
+          "text": "do",
+          "start": 18,
+          "end": 20,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 21,
+          "end": 24,
+          "key": "you"
+        },
+        {
+          "text": "know",
+          "start": 25,
+          "end": 29,
+          "key": "know"
+        }
+      ]
+    },
+    "Let's go to the zoo!": {
+      "en": "Let's go to the zoo!",
+      "zh": "我们一起去动物园吧！",
+      "tokens": [
+        {
+          "text": "Let's",
+          "start": 0,
+          "end": 5,
+          "key": "let's"
+        },
+        {
+          "text": "go",
+          "start": 6,
+          "end": 8,
+          "key": "go"
+        },
+        {
+          "text": "to",
+          "start": 9,
+          "end": 11,
+          "key": "to"
+        },
+        {
+          "text": "the",
+          "start": 12,
+          "end": 15,
+          "key": "the"
+        },
+        {
+          "text": "zoo",
+          "start": 16,
+          "end": 19,
+          "key": "zoo"
+        }
+      ]
+    },
+    "Look! What's this?": {
+      "en": "Look! What's this?",
+      "zh": "看！这是什么？",
+      "tokens": [
+        {
+          "text": "Look",
+          "start": 0,
+          "end": 4,
+          "key": "look"
+        },
+        {
+          "text": "What's",
+          "start": 6,
+          "end": 12,
+          "key": "what's"
+        },
+        {
+          "text": "this",
+          "start": 13,
+          "end": 17,
+          "key": "this"
+        }
+      ]
+    },
+    "It's a fox.": {
+      "en": "It's a fox.",
+      "zh": "是只狐狸。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "fox",
+          "start": 7,
+          "end": 10,
+          "key": "fox"
+        }
+      ]
+    },
+    "Miss White, what's that?": {
+      "en": "Miss White, what's that?",
+      "zh": "怀特老师，那是什么？",
+      "tokens": [
+        {
+          "text": "Miss White",
+          "start": 0,
+          "end": 10,
+          "key": "miss white"
+        },
+        {
+          "text": "what's",
+          "start": 12,
+          "end": 18,
+          "key": "what's"
+        },
+        {
+          "text": "that",
+          "start": 19,
+          "end": 23,
+          "key": "that"
+        }
+      ]
+    },
+    "It's a red panda.": {
+      "en": "It's a red panda.",
+      "zh": "是只小熊猫。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "red",
+          "start": 7,
+          "end": 10,
+          "key": "red"
+        },
+        {
+          "text": "panda",
+          "start": 11,
+          "end": 16,
+          "key": "panda"
+        }
+      ]
+    },
+    "It's cute!": {
+      "en": "It's cute!",
+      "zh": "它真可爱！",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "cute",
+          "start": 5,
+          "end": 9,
+          "key": "cute"
+        }
+      ]
+    },
+    "What's that?": {
+      "en": "What's that?",
+      "zh": "那是什么？",
+      "tokens": [
+        {
+          "text": "What's",
+          "start": 0,
+          "end": 6,
+          "key": "what's"
+        },
+        {
+          "text": "that",
+          "start": 7,
+          "end": 11,
+          "key": "that"
+        }
+      ]
+    },
+    "It's a panda.": {
+      "en": "It's a panda.",
+      "zh": "它是一只大熊猫。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "panda",
+          "start": 7,
+          "end": 12,
+          "key": "panda"
+        }
+      ]
+    },
+    "It's a monkey.": {
+      "en": "It's a monkey.",
+      "zh": "它是一只猴子。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "monkey",
+          "start": 7,
+          "end": 13,
+          "key": "monkey"
+        }
+      ]
+    },
+    "It's a tiger.": {
+      "en": "It's a tiger.",
+      "zh": "它是一只老虎。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "tiger",
+          "start": 7,
+          "end": 12,
+          "key": "tiger"
+        }
+      ]
+    },
+    "It's an elephant.": {
+      "en": "It's an elephant.",
+      "zh": "它是一头大象。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "an",
+          "start": 5,
+          "end": 7,
+          "key": "an"
+        },
+        {
+          "text": "elephant",
+          "start": 8,
+          "end": 16,
+          "key": "elephant"
+        }
+      ]
+    },
+    "It's a lion.": {
+      "en": "It's a lion.",
+      "zh": "它是一头狮子。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "lion",
+          "start": 7,
+          "end": 11,
+          "key": "lion"
+        }
+      ]
+    },
+    "What's this? It's an elephant.": {
+      "en": "What's this? It's an elephant.",
+      "zh": "这是什么？它是一头大象。",
+      "tokens": [
+        {
+          "text": "What's",
+          "start": 0,
+          "end": 6,
+          "key": "what's"
+        },
+        {
+          "text": "this",
+          "start": 7,
+          "end": 11,
+          "key": "this"
+        },
+        {
+          "text": "It's",
+          "start": 13,
+          "end": 17,
+          "key": "it's"
+        },
+        {
+          "text": "an",
+          "start": 18,
+          "end": 20,
+          "key": "an"
+        },
+        {
+          "text": "elephant",
+          "start": 21,
+          "end": 29,
+          "key": "elephant"
+        }
+      ]
+    },
+    "What's this? It's a monkey.": {
+      "en": "What's this? It's a monkey.",
+      "zh": "这是什么？它是一只猴子。",
+      "tokens": [
+        {
+          "text": "What's",
+          "start": 0,
+          "end": 6,
+          "key": "what's"
+        },
+        {
+          "text": "this",
+          "start": 7,
+          "end": 11,
+          "key": "this"
+        },
+        {
+          "text": "It's",
+          "start": 13,
+          "end": 17,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 18,
+          "end": 19,
+          "key": "a"
+        },
+        {
+          "text": "monkey",
+          "start": 20,
+          "end": 26,
+          "key": "monkey"
+        }
+      ]
+    },
+    "What's this? It's a panda.": {
+      "en": "What's this? It's a panda.",
+      "zh": "这是什么？它是一只大熊猫。",
+      "tokens": [
+        {
+          "text": "What's",
+          "start": 0,
+          "end": 6,
+          "key": "what's"
+        },
+        {
+          "text": "this",
+          "start": 7,
+          "end": 11,
+          "key": "this"
+        },
+        {
+          "text": "It's",
+          "start": 13,
+          "end": 17,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 18,
+          "end": 19,
+          "key": "a"
+        },
+        {
+          "text": "panda",
+          "start": 20,
+          "end": 25,
+          "key": "panda"
+        }
+      ]
+    },
+    "What's this? It's a lion!": {
+      "en": "What's this? It's a lion!",
+      "zh": "这是什么？它是一头狮子！",
+      "tokens": [
+        {
+          "text": "What's",
+          "start": 0,
+          "end": 6,
+          "key": "what's"
+        },
+        {
+          "text": "this",
+          "start": 7,
+          "end": 11,
+          "key": "this"
+        },
+        {
+          "text": "It's",
+          "start": 13,
+          "end": 17,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 18,
+          "end": 19,
+          "key": "a"
+        },
+        {
+          "text": "lion",
+          "start": 20,
+          "end": 24,
+          "key": "lion"
+        }
+      ]
+    },
+    "What's this? It's a tiger!": {
+      "en": "What's this? It's a tiger!",
+      "zh": "这是什么？它是一只老虎！",
+      "tokens": [
+        {
+          "text": "What's",
+          "start": 0,
+          "end": 6,
+          "key": "what's"
+        },
+        {
+          "text": "this",
+          "start": 7,
+          "end": 11,
+          "key": "this"
+        },
+        {
+          "text": "It's",
+          "start": 13,
+          "end": 17,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 18,
+          "end": 19,
+          "key": "a"
+        },
+        {
+          "text": "tiger",
+          "start": 20,
+          "end": 25,
+          "key": "tiger"
+        }
+      ]
+    },
+    "The giraffe is tall!": {
+      "en": "The giraffe is tall!",
+      "zh": "长颈鹿很高！",
+      "tokens": [
+        {
+          "text": "The",
+          "start": 0,
+          "end": 3,
+          "key": "the"
+        },
+        {
+          "text": "giraffe",
+          "start": 4,
+          "end": 11,
+          "key": "giraffe"
+        },
+        {
+          "text": "is",
+          "start": 12,
+          "end": 14,
+          "key": "is"
+        },
+        {
+          "text": "tall",
+          "start": 15,
+          "end": 19,
+          "key": "tall"
+        }
+      ]
+    },
+    "The lion is fast!": {
+      "en": "The lion is fast!",
+      "zh": "狮子跑得很快！",
+      "tokens": [
+        {
+          "text": "The",
+          "start": 0,
+          "end": 3,
+          "key": "the"
+        },
+        {
+          "text": "lion",
+          "start": 4,
+          "end": 8,
+          "key": "lion"
+        },
+        {
+          "text": "is",
+          "start": 9,
+          "end": 11,
+          "key": "is"
+        },
+        {
+          "text": "fast",
+          "start": 12,
+          "end": 16,
+          "key": "fast"
+        }
+      ]
+    },
+    "The elephant is big!": {
+      "en": "The elephant is big!",
+      "zh": "大象很大！",
+      "tokens": [
+        {
+          "text": "The",
+          "start": 0,
+          "end": 3,
+          "key": "the"
+        },
+        {
+          "text": "elephant",
+          "start": 4,
+          "end": 12,
+          "key": "elephant"
+        },
+        {
+          "text": "is",
+          "start": 13,
+          "end": 15,
+          "key": "is"
+        },
+        {
+          "text": "big",
+          "start": 16,
+          "end": 19,
+          "key": "big"
+        }
+      ]
+    },
+    "The fish is small!": {
+      "en": "The fish is small!",
+      "zh": "鱼很小！",
+      "tokens": [
+        {
+          "text": "The",
+          "start": 0,
+          "end": 3,
+          "key": "the"
+        },
+        {
+          "text": "fish",
+          "start": 4,
+          "end": 8,
+          "key": "fish"
+        },
+        {
+          "text": "is",
+          "start": 9,
+          "end": 11,
+          "key": "is"
+        },
+        {
+          "text": "small",
+          "start": 12,
+          "end": 17,
+          "key": "small"
+        }
+      ]
+    },
+    "I like fish!": {
+      "en": "I like fish!",
+      "zh": "我喜欢鱼！",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "fish",
+          "start": 7,
+          "end": 11,
+          "key": "fish"
+        }
+      ]
+    },
+    "Wild animals": {
+      "en": "Wild animals",
+      "zh": "野生动物",
+      "tokens": [
+        {
+          "text": "Wild",
+          "start": 0,
+          "end": 4,
+          "key": "wild"
+        },
+        {
+          "text": "animals",
+          "start": 5,
+          "end": 12,
+          "key": "animals"
+        }
+      ]
+    },
+    "Animals I like": {
+      "en": "Animals I like",
+      "zh": "我喜欢的动物",
+      "tokens": [
+        {
+          "text": "Animals",
+          "start": 0,
+          "end": 7,
+          "key": "animals"
+        },
+        {
+          "text": "I",
+          "start": 8,
+          "end": 9,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 10,
+          "end": 14,
+          "key": "like"
+        }
+      ]
+    },
+    "This is my book.": {
+      "en": "This is my book.",
+      "zh": "这是我的书。",
+      "tokens": [
+        {
+          "text": "This",
+          "start": 0,
+          "end": 4,
+          "key": "this"
+        },
+        {
+          "text": "is",
+          "start": 5,
+          "end": 7,
+          "key": "is"
+        },
+        {
+          "text": "my",
+          "start": 8,
+          "end": 10,
+          "key": "my"
+        },
+        {
+          "text": "book",
+          "start": 11,
+          "end": 15,
+          "key": "book"
+        }
+      ]
+    },
+    "This is a monkey.": {
+      "en": "This is a monkey.",
+      "zh": "这是一只猴子。",
+      "tokens": [
+        {
+          "text": "This",
+          "start": 0,
+          "end": 4,
+          "key": "this"
+        },
+        {
+          "text": "is",
+          "start": 5,
+          "end": 7,
+          "key": "is"
+        },
+        {
+          "text": "a",
+          "start": 8,
+          "end": 9,
+          "key": "a"
+        },
+        {
+          "text": "monkey",
+          "start": 10,
+          "end": 16,
+          "key": "monkey"
+        }
+      ]
+    },
+    "It's cute.": {
+      "en": "It's cute.",
+      "zh": "它很可爱。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "cute",
+          "start": 5,
+          "end": 9,
+          "key": "cute"
+        }
+      ]
+    },
+    "This is an ...": {
+      "en": "This is an ...",
+      "zh": "这是一只……",
+      "tokens": [
+        {
+          "text": "This",
+          "start": 0,
+          "end": 4,
+          "key": "this"
+        },
+        {
+          "text": "is",
+          "start": 5,
+          "end": 7,
+          "key": "is"
+        },
+        {
+          "text": "an",
+          "start": 8,
+          "end": 10,
+          "key": "an"
+        }
+      ]
+    },
+    "Mum, what makes us great?": {
+      "en": "Mum, what makes us great?",
+      "zh": "妈妈，是什么让我们很棒？",
+      "tokens": [
+        {
+          "text": "Mum",
+          "start": 0,
+          "end": 3,
+          "key": "mum"
+        },
+        {
+          "text": "what",
+          "start": 5,
+          "end": 9,
+          "key": "what"
+        },
+        {
+          "text": "makes",
+          "start": 10,
+          "end": 15,
+          "key": "makes"
+        },
+        {
+          "text": "us",
+          "start": 16,
+          "end": 18,
+          "key": "us"
+        },
+        {
+          "text": "great",
+          "start": 19,
+          "end": 24,
+          "key": "great"
+        }
+      ]
+    },
+    "We are big.": {
+      "en": "We are big.",
+      "zh": "我们体型大。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "are",
+          "start": 3,
+          "end": 6,
+          "key": "are"
+        },
+        {
+          "text": "big",
+          "start": 7,
+          "end": 10,
+          "key": "big"
+        }
+      ]
+    },
+    "Elephants are big too.": {
+      "en": "Elephants are big too.",
+      "zh": "大象的体型也大。",
+      "tokens": [
+        {
+          "text": "Elephants",
+          "start": 0,
+          "end": 9,
+          "key": "elephants"
+        },
+        {
+          "text": "are",
+          "start": 10,
+          "end": 13,
+          "key": "are"
+        },
+        {
+          "text": "big",
+          "start": 14,
+          "end": 17,
+          "key": "big"
+        },
+        {
+          "text": "too",
+          "start": 18,
+          "end": 21,
+          "key": "too"
+        }
+      ]
+    },
+    "We are fast.": {
+      "en": "We are fast.",
+      "zh": "我们速度快。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "are",
+          "start": 3,
+          "end": 6,
+          "key": "are"
+        },
+        {
+          "text": "fast",
+          "start": 7,
+          "end": 11,
+          "key": "fast"
+        }
+      ]
+    },
+    "Fish are fast too.": {
+      "en": "Fish are fast too.",
+      "zh": "鱼的速度也快。",
+      "tokens": [
+        {
+          "text": "Fish",
+          "start": 0,
+          "end": 4,
+          "key": "fish"
+        },
+        {
+          "text": "are",
+          "start": 5,
+          "end": 8,
+          "key": "are"
+        },
+        {
+          "text": "fast",
+          "start": 9,
+          "end": 13,
+          "key": "fast"
+        },
+        {
+          "text": "too",
+          "start": 14,
+          "end": 17,
+          "key": "too"
+        }
+      ]
+    },
+    "We eat a lot.": {
+      "en": "We eat a lot.",
+      "zh": "我们吃得多。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "eat",
+          "start": 3,
+          "end": 6,
+          "key": "eat"
+        },
+        {
+          "text": "a",
+          "start": 7,
+          "end": 8,
+          "key": "a"
+        },
+        {
+          "text": "lot",
+          "start": 9,
+          "end": 12,
+          "key": "lot"
+        }
+      ]
+    },
+    "Pandas eat a lot too.": {
+      "en": "Pandas eat a lot too.",
+      "zh": "大熊猫也吃得多。",
+      "tokens": [
+        {
+          "text": "Pandas",
+          "start": 0,
+          "end": 6,
+          "key": "pandas"
+        },
+        {
+          "text": "eat",
+          "start": 7,
+          "end": 10,
+          "key": "eat"
+        },
+        {
+          "text": "a",
+          "start": 11,
+          "end": 12,
+          "key": "a"
+        },
+        {
+          "text": "lot",
+          "start": 13,
+          "end": 16,
+          "key": "lot"
+        },
+        {
+          "text": "too",
+          "start": 17,
+          "end": 20,
+          "key": "too"
+        }
+      ]
+    },
+    "I know! We sing!": {
+      "en": "I know! We sing!",
+      "zh": "我知道了！我们会唱歌！",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "know",
+          "start": 2,
+          "end": 6,
+          "key": "know"
+        },
+        {
+          "text": "We",
+          "start": 8,
+          "end": 10,
+          "key": "we"
+        },
+        {
+          "text": "sing",
+          "start": 11,
+          "end": 15,
+          "key": "sing"
+        }
+      ]
+    },
+    "Yes! We can sing nice songs.": {
+      "en": "Yes! We can sing nice songs.",
+      "zh": "是的！我们会唱好听的歌。",
+      "tokens": [
+        {
+          "text": "Yes",
+          "start": 0,
+          "end": 3,
+          "key": "yes"
+        },
+        {
+          "text": "We",
+          "start": 5,
+          "end": 7,
+          "key": "we"
+        },
+        {
+          "text": "can",
+          "start": 8,
+          "end": 11,
+          "key": "can"
+        },
+        {
+          "text": "sing",
+          "start": 12,
+          "end": 16,
+          "key": "sing"
+        },
+        {
+          "text": "nice",
+          "start": 17,
+          "end": 21,
+          "key": "nice"
+        },
+        {
+          "text": "songs",
+          "start": 22,
+          "end": 27,
+          "key": "songs"
+        }
+      ]
+    }
+  }
+}

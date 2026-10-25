@@ -1,0 +1,17 @@
+<button id="word-follow-toggle" type="button" class="word-follow-toggle" aria-pressed="false" aria-controls="word-follow-panel">逐词：关</button>
+<aside id="word-follow-panel" class="word-follow-panel" aria-labelledby="word-follow-title" hidden>
+  <div class="word-follow-heading"><h2 id="word-follow-title">逐词跟读</h2><button id="word-follow-close" type="button" class="btn" aria-label="收起逐词跟读">收起 ×</button></div>
+  <p id="word-follow-sentence" class="word-follow-sentence" lang="en"></p>
+  <p id="word-follow-translation" class="word-follow-translation"></p>
+  <div class="word-follow-actions"><button id="word-follow-all" type="button" class="btn primary">▶ 依次听单词</button><button id="word-follow-whole" type="button" class="btn">▶ 听整句</button></div>
+  <p class="word-follow-hint">点单词可单独听，播放中的单词会高亮。</p>
+  <div id="word-follow-words" class="word-follow-words" aria-label="原句单词" lang="en"></div>
+  <section class="word-follow-detail" aria-label="当前单词释义">
+    <div id="word-follow-en" class="word-follow-en" lang="en"></div>
+    <div id="word-follow-ipa" class="word-follow-ipa"></div>
+    <div id="word-follow-meaning" class="word-follow-meaning"></div>
+    <p id="word-follow-source" class="word-follow-hint"></p>
+    <p id="word-follow-note" class="word-follow-hint" hidden></p>
+  </section>
+</aside>
+<script type="application/json" id="word-follow-library">{{WORD_FOLLOW_LIBRARY}}</script>

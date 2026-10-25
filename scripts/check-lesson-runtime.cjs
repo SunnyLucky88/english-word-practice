@@ -26,12 +26,14 @@ async function check(course){
  const category=['key','text','songs'].map(k=>{const e=element('button');e.dataset.category=k;e.setAttribute('aria-controls','panel-'+k);return e});
  const player=element();player.getBoundingClientRect=()=>({top:680,height:120});
  const bookViewport=element();bookViewport.className='book-viewport';bookViewport.scrollTop=0;bookViewport.scrollLeft=0;bookViewport.getBoundingClientRect=()=>({top:100,bottom:600,height:500,left:0,right:300,width:300});nodes['book-canvas'].parentNode=bookViewport;
+ nodes['word-follow-panel'].className='word-follow-panel';nodes['word-follow-panel'].scrollTop=0;nodes['word-follow-panel'].getBoundingClientRect=()=>({top:100,bottom:600,height:500});nodes['word-follow-words'].parentNode=nodes['word-follow-panel'];
  const audio=nodes.audio;Object.assign(audio,{paused:true,ended:false,addEventListener:(k,f)=>(events[k]??=[]).push(f),pause(){this.paused=true},load(){},play(){this.paused=false;this.ended=false;played.push(this.src);if(rejectNext){rejectNext=false;return Promise.reject(Error('blocked'))}if(!noPlayingEvent)for(const f of events.playing||[])f();return legacyPlayback?undefined:Promise.resolve()}});
  const $=id=>{assert.ok(nodes[id],id);return nodes[id]};nodes['playback-speed'].value='1';nodes.mode.value='recall';nodes.scope.value='words';
  const document={getElementById:$,createElement:element,createTextNode:t=>{const e=element();e.textContent=t;return e},documentElement:{style:{setProperty(){}},clientHeight:800},
-  querySelector:s=>s==='.player-wrap'?player:null,querySelectorAll:s=>s==='.playing'?all.filter(e=>e.classList.contains('playing')):s==='[data-category]'?category:s.includes('[role=tab]')?['book','words','sentences','practice'].map(k=>nodes['tab-'+k]):[]};
+  querySelector:s=>s==='.player-wrap'?player:null,querySelectorAll:s=>s==='.playing'||s==='.word-follow-selected'?all.filter(e=>e.classList.contains(s.slice(1))):s==='[data-category]'?category:s.includes('[role=tab]')?['book','words','sentences','practice'].map(k=>nodes['tab-'+k]):[]};
  const saved=new Map();nodes['lookup-library'].textContent=html.match(/id="lookup-library">([\s\S]*?)<\/script>/)[1];
- const context={CONTENT,document,window:{localStorage:{getItem:key=>saved.get(key)||null,setItem:(key,value)=>saved.set(key,value)},innerHeight:800,scrollX:0,scrollY:0,addEventListener:(k,f)=>(listeners[k]??=[]).push(f),matchMedia:()=>({matches:false}),scrollTo(x,y){if(typeof x==='number'&&typeof y==='number'){this.scrollX=x;this.scrollY=y;scrolls++}},scrollBy(value){if(!legacyPlayback||typeof value==='number')scrolls++}},setTimeout:(f,ms)=>{assert.ok([5000,45000].includes(ms));timers.set(++timerId,f);return timerId},clearTimeout:id=>timers.delete(id)};
+ nodes['word-follow-library'].textContent=html.match(/id="word-follow-library">([\s\S]*?)<\/script>/)[1];
+ const context={CONTENT,document,window:{localStorage:{getItem:key=>saved.get(key)||null,setItem:(key,value)=>saved.set(key,value)},innerHeight:800,scrollX:0,scrollY:0,addEventListener:(k,f)=>(listeners[k]??=[]).push(f),matchMedia:()=>({matches:false}),scrollTo(x,y){if(typeof x==='number'&&typeof y==='number'){this.scrollX=x;this.scrollY=y;scrolls++}},scrollBy(value){if(!legacyPlayback||typeof value==='number')scrolls++}},setTimeout:(f,ms)=>{assert.ok([500,5000,45000].includes(ms));timers.set(++timerId,f);return timerId},clearTimeout:id=>timers.delete(id)};
  vm.createContext(context);const run=s=>vm.runInContext(s,context),flush=async()=>{await Promise.resolve();await Promise.resolve()};
  run(html.match(/id="lesson-controller">([\s\S]*?)<\/script>/)[1]);
  run(html.match(/id="textbook-controller">([\s\S]*?)<\/script>/)[1]);
@@ -120,6 +122,30 @@ async function check(course){
  nodes['lookup-input'].value='unlisted-query-795';await run('lookupText()');assert.equal(nodes['lookup-result'].hidden,true);assert.match(nodes['lookup-message'].textContent,/暂未收录/);assert.equal(nodes['lookup-submit'].disabled,false);
  nodes['lookup-input'].value='<script>中文</script>';await run('lookupText()');assert.equal(nodes['lookup-result'].hidden,true);
  assert.equal(networkRequests,0,'Known words, missing words and invalid input must not call an online service');assert.equal(JSON.stringify(CONTENT.words),sourceBefore,'Supplemental lookup must not mutate the textbook word list');
- console.log(`Unit ${unit}: ${pagesPlayed} page queues, exercises, manual idle recovery, no-Promise phone playback, inner/root scrolling, focus changes, progress fallback, custom selection and static supplemental lookup checks passed.`);
+ // Floating word mode: every textbook sentence retains its full Chinese translation.
+ nodes['tab-book'].onclick();assert.equal(run('wordFollowEnabled'),false);nodes['word-follow-toggle'].onclick();assert.equal(saved.get('pep-word-follow-enabled-v1'),'true');
+ let splitChecks=0;
+ for(let p=0;p<pages.length;p++){
+  nodes['book-page'].onchange({target:{value:String(p)}});assert.equal(nodes['word-follow-panel'].hidden,true);
+  const spots=nodes['book-canvas'].children.filter(e=>e.classList.contains('hotspot'));
+  for(let i=0;i<pages[p].spots.length;i++){
+   const ref=pages[p].spots[i].w||pages[p].spots[i].s,item=typeof ref==='string'?CONTENT.words.find(w=>w.en===ref):CONTENT.sentences[ref-1];
+   const entry=run('wordFollowLibrary').sentences[item.en];if(!entry)continue;
+   const count=played.length;spots[i].onclick();await flush();assert.equal(played.length,count,'Opening a sentence must not autoplay');assert.equal(nodes['word-follow-translation'].textContent,item.zh);assert.equal(nodes['word-follow-sentence'].textContent,item.en);
+   const buttons=nodes['word-follow-words'].children.filter(e=>e.classList.contains('word-follow-word'));assert.equal(buttons.length,entry.tokens.length);assert.equal(nodes['word-follow-words'].textContent,item.en,'Punctuation and repeated words must remain in the original order');
+   buttons.forEach((button,n)=>{button.onclick();const token=entry.tokens[n],word=run('wordFollowLibrary').words[token.key];assert.equal(audio.src,audioBase+word.file);assert.equal(nodes['word-follow-en'].textContent,token.text);assert.equal(nodes['word-follow-meaning'].textContent,word.zh);assert.equal(nodes['word-follow-ipa'].textContent,word.ipaDisplay||word.ipa||'')});
+   nodes.stop.onclick();splitChecks++;
+  }
+ }
+ assert.ok(splitChecks>0);
+ // A gap separates words; a new click, Stop, closing, lookup or navigation cancels it.
+ const entry=run('wordFollowCurrent'),buttons=nodes['word-follow-words'].children.filter(e=>e.classList.contains('word-follow-word'));
+ noPlayingEvent=false;const backgroundBefore=scrolls;played.length=0;nodes['word-follow-all'].onclick();await flush();assert.ok(nodes['word-follow-panel'].scrollTop>0,'Long sentences follow inside their panel');assert.equal(scrolls,backgroundBefore,'Word following must not move the background page');assert.equal(played.length,1);for(const f of events.ended)f();await flush();assert.equal(played.length,1);assert.equal(timers.size,1);
+ let gap=[...timers.values()][0];timers.clear();gap();await flush();assert.equal(played.length,2);assert.equal(nodes['word-follow-en'].textContent,entry.tokens[1].text);
+ for(const f of events.ended)f();const staleGap=[...timers.values()][0];buttons[0].onclick();await flush();const afterClick=played.length;if(staleGap)staleGap();assert.equal(played.length,afterClick,'A stale timer must not interrupt a manual word click');assert.equal(timers.size,0);
+ nodes['word-follow-whole'].onclick();assert.equal(run('active.en'),entry.en);nodes['word-follow-close'].onclick();assert.equal(nodes['word-follow-panel'].hidden,true);assert.equal(run('wordFollowEnabled'),true);assert.equal(audio.paused,true);
+ nodes['book-page'].onchange({target:{value:'0'}});nodes['book-canvas'].children.find(e=>e.classList.contains('hotspot')).onclick();nodes['word-follow-all'].onclick();for(const f of events.ended)f();assert.ok(timers.size);nodes['book-page'].onchange({target:{value:'1'}});assert.equal(timers.size,0,'Page navigation cancels the next word');assert.equal(nodes['word-follow-panel'].hidden,true);nodes['book-page'].onchange({target:{value:'0'}});nodes['book-canvas'].children.find(e=>e.classList.contains('hotspot')).onclick();nodes['lookup-toggle'].onclick();assert.equal(nodes['word-follow-panel'].hidden,true);assert.equal(nodes['word-follow-toggle'].hidden,true);nodes['lookup-close'].onclick();assert.equal(nodes['word-follow-toggle'].hidden,false);
+ nodes['tab-words'].onclick();assert.equal(nodes['word-follow-toggle'].hidden,true);nodes['tab-book'].onclick();assert.equal(nodes['word-follow-toggle'].hidden,false);nodes['word-follow-toggle'].onclick();assert.equal(run('wordFollowEnabled'),false);assert.equal(saved.get('pep-word-follow-enabled-v1'),'false');
+ console.log(`Unit ${unit}: ${pagesPlayed} page queues, exercises, manual idle recovery, no-Promise phone playback, inner/root scrolling, focus changes, progress fallback, custom selection, static lookup and floating word-follow mode with full Chinese translations passed.`);
 }
 (async()=>{const courses=JSON.parse(fs.readFileSync(path.resolve(__dirname,'../courses.json'),'utf8'));for(const course of courses.filter(c=>/pep-unit\d+\.html$/.test(c.href)))await check(course)})().catch(e=>{console.error(e);process.exitCode=1});

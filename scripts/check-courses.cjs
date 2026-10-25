@@ -59,7 +59,7 @@ for (const course of courses) {
     assert.deepEqual(content, sourceContent, 'Bundled content differs from canonical source');
     const app = html.match(/<script id="lesson-controller">([\s\S]*?)<\/script>/)?.[1];
     assert.ok(app, 'Missing bundled lesson app');
-    const expectedApp = fs.readFileSync(path.join(root, 'assets/pep-lesson-app.js'), 'utf8').replace('const AUDIO_BASE = "audio/google-v1/";', `const AUDIO_BASE = "${expected}";`)+'\n'+fs.readFileSync(path.join(root,'assets/pep-lesson-tools.js'),'utf8');
+    const expectedApp = fs.readFileSync(path.join(root, 'assets/pep-lesson-app.js'), 'utf8').replace('const AUDIO_BASE = "audio/google-v1/";', `const AUDIO_BASE = "${expected}";`)+'\n'+fs.readFileSync(path.join(root,'assets/pep-lesson-tools.js'),'utf8')+'\n'+fs.readFileSync(path.join(root,'assets/pep-word-follow.js'),'utf8');
     assert.equal(app.trim(), expectedApp.trim(), 'Bundled app differs from shared source');
     assert.equal(html.match(/<style id="lesson-tools-styles">\n([\s\S]*?)\n<\/style>/)?.[1],fs.readFileSync(path.join(root,'assets/pep-lesson-tools.css'),'utf8'),'Bundled tool styles differ from shared source');
     for(const id of ['lookup-toggle','lookup-library','lookup-form','practice-source','picker-list'])assert.equal([...html.matchAll(new RegExp('id="'+id+'"','g'))].length,1,'Tool markup must appear exactly once: '+id);

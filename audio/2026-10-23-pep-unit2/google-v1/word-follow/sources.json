@@ -1,0 +1,58 @@
+[
+  {
+    "file": "cde48537ca2c2808.mp3",
+    "text": "friend",
+    "spokenText": "friend",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=friend&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "4e3fa41a28eb972bfd74a809e80fcc69e689d32d160671aabed72e56da65d3fb",
+    "duration": 0.816
+  },
+  {
+    "file": "e186022d0931afe9.mp3",
+    "text": "Nice",
+    "spokenText": "nice",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=nice&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "25595b052a642c2428ece1c5cf56c9098e9c58601af53f18110e35e038e25cb0",
+    "duration": 0.936
+  },
+  {
+    "file": "3fc4ccfe745870e2.mp3",
+    "text": "two",
+    "spokenText": "two",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=two&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "7058779203002153d800099bd00f0c60423b3d3b1dc7f00a687e2dbce88dce28",
+    "duration": 0.768
+  },
+  {
+    "file": "9f584196e7fe6de8.mp3",
+    "text": "can",
+    "spokenText": "can",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=can&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "04166807a18de6f3887664e496c68c9bd8362247a69cb65e1653a559495e1189",
+    "duration": 0.816
+  },
+  {
+    "file": "dc9c5edb8b2d479e.mp3",
+    "text": "tree",
+    "spokenText": "tree",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tree&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "087dc1eeb2bd77f05c8fc667296e80e1143e0ddf0c52fd2e43c8b7220fc0acc8",
+    "duration": 0.792
+  },
+  {
+    "file": "c3bc45ac352fe43f.mp3",
+    "text": "share",
+    "spokenText": "share",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=share&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d8d7a733a0960c3ea6121dedededb43756a1fdd2f5ecb98646764f36195d0174",
+    "duration": 0.912
+  },
+  {
+    "file": "6f8860eb5103a16b.mp3",
+    "text": "listen",
+    "spokenText": "listen",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=listen&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "6fb3085d360068d52e4b3c0151ce94567b95bf4fcaf70d9b1ad560e43732c06e",
+    "duration": 0.864
+  }
+]

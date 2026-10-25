@@ -1,0 +1,18 @@
+[
+  {
+    "file": "d05aa2a15fb3c40e.mp3",
+    "text": "make",
+    "spokenText": "make",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=make&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "7ff6286fe02d26dd68daa67fd5f23276255987c2c8f5767d63b5eecd6e47321a",
+    "duration": 0.744
+  },
+  {
+    "file": "11507a0e2f5e69d5.mp3",
+    "text": "new",
+    "spokenText": "new",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=new&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "079457cb68a441f9687de374b85f7085a902e42dcb78a2fefe71468cb69ab970",
+    "duration": 0.744
+  }
+]

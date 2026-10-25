@@ -1,0 +1,74 @@
+[
+  {
+    "file": "0b4bd77cec705cf5.mp3",
+    "text": "brother",
+    "spokenText": "brother",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=brother&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "83f75a41d4e33959430045aee4cbe22b60f8c3a90ff887b2fcfada764c0bffd9",
+    "duration": 0.888
+  },
+  {
+    "file": "1980d3927f07fec9.mp3",
+    "text": "sister",
+    "spokenText": "sister",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=sister&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8c2edf417b17aed73b614c6277b5f1eabf3842b87f5b3e561e1b085a6bb7d111",
+    "duration": 1.056
+  },
+  {
+    "file": "2744ccd10c7533bd.mp3",
+    "text": "Me",
+    "spokenText": "me",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=me&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "69d8a534ec72a0b215ab479165076a54e47db036567fd025f1808fd8c0117476",
+    "duration": 0.744
+  },
+  {
+    "file": "1b4c9133da73a711.mp3",
+    "text": "orange",
+    "spokenText": "orange",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=orange&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8f14ff97c09149fbf5c8d2e0a129ca4195ff8118d7aaa63fdeb936342574f903",
+    "duration": 0.984
+  },
+  {
+    "file": "193c45b5281908d2.mp3",
+    "text": "have",
+    "spokenText": "have",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=have&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a295e579f3c93cb4ae01a3a71323b30ff87bb5ae9c54edb8231c2f91692a1ac1",
+    "duration": 0.792
+  },
+  {
+    "file": "4cd0e21a9a0795a1.mp3",
+    "text": "go",
+    "spokenText": "go",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=go&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "42dd053c5b7378fe495c9c5d5c8af54b69eda0d1bd99f15ebd991c3943ecb9df",
+    "duration": 0.72
+  },
+  {
+    "file": "cd6357efdd966de8.mp3",
+    "text": "dog",
+    "spokenText": "dog",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=dog&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a1a536ae869865db5844657964896c4b0c0fbbe051604d14279a860d0042051f",
+    "duration": 0.816
+  },
+  {
+    "file": "36e11c186286bdb7.mp3",
+    "text": "p.m.",
+    "spokenText": "p.m.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=p.m.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "af7f6a768a4f5abb1fd1d30b5a4a9a87121d5bd204a546cd86a46063310f84a0",
+    "duration": 1.368
+  },
+  {
+    "file": "5161dfd1e2d5f4fb.mp3",
+    "text": "3,000",
+    "spokenText": "three thousand",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=three+thousand&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "85b1bac51e42aec1ee95e7282dab356fce79d55a1df5e780cd6fd6d0f562e605",
+    "duration": 1.248
+  }
+]

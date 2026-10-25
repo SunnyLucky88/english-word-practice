@@ -10,6 +10,9 @@ const playbackCss = fs.readFileSync(path.join(root, 'assets/pep-playback.css'), 
 const typographyCss = fs.readFileSync(path.join(root, 'assets/pep-lesson-typography.css'), 'utf8');
 const toolsCss = fs.readFileSync(path.join(root, 'assets/pep-lesson-tools.css'), 'utf8');
 const toolsApp = fs.readFileSync(path.join(root, 'assets/pep-lesson-tools.js'), 'utf8');
+const wordFollowApp=fs.readFileSync(path.join(root,'assets/pep-word-follow.js'),'utf8');
+const wordFollowCss=fs.readFileSync(path.join(root,'assets/pep-word-follow.css'),'utf8');
+const wordFollowHtml=fs.readFileSync(path.join(root,'assets/pep-word-follow.html'),'utf8');
 const pickerHtml = fs.readFileSync(path.join(root, 'assets/pep-practice-picker.html'), 'utf8');
 const lookupHtml = fs.readFileSync(path.join(root, 'assets/pep-lookup.html'), 'utf8');
 const lookupConfig=JSON.parse(fs.readFileSync(path.join(root,'assets/pep-lookup-config.json'),'utf8'));
@@ -37,6 +40,8 @@ for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d
   html = html.includes('id="lesson-typography"') ? html.replace(/<style id="lesson-typography">[\s\S]*?<\/style>/, () => typographyStyle) : html.replace('<main>', typographyStyle + '\n<main>');
   const toolsStyle=`<style id="lesson-tools-styles">\n${toolsCss}\n</style>`;
   html=html.includes('id="lesson-tools-styles"')?html.replace(/<style id="lesson-tools-styles">[\s\S]*?<\/style>/,()=>toolsStyle):html.replace('<main>',toolsStyle+'\n<main>');
+  const followStyle=`<style id="word-follow-styles">\n${wordFollowCss}\n</style>`;
+  html=html.includes('id="word-follow-styles"')?html.replace(/<style id="word-follow-styles">[\s\S]*?<\/style>/,()=>followStyle):html.replace('<main>',followStyle+'\n<main>');
   if(html.includes('id="practice-extra"'))html=html.replace(/<div id="practice-extra"[\s\S]*?<\/details>/,()=>pickerHtml.trim());
   else html=html.replace('<div class="exercise">',()=>pickerHtml+'<div class="exercise">');
   html=html.replace('<option value="listen">听音选单词</option>','<option value="listen">听音选英文</option>');
@@ -50,6 +55,9 @@ for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d
   const lookupMeta=`<meta name="lookup-api-base" content="${lookupConfig.apiBase||''}">`;
   html=html.includes('name="lookup-api-base"')?html.replace(/<meta name="lookup-api-base"[^>]*>/,lookupMeta):html.replace('<title>',lookupMeta+'\n<title>');
   const content = JSON.parse(fs.readFileSync(path.join(root, 'assets', slug, 'content.json'), 'utf8'));
+  const followData=JSON.parse(fs.readFileSync(path.join(root,'assets',slug,'word-follow.json'),'utf8'));
+  const followBlock=wordFollowHtml.replace('{{WORD_FOLLOW_LIBRARY}}',JSON.stringify(followData).replace(/<\//g,'<\\/'));
+  html=html.includes('id="word-follow-toggle"')?html.replace(/<button id="word-follow-toggle"[\s\S]*?<script type="application\/json" id="word-follow-library">[\s\S]*?<\/script>/,()=>followBlock.trim()):html.replace('<script type="application/json" id="lesson-content">',()=>followBlock+'\n<script type="application/json" id="lesson-content">');
   html=html.replace(/完整词表\s*\d+\s*词/g,`完整词表 ${content.words.length} 词`)
     .replace(/共\s*\d+\s*词，按课本顺序排列/g,`共 ${content.words.length} 词，按课本顺序排列`)
     .replace(/单词练习 · \d+ 词/g,`单词练习 · ${content.words.length} 词`)
@@ -63,7 +71,7 @@ for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d
   html=html.replace(/<option value="text">课文句子 · \d+ 题<\/option>/,`<option value="text">课文句子 · ${quizCount} 题</option>`);
   html = html.replace(/(<script type="application\/json" id="lesson-content">)[\s\S]*?(<\/script>)/, (_, a, b) => a + JSON.stringify(content).replace(/<\//g, '<\\/') + b);
   const audioBase = path.posix.relative(path.posix.dirname(course.href), course.audioDirectory) + '/';
-  const lessonApp = app.replace('const AUDIO_BASE = "audio/google-v1/";', `const AUDIO_BASE = "${audioBase}";`)+'\n'+toolsApp;
+  const lessonApp = app.replace('const AUDIO_BASE = "audio/google-v1/";', `const AUDIO_BASE = "${audioBase}";`)+'\n'+toolsApp+'\n'+wordFollowApp;
   new vm.Script(lessonApp);
   html = html.replace(/<script id="lesson-controller">[\s\S]*?<\/script>/, () => `<script id="lesson-controller">\n${lessonApp}\n</script>`);
   let controller = fs.readFileSync(path.join(root, 'assets', slug, 'book.js'), 'utf8');

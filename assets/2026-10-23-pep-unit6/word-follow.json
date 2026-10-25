@@ -1,0 +1,3810 @@
+{
+  "schemaVersion": 1,
+  "unit": 6,
+  "scope": "课本逐词跟读；不修改书后词表或默认练习",
+  "words": {
+    "1": {
+      "key": "1",
+      "en": "1",
+      "spokenText": "one",
+      "zh": "一",
+      "ipa": "/wʌn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "one.mp3"
+    },
+    "2": {
+      "key": "2",
+      "en": "2",
+      "spokenText": "two",
+      "zh": "二",
+      "ipa": "/tuː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "two.mp3"
+    },
+    "5": {
+      "key": "5",
+      "en": "5",
+      "spokenText": "five",
+      "zh": "五",
+      "ipa": "/faɪv/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "five.mp3"
+    },
+    "why": {
+      "key": "why",
+      "en": "Why",
+      "spokenText": "why",
+      "zh": "为什么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/why.mp3"
+    },
+    "are": {
+      "key": "are",
+      "en": "are",
+      "spokenText": "are",
+      "zh": "是（be 的一种形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/are.mp3"
+    },
+    "numbers": {
+      "key": "numbers",
+      "en": "numbers",
+      "spokenText": "Numbers",
+      "zh": "数字",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "number",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "sentence-07.mp3"
+    },
+    "important": {
+      "key": "important",
+      "en": "important",
+      "spokenText": "important",
+      "zh": "重要的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/important.mp3"
+    },
+    "what": {
+      "key": "what",
+      "en": "What",
+      "spokenText": "what",
+      "zh": "什么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/what.mp3"
+    },
+    "do": {
+      "key": "do",
+      "en": "do",
+      "spokenText": "do",
+      "zh": "做；也用于构成问句等句式",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/do.mp3"
+    },
+    "you": {
+      "key": "you",
+      "en": "you",
+      "spokenText": "you",
+      "zh": "你；你们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/you.mp3"
+    },
+    "see": {
+      "key": "see",
+      "en": "see",
+      "spokenText": "see",
+      "zh": "看见",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/see.mp3"
+    },
+    "where": {
+      "key": "where",
+      "en": "Where",
+      "spokenText": "where",
+      "zh": "哪里；在哪里",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/where.mp3"
+    },
+    "one": {
+      "key": "one",
+      "en": "One",
+      "spokenText": "one",
+      "zh": "一",
+      "ipa": "/wʌn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "one.mp3"
+    },
+    "boy": {
+      "key": "boy",
+      "en": "boy",
+      "spokenText": "boy",
+      "zh": "男孩",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/boy.mp3"
+    },
+    "two": {
+      "key": "two",
+      "en": "two",
+      "spokenText": "two",
+      "zh": "二",
+      "ipa": "/tuː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "two.mp3"
+    },
+    "boys": {
+      "key": "boys",
+      "en": "boys",
+      "spokenText": "boys",
+      "zh": "男孩（boy 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "boy",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/boys.mp3"
+    },
+    "three": {
+      "key": "three",
+      "en": "Three",
+      "spokenText": "three",
+      "zh": "三",
+      "ipa": "/θriː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "three.mp3"
+    },
+    "four": {
+      "key": "four",
+      "en": "four",
+      "spokenText": "four",
+      "zh": "四",
+      "ipa": "/fɔː(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "four.mp3"
+    },
+    "five": {
+      "key": "five",
+      "en": "Five",
+      "spokenText": "five",
+      "zh": "五",
+      "ipa": "/faɪv/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "five.mp3"
+    },
+    "six": {
+      "key": "six",
+      "en": "six",
+      "spokenText": "six",
+      "zh": "六",
+      "ipa": "/sɪks/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "six.mp3"
+    },
+    "seven": {
+      "key": "seven",
+      "en": "Seven",
+      "spokenText": "seven",
+      "zh": "七",
+      "ipa": "/ˈsevn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "seven.mp3"
+    },
+    "more": {
+      "key": "more",
+      "en": "more",
+      "spokenText": "more",
+      "zh": "更多",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/more.mp3"
+    },
+    "when": {
+      "key": "when",
+      "en": "When",
+      "spokenText": "when",
+      "zh": "什么时候",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/when.mp3"
+    },
+    "we": {
+      "key": "we",
+      "en": "we",
+      "spokenText": "we",
+      "zh": "我们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "sentence-35.mp3"
+    },
+    "use": {
+      "key": "use",
+      "en": "use",
+      "spokenText": "use",
+      "zh": "使用",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "本课使用动词义。该词有不同词性或词形读法，单词音频须重点核听，并与下方原句对照。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/use.mp3"
+    },
+    "binbin": {
+      "key": "binbin",
+      "en": "Binbin",
+      "spokenText": "Binbin",
+      "zh": "彬彬（沿用该句中文译名的人名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/binbin.mp3"
+    },
+    "this": {
+      "key": "this",
+      "en": "this",
+      "spokenText": "this",
+      "zh": "这；这个",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/this.mp3"
+    },
+    "is": {
+      "key": "is",
+      "en": "is",
+      "spokenText": "is",
+      "zh": "是（be 的一种形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/is.mp3"
+    },
+    "my": {
+      "key": "my",
+      "en": "my",
+      "spokenText": "my",
+      "zh": "我的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/my.mp3"
+    },
+    "brother": {
+      "key": "brother",
+      "en": "brother",
+      "spokenText": "brother",
+      "zh": "哥；弟",
+      "ipa": "/ˈbrʌðə(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/0b4bd77cec705cf5.mp3"
+    },
+    "sam": {
+      "key": "sam",
+      "en": "Sam",
+      "spokenText": "Sam",
+      "zh": "萨姆（人名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/sam.mp3"
+    },
+    "hi": {
+      "key": "hi",
+      "en": "Hi",
+      "spokenText": "hi",
+      "zh": "你好；嗨",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/hi.mp3"
+    },
+    "sister": {
+      "key": "sister",
+      "en": "sister",
+      "spokenText": "sister",
+      "zh": "姐；妹",
+      "ipa": "/ˈsɪstə(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/1980d3927f07fec9.mp3"
+    },
+    "xinxin": {
+      "key": "xinxin",
+      "en": "Xinxin",
+      "spokenText": "Xinxin",
+      "zh": "欣欣（人名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/xinxin.mp3"
+    },
+    "hello": {
+      "key": "hello",
+      "en": "Hello",
+      "spokenText": "hello",
+      "zh": "你好",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/hello.mp3"
+    },
+    "how": {
+      "key": "how",
+      "en": "How",
+      "spokenText": "how",
+      "zh": "怎样；多么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/how.mp3"
+    },
+    "old": {
+      "key": "old",
+      "en": "old",
+      "spokenText": "old",
+      "zh": "（多少）岁；年纪；旧的",
+      "ipa": "/əʊld/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "old.mp3"
+    },
+    "i'm": {
+      "key": "i'm",
+      "en": "I'm",
+      "spokenText": "I'm",
+      "zh": "I am 的缩写；我是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "I am",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/i-m.mp3"
+    },
+    "years": {
+      "key": "years",
+      "en": "years",
+      "spokenText": "years",
+      "zh": "年；岁（year 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "year",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/years.mp3"
+    },
+    "me": {
+      "key": "me",
+      "en": "Me",
+      "spokenText": "me",
+      "zh": "我",
+      "ipa": "/miː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/2744ccd10c7533bd.mp3"
+    },
+    "too": {
+      "key": "too",
+      "en": "too",
+      "spokenText": "too",
+      "zh": "也",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/too.mp3"
+    },
+    "xiaoli": {
+      "key": "xiaoli",
+      "en": "Xiaoli",
+      "spokenText": "Xiaoli",
+      "zh": "小丽（人名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/xiaoli.mp3"
+    },
+    "jump": {
+      "key": "jump",
+      "en": "Jump",
+      "spokenText": "jump",
+      "zh": "跳；跳跃",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/jump.mp3"
+    },
+    "and": {
+      "key": "and",
+      "en": "and",
+      "spokenText": "and",
+      "zh": "和；与",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/and.mp3"
+    },
+    "up": {
+      "key": "up",
+      "en": "up",
+      "spokenText": "up",
+      "zh": "向上",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/up.mp3"
+    },
+    "high": {
+      "key": "high",
+      "en": "high",
+      "spokenText": "high",
+      "zh": "高的（high five 表示击掌）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/high.mp3"
+    },
+    "it's": {
+      "key": "it's",
+      "en": "It's",
+      "spokenText": "It's",
+      "zh": "it is 的缩写；它是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "it is",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/it-s.mp3"
+    },
+    "such": {
+      "key": "such",
+      "en": "such",
+      "spokenText": "such",
+      "zh": "这样；如此（such fun 表示真开心）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/such.mp3"
+    },
+    "fun": {
+      "key": "fun",
+      "en": "fun",
+      "spokenText": "fun",
+      "zh": "乐趣；有趣的事",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/fun.mp3"
+    },
+    "useful": {
+      "key": "useful",
+      "en": "useful",
+      "spokenText": "useful",
+      "zh": "有用的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/useful.mp3"
+    },
+    "many": {
+      "key": "many",
+      "en": "many",
+      "spokenText": "many",
+      "zh": "许多",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/many.mp3"
+    },
+    "apples": {
+      "key": "apples",
+      "en": "apples",
+      "spokenText": "apples",
+      "zh": "苹果（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "apple",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/apples.mp3"
+    },
+    "bananas": {
+      "key": "bananas",
+      "en": "bananas",
+      "spokenText": "bananas",
+      "zh": "香蕉（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "banana",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/bananas.mp3"
+    },
+    "orange": {
+      "key": "orange",
+      "en": "orange",
+      "spokenText": "orange",
+      "zh": "橙子；柑橘",
+      "ipa": "/ˈɒrɪndʒ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "word-follow/1b4c9133da73a711.mp3"
+    },
+    "i": {
+      "key": "i",
+      "en": "I",
+      "spokenText": "I",
+      "zh": "我",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "代词“我”；释义与字母 I 名称分开。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/i.mp3"
+    },
+    "have": {
+      "key": "have",
+      "en": "have",
+      "spokenText": "have",
+      "zh": "有",
+      "ipa": "/hæv/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/193c45b5281908d2.mp3"
+    },
+    "ten": {
+      "key": "ten",
+      "en": "ten",
+      "spokenText": "ten",
+      "zh": "十",
+      "ipa": "/ten/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "ten.mp3"
+    },
+    "yuan": {
+      "key": "yuan",
+      "en": "yuan",
+      "spokenText": "yuan",
+      "zh": "元（人民币单位）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/yuan.mp3"
+    },
+    "great": {
+      "key": "great",
+      "en": "Great",
+      "spokenText": "Great!",
+      "zh": "太好了！",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/great.mp3"
+    },
+    "let's": {
+      "key": "let's",
+      "en": "Let's",
+      "spokenText": "Let's",
+      "zh": "let us 的缩写；让我们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "let us",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/let-s.mp3"
+    },
+    "go": {
+      "key": "go",
+      "en": "go",
+      "spokenText": "go",
+      "zh": "去；走",
+      "ipa": "/ɡəʊ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "word-follow/4cd0e21a9a0795a1.mp3"
+    },
+    "to": {
+      "key": "to",
+      "en": "to",
+      "spokenText": "to",
+      "zh": "到；向；用于 to meet 等动词结构",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/to.mp3"
+    },
+    "the": {
+      "key": "the",
+      "en": "the",
+      "spokenText": "the",
+      "zh": "特指的人或事物（常不单独翻译）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/the.mp3"
+    },
+    "shop": {
+      "key": "shop",
+      "en": "shop",
+      "spokenText": "shop",
+      "zh": "商店",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/shop.mp3"
+    },
+    "lions": {
+      "key": "lions",
+      "en": "lions",
+      "spokenText": "lions",
+      "zh": "狮子（lion 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "lion",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/lions.mp3"
+    },
+    "that's": {
+      "key": "that's",
+      "en": "That's",
+      "spokenText": "That's",
+      "zh": "that is 的缩写；那是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "that is",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/that-s.mp3"
+    },
+    "please": {
+      "key": "please",
+      "en": "please",
+      "spokenText": "please",
+      "zh": "请",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/please.mp3"
+    },
+    "here": {
+      "key": "here",
+      "en": "Here",
+      "spokenText": "here",
+      "zh": "这里；在这里",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/here.mp3"
+    },
+    "head": {
+      "key": "head",
+      "en": "head",
+      "spokenText": "head",
+      "zh": "头",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/head.mp3"
+    },
+    "legs": {
+      "key": "legs",
+      "en": "legs",
+      "spokenText": "legs",
+      "zh": "腿（leg 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "leg",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/legs.mp3"
+    },
+    "toes": {
+      "key": "toes",
+      "en": "toes",
+      "spokenText": "toes",
+      "zh": "脚趾（toe 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "toe",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/toes.mp3"
+    },
+    "am": {
+      "key": "am",
+      "en": "am",
+      "spokenText": "am",
+      "zh": "是（与 I 连用的 be 的形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/am.mp3"
+    },
+    "a": {
+      "key": "a",
+      "en": "a",
+      "spokenText": "a",
+      "zh": "一个；一（不定冠词）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/a.mp3"
+    },
+    "child": {
+      "key": "child",
+      "en": "child",
+      "spokenText": "child",
+      "zh": "儿童；孩子",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/child.mp3"
+    },
+    "eight": {
+      "key": "eight",
+      "en": "eight",
+      "spokenText": "eight",
+      "zh": "八",
+      "ipa": "/eɪt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "eight.mp3"
+    },
+    "eyes": {
+      "key": "eyes",
+      "en": "eyes",
+      "spokenText": "eyes",
+      "zh": "眼睛（eye 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "eye",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/eyes.mp3"
+    },
+    "spider": {
+      "key": "spider",
+      "en": "spider",
+      "spokenText": "spider",
+      "zh": "蜘蛛",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/spider.mp3"
+    },
+    "wings": {
+      "key": "wings",
+      "en": "wings",
+      "spokenText": "wings",
+      "zh": "翅膀（wing 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "wing",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/wings.mp3"
+    },
+    "bee": {
+      "key": "bee",
+      "en": "bee",
+      "spokenText": "bee",
+      "zh": "蜜蜂",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/bee.mp3"
+    },
+    "o'clock": {
+      "key": "o'clock",
+      "en": "o'clock",
+      "spokenText": "o'clock",
+      "zh": "（表示整点）……点钟",
+      "ipa": "/əˈklɒk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "oclock.mp3"
+    },
+    "hurry": {
+      "key": "hurry",
+      "en": "Hurry",
+      "spokenText": "hurry",
+      "zh": "赶快；匆忙",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/hurry.mp3"
+    },
+    "happy": {
+      "key": "happy",
+      "en": "Happy",
+      "spokenText": "happy",
+      "zh": "快乐的；开心的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/happy.mp3"
+    },
+    "birthday": {
+      "key": "birthday",
+      "en": "birthday",
+      "spokenText": "birthday",
+      "zh": "生日",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/birthday.mp3"
+    },
+    "cuts": {
+      "key": "cuts",
+      "en": "cuts",
+      "spokenText": "cuts",
+      "zh": "刀；切割的次数（cut 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "cut",
+      "expanded": "",
+      "note": "本课 Three cuts. 表示“切三刀”，这里是名词复数。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/cuts.mp3"
+    },
+    "eat": {
+      "key": "eat",
+      "en": "eat",
+      "spokenText": "eat",
+      "zh": "吃",
+      "ipa": "/iːt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "eat.mp3"
+    },
+    "dogs": {
+      "key": "dogs",
+      "en": "Dogs",
+      "spokenText": "dogs",
+      "zh": "狗（dog 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "dog",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/dogs.mp3"
+    },
+    "don't": {
+      "key": "don't",
+      "en": "don't",
+      "spokenText": "don't",
+      "zh": "do not 的缩写；不（用于否定）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "do not",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/don-t.mp3"
+    },
+    "cake": {
+      "key": "cake",
+      "en": "cake",
+      "spokenText": "cake",
+      "zh": "蛋糕",
+      "ipa": "/keɪk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "cake.mp3"
+    },
+    "oh": {
+      "key": "oh",
+      "en": "Oh",
+      "spokenText": "oh",
+      "zh": "哦；啊",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/oh.mp3"
+    },
+    "cut": {
+      "key": "cut",
+      "en": "cut",
+      "spokenText": "cut",
+      "zh": "切块",
+      "ipa": "/kʌt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "cut.mp3"
+    },
+    "for": {
+      "key": "for",
+      "en": "for",
+      "spokenText": "for",
+      "zh": "给；为了；表示对象或用途",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/for.mp3"
+    },
+    "dog": {
+      "key": "dog",
+      "en": "dog",
+      "spokenText": "dog",
+      "zh": "狗",
+      "ipa": "/dɒɡ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "word-follow/cd6357efdd966de8.mp3"
+    },
+    "people": {
+      "key": "people",
+      "en": "people",
+      "spokenText": "people",
+      "zh": "人；人们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/people.mp3"
+    },
+    "there": {
+      "key": "there",
+      "en": "there",
+      "spokenText": "there",
+      "zh": "那里；在那儿",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/there.mp3"
+    },
+    "matt": {
+      "key": "matt",
+      "en": "Matt",
+      "spokenText": "Matt",
+      "zh": "马特（人名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/matt.mp3"
+    },
+    "invited": {
+      "key": "invited",
+      "en": "invited",
+      "spokenText": "invited",
+      "zh": "受邀的；被邀请（invite 的过去分词）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "invite",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/invited.mp3"
+    },
+    "xinxin's": {
+      "key": "xinxin's",
+      "en": "Xinxin's",
+      "spokenText": "xinxin's",
+      "zh": "欣欣的（人名的所有格）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "Xinxin",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/xinxin-s.mp3"
+    },
+    "6th": {
+      "key": "6th",
+      "en": "6th",
+      "spokenText": "sixth",
+      "zh": "第六（序数词 sixth）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "six",
+      "expanded": "",
+      "note": "课文写作 6th，朗读为 sixth；不是字母 th。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/6th.mp3"
+    },
+    "party": {
+      "key": "party",
+      "en": "party",
+      "spokenText": "party",
+      "zh": "聚会",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/party.mp3"
+    },
+    "p.m.": {
+      "key": "p.m.",
+      "en": "p.m.",
+      "spokenText": "p.m.",
+      "zh": "下午（用于时间后）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "post meridiem",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "word-follow/36e11c186286bdb7.mp3"
+    },
+    "home": {
+      "key": "home",
+      "en": "home",
+      "spokenText": "home",
+      "zh": "家",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/home.mp3"
+    },
+    "now": {
+      "key": "now",
+      "en": "now",
+      "spokenText": "now",
+      "zh": "现在",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/now.mp3"
+    },
+    "time": {
+      "key": "time",
+      "en": "time",
+      "spokenText": "time",
+      "zh": "时间",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/time.mp3"
+    },
+    "on": {
+      "key": "on",
+      "en": "on",
+      "spokenText": "on",
+      "zh": "在……上面；用于具体日期前",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/on.mp3"
+    },
+    "card": {
+      "key": "card",
+      "en": "card",
+      "spokenText": "card",
+      "zh": "卡片",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/card.mp3"
+    },
+    "cards": {
+      "key": "cards",
+      "en": "cards",
+      "spokenText": "cards",
+      "zh": "卡片（card 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "card",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/cards.mp3"
+    },
+    "what's": {
+      "key": "what's",
+      "en": "What's",
+      "spokenText": "What's",
+      "zh": "what is 的缩写；是什么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "what is",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/what-s.mp3"
+    },
+    "hmm": {
+      "key": "hmm",
+      "en": "Hmm",
+      "spokenText": "hmm",
+      "zh": "嗯（思考时的声音）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/hmm.mp3"
+    },
+    "you're": {
+      "key": "you're",
+      "en": "You're",
+      "spokenText": "You're",
+      "zh": "you are 的缩写；你是；你们是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "you are",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/you-re.mp3"
+    },
+    "right": {
+      "key": "right",
+      "en": "right",
+      "spokenText": "Right.",
+      "zh": "对。",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "sentence-91.mp3"
+    },
+    "again": {
+      "key": "again",
+      "en": "again",
+      "spokenText": "again",
+      "zh": "再一次；又",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/again.mp3"
+    },
+    "in": {
+      "key": "in",
+      "en": "in",
+      "spokenText": "in",
+      "zh": "在……里面",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/in.mp3"
+    },
+    "chinese": {
+      "key": "chinese",
+      "en": "Chinese",
+      "spokenText": "Chinese",
+      "zh": "汉语；中文",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "本课 in Chinese 表示“用汉语”。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/chinese.mp3"
+    },
+    "about": {
+      "key": "about",
+      "en": "about",
+      "spokenText": "about",
+      "zh": "关于",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/about.mp3"
+    },
+    "know": {
+      "key": "know",
+      "en": "know",
+      "spokenText": "know",
+      "zh": "知道；认识",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/know.mp3"
+    },
+    "jiaguwen": {
+      "key": "jiaguwen",
+      "en": "jiaguwen",
+      "spokenText": "Jiaguwen",
+      "zh": "甲骨文（课文使用的汉语拼音名称）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "汉语拼音名称；英语合成读法待核听，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/jiaguwen.mp3"
+    },
+    "number": {
+      "key": "number",
+      "en": "number",
+      "spokenText": "number",
+      "zh": "数字",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/number.mp3"
+    },
+    "over": {
+      "key": "over",
+      "en": "over",
+      "spokenText": "over",
+      "zh": "超过（本课用于表示年龄或年代）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "supplemental/over.mp3"
+    },
+    "3,000": {
+      "key": "3,000",
+      "en": "3,000",
+      "spokenText": "three thousand",
+      "zh": "三千",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "word-follow/5161dfd1e2d5f4fb.mp3"
+    }
+  },
+  "sentences": {
+    "Why are numbers important?": {
+      "en": "Why are numbers important?",
+      "zh": "数字为什么重要？",
+      "tokens": [
+        {
+          "text": "Why",
+          "start": 0,
+          "end": 3,
+          "key": "why"
+        },
+        {
+          "text": "are",
+          "start": 4,
+          "end": 7,
+          "key": "are"
+        },
+        {
+          "text": "numbers",
+          "start": 8,
+          "end": 15,
+          "key": "numbers"
+        },
+        {
+          "text": "important",
+          "start": 16,
+          "end": 25,
+          "key": "important"
+        }
+      ]
+    },
+    "What numbers do you see?": {
+      "en": "What numbers do you see?",
+      "zh": "你看到了哪些数字？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "numbers",
+          "start": 5,
+          "end": 12,
+          "key": "numbers"
+        },
+        {
+          "text": "do",
+          "start": 13,
+          "end": 15,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 16,
+          "end": 19,
+          "key": "you"
+        },
+        {
+          "text": "see",
+          "start": 20,
+          "end": 23,
+          "key": "see"
+        }
+      ]
+    },
+    "Where do you see numbers?": {
+      "en": "Where do you see numbers?",
+      "zh": "你在哪里见过数字？",
+      "tokens": [
+        {
+          "text": "Where",
+          "start": 0,
+          "end": 5,
+          "key": "where"
+        },
+        {
+          "text": "do",
+          "start": 6,
+          "end": 8,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 9,
+          "end": 12,
+          "key": "you"
+        },
+        {
+          "text": "see",
+          "start": 13,
+          "end": 16,
+          "key": "see"
+        },
+        {
+          "text": "numbers",
+          "start": 17,
+          "end": 24,
+          "key": "numbers"
+        }
+      ]
+    },
+    "One boy, two boys,": {
+      "en": "One boy, two boys,",
+      "zh": "一个男孩，两个男孩，",
+      "tokens": [
+        {
+          "text": "One",
+          "start": 0,
+          "end": 3,
+          "key": "one"
+        },
+        {
+          "text": "boy",
+          "start": 4,
+          "end": 7,
+          "key": "boy"
+        },
+        {
+          "text": "two",
+          "start": 9,
+          "end": 12,
+          "key": "two"
+        },
+        {
+          "text": "boys",
+          "start": 13,
+          "end": 17,
+          "key": "boys"
+        }
+      ]
+    },
+    "Three boys, four!": {
+      "en": "Three boys, four!",
+      "zh": "三个男孩，四个男孩！",
+      "tokens": [
+        {
+          "text": "Three",
+          "start": 0,
+          "end": 5,
+          "key": "three"
+        },
+        {
+          "text": "boys",
+          "start": 6,
+          "end": 10,
+          "key": "boys"
+        },
+        {
+          "text": "four",
+          "start": 12,
+          "end": 16,
+          "key": "four"
+        }
+      ]
+    },
+    "Five boys, six boys,": {
+      "en": "Five boys, six boys,",
+      "zh": "五个男孩，六个男孩，",
+      "tokens": [
+        {
+          "text": "Five",
+          "start": 0,
+          "end": 4,
+          "key": "five"
+        },
+        {
+          "text": "boys",
+          "start": 5,
+          "end": 9,
+          "key": "boys"
+        },
+        {
+          "text": "six",
+          "start": 11,
+          "end": 14,
+          "key": "six"
+        },
+        {
+          "text": "boys",
+          "start": 15,
+          "end": 19,
+          "key": "boys"
+        }
+      ]
+    },
+    "Seven boys, more!": {
+      "en": "Seven boys, more!",
+      "zh": "七个男孩，还有更多！",
+      "tokens": [
+        {
+          "text": "Seven",
+          "start": 0,
+          "end": 5,
+          "key": "seven"
+        },
+        {
+          "text": "boys",
+          "start": 6,
+          "end": 10,
+          "key": "boys"
+        },
+        {
+          "text": "more",
+          "start": 12,
+          "end": 16,
+          "key": "more"
+        }
+      ]
+    },
+    "When do we use numbers?": {
+      "en": "When do we use numbers?",
+      "zh": "我们什么时候使用数字？",
+      "tokens": [
+        {
+          "text": "When",
+          "start": 0,
+          "end": 4,
+          "key": "when"
+        },
+        {
+          "text": "do",
+          "start": 5,
+          "end": 7,
+          "key": "do"
+        },
+        {
+          "text": "we",
+          "start": 8,
+          "end": 10,
+          "key": "we"
+        },
+        {
+          "text": "use",
+          "start": 11,
+          "end": 14,
+          "key": "use"
+        },
+        {
+          "text": "numbers",
+          "start": 15,
+          "end": 22,
+          "key": "numbers"
+        }
+      ]
+    },
+    "Binbin, this is my brother, Sam.": {
+      "en": "Binbin, this is my brother, Sam.",
+      "zh": "彬彬，这是我的弟弟／哥哥萨姆。",
+      "tokens": [
+        {
+          "text": "Binbin",
+          "start": 0,
+          "end": 6,
+          "key": "binbin"
+        },
+        {
+          "text": "this",
+          "start": 8,
+          "end": 12,
+          "key": "this"
+        },
+        {
+          "text": "is",
+          "start": 13,
+          "end": 15,
+          "key": "is"
+        },
+        {
+          "text": "my",
+          "start": 16,
+          "end": 18,
+          "key": "my"
+        },
+        {
+          "text": "brother",
+          "start": 19,
+          "end": 26,
+          "key": "brother"
+        },
+        {
+          "text": "Sam",
+          "start": 28,
+          "end": 31,
+          "key": "sam"
+        }
+      ]
+    },
+    "Hi, Sam! This is my sister, Xinxin.": {
+      "en": "Hi, Sam! This is my sister, Xinxin.",
+      "zh": "你好，萨姆！这是我的妹妹／姐姐欣欣。",
+      "tokens": [
+        {
+          "text": "Hi",
+          "start": 0,
+          "end": 2,
+          "key": "hi"
+        },
+        {
+          "text": "Sam",
+          "start": 4,
+          "end": 7,
+          "key": "sam"
+        },
+        {
+          "text": "This",
+          "start": 9,
+          "end": 13,
+          "key": "this"
+        },
+        {
+          "text": "is",
+          "start": 14,
+          "end": 16,
+          "key": "is"
+        },
+        {
+          "text": "my",
+          "start": 17,
+          "end": 19,
+          "key": "my"
+        },
+        {
+          "text": "sister",
+          "start": 20,
+          "end": 26,
+          "key": "sister"
+        },
+        {
+          "text": "Xinxin",
+          "start": 28,
+          "end": 34,
+          "key": "xinxin"
+        }
+      ]
+    },
+    "Hello, Xinxin!": {
+      "en": "Hello, Xinxin!",
+      "zh": "你好，欣欣！",
+      "tokens": [
+        {
+          "text": "Hello",
+          "start": 0,
+          "end": 5,
+          "key": "hello"
+        },
+        {
+          "text": "Xinxin",
+          "start": 7,
+          "end": 13,
+          "key": "xinxin"
+        }
+      ]
+    },
+    "Hi, Sam!": {
+      "en": "Hi, Sam!",
+      "zh": "你好，萨姆！",
+      "tokens": [
+        {
+          "text": "Hi",
+          "start": 0,
+          "end": 2,
+          "key": "hi"
+        },
+        {
+          "text": "Sam",
+          "start": 4,
+          "end": 7,
+          "key": "sam"
+        }
+      ]
+    },
+    "How old are you?": {
+      "en": "How old are you?",
+      "zh": "你几岁了？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "old",
+          "start": 4,
+          "end": 7,
+          "key": "old"
+        },
+        {
+          "text": "are",
+          "start": 8,
+          "end": 11,
+          "key": "are"
+        },
+        {
+          "text": "you",
+          "start": 12,
+          "end": 15,
+          "key": "you"
+        }
+      ]
+    },
+    "I'm five years old.": {
+      "en": "I'm five years old.",
+      "zh": "我五岁了。",
+      "tokens": [
+        {
+          "text": "I'm",
+          "start": 0,
+          "end": 3,
+          "key": "i'm"
+        },
+        {
+          "text": "five",
+          "start": 4,
+          "end": 8,
+          "key": "five"
+        },
+        {
+          "text": "years",
+          "start": 9,
+          "end": 14,
+          "key": "years"
+        },
+        {
+          "text": "old",
+          "start": 15,
+          "end": 18,
+          "key": "old"
+        }
+      ]
+    },
+    "Me too.": {
+      "en": "Me too.",
+      "zh": "我也是。",
+      "tokens": [
+        {
+          "text": "Me",
+          "start": 0,
+          "end": 2,
+          "key": "me"
+        },
+        {
+          "text": "too",
+          "start": 3,
+          "end": 6,
+          "key": "too"
+        }
+      ]
+    },
+    "Hello, Xiaoli! How old are you?": {
+      "en": "Hello, Xiaoli! How old are you?",
+      "zh": "你好，小丽！你几岁了？",
+      "tokens": [
+        {
+          "text": "Hello",
+          "start": 0,
+          "end": 5,
+          "key": "hello"
+        },
+        {
+          "text": "Xiaoli",
+          "start": 7,
+          "end": 13,
+          "key": "xiaoli"
+        },
+        {
+          "text": "How",
+          "start": 15,
+          "end": 18,
+          "key": "how"
+        },
+        {
+          "text": "old",
+          "start": 19,
+          "end": 22,
+          "key": "old"
+        },
+        {
+          "text": "are",
+          "start": 23,
+          "end": 26,
+          "key": "are"
+        },
+        {
+          "text": "you",
+          "start": 27,
+          "end": 30,
+          "key": "you"
+        }
+      ]
+    },
+    "1, 2, ...": {
+      "en": "1, 2, ...",
+      "zh": "一、二……",
+      "tokens": [
+        {
+          "text": "1",
+          "start": 0,
+          "end": 1,
+          "key": "1"
+        },
+        {
+          "text": "2",
+          "start": 3,
+          "end": 4,
+          "key": "2"
+        }
+      ]
+    },
+    "Jump! Jump! Jump! One, two, three!": {
+      "en": "Jump! Jump! Jump! One, two, three!",
+      "zh": "跳！跳！跳！一、二、三！",
+      "tokens": [
+        {
+          "text": "Jump",
+          "start": 0,
+          "end": 4,
+          "key": "jump"
+        },
+        {
+          "text": "Jump",
+          "start": 6,
+          "end": 10,
+          "key": "jump"
+        },
+        {
+          "text": "Jump",
+          "start": 12,
+          "end": 16,
+          "key": "jump"
+        },
+        {
+          "text": "One",
+          "start": 18,
+          "end": 21,
+          "key": "one"
+        },
+        {
+          "text": "two",
+          "start": 23,
+          "end": 26,
+          "key": "two"
+        },
+        {
+          "text": "three",
+          "start": 28,
+          "end": 33,
+          "key": "three"
+        }
+      ]
+    },
+    "Jump! Jump! Jump! Three, two, one!": {
+      "en": "Jump! Jump! Jump! Three, two, one!",
+      "zh": "跳！跳！跳！三、二、一！",
+      "tokens": [
+        {
+          "text": "Jump",
+          "start": 0,
+          "end": 4,
+          "key": "jump"
+        },
+        {
+          "text": "Jump",
+          "start": 6,
+          "end": 10,
+          "key": "jump"
+        },
+        {
+          "text": "Jump",
+          "start": 12,
+          "end": 16,
+          "key": "jump"
+        },
+        {
+          "text": "Three",
+          "start": 18,
+          "end": 23,
+          "key": "three"
+        },
+        {
+          "text": "two",
+          "start": 25,
+          "end": 28,
+          "key": "two"
+        },
+        {
+          "text": "one",
+          "start": 30,
+          "end": 33,
+          "key": "one"
+        }
+      ]
+    },
+    "Four and five! Four and five!": {
+      "en": "Four and five! Four and five!",
+      "zh": "四和五！四和五！",
+      "tokens": [
+        {
+          "text": "Four",
+          "start": 0,
+          "end": 4,
+          "key": "four"
+        },
+        {
+          "text": "and",
+          "start": 5,
+          "end": 8,
+          "key": "and"
+        },
+        {
+          "text": "five",
+          "start": 9,
+          "end": 13,
+          "key": "five"
+        },
+        {
+          "text": "Four",
+          "start": 15,
+          "end": 19,
+          "key": "four"
+        },
+        {
+          "text": "and",
+          "start": 20,
+          "end": 23,
+          "key": "and"
+        },
+        {
+          "text": "five",
+          "start": 24,
+          "end": 28,
+          "key": "five"
+        }
+      ]
+    },
+    "Jump up high! Jump up high!": {
+      "en": "Jump up high! Jump up high!",
+      "zh": "往高处跳！往高处跳！",
+      "tokens": [
+        {
+          "text": "Jump",
+          "start": 0,
+          "end": 4,
+          "key": "jump"
+        },
+        {
+          "text": "up",
+          "start": 5,
+          "end": 7,
+          "key": "up"
+        },
+        {
+          "text": "high",
+          "start": 8,
+          "end": 12,
+          "key": "high"
+        },
+        {
+          "text": "Jump",
+          "start": 14,
+          "end": 18,
+          "key": "jump"
+        },
+        {
+          "text": "up",
+          "start": 19,
+          "end": 21,
+          "key": "up"
+        },
+        {
+          "text": "high",
+          "start": 22,
+          "end": 26,
+          "key": "high"
+        }
+      ]
+    },
+    "Five! Four! Three, two, one!": {
+      "en": "Five! Four! Three, two, one!",
+      "zh": "五！四！三、二、一！",
+      "tokens": [
+        {
+          "text": "Five",
+          "start": 0,
+          "end": 4,
+          "key": "five"
+        },
+        {
+          "text": "Four",
+          "start": 6,
+          "end": 10,
+          "key": "four"
+        },
+        {
+          "text": "Three",
+          "start": 12,
+          "end": 17,
+          "key": "three"
+        },
+        {
+          "text": "two",
+          "start": 19,
+          "end": 22,
+          "key": "two"
+        },
+        {
+          "text": "one",
+          "start": 24,
+          "end": 27,
+          "key": "one"
+        }
+      ]
+    },
+    "Jump! Jump! It's such fun!": {
+      "en": "Jump! Jump! It's such fun!",
+      "zh": "跳！跳！真好玩！",
+      "tokens": [
+        {
+          "text": "Jump",
+          "start": 0,
+          "end": 4,
+          "key": "jump"
+        },
+        {
+          "text": "Jump",
+          "start": 6,
+          "end": 10,
+          "key": "jump"
+        },
+        {
+          "text": "It's",
+          "start": 12,
+          "end": 16,
+          "key": "it's"
+        },
+        {
+          "text": "such",
+          "start": 17,
+          "end": 21,
+          "key": "such"
+        },
+        {
+          "text": "fun",
+          "start": 22,
+          "end": 25,
+          "key": "fun"
+        }
+      ]
+    },
+    "How useful are numbers?": {
+      "en": "How useful are numbers?",
+      "zh": "数字有多大用处？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "useful",
+          "start": 4,
+          "end": 10,
+          "key": "useful"
+        },
+        {
+          "text": "are",
+          "start": 11,
+          "end": 14,
+          "key": "are"
+        },
+        {
+          "text": "numbers",
+          "start": 15,
+          "end": 22,
+          "key": "numbers"
+        }
+      ]
+    },
+    "How many apples?": {
+      "en": "How many apples?",
+      "zh": "几个苹果？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "many",
+          "start": 4,
+          "end": 8,
+          "key": "many"
+        },
+        {
+          "text": "apples",
+          "start": 9,
+          "end": 15,
+          "key": "apples"
+        }
+      ]
+    },
+    "How many bananas?": {
+      "en": "How many bananas?",
+      "zh": "几根香蕉？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "many",
+          "start": 4,
+          "end": 8,
+          "key": "many"
+        },
+        {
+          "text": "bananas",
+          "start": 9,
+          "end": 16,
+          "key": "bananas"
+        }
+      ]
+    },
+    "Three. And one orange.": {
+      "en": "Three. And one orange.",
+      "zh": "三根。还有一个橙子。",
+      "tokens": [
+        {
+          "text": "Three",
+          "start": 0,
+          "end": 5,
+          "key": "three"
+        },
+        {
+          "text": "And",
+          "start": 7,
+          "end": 10,
+          "key": "and"
+        },
+        {
+          "text": "one",
+          "start": 11,
+          "end": 14,
+          "key": "one"
+        },
+        {
+          "text": "orange",
+          "start": 15,
+          "end": 21,
+          "key": "orange"
+        }
+      ]
+    },
+    "I have ten yuan.": {
+      "en": "I have ten yuan.",
+      "zh": "我有十元。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "have",
+          "start": 2,
+          "end": 6,
+          "key": "have"
+        },
+        {
+          "text": "ten",
+          "start": 7,
+          "end": 10,
+          "key": "ten"
+        },
+        {
+          "text": "yuan",
+          "start": 11,
+          "end": 15,
+          "key": "yuan"
+        }
+      ]
+    },
+    "I have six yuan.": {
+      "en": "I have six yuan.",
+      "zh": "我有六元。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "have",
+          "start": 2,
+          "end": 6,
+          "key": "have"
+        },
+        {
+          "text": "six",
+          "start": 7,
+          "end": 10,
+          "key": "six"
+        },
+        {
+          "text": "yuan",
+          "start": 11,
+          "end": 15,
+          "key": "yuan"
+        }
+      ]
+    },
+    "Great! Let's go to the shop!": {
+      "en": "Great! Let's go to the shop!",
+      "zh": "好极了！我们一起去商店吧！",
+      "tokens": [
+        {
+          "text": "Great",
+          "start": 0,
+          "end": 5,
+          "key": "great"
+        },
+        {
+          "text": "Let's",
+          "start": 7,
+          "end": 12,
+          "key": "let's"
+        },
+        {
+          "text": "go",
+          "start": 13,
+          "end": 15,
+          "key": "go"
+        },
+        {
+          "text": "to",
+          "start": 16,
+          "end": 18,
+          "key": "to"
+        },
+        {
+          "text": "the",
+          "start": 19,
+          "end": 22,
+          "key": "the"
+        },
+        {
+          "text": "shop",
+          "start": 23,
+          "end": 27,
+          "key": "shop"
+        }
+      ]
+    },
+    "How many lions?": {
+      "en": "How many lions?",
+      "zh": "几只狮子？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "many",
+          "start": 4,
+          "end": 8,
+          "key": "many"
+        },
+        {
+          "text": "lions",
+          "start": 9,
+          "end": 14,
+          "key": "lions"
+        }
+      ]
+    },
+    "That's ten yuan, please.": {
+      "en": "That's ten yuan, please.",
+      "zh": "（共）十元，谢谢。",
+      "tokens": [
+        {
+          "text": "That's",
+          "start": 0,
+          "end": 6,
+          "key": "that's"
+        },
+        {
+          "text": "ten",
+          "start": 7,
+          "end": 10,
+          "key": "ten"
+        },
+        {
+          "text": "yuan",
+          "start": 11,
+          "end": 15,
+          "key": "yuan"
+        },
+        {
+          "text": "please",
+          "start": 17,
+          "end": 23,
+          "key": "please"
+        }
+      ]
+    },
+    "Here you are.": {
+      "en": "Here you are.",
+      "zh": "给您。",
+      "tokens": [
+        {
+          "text": "Here",
+          "start": 0,
+          "end": 4,
+          "key": "here"
+        },
+        {
+          "text": "you",
+          "start": 5,
+          "end": 8,
+          "key": "you"
+        },
+        {
+          "text": "are",
+          "start": 9,
+          "end": 12,
+          "key": "are"
+        }
+      ]
+    },
+    "One head, two legs, ten toes.": {
+      "en": "One head, two legs, ten toes.",
+      "zh": "一个头，两条腿，十个脚趾。",
+      "tokens": [
+        {
+          "text": "One",
+          "start": 0,
+          "end": 3,
+          "key": "one"
+        },
+        {
+          "text": "head",
+          "start": 4,
+          "end": 8,
+          "key": "head"
+        },
+        {
+          "text": "two",
+          "start": 10,
+          "end": 13,
+          "key": "two"
+        },
+        {
+          "text": "legs",
+          "start": 14,
+          "end": 18,
+          "key": "legs"
+        },
+        {
+          "text": "ten",
+          "start": 20,
+          "end": 23,
+          "key": "ten"
+        },
+        {
+          "text": "toes",
+          "start": 24,
+          "end": 28,
+          "key": "toes"
+        }
+      ]
+    },
+    "I am a child.": {
+      "en": "I am a child.",
+      "zh": "我是一个孩子。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 2,
+          "end": 4,
+          "key": "am"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "child",
+          "start": 7,
+          "end": 12,
+          "key": "child"
+        }
+      ]
+    },
+    "One head, eight eyes, eight legs.": {
+      "en": "One head, eight eyes, eight legs.",
+      "zh": "一个头，八只眼睛，八条腿。",
+      "tokens": [
+        {
+          "text": "One",
+          "start": 0,
+          "end": 3,
+          "key": "one"
+        },
+        {
+          "text": "head",
+          "start": 4,
+          "end": 8,
+          "key": "head"
+        },
+        {
+          "text": "eight",
+          "start": 10,
+          "end": 15,
+          "key": "eight"
+        },
+        {
+          "text": "eyes",
+          "start": 16,
+          "end": 20,
+          "key": "eyes"
+        },
+        {
+          "text": "eight",
+          "start": 22,
+          "end": 27,
+          "key": "eight"
+        },
+        {
+          "text": "legs",
+          "start": 28,
+          "end": 32,
+          "key": "legs"
+        }
+      ]
+    },
+    "I am a spider.": {
+      "en": "I am a spider.",
+      "zh": "我是一只蜘蛛。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 2,
+          "end": 4,
+          "key": "am"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "spider",
+          "start": 7,
+          "end": 13,
+          "key": "spider"
+        }
+      ]
+    },
+    "One head, four wings, six legs.": {
+      "en": "One head, four wings, six legs.",
+      "zh": "一个头，四只翅膀，六条腿。",
+      "tokens": [
+        {
+          "text": "One",
+          "start": 0,
+          "end": 3,
+          "key": "one"
+        },
+        {
+          "text": "head",
+          "start": 4,
+          "end": 8,
+          "key": "head"
+        },
+        {
+          "text": "four",
+          "start": 10,
+          "end": 14,
+          "key": "four"
+        },
+        {
+          "text": "wings",
+          "start": 15,
+          "end": 20,
+          "key": "wings"
+        },
+        {
+          "text": "six",
+          "start": 22,
+          "end": 25,
+          "key": "six"
+        },
+        {
+          "text": "legs",
+          "start": 26,
+          "end": 30,
+          "key": "legs"
+        }
+      ]
+    },
+    "I am a bee.": {
+      "en": "I am a bee.",
+      "zh": "我是一只蜜蜂。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 2,
+          "end": 4,
+          "key": "am"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "bee",
+          "start": 7,
+          "end": 10,
+          "key": "bee"
+        }
+      ]
+    },
+    "It's seven o'clock. Hurry!": {
+      "en": "It's seven o'clock. Hurry!",
+      "zh": "七点了。快点！",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "seven",
+          "start": 5,
+          "end": 10,
+          "key": "seven"
+        },
+        {
+          "text": "o'clock",
+          "start": 11,
+          "end": 18,
+          "key": "o'clock"
+        },
+        {
+          "text": "Hurry",
+          "start": 20,
+          "end": 25,
+          "key": "hurry"
+        }
+      ]
+    },
+    "One orange, two apples and three bananas.": {
+      "en": "One orange, two apples and three bananas.",
+      "zh": "一个橙子、两个苹果和三根香蕉。",
+      "tokens": [
+        {
+          "text": "One",
+          "start": 0,
+          "end": 3,
+          "key": "one"
+        },
+        {
+          "text": "orange",
+          "start": 4,
+          "end": 10,
+          "key": "orange"
+        },
+        {
+          "text": "two",
+          "start": 12,
+          "end": 15,
+          "key": "two"
+        },
+        {
+          "text": "apples",
+          "start": 16,
+          "end": 22,
+          "key": "apples"
+        },
+        {
+          "text": "and",
+          "start": 23,
+          "end": 26,
+          "key": "and"
+        },
+        {
+          "text": "three",
+          "start": 27,
+          "end": 32,
+          "key": "three"
+        },
+        {
+          "text": "bananas",
+          "start": 33,
+          "end": 40,
+          "key": "bananas"
+        }
+      ]
+    },
+    "Happy birthday!": {
+      "en": "Happy birthday!",
+      "zh": "生日快乐！",
+      "tokens": [
+        {
+          "text": "Happy",
+          "start": 0,
+          "end": 5,
+          "key": "happy"
+        },
+        {
+          "text": "birthday",
+          "start": 6,
+          "end": 14,
+          "key": "birthday"
+        }
+      ]
+    },
+    "Three cuts. Let's eat!": {
+      "en": "Three cuts. Let's eat!",
+      "zh": "切三刀。我们吃吧！",
+      "tokens": [
+        {
+          "text": "Three",
+          "start": 0,
+          "end": 5,
+          "key": "three"
+        },
+        {
+          "text": "cuts",
+          "start": 6,
+          "end": 10,
+          "key": "cuts"
+        },
+        {
+          "text": "Let's",
+          "start": 12,
+          "end": 17,
+          "key": "let's"
+        },
+        {
+          "text": "eat",
+          "start": 18,
+          "end": 21,
+          "key": "eat"
+        }
+      ]
+    },
+    "Dogs don't eat cake, Sam!": {
+      "en": "Dogs don't eat cake, Sam!",
+      "zh": "萨姆，狗不能吃蛋糕！",
+      "tokens": [
+        {
+          "text": "Dogs",
+          "start": 0,
+          "end": 4,
+          "key": "dogs"
+        },
+        {
+          "text": "don't",
+          "start": 5,
+          "end": 10,
+          "key": "don't"
+        },
+        {
+          "text": "eat",
+          "start": 11,
+          "end": 14,
+          "key": "eat"
+        },
+        {
+          "text": "cake",
+          "start": 15,
+          "end": 19,
+          "key": "cake"
+        },
+        {
+          "text": "Sam",
+          "start": 21,
+          "end": 24,
+          "key": "sam"
+        }
+      ]
+    },
+    "Oh, one more cut for the dog.": {
+      "en": "Oh, one more cut for the dog.",
+      "zh": "噢，再切一块给小狗。",
+      "tokens": [
+        {
+          "text": "Oh",
+          "start": 0,
+          "end": 2,
+          "key": "oh"
+        },
+        {
+          "text": "one",
+          "start": 4,
+          "end": 7,
+          "key": "one"
+        },
+        {
+          "text": "more",
+          "start": 8,
+          "end": 12,
+          "key": "more"
+        },
+        {
+          "text": "cut",
+          "start": 13,
+          "end": 16,
+          "key": "cut"
+        },
+        {
+          "text": "for",
+          "start": 17,
+          "end": 20,
+          "key": "for"
+        },
+        {
+          "text": "the",
+          "start": 21,
+          "end": 24,
+          "key": "the"
+        },
+        {
+          "text": "dog",
+          "start": 25,
+          "end": 28,
+          "key": "dog"
+        }
+      ]
+    },
+    "How many people are there?": {
+      "en": "How many people are there?",
+      "zh": "有多少人？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "many",
+          "start": 4,
+          "end": 8,
+          "key": "many"
+        },
+        {
+          "text": "people",
+          "start": 9,
+          "end": 15,
+          "key": "people"
+        },
+        {
+          "text": "are",
+          "start": 16,
+          "end": 19,
+          "key": "are"
+        },
+        {
+          "text": "there",
+          "start": 20,
+          "end": 25,
+          "key": "there"
+        }
+      ]
+    },
+    "How old is Matt?": {
+      "en": "How old is Matt?",
+      "zh": "马特几岁了？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "old",
+          "start": 4,
+          "end": 7,
+          "key": "old"
+        },
+        {
+          "text": "is",
+          "start": 8,
+          "end": 10,
+          "key": "is"
+        },
+        {
+          "text": "Matt",
+          "start": 11,
+          "end": 15,
+          "key": "matt"
+        }
+      ]
+    },
+    "You are invited!": {
+      "en": "You are invited!",
+      "zh": "邀请你参加！",
+      "tokens": [
+        {
+          "text": "You",
+          "start": 0,
+          "end": 3,
+          "key": "you"
+        },
+        {
+          "text": "are",
+          "start": 4,
+          "end": 7,
+          "key": "are"
+        },
+        {
+          "text": "invited",
+          "start": 8,
+          "end": 15,
+          "key": "invited"
+        }
+      ]
+    },
+    "to Xinxin's 6th birthday party!": {
+      "en": "to Xinxin's 6th birthday party!",
+      "zh": "参加欣欣的六岁生日聚会！",
+      "tokens": [
+        {
+          "text": "to",
+          "start": 0,
+          "end": 2,
+          "key": "to"
+        },
+        {
+          "text": "Xinxin's",
+          "start": 3,
+          "end": 11,
+          "key": "xinxin's"
+        },
+        {
+          "text": "6th",
+          "start": 12,
+          "end": 15,
+          "key": "6th"
+        },
+        {
+          "text": "birthday",
+          "start": 16,
+          "end": 24,
+          "key": "birthday"
+        },
+        {
+          "text": "party",
+          "start": 25,
+          "end": 30,
+          "key": "party"
+        }
+      ]
+    },
+    "5 p.m.": {
+      "en": "5 p.m.",
+      "zh": "下午五点",
+      "tokens": [
+        {
+          "text": "5",
+          "start": 0,
+          "end": 1,
+          "key": "5"
+        },
+        {
+          "text": "p.m.",
+          "start": 2,
+          "end": 6,
+          "key": "p.m."
+        }
+      ]
+    },
+    "Xinxin's home": {
+      "en": "Xinxin's home",
+      "zh": "欣欣的家",
+      "tokens": [
+        {
+          "text": "Xinxin's",
+          "start": 0,
+          "end": 8,
+          "key": "xinxin's"
+        },
+        {
+          "text": "home",
+          "start": 9,
+          "end": 13,
+          "key": "home"
+        }
+      ]
+    },
+    "How old is Xinxin now?": {
+      "en": "How old is Xinxin now?",
+      "zh": "欣欣现在几岁了？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "old",
+          "start": 4,
+          "end": 7,
+          "key": "old"
+        },
+        {
+          "text": "is",
+          "start": 8,
+          "end": 10,
+          "key": "is"
+        },
+        {
+          "text": "Xinxin",
+          "start": 11,
+          "end": 17,
+          "key": "xinxin"
+        },
+        {
+          "text": "now",
+          "start": 18,
+          "end": 21,
+          "key": "now"
+        }
+      ]
+    },
+    "What time is the party?": {
+      "en": "What time is the party?",
+      "zh": "聚会在几点？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "time",
+          "start": 5,
+          "end": 9,
+          "key": "time"
+        },
+        {
+          "text": "is",
+          "start": 10,
+          "end": 12,
+          "key": "is"
+        },
+        {
+          "text": "the",
+          "start": 13,
+          "end": 16,
+          "key": "the"
+        },
+        {
+          "text": "party",
+          "start": 17,
+          "end": 22,
+          "key": "party"
+        }
+      ]
+    },
+    "What numbers do you see on the card?": {
+      "en": "What numbers do you see on the card?",
+      "zh": "你在卡片上看到了哪些数字？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "numbers",
+          "start": 5,
+          "end": 12,
+          "key": "numbers"
+        },
+        {
+          "text": "do",
+          "start": 13,
+          "end": 15,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 16,
+          "end": 19,
+          "key": "you"
+        },
+        {
+          "text": "see",
+          "start": 20,
+          "end": 23,
+          "key": "see"
+        },
+        {
+          "text": "on",
+          "start": 24,
+          "end": 26,
+          "key": "on"
+        },
+        {
+          "text": "the",
+          "start": 27,
+          "end": 30,
+          "key": "the"
+        },
+        {
+          "text": "card",
+          "start": 31,
+          "end": 35,
+          "key": "card"
+        }
+      ]
+    },
+    "How many cards?": {
+      "en": "How many cards?",
+      "zh": "有几张卡片？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "many",
+          "start": 4,
+          "end": 8,
+          "key": "many"
+        },
+        {
+          "text": "cards",
+          "start": 9,
+          "end": 14,
+          "key": "cards"
+        }
+      ]
+    },
+    "What's this?": {
+      "en": "What's this?",
+      "zh": "这是什么？",
+      "tokens": [
+        {
+          "text": "What's",
+          "start": 0,
+          "end": 6,
+          "key": "what's"
+        },
+        {
+          "text": "this",
+          "start": 7,
+          "end": 11,
+          "key": "this"
+        }
+      ]
+    },
+    "Hmm, six?": {
+      "en": "Hmm, six?",
+      "zh": "嗯，六？",
+      "tokens": [
+        {
+          "text": "Hmm",
+          "start": 0,
+          "end": 3,
+          "key": "hmm"
+        },
+        {
+          "text": "six",
+          "start": 5,
+          "end": 8,
+          "key": "six"
+        }
+      ]
+    },
+    "You're right again.": {
+      "en": "You're right again.",
+      "zh": "你又答对了。",
+      "tokens": [
+        {
+          "text": "You're",
+          "start": 0,
+          "end": 6,
+          "key": "you're"
+        },
+        {
+          "text": "right",
+          "start": 7,
+          "end": 12,
+          "key": "right"
+        },
+        {
+          "text": "again",
+          "start": 13,
+          "end": 18,
+          "key": "again"
+        }
+      ]
+    },
+    "It's six in Chinese.": {
+      "en": "It's six in Chinese.",
+      "zh": "这是中文的“六”。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "six",
+          "start": 5,
+          "end": 8,
+          "key": "six"
+        },
+        {
+          "text": "in",
+          "start": 9,
+          "end": 11,
+          "key": "in"
+        },
+        {
+          "text": "Chinese",
+          "start": 12,
+          "end": 19,
+          "key": "chinese"
+        }
+      ]
+    },
+    "What about this?": {
+      "en": "What about this?",
+      "zh": "这个呢？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "about",
+          "start": 5,
+          "end": 10,
+          "key": "about"
+        },
+        {
+          "text": "this",
+          "start": 11,
+          "end": 15,
+          "key": "this"
+        }
+      ]
+    },
+    "I don't know.": {
+      "en": "I don't know.",
+      "zh": "我不知道。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "don't",
+          "start": 2,
+          "end": 7,
+          "key": "don't"
+        },
+        {
+          "text": "know",
+          "start": 8,
+          "end": 12,
+          "key": "know"
+        }
+      ]
+    },
+    "This is six too.": {
+      "en": "This is six too.",
+      "zh": "这也是“六”。",
+      "tokens": [
+        {
+          "text": "This",
+          "start": 0,
+          "end": 4,
+          "key": "this"
+        },
+        {
+          "text": "is",
+          "start": 5,
+          "end": 7,
+          "key": "is"
+        },
+        {
+          "text": "six",
+          "start": 8,
+          "end": 11,
+          "key": "six"
+        },
+        {
+          "text": "too",
+          "start": 12,
+          "end": 15,
+          "key": "too"
+        }
+      ]
+    },
+    "It's a jiaguwen number.": {
+      "en": "It's a jiaguwen number.",
+      "zh": "这是一个甲骨文数字。",
+      "tokens": [
+        {
+          "text": "It's",
+          "start": 0,
+          "end": 4,
+          "key": "it's"
+        },
+        {
+          "text": "a",
+          "start": 5,
+          "end": 6,
+          "key": "a"
+        },
+        {
+          "text": "jiaguwen",
+          "start": 7,
+          "end": 15,
+          "key": "jiaguwen"
+        },
+        {
+          "text": "number",
+          "start": 16,
+          "end": 22,
+          "key": "number"
+        }
+      ]
+    },
+    "Jiaguwen is over 3,000 years old!": {
+      "en": "Jiaguwen is over 3,000 years old!",
+      "zh": "甲骨文有三千多年的历史！",
+      "tokens": [
+        {
+          "text": "Jiaguwen",
+          "start": 0,
+          "end": 8,
+          "key": "jiaguwen"
+        },
+        {
+          "text": "is",
+          "start": 9,
+          "end": 11,
+          "key": "is"
+        },
+        {
+          "text": "over",
+          "start": 12,
+          "end": 16,
+          "key": "over"
+        },
+        {
+          "text": "3,000",
+          "start": 17,
+          "end": 22,
+          "key": "3,000"
+        },
+        {
+          "text": "years",
+          "start": 23,
+          "end": 28,
+          "key": "years"
+        },
+        {
+          "text": "old",
+          "start": 29,
+          "end": 32,
+          "key": "old"
+        }
+      ]
+    }
+  }
+}

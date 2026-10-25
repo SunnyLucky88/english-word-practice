@@ -2,6 +2,7 @@ const AUDIO_BASE = "audio/google-v1/";
 const $=id=>document.getElementById(id),audio=$('audio');
 const words=CONTENT.words,sentences=CONTENT.sentences,expressions=CONTENT.expressions,songs=CONTENT.songs;
 const speedSelect=$('playback-speed');
+let queueGapMs=0,queueGapTimer=null;
 let active=null,queue=[],generation=0,category='key',deck=[],quizIndex=0,answered=false,repeatSequence=null;
 let followEnabled=false,followPaused=false,followTimer=null,followCard=null,pointerHeld=false,touchHeld=false,followedGeneration=-1;
 function applySpeed(){audio.defaultPlaybackRate=Number(speedSelect.value);audio.playbackRate=Number(speedSelect.value);audio.preservesPitch=true;if('webkitPreservesPitch' in audio)audio.webkitPreservesPitch=true;}
@@ -49,6 +50,14 @@ function scrollWindowTo(x,y){
 }
 function followPlayingCard(card){
  if(!followEnabled||followPaused||!card||!card.getClientRects().length||document.visibilityState==='hidden')return false;
+ let wordPanel=card.parentNode;
+ while(wordPanel&&!(wordPanel.classList&&wordPanel.classList.contains('word-follow-panel')))wordPanel=wordPanel.parentNode;
+ if(wordPanel){
+  const box=wordPanel.getBoundingClientRect(),heading=wordPanel.querySelector('.word-follow-heading'),target=card.getBoundingClientRect();
+  const top=box.top+(heading?heading.getBoundingClientRect().height:0)+16,bottom=box.bottom-16;
+  if(target.top<top||target.bottom>bottom)wordPanel.scrollTop+=target.top-top-Math.max(0,(bottom-top-target.height)/2);
+  return true;
+ }
  let bookViewport=card;
  while(bookViewport&&!(bookViewport.classList&&bookViewport.classList.contains('book-viewport')))bookViewport=bookViewport.parentNode;
  if(bookViewport){
@@ -70,11 +79,11 @@ function followPlayingCard(card){
  return true;
 }
 function followCurrentPlayback(){if(!audio.paused&&followPlayingCard(followCard))followedGeneration=generation}
-function finishFollowing(){followEnabled=false;followPaused=false;clearTimeout(followTimer);followCard=null;}
+function finishFollowing(){clearTimeout(queueGapTimer);queueGapTimer=null;queueGapMs=0;followEnabled=false;followPaused=false;clearTimeout(followTimer);followCard=null;}
 function playbackSegments(card){if(!card)return [];if(card.dataset.readIndex===undefined||!card.parentNode)return [card];return [...card.parentNode.querySelectorAll('[data-file="'+card.dataset.file+'"]')].filter(el=>el.dataset.readIndex===card.dataset.readIndex)}
-function play(item,card,continuing=false){if(!continuing)stop();const token=++generation;active=item;followCard=card;document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));playbackSegments(card).forEach(el=>el.classList.add('playing'));audio.src=item.audioUrl||AUDIO_BASE+item.file;applySpeed();$('status').textContent='正在加载：'+audioLabel(item);const result=audio.play();if(result)result.then(()=>{if(token===generation){$('status').textContent='正在播放：'+audioLabel(item)}}).catch(()=>{if(token===generation){queue=[];repeatSequence=null;finishFollowing();document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));$('status').textContent='未能播放，请点击播放器重试，并检查网络和媒体音量。'}})}
-function playSequence(items,container,repeat=false){if(!items.length)return;stop();pointerHeld=false;touchHeld=false;followEnabled=true;followedGeneration=-1;const occurrences={};const entries=items.map((item,index)=>{const cards=container?container.querySelectorAll('[data-file="'+item.file+'"]'):[];const occurrence=occurrences[item.file]||0;occurrences[item.file]=occurrence+1;const card=container&&container.id==='book-canvas'?[...cards].find(el=>el.dataset.readIndex===String(index)):cards[Math.min(occurrence,cards.length-1)];return {item,card:card||null}});queue=entries.slice();if(repeat)repeatSequence=entries;const first=queue.shift();play(first.item,first.card,true)}
-audio.addEventListener('ended',()=>{document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(!queue.length&&repeatSequence)queue=repeatSequence.slice();if(queue.length){const entry=queue.shift();play(entry.item,entry.card,true)}else{finishFollowing();$('status').textContent='播放完毕，可以再读一遍。'}});
+function play(item,card,continuing=false){if(!continuing)stop();const token=++generation;active=item;followCard=card;if(typeof updateWordFollowPlayback==='function')updateWordFollowPlayback(item,card);document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));playbackSegments(card).forEach(el=>el.classList.add('playing'));audio.src=item.audioUrl||AUDIO_BASE+item.file;applySpeed();$('status').textContent='正在加载：'+audioLabel(item);const result=audio.play();if(result)result.then(()=>{if(token===generation){$('status').textContent='正在播放：'+audioLabel(item)}}).catch(()=>{if(token===generation){queue=[];repeatSequence=null;finishFollowing();document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));$('status').textContent='未能播放，请点击播放器重试，并检查网络和媒体音量。'}})}
+function playSequence(items,container,repeat=false,gapMs=0){if(!items.length)return;stop();queueGapMs=gapMs;pointerHeld=false;touchHeld=false;followEnabled=true;followedGeneration=-1;const occurrences={};const entries=items.map((item,index)=>{const cards=container?container.querySelectorAll('[data-file="'+item.file+'"]'):[];const occurrence=occurrences[item.file]||0;occurrences[item.file]=occurrence+1;const card=container&&container.id==='book-canvas'?[...cards].find(el=>el.dataset.readIndex===String(index)):cards[Math.min(occurrence,cards.length-1)];return {item,card:card||null}});queue=entries.slice();if(repeat)repeatSequence=entries;const first=queue.shift();play(first.item,first.card,true)}
+audio.addEventListener('ended',()=>{document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));if(!queue.length&&repeatSequence)queue=repeatSequence.slice();if(queue.length){const entry=queue.shift(),token=generation;if(queueGapMs){queueGapTimer=setTimeout(()=>{queueGapTimer=null;if(token===generation)play(entry.item,entry.card,true)},queueGapMs)}else play(entry.item,entry.card,true)}else{finishFollowing();$('status').textContent='播放完毕，可以再读一遍。'}});
 audio.addEventListener('playing',()=>{if(active)$('status').textContent='正在播放：'+audioLabel(active);followCurrentPlayback()});
 audio.addEventListener('timeupdate',()=>{if(followedGeneration!==generation&&!audio.paused){if(active)$('status').textContent='正在播放：'+audioLabel(active);followCurrentPlayback()}});
 audio.addEventListener('error',()=>{if(audio.getAttribute('src')){queue=[];repeatSequence=null;finishFollowing();document.querySelectorAll('.playing').forEach(el=>el.classList.remove('playing'));$('status').textContent='音频加载失败，请检查网络，点击卡片重试。'}});
@@ -90,7 +99,7 @@ songs.forEach((song,i)=>{const card=document.createElement('section');card.class
 function showCategory(next){stop();category=next;document.querySelectorAll('[data-category]').forEach(button=>{const selected=button.dataset.category===category;button.setAttribute('aria-pressed',selected);$(button.getAttribute('aria-controls')).hidden=!selected});$('read-sentences').hidden=category==='songs';$('read-sentences').textContent=category==='key'?'▶ 依次听重点表达':'▶ 依次听课文句子';$('sentence-section-title').textContent={key:'先学重点表达',text:'回到课文，完整跟读',songs:'歌曲歌词 · 朗读与跟读'}[category]}
 document.querySelectorAll('[data-category]').forEach(button=>button.onclick=()=>showCategory(button.dataset.category));
 $('read-words').onclick=()=>playSequence(words,$('word-cards'));$('read-sentences').onclick=()=>playSequence(category==='key'?expressions:textReadItems,category==='key'?$('key-cards'):$('text-groups'));
-const tabs=[...document.querySelectorAll('nav[aria-label="学习内容"] [role=tab]')];function showTab(tab){stop();tabs.forEach(b=>{const selected=b===tab;b.setAttribute('aria-selected',selected);b.tabIndex=selected?0:-1;$(b.getAttribute('aria-controls')).hidden=!selected});if(tab.id==='tab-practice')resetQuiz()}
+const tabs=[...document.querySelectorAll('nav[aria-label="学习内容"] [role=tab]')];function showTab(tab){if(typeof closeWordFollow==='function')closeWordFollow();stop();tabs.forEach(b=>{const selected=b===tab;b.setAttribute('aria-selected',selected);b.tabIndex=selected?0:-1;$(b.getAttribute('aria-controls')).hidden=!selected});if(tab.id==='tab-practice')resetQuiz();if(typeof syncWordFollowUI==='function')syncWordFollowUI()}
 tabs.forEach((tab,i)=>{tab.onclick=()=>showTab(tab);tab.onkeydown=e=>{if(['ArrowLeft','ArrowRight','Home','End'].includes(e.key)){e.preventDefault();const n=e.key==='Home'?0:e.key==='End'?tabs.length-1:(i+(e.key==='ArrowRight'?1:tabs.length-1))%tabs.length;tabs[n].focus();showTab(tabs[n])}}});
 function shuffle(items){const a=items.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
 function resetQuiz(){

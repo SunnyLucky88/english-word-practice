@@ -4,12 +4,13 @@ module.exports=function lessonVersion(root,courses){
  hash.update(fs.readFileSync(path.join(root,'assets/pep-lesson-app.js')));
  hash.update(fs.readFileSync(path.join(root,'assets/pep-playback.css')));
  hash.update(fs.readFileSync(path.join(root,'assets/pep-lesson-typography.css')));
- for(const name of ['pep-lesson-tools.js','pep-lesson-tools.css','pep-practice-picker.html','pep-lookup.html','pep-lookup-config.json'])hash.update(fs.readFileSync(path.join(root,'assets',name)));
+ for(const name of ['pep-lesson-tools.js','pep-lesson-tools.css','pep-practice-picker.html','pep-lookup.html','pep-lookup-config.json','pep-word-follow.js','pep-word-follow.css','pep-word-follow.html'])hash.update(fs.readFileSync(path.join(root,'assets',name)));
  for(const course of courses.filter(c=>/pep-unit\d+\.html$/.test(c.href)).sort((a,b)=>a.href.localeCompare(b.href))){
   hash.update(course.href+'\n'+course.audioDirectory+'\n');
   const assets=path.join(root,'assets',path.basename(course.href,'.html'));
   hash.update(fs.readFileSync(path.join(assets,'content.json')));
   hash.update(fs.readFileSync(path.join(assets,'supplemental.json')));
+  hash.update(fs.readFileSync(path.join(assets,'word-follow.json')));
   hash.update(fs.readFileSync(path.join(assets,'book.js')));
  }
  return hash.digest('hex').slice(0,12);

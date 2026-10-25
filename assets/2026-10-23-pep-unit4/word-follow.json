@@ -1,0 +1,3495 @@
+{
+  "schemaVersion": 1,
+  "unit": 4,
+  "scope": "课本逐词跟读；不修改书后词表或默认练习",
+  "words": {
+    "how": {
+      "key": "how",
+      "en": "How",
+      "spokenText": "how",
+      "zh": "怎样；多么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/how.mp3"
+    },
+    "do": {
+      "key": "do",
+      "en": "do",
+      "spokenText": "do",
+      "zh": "做；也用于构成问句等句式",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/do.mp3"
+    },
+    "plants": {
+      "key": "plants",
+      "en": "plants",
+      "spokenText": "plants",
+      "zh": "植物（plant 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "plant",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/plants.mp3"
+    },
+    "and": {
+      "key": "and",
+      "en": "and",
+      "spokenText": "and",
+      "zh": "和；与",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/and.mp3"
+    },
+    "people": {
+      "key": "people",
+      "en": "people",
+      "spokenText": "people",
+      "zh": "人；人们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/people.mp3"
+    },
+    "help": {
+      "key": "help",
+      "en": "help",
+      "spokenText": "help",
+      "zh": "帮助",
+      "ipa": "/help/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "word-follow/106a5842fc5fce6f.mp3"
+    },
+    "each": {
+      "key": "each",
+      "en": "each",
+      "spokenText": "each",
+      "zh": "每个",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "与 other 连用，each other 表示“互相；彼此”。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/each.mp3"
+    },
+    "other": {
+      "key": "other",
+      "en": "other",
+      "spokenText": "other",
+      "zh": "另一个；其他的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "与 each 连用，each other 表示“互相；彼此”。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/other.mp3"
+    },
+    "what": {
+      "key": "what",
+      "en": "What",
+      "spokenText": "what",
+      "zh": "什么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/what.mp3"
+    },
+    "you": {
+      "key": "you",
+      "en": "you",
+      "spokenText": "you",
+      "zh": "你；你们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/you.mp3"
+    },
+    "see": {
+      "key": "see",
+      "en": "see",
+      "spokenText": "see",
+      "zh": "看见",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/see.mp3"
+    },
+    "fruit": {
+      "key": "fruit",
+      "en": "fruit",
+      "spokenText": "fruit",
+      "zh": "水果",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/fruit.mp3"
+    },
+    "like": {
+      "key": "like",
+      "en": "like",
+      "spokenText": "like",
+      "zh": "喜欢",
+      "ipa": "/laɪk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 3,
+      "audioSource": "Google Translate",
+      "file": "word-follow/cab2644828bcc1f2.mp3"
+    },
+    "i": {
+      "key": "i",
+      "en": "I",
+      "spokenText": "I",
+      "zh": "我",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "代词“我”；释义与字母 I 名称分开。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/i.mp3"
+    },
+    "an": {
+      "key": "an",
+      "en": "an",
+      "spokenText": "an",
+      "zh": "一个；一（不定冠词）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/an.mp3"
+    },
+    "apple": {
+      "key": "apple",
+      "en": "apple",
+      "spokenText": "apple",
+      "zh": "苹果",
+      "ipa": "/ˈæpl/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "apple.mp3"
+    },
+    "grapes": {
+      "key": "grapes",
+      "en": "grapes",
+      "spokenText": "grapes",
+      "zh": "葡萄（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "grape",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "sentence-23.mp3"
+    },
+    "let's": {
+      "key": "let's",
+      "en": "Let's",
+      "spokenText": "Let's",
+      "zh": "let us 的缩写；让我们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "let us",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/let-s.mp3"
+    },
+    "eat": {
+      "key": "eat",
+      "en": "eat",
+      "spokenText": "eat",
+      "zh": "吃",
+      "ipa": "/iːt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "word-follow/e57bd924047ef39d.mp3"
+    },
+    "have": {
+      "key": "have",
+      "en": "have",
+      "spokenText": "have",
+      "zh": "有",
+      "ipa": "/hæv/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/193c45b5281908d2.mp3"
+    },
+    "a": {
+      "key": "a",
+      "en": "a",
+      "spokenText": "a",
+      "zh": "一个；一（不定冠词）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/a.mp3"
+    },
+    "garden": {
+      "key": "garden",
+      "en": "garden",
+      "spokenText": "garden",
+      "zh": "花园",
+      "ipa": "/ˈɡɑːdn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "garden.mp3"
+    },
+    "water": {
+      "key": "water",
+      "en": "water",
+      "spokenText": "water",
+      "zh": "给……浇水；水",
+      "ipa": "/ˈwɔːtə(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "water.mp3"
+    },
+    "apples": {
+      "key": "apples",
+      "en": "apples",
+      "spokenText": "apples",
+      "zh": "苹果（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "apple",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "sentence-22.mp3"
+    },
+    "grow": {
+      "key": "grow",
+      "en": "grow",
+      "spokenText": "grow",
+      "zh": "种植；生长",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/grow.mp3"
+    },
+    "tree": {
+      "key": "tree",
+      "en": "tree",
+      "spokenText": "tree",
+      "zh": "树",
+      "ipa": "/triː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "tree.mp3"
+    },
+    "us": {
+      "key": "us",
+      "en": "us",
+      "spokenText": "us",
+      "zh": "我们",
+      "ipa": "/ʌs/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "us.mp3"
+    },
+    "we": {
+      "key": "we",
+      "en": "we",
+      "spokenText": "we",
+      "zh": "我们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/we.mp3"
+    },
+    "get": {
+      "key": "get",
+      "en": "get",
+      "spokenText": "get",
+      "zh": "得到；获得",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/get.mp3"
+    },
+    "from": {
+      "key": "from",
+      "en": "from",
+      "spokenText": "from",
+      "zh": "从；来自",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/from.mp3"
+    },
+    "mike": {
+      "key": "mike",
+      "en": "Mike",
+      "spokenText": "Mike",
+      "zh": "迈克（人名）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/mike.mp3"
+    },
+    "yes": {
+      "key": "yes",
+      "en": "Yes",
+      "spokenText": "yes",
+      "zh": "是的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/yes.mp3"
+    },
+    "no": {
+      "key": "no",
+      "en": "No",
+      "spokenText": "no",
+      "zh": "不；不是",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/no.mp3"
+    },
+    "don't": {
+      "key": "don't",
+      "en": "don't",
+      "spokenText": "don't",
+      "zh": "do not 的缩写；不（用于否定）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "do not",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/don-t.mp3"
+    },
+    "bananas": {
+      "key": "bananas",
+      "en": "bananas",
+      "spokenText": "bananas",
+      "zh": "香蕉（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "banana",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "sentence-20.mp3"
+    },
+    "the": {
+      "key": "the",
+      "en": "the",
+      "spokenText": "the",
+      "zh": "特指的人或事物（常不单独翻译）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/the.mp3"
+    },
+    "farm": {
+      "key": "farm",
+      "en": "farm",
+      "spokenText": "farm",
+      "zh": "农场",
+      "ipa": "/fɑːm/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "farm.mp3"
+    },
+    "miss white": {
+      "key": "miss white",
+      "en": "Miss White",
+      "spokenText": "Miss White",
+      "zh": "怀特老师（课文人物称呼）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "人名或课文人物称呼；谷歌英语合成读法待核听。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/miss-white.mp3"
+    },
+    "fresh": {
+      "key": "fresh",
+      "en": "fresh",
+      "spokenText": "fresh",
+      "zh": "新鲜的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/fresh.mp3"
+    },
+    "air": {
+      "key": "air",
+      "en": "air",
+      "spokenText": "air",
+      "zh": "空气",
+      "ipa": "/eə(r)/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "air.mp3"
+    },
+    "are": {
+      "key": "are",
+      "en": "are",
+      "spokenText": "are",
+      "zh": "是（be 的一种形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/are.mp3"
+    },
+    "small": {
+      "key": "small",
+      "en": "small",
+      "spokenText": "small",
+      "zh": "小的",
+      "ipa": "/smɔːl/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/81db8ebbbbc69c6c.mp3"
+    },
+    "long": {
+      "key": "long",
+      "en": "long",
+      "spokenText": "long",
+      "zh": "长的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/long.mp3"
+    },
+    "oranges": {
+      "key": "oranges",
+      "en": "oranges",
+      "spokenText": "oranges",
+      "zh": "橙子（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "orange",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "sentence-21.mp3"
+    },
+    "make": {
+      "key": "make",
+      "en": "make",
+      "spokenText": "make",
+      "zh": "使出现；做",
+      "ipa": "/meɪk/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "word-follow/d05aa2a15fb3c40e.mp3"
+    },
+    "strong": {
+      "key": "strong",
+      "en": "strong",
+      "spokenText": "strong",
+      "zh": "强壮的；茁壮的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/strong.mp3"
+    },
+    "trees": {
+      "key": "trees",
+      "en": "Trees",
+      "spokenText": "trees",
+      "zh": "树（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "tree",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "sentence-57.mp3"
+    },
+    "give": {
+      "key": "give",
+      "en": "give",
+      "spokenText": "give",
+      "zh": "给",
+      "ipa": "/ɡɪv/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "give.mp3"
+    },
+    "things": {
+      "key": "things",
+      "en": "things",
+      "spokenText": "things",
+      "zh": "东西；事物（thing 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "thing",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/things.mp3"
+    },
+    "flowers": {
+      "key": "flowers",
+      "en": "flowers",
+      "spokenText": "flowers",
+      "zh": "花（复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "flower",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "sentence-56.mp3"
+    },
+    "leaves": {
+      "key": "leaves",
+      "en": "leaves",
+      "spokenText": "leaves",
+      "zh": "树叶（leaf 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "leaf",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/leaves.mp3"
+    },
+    "in": {
+      "key": "in",
+      "en": "in",
+      "spokenText": "in",
+      "zh": "在……里面",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/in.mp3"
+    },
+    "spring": {
+      "key": "spring",
+      "en": "spring",
+      "spokenText": "spring",
+      "zh": "春天",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/spring.mp3"
+    },
+    "can": {
+      "key": "can",
+      "en": "can",
+      "spokenText": "can",
+      "zh": "可以",
+      "ipa": "/kən, kæn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "word-follow/9f584196e7fe6de8.mp3"
+    },
+    "school": {
+      "key": "school",
+      "en": "school",
+      "spokenText": "school",
+      "zh": "学校",
+      "ipa": "/skuːl/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "school.mp3"
+    },
+    "gardens": {
+      "key": "gardens",
+      "en": "gardens",
+      "spokenText": "gardens",
+      "zh": "花园（garden 的复数）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "garden",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/gardens.mp3"
+    },
+    "need": {
+      "key": "need",
+      "en": "need",
+      "spokenText": "need",
+      "zh": "需要",
+      "ipa": "/niːd/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "need.mp3"
+    },
+    "grass": {
+      "key": "grass",
+      "en": "grass",
+      "spokenText": "grass",
+      "zh": "草；草地",
+      "ipa": "/ɡrɑːs/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "grass.mp3"
+    },
+    "nice": {
+      "key": "nice",
+      "en": "Nice",
+      "spokenText": "nice",
+      "zh": "令人愉快的；友好的",
+      "ipa": "/naɪs/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 1,
+      "audioSource": "Google Translate",
+      "file": "word-follow/e186022d0931afe9.mp3"
+    },
+    "plant": {
+      "key": "plant",
+      "en": "plant",
+      "spokenText": "plant",
+      "zh": "种植；植物",
+      "ipa": "/plɑːnt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "plant.mp3"
+    },
+    "new": {
+      "key": "new",
+      "en": "new",
+      "spokenText": "new",
+      "zh": "新的",
+      "ipa": "/njuː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "new.mp3"
+    },
+    "our": {
+      "key": "our",
+      "en": "our",
+      "spokenText": "our",
+      "zh": "我们的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/our.mp3"
+    },
+    "sun": {
+      "key": "sun",
+      "en": "sun",
+      "spokenText": "sun",
+      "zh": "阳光；太阳",
+      "ipa": "/sʌn/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "sun.mp3"
+    },
+    "these": {
+      "key": "these",
+      "en": "These",
+      "spokenText": "these",
+      "zh": "这些",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/these.mp3"
+    },
+    "all": {
+      "key": "all",
+      "en": "all",
+      "spokenText": "all",
+      "zh": "所有的；全部",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/all.mp3"
+    },
+    "cut": {
+      "key": "cut",
+      "en": "cut",
+      "spokenText": "cut",
+      "zh": "切块",
+      "ipa": "/kʌt/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 6,
+      "audioSource": "Google Translate",
+      "file": "word-follow/378bfce5cda2599a.mp3"
+    },
+    "turn": {
+      "key": "turn",
+      "en": "turn",
+      "spokenText": "turn",
+      "zh": "翻动；转动",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "园艺句中指翻动；turn around 表示转身或转圈。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/turn.mp3"
+    },
+    "some": {
+      "key": "some",
+      "en": "some",
+      "spokenText": "some",
+      "zh": "一些",
+      "ipa": "/səm, sʌm/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 5,
+      "audioSource": "Google Translate",
+      "file": "word-follow/a6b46dd0d1ae5e86.mp3"
+    },
+    "know": {
+      "key": "know",
+      "en": "know",
+      "spokenText": "know",
+      "zh": "知道；认识",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/know.mp3"
+    },
+    "many": {
+      "key": "many",
+      "en": "many",
+      "spokenText": "many",
+      "zh": "许多",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/many.mp3"
+    },
+    "them": {
+      "key": "them",
+      "en": "them",
+      "spokenText": "them",
+      "zh": "它们；他们；她们",
+      "ipa": "/ðəm, ðem/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "them.mp3"
+    },
+    "does": {
+      "key": "does",
+      "en": "does",
+      "spokenText": "does",
+      "zh": "do 的第三人称单数形式；也用于构成问句",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "do",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/does.mp3"
+    },
+    "this": {
+      "key": "this",
+      "en": "this",
+      "spokenText": "this",
+      "zh": "这；这个",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/this.mp3"
+    },
+    "they": {
+      "key": "they",
+      "en": "they",
+      "spokenText": "they",
+      "zh": "他们；她们；它们",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/they.mp3"
+    },
+    "is": {
+      "key": "is",
+      "en": "is",
+      "spokenText": "is",
+      "zh": "是（be 的一种形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/is.mp3"
+    },
+    "my": {
+      "key": "my",
+      "en": "my",
+      "spokenText": "my",
+      "zh": "我的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/my.mp3"
+    },
+    "am": {
+      "key": "am",
+      "en": "am",
+      "spokenText": "am",
+      "zh": "是（与 I 连用的 be 的形式）",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/am.mp3"
+    },
+    "family": {
+      "key": "family",
+      "en": "family",
+      "spokenText": "family",
+      "zh": "家；家庭",
+      "ipa": "/ˈfæməli/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/d34a569ab7aaa54d.mp3"
+    },
+    "me": {
+      "key": "me",
+      "en": "me",
+      "spokenText": "me",
+      "zh": "我",
+      "ipa": "/miː/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/2744ccd10c7533bd.mp3"
+    },
+    "it": {
+      "key": "it",
+      "en": "It",
+      "spokenText": "it",
+      "zh": "它",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/it.mp3"
+    },
+    "cold": {
+      "key": "cold",
+      "en": "cold",
+      "spokenText": "cold",
+      "zh": "寒冷的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/cold.mp3"
+    },
+    "love": {
+      "key": "love",
+      "en": "love",
+      "spokenText": "love",
+      "zh": "爱；喜爱",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/love.mp3"
+    },
+    "so": {
+      "key": "so",
+      "en": "so",
+      "spokenText": "so",
+      "zh": "如此；这么",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/so.mp3"
+    },
+    "beautiful": {
+      "key": "beautiful",
+      "en": "beautiful",
+      "spokenText": "beautiful",
+      "zh": "美丽的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/beautiful.mp3"
+    },
+    "big": {
+      "key": "big",
+      "en": "big",
+      "spokenText": "big",
+      "zh": "大的",
+      "ipa": "/bɪɡ/",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "书后词汇表原文",
+      "sourceUnit": 2,
+      "audioSource": "Google Translate",
+      "file": "word-follow/2a21fe6d592a19b7.mp3"
+    },
+    "now": {
+      "key": "now",
+      "en": "now",
+      "spokenText": "now",
+      "zh": "现在",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/now.mp3"
+    },
+    "to": {
+      "key": "to",
+      "en": "to",
+      "spokenText": "to",
+      "zh": "到；向；用于 to meet 等动词结构",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "这里是单词独立朗读；在原句中可能弱读或不单独翻译，请结合原句理解。",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/to.mp3"
+    },
+    "happy": {
+      "key": "happy",
+      "en": "happy",
+      "spokenText": "happy",
+      "zh": "快乐的；开心的",
+      "ipa": "",
+      "ipaDisplay": "",
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "sourceUnit": 4,
+      "audioSource": "Google Translate",
+      "file": "supplemental/happy.mp3"
+    }
+  },
+  "sentences": {
+    "How do plants and people help each other?": {
+      "en": "How do plants and people help each other?",
+      "zh": "植物和人怎样相互帮助？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "do",
+          "start": 4,
+          "end": 6,
+          "key": "do"
+        },
+        {
+          "text": "plants",
+          "start": 7,
+          "end": 13,
+          "key": "plants"
+        },
+        {
+          "text": "and",
+          "start": 14,
+          "end": 17,
+          "key": "and"
+        },
+        {
+          "text": "people",
+          "start": 18,
+          "end": 24,
+          "key": "people"
+        },
+        {
+          "text": "help",
+          "start": 25,
+          "end": 29,
+          "key": "help"
+        },
+        {
+          "text": "each",
+          "start": 30,
+          "end": 34,
+          "key": "each"
+        },
+        {
+          "text": "other",
+          "start": 35,
+          "end": 40,
+          "key": "other"
+        }
+      ]
+    },
+    "What plants do you see?": {
+      "en": "What plants do you see?",
+      "zh": "你看到了哪些植物？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "plants",
+          "start": 5,
+          "end": 11,
+          "key": "plants"
+        },
+        {
+          "text": "do",
+          "start": 12,
+          "end": 14,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 15,
+          "end": 18,
+          "key": "you"
+        },
+        {
+          "text": "see",
+          "start": 19,
+          "end": 22,
+          "key": "see"
+        }
+      ]
+    },
+    "What fruit do you like?": {
+      "en": "What fruit do you like?",
+      "zh": "你喜欢什么水果？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "fruit",
+          "start": 5,
+          "end": 10,
+          "key": "fruit"
+        },
+        {
+          "text": "do",
+          "start": 11,
+          "end": 13,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 14,
+          "end": 17,
+          "key": "you"
+        },
+        {
+          "text": "like",
+          "start": 18,
+          "end": 22,
+          "key": "like"
+        }
+      ]
+    },
+    "I see an apple.": {
+      "en": "I see an apple.",
+      "zh": "我看到一个苹果。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "see",
+          "start": 2,
+          "end": 5,
+          "key": "see"
+        },
+        {
+          "text": "an",
+          "start": 6,
+          "end": 8,
+          "key": "an"
+        },
+        {
+          "text": "apple",
+          "start": 9,
+          "end": 14,
+          "key": "apple"
+        }
+      ]
+    },
+    "I see grapes.": {
+      "en": "I see grapes.",
+      "zh": "我看到葡萄。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "see",
+          "start": 2,
+          "end": 5,
+          "key": "see"
+        },
+        {
+          "text": "grapes",
+          "start": 6,
+          "end": 12,
+          "key": "grapes"
+        }
+      ]
+    },
+    "I like fruit.": {
+      "en": "I like fruit.",
+      "zh": "我喜欢水果。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "fruit",
+          "start": 7,
+          "end": 12,
+          "key": "fruit"
+        }
+      ]
+    },
+    "Let's eat!": {
+      "en": "Let's eat!",
+      "zh": "我们吃吧！",
+      "tokens": [
+        {
+          "text": "Let's",
+          "start": 0,
+          "end": 5,
+          "key": "let's"
+        },
+        {
+          "text": "eat",
+          "start": 6,
+          "end": 9,
+          "key": "eat"
+        }
+      ]
+    },
+    "I have a garden.": {
+      "en": "I have a garden.",
+      "zh": "我有一个花园。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "have",
+          "start": 2,
+          "end": 6,
+          "key": "have"
+        },
+        {
+          "text": "a",
+          "start": 7,
+          "end": 8,
+          "key": "a"
+        },
+        {
+          "text": "garden",
+          "start": 9,
+          "end": 15,
+          "key": "garden"
+        }
+      ]
+    },
+    "I have water.": {
+      "en": "I have water.",
+      "zh": "我有水。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "have",
+          "start": 2,
+          "end": 6,
+          "key": "have"
+        },
+        {
+          "text": "water",
+          "start": 7,
+          "end": 12,
+          "key": "water"
+        }
+      ]
+    },
+    "I like apples.": {
+      "en": "I like apples.",
+      "zh": "我喜欢苹果。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "apples",
+          "start": 7,
+          "end": 13,
+          "key": "apples"
+        }
+      ]
+    },
+    "Let's grow a tree!": {
+      "en": "Let's grow a tree!",
+      "zh": "我们种一棵树吧！",
+      "tokens": [
+        {
+          "text": "Let's",
+          "start": 0,
+          "end": 5,
+          "key": "let's"
+        },
+        {
+          "text": "grow",
+          "start": 6,
+          "end": 10,
+          "key": "grow"
+        },
+        {
+          "text": "a",
+          "start": 11,
+          "end": 12,
+          "key": "a"
+        },
+        {
+          "text": "tree",
+          "start": 13,
+          "end": 17,
+          "key": "tree"
+        }
+      ]
+    },
+    "Plants and us": {
+      "en": "Plants and us",
+      "zh": "植物与我们",
+      "tokens": [
+        {
+          "text": "Plants",
+          "start": 0,
+          "end": 6,
+          "key": "plants"
+        },
+        {
+          "text": "and",
+          "start": 7,
+          "end": 10,
+          "key": "and"
+        },
+        {
+          "text": "us",
+          "start": 11,
+          "end": 13,
+          "key": "us"
+        }
+      ]
+    },
+    "What do we get from plants?": {
+      "en": "What do we get from plants?",
+      "zh": "我们从植物中获得什么？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "do",
+          "start": 5,
+          "end": 7,
+          "key": "do"
+        },
+        {
+          "text": "we",
+          "start": 8,
+          "end": 10,
+          "key": "we"
+        },
+        {
+          "text": "get",
+          "start": 11,
+          "end": 14,
+          "key": "get"
+        },
+        {
+          "text": "from",
+          "start": 15,
+          "end": 19,
+          "key": "from"
+        },
+        {
+          "text": "plants",
+          "start": 20,
+          "end": 26,
+          "key": "plants"
+        }
+      ]
+    },
+    "Mike, do you like apples?": {
+      "en": "Mike, do you like apples?",
+      "zh": "迈克，你喜欢苹果吗？",
+      "tokens": [
+        {
+          "text": "Mike",
+          "start": 0,
+          "end": 4,
+          "key": "mike"
+        },
+        {
+          "text": "do",
+          "start": 6,
+          "end": 8,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 9,
+          "end": 12,
+          "key": "you"
+        },
+        {
+          "text": "like",
+          "start": 13,
+          "end": 17,
+          "key": "like"
+        },
+        {
+          "text": "apples",
+          "start": 18,
+          "end": 24,
+          "key": "apples"
+        }
+      ]
+    },
+    "Yes, I do. And you?": {
+      "en": "Yes, I do. And you?",
+      "zh": "是的，我喜欢。你呢？",
+      "tokens": [
+        {
+          "text": "Yes",
+          "start": 0,
+          "end": 3,
+          "key": "yes"
+        },
+        {
+          "text": "I",
+          "start": 5,
+          "end": 6,
+          "key": "i"
+        },
+        {
+          "text": "do",
+          "start": 7,
+          "end": 9,
+          "key": "do"
+        },
+        {
+          "text": "And",
+          "start": 11,
+          "end": 14,
+          "key": "and"
+        },
+        {
+          "text": "you",
+          "start": 15,
+          "end": 18,
+          "key": "you"
+        }
+      ]
+    },
+    "No, I don't. I like bananas.": {
+      "en": "No, I don't. I like bananas.",
+      "zh": "不，我不喜欢。我喜欢香蕉。",
+      "tokens": [
+        {
+          "text": "No",
+          "start": 0,
+          "end": 2,
+          "key": "no"
+        },
+        {
+          "text": "I",
+          "start": 4,
+          "end": 5,
+          "key": "i"
+        },
+        {
+          "text": "don't",
+          "start": 6,
+          "end": 11,
+          "key": "don't"
+        },
+        {
+          "text": "I",
+          "start": 13,
+          "end": 14,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 15,
+          "end": 19,
+          "key": "like"
+        },
+        {
+          "text": "bananas",
+          "start": 20,
+          "end": 27,
+          "key": "bananas"
+        }
+      ]
+    },
+    "Do you like the farm?": {
+      "en": "Do you like the farm?",
+      "zh": "你们喜欢农场吗？",
+      "tokens": [
+        {
+          "text": "Do",
+          "start": 0,
+          "end": 2,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 3,
+          "end": 6,
+          "key": "you"
+        },
+        {
+          "text": "like",
+          "start": 7,
+          "end": 11,
+          "key": "like"
+        },
+        {
+          "text": "the",
+          "start": 12,
+          "end": 15,
+          "key": "the"
+        },
+        {
+          "text": "farm",
+          "start": 16,
+          "end": 20,
+          "key": "farm"
+        }
+      ]
+    },
+    "Yes, Miss White.": {
+      "en": "Yes, Miss White.",
+      "zh": "是的，怀特老师。",
+      "tokens": [
+        {
+          "text": "Yes",
+          "start": 0,
+          "end": 3,
+          "key": "yes"
+        },
+        {
+          "text": "Miss White",
+          "start": 5,
+          "end": 15,
+          "key": "miss white"
+        }
+      ]
+    },
+    "I like the fresh air.": {
+      "en": "I like the fresh air.",
+      "zh": "我喜欢新鲜的空气。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "like",
+          "start": 2,
+          "end": 6,
+          "key": "like"
+        },
+        {
+          "text": "the",
+          "start": 7,
+          "end": 10,
+          "key": "the"
+        },
+        {
+          "text": "fresh",
+          "start": 11,
+          "end": 16,
+          "key": "fresh"
+        },
+        {
+          "text": "air",
+          "start": 17,
+          "end": 20,
+          "key": "air"
+        }
+      ]
+    },
+    "Do you like apples?": {
+      "en": "Do you like apples?",
+      "zh": "你喜欢苹果吗？",
+      "tokens": [
+        {
+          "text": "Do",
+          "start": 0,
+          "end": 2,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 3,
+          "end": 6,
+          "key": "you"
+        },
+        {
+          "text": "like",
+          "start": 7,
+          "end": 11,
+          "key": "like"
+        },
+        {
+          "text": "apples",
+          "start": 12,
+          "end": 18,
+          "key": "apples"
+        }
+      ]
+    },
+    "Yes, I do.": {
+      "en": "Yes, I do.",
+      "zh": "是的，我喜欢。",
+      "tokens": [
+        {
+          "text": "Yes",
+          "start": 0,
+          "end": 3,
+          "key": "yes"
+        },
+        {
+          "text": "I",
+          "start": 5,
+          "end": 6,
+          "key": "i"
+        },
+        {
+          "text": "do",
+          "start": 7,
+          "end": 9,
+          "key": "do"
+        }
+      ]
+    },
+    "Grapes are small. Bananas are long.": {
+      "en": "Grapes are small. Bananas are long.",
+      "zh": "葡萄小，香蕉长。",
+      "tokens": [
+        {
+          "text": "Grapes",
+          "start": 0,
+          "end": 6,
+          "key": "grapes"
+        },
+        {
+          "text": "are",
+          "start": 7,
+          "end": 10,
+          "key": "are"
+        },
+        {
+          "text": "small",
+          "start": 11,
+          "end": 16,
+          "key": "small"
+        },
+        {
+          "text": "Bananas",
+          "start": 18,
+          "end": 25,
+          "key": "bananas"
+        },
+        {
+          "text": "are",
+          "start": 26,
+          "end": 29,
+          "key": "are"
+        },
+        {
+          "text": "long",
+          "start": 30,
+          "end": 34,
+          "key": "long"
+        }
+      ]
+    },
+    "Apples and oranges make you strong.": {
+      "en": "Apples and oranges make you strong.",
+      "zh": "苹果和橙子让你强壮。",
+      "tokens": [
+        {
+          "text": "Apples",
+          "start": 0,
+          "end": 6,
+          "key": "apples"
+        },
+        {
+          "text": "and",
+          "start": 7,
+          "end": 10,
+          "key": "and"
+        },
+        {
+          "text": "oranges",
+          "start": 11,
+          "end": 18,
+          "key": "oranges"
+        },
+        {
+          "text": "make",
+          "start": 19,
+          "end": 23,
+          "key": "make"
+        },
+        {
+          "text": "you",
+          "start": 24,
+          "end": 27,
+          "key": "you"
+        },
+        {
+          "text": "strong",
+          "start": 28,
+          "end": 34,
+          "key": "strong"
+        }
+      ]
+    },
+    "Trees grow and give us things:": {
+      "en": "Trees grow and give us things:",
+      "zh": "树木生长，给予我们许多东西：",
+      "tokens": [
+        {
+          "text": "Trees",
+          "start": 0,
+          "end": 5,
+          "key": "trees"
+        },
+        {
+          "text": "grow",
+          "start": 6,
+          "end": 10,
+          "key": "grow"
+        },
+        {
+          "text": "and",
+          "start": 11,
+          "end": 14,
+          "key": "and"
+        },
+        {
+          "text": "give",
+          "start": 15,
+          "end": 19,
+          "key": "give"
+        },
+        {
+          "text": "us",
+          "start": 20,
+          "end": 22,
+          "key": "us"
+        },
+        {
+          "text": "things",
+          "start": 23,
+          "end": 29,
+          "key": "things"
+        }
+      ]
+    },
+    "Fresh air, flowers and leaves in spring.": {
+      "en": "Fresh air, flowers and leaves in spring.",
+      "zh": "春天的新鲜空气、花朵和树叶。",
+      "tokens": [
+        {
+          "text": "Fresh",
+          "start": 0,
+          "end": 5,
+          "key": "fresh"
+        },
+        {
+          "text": "air",
+          "start": 6,
+          "end": 9,
+          "key": "air"
+        },
+        {
+          "text": "flowers",
+          "start": 11,
+          "end": 18,
+          "key": "flowers"
+        },
+        {
+          "text": "and",
+          "start": 19,
+          "end": 22,
+          "key": "and"
+        },
+        {
+          "text": "leaves",
+          "start": 23,
+          "end": 29,
+          "key": "leaves"
+        },
+        {
+          "text": "in",
+          "start": 30,
+          "end": 32,
+          "key": "in"
+        },
+        {
+          "text": "spring",
+          "start": 33,
+          "end": 39,
+          "key": "spring"
+        }
+      ]
+    },
+    "How can we help plants?": {
+      "en": "How can we help plants?",
+      "zh": "我们怎样帮助植物？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "can",
+          "start": 4,
+          "end": 7,
+          "key": "can"
+        },
+        {
+          "text": "we",
+          "start": 8,
+          "end": 10,
+          "key": "we"
+        },
+        {
+          "text": "help",
+          "start": 11,
+          "end": 15,
+          "key": "help"
+        },
+        {
+          "text": "plants",
+          "start": 16,
+          "end": 22,
+          "key": "plants"
+        }
+      ]
+    },
+    "The school gardens need help.": {
+      "en": "The school gardens need help.",
+      "zh": "学校的花园需要帮助。",
+      "tokens": [
+        {
+          "text": "The",
+          "start": 0,
+          "end": 3,
+          "key": "the"
+        },
+        {
+          "text": "school",
+          "start": 4,
+          "end": 10,
+          "key": "school"
+        },
+        {
+          "text": "gardens",
+          "start": 11,
+          "end": 18,
+          "key": "gardens"
+        },
+        {
+          "text": "need",
+          "start": 19,
+          "end": 23,
+          "key": "need"
+        },
+        {
+          "text": "help",
+          "start": 24,
+          "end": 28,
+          "key": "help"
+        }
+      ]
+    },
+    "We can water the flowers.": {
+      "en": "We can water the flowers.",
+      "zh": "我们可以给花浇水。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "can",
+          "start": 3,
+          "end": 6,
+          "key": "can"
+        },
+        {
+          "text": "water",
+          "start": 7,
+          "end": 12,
+          "key": "water"
+        },
+        {
+          "text": "the",
+          "start": 13,
+          "end": 16,
+          "key": "the"
+        },
+        {
+          "text": "flowers",
+          "start": 17,
+          "end": 24,
+          "key": "flowers"
+        }
+      ]
+    },
+    "We can water the grass.": {
+      "en": "We can water the grass.",
+      "zh": "我们可以给草浇水。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "can",
+          "start": 3,
+          "end": 6,
+          "key": "can"
+        },
+        {
+          "text": "water",
+          "start": 7,
+          "end": 12,
+          "key": "water"
+        },
+        {
+          "text": "the",
+          "start": 13,
+          "end": 16,
+          "key": "the"
+        },
+        {
+          "text": "grass",
+          "start": 17,
+          "end": 22,
+          "key": "grass"
+        }
+      ]
+    },
+    "Nice. And?": {
+      "en": "Nice. And?",
+      "zh": "很好。还有呢？",
+      "tokens": [
+        {
+          "text": "Nice",
+          "start": 0,
+          "end": 4,
+          "key": "nice"
+        },
+        {
+          "text": "And",
+          "start": 6,
+          "end": 9,
+          "key": "and"
+        }
+      ]
+    },
+    "We can plant new trees.": {
+      "en": "We can plant new trees.",
+      "zh": "我们可以新种些树。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "can",
+          "start": 3,
+          "end": 6,
+          "key": "can"
+        },
+        {
+          "text": "plant",
+          "start": 7,
+          "end": 12,
+          "key": "plant"
+        },
+        {
+          "text": "new",
+          "start": 13,
+          "end": 16,
+          "key": "new"
+        },
+        {
+          "text": "trees",
+          "start": 17,
+          "end": 22,
+          "key": "trees"
+        }
+      ]
+    },
+    "How can we help?": {
+      "en": "How can we help?",
+      "zh": "我们能怎样帮忙？",
+      "tokens": [
+        {
+          "text": "How",
+          "start": 0,
+          "end": 3,
+          "key": "how"
+        },
+        {
+          "text": "can",
+          "start": 4,
+          "end": 7,
+          "key": "can"
+        },
+        {
+          "text": "we",
+          "start": 8,
+          "end": 10,
+          "key": "we"
+        },
+        {
+          "text": "help",
+          "start": 11,
+          "end": 15,
+          "key": "help"
+        }
+      ]
+    },
+    "We can plant trees.": {
+      "en": "We can plant trees.",
+      "zh": "我们可以种树。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "can",
+          "start": 3,
+          "end": 6,
+          "key": "can"
+        },
+        {
+          "text": "plant",
+          "start": 7,
+          "end": 12,
+          "key": "plant"
+        },
+        {
+          "text": "trees",
+          "start": 13,
+          "end": 18,
+          "key": "trees"
+        }
+      ]
+    },
+    "Plants need our help.": {
+      "en": "Plants need our help.",
+      "zh": "植物需要我们的帮助。",
+      "tokens": [
+        {
+          "text": "Plants",
+          "start": 0,
+          "end": 6,
+          "key": "plants"
+        },
+        {
+          "text": "need",
+          "start": 7,
+          "end": 11,
+          "key": "need"
+        },
+        {
+          "text": "our",
+          "start": 12,
+          "end": 15,
+          "key": "our"
+        },
+        {
+          "text": "help",
+          "start": 16,
+          "end": 20,
+          "key": "help"
+        }
+      ]
+    },
+    "Plants need air, water and sun.": {
+      "en": "Plants need air, water and sun.",
+      "zh": "植物需要空气、水和阳光。",
+      "tokens": [
+        {
+          "text": "Plants",
+          "start": 0,
+          "end": 6,
+          "key": "plants"
+        },
+        {
+          "text": "need",
+          "start": 7,
+          "end": 11,
+          "key": "need"
+        },
+        {
+          "text": "air",
+          "start": 12,
+          "end": 15,
+          "key": "air"
+        },
+        {
+          "text": "water",
+          "start": 17,
+          "end": 22,
+          "key": "water"
+        },
+        {
+          "text": "and",
+          "start": 23,
+          "end": 26,
+          "key": "and"
+        },
+        {
+          "text": "sun",
+          "start": 27,
+          "end": 30,
+          "key": "sun"
+        }
+      ]
+    },
+    "Air, water and sun.": {
+      "en": "Air, water and sun.",
+      "zh": "空气、水和阳光。",
+      "tokens": [
+        {
+          "text": "Air",
+          "start": 0,
+          "end": 3,
+          "key": "air"
+        },
+        {
+          "text": "water",
+          "start": 5,
+          "end": 10,
+          "key": "water"
+        },
+        {
+          "text": "and",
+          "start": 11,
+          "end": 14,
+          "key": "and"
+        },
+        {
+          "text": "sun",
+          "start": 15,
+          "end": 18,
+          "key": "sun"
+        }
+      ]
+    },
+    "These can all help plants grow.": {
+      "en": "These can all help plants grow.",
+      "zh": "这些都能帮助植物生长。",
+      "tokens": [
+        {
+          "text": "These",
+          "start": 0,
+          "end": 5,
+          "key": "these"
+        },
+        {
+          "text": "can",
+          "start": 6,
+          "end": 9,
+          "key": "can"
+        },
+        {
+          "text": "all",
+          "start": 10,
+          "end": 13,
+          "key": "all"
+        },
+        {
+          "text": "help",
+          "start": 14,
+          "end": 18,
+          "key": "help"
+        },
+        {
+          "text": "plants",
+          "start": 19,
+          "end": 25,
+          "key": "plants"
+        },
+        {
+          "text": "grow",
+          "start": 26,
+          "end": 30,
+          "key": "grow"
+        }
+      ]
+    },
+    "Plant, water, cut and turn.": {
+      "en": "Plant, water, cut and turn.",
+      "zh": "种植、浇水、修剪和翻动。",
+      "tokens": [
+        {
+          "text": "Plant",
+          "start": 0,
+          "end": 5,
+          "key": "plant"
+        },
+        {
+          "text": "water",
+          "start": 7,
+          "end": 12,
+          "key": "water"
+        },
+        {
+          "text": "cut",
+          "start": 14,
+          "end": 17,
+          "key": "cut"
+        },
+        {
+          "text": "and",
+          "start": 18,
+          "end": 21,
+          "key": "and"
+        },
+        {
+          "text": "turn",
+          "start": 22,
+          "end": 26,
+          "key": "turn"
+        }
+      ]
+    },
+    "These are some things I know.": {
+      "en": "These are some things I know.",
+      "zh": "这些是我知道的一些事情。",
+      "tokens": [
+        {
+          "text": "These",
+          "start": 0,
+          "end": 5,
+          "key": "these"
+        },
+        {
+          "text": "are",
+          "start": 6,
+          "end": 9,
+          "key": "are"
+        },
+        {
+          "text": "some",
+          "start": 10,
+          "end": 14,
+          "key": "some"
+        },
+        {
+          "text": "things",
+          "start": 15,
+          "end": 21,
+          "key": "things"
+        },
+        {
+          "text": "I",
+          "start": 22,
+          "end": 23,
+          "key": "i"
+        },
+        {
+          "text": "know",
+          "start": 24,
+          "end": 28,
+          "key": "know"
+        }
+      ]
+    },
+    "Plants can give us many things.": {
+      "en": "Plants can give us many things.",
+      "zh": "植物能为我们提供很多东西。",
+      "tokens": [
+        {
+          "text": "Plants",
+          "start": 0,
+          "end": 6,
+          "key": "plants"
+        },
+        {
+          "text": "can",
+          "start": 7,
+          "end": 10,
+          "key": "can"
+        },
+        {
+          "text": "give",
+          "start": 11,
+          "end": 15,
+          "key": "give"
+        },
+        {
+          "text": "us",
+          "start": 16,
+          "end": 18,
+          "key": "us"
+        },
+        {
+          "text": "many",
+          "start": 19,
+          "end": 23,
+          "key": "many"
+        },
+        {
+          "text": "things",
+          "start": 24,
+          "end": 30,
+          "key": "things"
+        }
+      ]
+    },
+    "We need plants.": {
+      "en": "We need plants.",
+      "zh": "我们需要植物。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "need",
+          "start": 3,
+          "end": 7,
+          "key": "need"
+        },
+        {
+          "text": "plants",
+          "start": 8,
+          "end": 14,
+          "key": "plants"
+        }
+      ]
+    },
+    "Can we help them?": {
+      "en": "Can we help them?",
+      "zh": "我们能帮助它们吗？",
+      "tokens": [
+        {
+          "text": "Can",
+          "start": 0,
+          "end": 3,
+          "key": "can"
+        },
+        {
+          "text": "we",
+          "start": 4,
+          "end": 6,
+          "key": "we"
+        },
+        {
+          "text": "help",
+          "start": 7,
+          "end": 11,
+          "key": "help"
+        },
+        {
+          "text": "them",
+          "start": 12,
+          "end": 16,
+          "key": "them"
+        }
+      ]
+    },
+    "What fruit do you see?": {
+      "en": "What fruit do you see?",
+      "zh": "你看到了什么水果？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "fruit",
+          "start": 5,
+          "end": 10,
+          "key": "fruit"
+        },
+        {
+          "text": "do",
+          "start": 11,
+          "end": 13,
+          "key": "do"
+        },
+        {
+          "text": "you",
+          "start": 14,
+          "end": 17,
+          "key": "you"
+        },
+        {
+          "text": "see",
+          "start": 18,
+          "end": 21,
+          "key": "see"
+        }
+      ]
+    },
+    "What does this fruit tree need?": {
+      "en": "What does this fruit tree need?",
+      "zh": "这棵果树需要什么？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "does",
+          "start": 5,
+          "end": 9,
+          "key": "does"
+        },
+        {
+          "text": "this",
+          "start": 10,
+          "end": 14,
+          "key": "this"
+        },
+        {
+          "text": "fruit",
+          "start": 15,
+          "end": 20,
+          "key": "fruit"
+        },
+        {
+          "text": "tree",
+          "start": 21,
+          "end": 25,
+          "key": "tree"
+        },
+        {
+          "text": "need",
+          "start": 26,
+          "end": 30,
+          "key": "need"
+        }
+      ]
+    },
+    "Flowers need air, water and sun.": {
+      "en": "Flowers need air, water and sun.",
+      "zh": "花需要空气、水和阳光。",
+      "tokens": [
+        {
+          "text": "Flowers",
+          "start": 0,
+          "end": 7,
+          "key": "flowers"
+        },
+        {
+          "text": "need",
+          "start": 8,
+          "end": 12,
+          "key": "need"
+        },
+        {
+          "text": "air",
+          "start": 13,
+          "end": 16,
+          "key": "air"
+        },
+        {
+          "text": "water",
+          "start": 18,
+          "end": 23,
+          "key": "water"
+        },
+        {
+          "text": "and",
+          "start": 24,
+          "end": 27,
+          "key": "and"
+        },
+        {
+          "text": "sun",
+          "start": 28,
+          "end": 31,
+          "key": "sun"
+        }
+      ]
+    },
+    "We can help them.": {
+      "en": "We can help them.",
+      "zh": "我们能帮助它们。",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "can",
+          "start": 3,
+          "end": 6,
+          "key": "can"
+        },
+        {
+          "text": "help",
+          "start": 7,
+          "end": 11,
+          "key": "help"
+        },
+        {
+          "text": "them",
+          "start": 12,
+          "end": 16,
+          "key": "them"
+        }
+      ]
+    },
+    "We can ...": {
+      "en": "We can ...",
+      "zh": "我们可以……",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "can",
+          "start": 3,
+          "end": 6,
+          "key": "can"
+        }
+      ]
+    },
+    "What do fruit trees need?": {
+      "en": "What do fruit trees need?",
+      "zh": "果树需要什么？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "do",
+          "start": 5,
+          "end": 7,
+          "key": "do"
+        },
+        {
+          "text": "fruit",
+          "start": 8,
+          "end": 13,
+          "key": "fruit"
+        },
+        {
+          "text": "trees",
+          "start": 14,
+          "end": 19,
+          "key": "trees"
+        },
+        {
+          "text": "need",
+          "start": 20,
+          "end": 24,
+          "key": "need"
+        }
+      ]
+    },
+    "What can they give us?": {
+      "en": "What can they give us?",
+      "zh": "它们能给我们什么？",
+      "tokens": [
+        {
+          "text": "What",
+          "start": 0,
+          "end": 4,
+          "key": "what"
+        },
+        {
+          "text": "can",
+          "start": 5,
+          "end": 8,
+          "key": "can"
+        },
+        {
+          "text": "they",
+          "start": 9,
+          "end": 13,
+          "key": "they"
+        },
+        {
+          "text": "give",
+          "start": 14,
+          "end": 18,
+          "key": "give"
+        },
+        {
+          "text": "us",
+          "start": 19,
+          "end": 21,
+          "key": "us"
+        }
+      ]
+    },
+    "plant the tree": {
+      "en": "plant the tree",
+      "zh": "种树",
+      "tokens": [
+        {
+          "text": "plant",
+          "start": 0,
+          "end": 5,
+          "key": "plant"
+        },
+        {
+          "text": "the",
+          "start": 6,
+          "end": 9,
+          "key": "the"
+        },
+        {
+          "text": "tree",
+          "start": 10,
+          "end": 14,
+          "key": "tree"
+        }
+      ]
+    },
+    "water the tree": {
+      "en": "water the tree",
+      "zh": "给树浇水",
+      "tokens": [
+        {
+          "text": "water",
+          "start": 0,
+          "end": 5,
+          "key": "water"
+        },
+        {
+          "text": "the",
+          "start": 6,
+          "end": 9,
+          "key": "the"
+        },
+        {
+          "text": "tree",
+          "start": 10,
+          "end": 14,
+          "key": "tree"
+        }
+      ]
+    },
+    "This is my garden.": {
+      "en": "This is my garden.",
+      "zh": "这是我的花园。",
+      "tokens": [
+        {
+          "text": "This",
+          "start": 0,
+          "end": 4,
+          "key": "this"
+        },
+        {
+          "text": "is",
+          "start": 5,
+          "end": 7,
+          "key": "is"
+        },
+        {
+          "text": "my",
+          "start": 8,
+          "end": 10,
+          "key": "my"
+        },
+        {
+          "text": "garden",
+          "start": 11,
+          "end": 17,
+          "key": "garden"
+        }
+      ]
+    },
+    "The apple trees need air, water and sun.": {
+      "en": "The apple trees need air, water and sun.",
+      "zh": "这些苹果树需要空气、水和阳光。",
+      "tokens": [
+        {
+          "text": "The",
+          "start": 0,
+          "end": 3,
+          "key": "the"
+        },
+        {
+          "text": "apple",
+          "start": 4,
+          "end": 9,
+          "key": "apple"
+        },
+        {
+          "text": "trees",
+          "start": 10,
+          "end": 15,
+          "key": "trees"
+        },
+        {
+          "text": "need",
+          "start": 16,
+          "end": 20,
+          "key": "need"
+        },
+        {
+          "text": "air",
+          "start": 21,
+          "end": 24,
+          "key": "air"
+        },
+        {
+          "text": "water",
+          "start": 26,
+          "end": 31,
+          "key": "water"
+        },
+        {
+          "text": "and",
+          "start": 32,
+          "end": 35,
+          "key": "and"
+        },
+        {
+          "text": "sun",
+          "start": 36,
+          "end": 39,
+          "key": "sun"
+        }
+      ]
+    },
+    "I am an apple tree.": {
+      "en": "I am an apple tree.",
+      "zh": "我是一棵苹果树。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 2,
+          "end": 4,
+          "key": "am"
+        },
+        {
+          "text": "an",
+          "start": 5,
+          "end": 7,
+          "key": "an"
+        },
+        {
+          "text": "apple",
+          "start": 8,
+          "end": 13,
+          "key": "apple"
+        },
+        {
+          "text": "tree",
+          "start": 14,
+          "end": 18,
+          "key": "tree"
+        }
+      ]
+    },
+    "My new family help me.": {
+      "en": "My new family help me.",
+      "zh": "我的新家人帮助我。",
+      "tokens": [
+        {
+          "text": "My",
+          "start": 0,
+          "end": 2,
+          "key": "my"
+        },
+        {
+          "text": "new",
+          "start": 3,
+          "end": 6,
+          "key": "new"
+        },
+        {
+          "text": "family",
+          "start": 7,
+          "end": 13,
+          "key": "family"
+        },
+        {
+          "text": "help",
+          "start": 14,
+          "end": 18,
+          "key": "help"
+        },
+        {
+          "text": "me",
+          "start": 19,
+          "end": 21,
+          "key": "me"
+        }
+      ]
+    },
+    "I need air, water and sun.": {
+      "en": "I need air, water and sun.",
+      "zh": "我需要空气、水和阳光。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "need",
+          "start": 2,
+          "end": 6,
+          "key": "need"
+        },
+        {
+          "text": "air",
+          "start": 7,
+          "end": 10,
+          "key": "air"
+        },
+        {
+          "text": "water",
+          "start": 12,
+          "end": 17,
+          "key": "water"
+        },
+        {
+          "text": "and",
+          "start": 18,
+          "end": 21,
+          "key": "and"
+        },
+        {
+          "text": "sun",
+          "start": 22,
+          "end": 25,
+          "key": "sun"
+        }
+      ]
+    },
+    "My family water me.": {
+      "en": "My family water me.",
+      "zh": "我的家人给我浇水。",
+      "tokens": [
+        {
+          "text": "My",
+          "start": 0,
+          "end": 2,
+          "key": "my"
+        },
+        {
+          "text": "family",
+          "start": 3,
+          "end": 9,
+          "key": "family"
+        },
+        {
+          "text": "water",
+          "start": 10,
+          "end": 15,
+          "key": "water"
+        },
+        {
+          "text": "me",
+          "start": 16,
+          "end": 18,
+          "key": "me"
+        }
+      ]
+    },
+    "It is cold. They help me.": {
+      "en": "It is cold. They help me.",
+      "zh": "天冷了。他们帮助我。",
+      "tokens": [
+        {
+          "text": "It",
+          "start": 0,
+          "end": 2,
+          "key": "it"
+        },
+        {
+          "text": "is",
+          "start": 3,
+          "end": 5,
+          "key": "is"
+        },
+        {
+          "text": "cold",
+          "start": 6,
+          "end": 10,
+          "key": "cold"
+        },
+        {
+          "text": "They",
+          "start": 12,
+          "end": 16,
+          "key": "they"
+        },
+        {
+          "text": "help",
+          "start": 17,
+          "end": 21,
+          "key": "help"
+        },
+        {
+          "text": "me",
+          "start": 22,
+          "end": 24,
+          "key": "me"
+        }
+      ]
+    },
+    "My family like me.": {
+      "en": "My family like me.",
+      "zh": "我的家人喜欢我。",
+      "tokens": [
+        {
+          "text": "My",
+          "start": 0,
+          "end": 2,
+          "key": "my"
+        },
+        {
+          "text": "family",
+          "start": 3,
+          "end": 9,
+          "key": "family"
+        },
+        {
+          "text": "like",
+          "start": 10,
+          "end": 14,
+          "key": "like"
+        },
+        {
+          "text": "me",
+          "start": 15,
+          "end": 17,
+          "key": "me"
+        }
+      ]
+    },
+    "I love the fresh air.": {
+      "en": "I love the fresh air.",
+      "zh": "我喜爱新鲜的空气。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "love",
+          "start": 2,
+          "end": 6,
+          "key": "love"
+        },
+        {
+          "text": "the",
+          "start": 7,
+          "end": 10,
+          "key": "the"
+        },
+        {
+          "text": "fresh",
+          "start": 11,
+          "end": 16,
+          "key": "fresh"
+        },
+        {
+          "text": "air",
+          "start": 17,
+          "end": 20,
+          "key": "air"
+        }
+      ]
+    },
+    "The flowers are so beautiful!": {
+      "en": "The flowers are so beautiful!",
+      "zh": "这些花真漂亮！",
+      "tokens": [
+        {
+          "text": "The",
+          "start": 0,
+          "end": 3,
+          "key": "the"
+        },
+        {
+          "text": "flowers",
+          "start": 4,
+          "end": 11,
+          "key": "flowers"
+        },
+        {
+          "text": "are",
+          "start": 12,
+          "end": 15,
+          "key": "are"
+        },
+        {
+          "text": "so",
+          "start": 16,
+          "end": 18,
+          "key": "so"
+        },
+        {
+          "text": "beautiful",
+          "start": 19,
+          "end": 28,
+          "key": "beautiful"
+        }
+      ]
+    },
+    "I am big now.": {
+      "en": "I am big now.",
+      "zh": "我现在长大了。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "am",
+          "start": 2,
+          "end": 4,
+          "key": "am"
+        },
+        {
+          "text": "big",
+          "start": 5,
+          "end": 8,
+          "key": "big"
+        },
+        {
+          "text": "now",
+          "start": 9,
+          "end": 12,
+          "key": "now"
+        }
+      ]
+    },
+    "I give apples to my family.": {
+      "en": "I give apples to my family.",
+      "zh": "我把苹果送给我的家人。",
+      "tokens": [
+        {
+          "text": "I",
+          "start": 0,
+          "end": 1,
+          "key": "i"
+        },
+        {
+          "text": "give",
+          "start": 2,
+          "end": 6,
+          "key": "give"
+        },
+        {
+          "text": "apples",
+          "start": 7,
+          "end": 13,
+          "key": "apples"
+        },
+        {
+          "text": "to",
+          "start": 14,
+          "end": 16,
+          "key": "to"
+        },
+        {
+          "text": "my",
+          "start": 17,
+          "end": 19,
+          "key": "my"
+        },
+        {
+          "text": "family",
+          "start": 20,
+          "end": 26,
+          "key": "family"
+        }
+      ]
+    },
+    "We are all happy!": {
+      "en": "We are all happy!",
+      "zh": "我们都很开心！",
+      "tokens": [
+        {
+          "text": "We",
+          "start": 0,
+          "end": 2,
+          "key": "we"
+        },
+        {
+          "text": "are",
+          "start": 3,
+          "end": 6,
+          "key": "are"
+        },
+        {
+          "text": "all",
+          "start": 7,
+          "end": 10,
+          "key": "all"
+        },
+        {
+          "text": "happy",
+          "start": 11,
+          "end": 16,
+          "key": "happy"
+        }
+      ]
+    }
+  }
+}
