@@ -33,7 +33,7 @@
         {
           "page": 68,
           "en": "Here you are.",
-          "zh": "给你。",
+          "zh": "给您。",
           "file": "sentence-59.mp3"
         },
         {
@@ -49,18 +49,6 @@
           "file": "sentence-80.mp3"
         },
         {
-          "page": 73,
-          "en": "Numbers are helpful.",
-          "zh": "数字很有用。",
-          "file": "sentence-101.mp3"
-        },
-        {
-          "page": 73,
-          "en": "Numbers are different around the world.",
-          "zh": "世界各地的数字形式各不相同。",
-          "file": "sentence-103.mp3"
-        },
-        {
           "page": 62,
           "en": "Why are numbers important?",
           "zh": "数字为什么重要？",
@@ -71,6 +59,12 @@
           "en": "How useful are numbers?",
           "zh": "数字有多大用处？",
           "file": "topic-page67.mp3"
+        },
+        {
+          "page": 79,
+          "en": "How old are you, my friend?",
+          "zh": "你几岁了，我的朋友？",
+          "file": "edition-455bba2f44b5.mp3"
         }
       ],
       "reuse": null
@@ -159,7 +153,7 @@
         {
           "page": 68,
           "en": "Here you are.",
-          "zh": "给你。",
+          "zh": "给您。",
           "file": "sentence-59.mp3"
         },
         {
@@ -173,6 +167,12 @@
           "en": "What numbers do you see on the card?",
           "zh": "你在卡片上看到了哪些数字？",
           "file": "sentence-83.mp3"
+        },
+        {
+          "page": 79,
+          "en": "How old are you, my friend?",
+          "zh": "你几岁了，我的朋友？",
+          "file": "edition-455bba2f44b5.mp3"
         }
       ],
       "reuse": null
@@ -212,9 +212,9 @@
         },
         {
           "page": 73,
-          "en": "It's a Jiaguwen number.",
+          "en": "It's a jiaguwen number.",
           "zh": "这是一个甲骨文数字。",
-          "file": "sentence-98.mp3"
+          "file": "edition-37b5ed4e4494.mp3"
         }
       ],
       "reuse": null
@@ -297,7 +297,7 @@
         {
           "page": 67,
           "en": "Great! Let's go to the shop!",
-          "zh": "太好了！我们去商店吧！",
+          "zh": "好极了！我们一起去商店吧！",
           "file": "sentence-56.mp3"
         },
         {
@@ -305,6 +305,12 @@
           "en": "to Xinxin's 6th birthday party!",
           "zh": "参加欣欣的六岁生日聚会！",
           "file": "sentence-84.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I can count up from one to ten.",
+          "zh": "我能从一数到十。",
+          "file": "edition-581dbdc6c141.mp3"
         }
       ],
       "reuse": null
@@ -327,7 +333,7 @@
         {
           "page": 67,
           "en": "Great! Let's go to the shop!",
-          "zh": "太好了！我们去商店吧！",
+          "zh": "好极了！我们一起去商店吧！",
           "file": "sentence-56.mp3"
         },
         {
@@ -419,6 +425,12 @@
           "en": "Hi, Sam! This is my sister, Xinxin.",
           "zh": "你好，萨姆！这是我的妹妹／姐姐欣欣。",
           "file": "sentence-09.mp3"
+        },
+        {
+          "page": 79,
+          "en": "How old are you, my friend?",
+          "zh": "你几岁了，我的朋友？",
+          "file": "edition-455bba2f44b5.mp3"
         }
       ],
       "reuse": null
@@ -471,13 +483,13 @@
         {
           "page": 73,
           "en": "This is six too.",
-          "zh": "这也是六。",
+          "zh": "这也是“六”。",
           "file": "sentence-97.mp3"
         },
         {
           "page": 73,
           "en": "Jiaguwen is over 3,000 years old!",
-          "zh": "甲骨文已有三千多年的历史！",
+          "zh": "甲骨文有三千多年的历史！",
           "file": "sentence-99.mp3"
         }
       ],
@@ -507,35 +519,230 @@
         {
           "page": 73,
           "en": "This is six too.",
-          "zh": "这也是六。",
+          "zh": "这也是“六”。",
           "file": "sentence-97.mp3"
         }
       ],
       "reuse": null
     },
     {
-      "key": "there",
-      "en": "there",
-      "zh": "那里；在那儿",
-      "kind": "word",
+      "key": "eyes",
+      "en": "eyes",
+      "zh": "眼睛（eye 的复数）",
+      "kind": "form",
       "aliases": [],
-      "base": "",
+      "base": "eye",
       "expanded": "",
       "note": "",
-      "file": "supplemental/there.mp3",
-      "spokenText": "there",
+      "file": "supplemental/eyes.mp3",
+      "spokenText": "eyes",
       "audioSource": "Google Translate",
       "definitionSource": "课文补充释义（按原句核对）",
       "reviewStatus": "待人工审听",
       "occurrences": [
         {
-          "page": 70,
-          "en": "How many people are there?",
-          "zh": "有多少人？",
-          "file": "sentence-78.mp3"
+          "page": 68,
+          "en": "One head, eight eyes, eight legs.",
+          "zh": "一个头，八只眼睛，八条腿。",
+          "file": "sentence-66.mp3"
         }
       ],
       "reuse": null
+    },
+    {
+      "key": "oh",
+      "en": "oh",
+      "zh": "哦；啊",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/oh.mp3",
+      "spokenText": "oh",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 69,
+          "en": "Oh, one more cut for the dog.",
+          "zh": "噢，再切一块给小狗。",
+          "file": "sentence-75.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "it's",
+      "en": "It's",
+      "zh": "it is 的缩写；它是",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "it is",
+      "note": "",
+      "file": "supplemental/it-s.mp3",
+      "spokenText": "It's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 65,
+          "en": "Jump! Jump! It's such fun!",
+          "zh": "跳！跳！真好玩！",
+          "file": "sentence-27.mp3"
+        },
+        {
+          "page": 69,
+          "en": "It's seven o'clock. Hurry!",
+          "zh": "七点了。快点！",
+          "file": "sentence-70.mp3"
+        },
+        {
+          "page": 73,
+          "en": "It's six in Chinese.",
+          "zh": "这是中文的“六”。",
+          "file": "sentence-94.mp3"
+        },
+        {
+          "page": 73,
+          "en": "It's a jiaguwen number.",
+          "zh": "这是一个甲骨文数字。",
+          "file": "edition-37b5ed4e4494.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "ok",
+      "en": "ok",
+      "zh": "好的。",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-53.mp3",
+      "spokenText": "OK.",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 67,
+          "en": "OK.",
+          "zh": "好的。",
+          "file": "sentence-53.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-53.mp3",
+        "source": {
+          "file": "sentence-53.mp3",
+          "text": "OK.",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=OK.&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "8430a611de130d9ab8c205a6728af8517493b49c66ea82cc67e4ee574102b213",
+          "validation": {
+            "duration": 0.792,
+            "peak": 18303
+          }
+        }
+      }
+    },
+    {
+      "key": "we",
+      "en": "we",
+      "zh": "我们",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-35.mp3",
+      "spokenText": "we",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 66,
+          "en": "we",
+          "zh": "我们",
+          "file": "sentence-35.mp3"
+        },
+        {
+          "page": 64,
+          "en": "When do we use numbers?",
+          "zh": "我们什么时候使用数字？",
+          "file": "topic-page64.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can sort and solve and count.",
+          "zh": "我们能分类、解决问题和计数。",
+          "file": "edition-40992e430203.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can help each other out!",
+          "zh": "我们能相互帮助！",
+          "file": "edition-3ba20650a8d3.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-35.mp3",
+        "source": {
+          "file": "sentence-35.mp3",
+          "text": "we",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=we&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "245219d2449d2b882425c8e88fbe2ecfa382d97da218e0a1d2d5f2b3e1d3c8b1",
+          "validation": {
+            "duration": 0.744,
+            "peak": 15148
+          }
+        }
+      }
+    },
+    {
+      "key": "thanks",
+      "en": "thanks",
+      "zh": "谢谢！",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-87.mp3",
+      "spokenText": "Thanks!",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 71,
+          "en": "Thanks!",
+          "zh": "谢谢！",
+          "file": "sentence-87.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-87.mp3",
+        "source": {
+          "file": "sentence-87.mp3",
+          "text": "Thanks!",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thanks%21&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "1971c4f879abfe93d4e68de178480cd0eda5a1fd4d2418fdfab283658ca445bf",
+          "validation": {
+            "duration": 0.936,
+            "peak": 17730
+          }
+        }
+      }
     },
     {
       "key": "i",
@@ -587,6 +794,18 @@
           "en": "I don't know.",
           "zh": "我不知道。",
           "file": "sentence-96.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I can count up from one to ten.",
+          "zh": "我能从一数到十。",
+          "file": "edition-581dbdc6c141.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I can count back again.",
+          "zh": "我还能倒着数回来。",
+          "file": "edition-80be0e8dd0f6.mp3"
         }
       ],
       "reuse": null
@@ -628,207 +847,6 @@
       "reuse": null
     },
     {
-      "key": "eyes",
-      "en": "eyes",
-      "zh": "眼睛（eye 的复数）",
-      "kind": "form",
-      "aliases": [],
-      "base": "eye",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/eyes.mp3",
-      "spokenText": "eyes",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 68,
-          "en": "One head, eight eyes, eight legs.",
-          "zh": "一个头，八只眼睛，八条腿。",
-          "file": "sentence-66.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "oh",
-      "en": "oh",
-      "zh": "哦；啊",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/oh.mp3",
-      "spokenText": "oh",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 69,
-          "en": "Oh, one more cut for the dog.",
-          "zh": "哦，再给狗切一刀。",
-          "file": "sentence-75.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "it's",
-      "en": "It's",
-      "zh": "it is 的缩写；它是",
-      "kind": "contraction",
-      "aliases": [],
-      "base": "",
-      "expanded": "it is",
-      "note": "",
-      "file": "supplemental/it-s.mp3",
-      "spokenText": "It's",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 65,
-          "en": "Jump! Jump! It's such fun!",
-          "zh": "跳！跳！真好玩！",
-          "file": "sentence-27.mp3"
-        },
-        {
-          "page": 69,
-          "en": "It's seven o'clock. Hurry!",
-          "zh": "七点了。快点！",
-          "file": "sentence-70.mp3"
-        },
-        {
-          "page": 73,
-          "en": "It's six in Chinese.",
-          "zh": "这是汉字“六”。",
-          "file": "sentence-94.mp3"
-        },
-        {
-          "page": 73,
-          "en": "It's a Jiaguwen number.",
-          "zh": "这是一个甲骨文数字。",
-          "file": "sentence-98.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "ok",
-      "en": "ok",
-      "zh": "好的。",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "sentence-53.mp3",
-      "spokenText": "OK.",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 67,
-          "en": "OK.",
-          "zh": "好的。",
-          "file": "sentence-53.mp3"
-        }
-      ],
-      "reuse": {
-        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
-        "file": "sentence-53.mp3",
-        "source": {
-          "file": "sentence-53.mp3",
-          "text": "OK.",
-          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=OK.&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "8430a611de130d9ab8c205a6728af8517493b49c66ea82cc67e4ee574102b213"
-        }
-      }
-    },
-    {
-      "key": "we",
-      "en": "we",
-      "zh": "我们",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "sentence-35.mp3",
-      "spokenText": "we",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 66,
-          "en": "we",
-          "zh": "我们",
-          "file": "sentence-35.mp3"
-        },
-        {
-          "page": 73,
-          "en": "We use them all the time.",
-          "zh": "我们一直在使用数字。",
-          "file": "sentence-102.mp3"
-        },
-        {
-          "page": 64,
-          "en": "When do we use numbers?",
-          "zh": "我们什么时候使用数字？",
-          "file": "topic-page64.mp3"
-        }
-      ],
-      "reuse": {
-        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
-        "file": "sentence-35.mp3",
-        "source": {
-          "file": "sentence-35.mp3",
-          "text": "we",
-          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=we&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "245219d2449d2b882425c8e88fbe2ecfa382d97da218e0a1d2d5f2b3e1d3c8b1"
-        }
-      }
-    },
-    {
-      "key": "thanks",
-      "en": "thanks",
-      "zh": "谢谢！",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "sentence-87.mp3",
-      "spokenText": "Thanks!",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 71,
-          "en": "Thanks!",
-          "zh": "谢谢！",
-          "file": "sentence-87.mp3"
-        }
-      ],
-      "reuse": {
-        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
-        "file": "sentence-87.mp3",
-        "source": {
-          "file": "sentence-87.mp3",
-          "text": "Thanks!",
-          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thanks%21&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "1971c4f879abfe93d4e68de178480cd0eda5a1fd4d2418fdfab283658ca445bf"
-        }
-      }
-    },
-    {
       "key": "yes",
       "en": "yes",
       "zh": "是的",
@@ -857,9 +875,55 @@
           "file": "sentence-46.mp3",
           "text": "yes",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yes&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "577e43126ded588f09876ac796281770020e0c824a6629a783c45113ffc118d7"
+          "sha256": "577e43126ded588f09876ac796281770020e0c824a6629a783c45113ffc118d7",
+          "validation": {
+            "duration": 0.936,
+            "peak": 14994
+          }
         }
       }
+    },
+    {
+      "key": "and",
+      "en": "and",
+      "zh": "和；与",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/and.mp3",
+      "spokenText": "and",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 65,
+          "en": "Four and five! Four and five!",
+          "zh": "四和五！四和五！",
+          "file": "sentence-24.mp3"
+        },
+        {
+          "page": 67,
+          "en": "Three. And one orange.",
+          "zh": "三根。还有一个橙子。",
+          "file": "sentence-52.mp3"
+        },
+        {
+          "page": 69,
+          "en": "One orange, two apples and three bananas.",
+          "zh": "一个橙子、两个苹果和三根香蕉。",
+          "file": "sentence-71.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can sort and solve and count.",
+          "zh": "我们能分类、解决问题和计数。",
+          "file": "edition-40992e430203.mp3"
+        }
+      ],
+      "reuse": null
     },
     {
       "key": "do",
@@ -932,9 +996,61 @@
           "file": "sentence-41.mp3",
           "text": "Zip",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Zip&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "001ad5bebfecd3681c1555796685614f3be1e91eb2eb97c08c2fd860fd2aa6a3"
+          "sha256": "001ad5bebfecd3681c1555796685614f3be1e91eb2eb97c08c2fd860fd2aa6a3",
+          "validation": {
+            "duration": 0.744,
+            "peak": 13253
+          }
         }
       }
+    },
+    {
+      "key": "each",
+      "en": "each",
+      "zh": "每个",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "与 other 连用，each other 表示“互相；彼此”。",
+      "file": "supplemental/each.mp3",
+      "spokenText": "each",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "We can help each other out!",
+          "zh": "我们能相互帮助！",
+          "file": "edition-3ba20650a8d3.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "other",
+      "en": "other",
+      "zh": "另一个；其他的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "与 each 连用，each other 表示“互相；彼此”。",
+      "file": "supplemental/other.mp3",
+      "spokenText": "other",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "We can help each other out!",
+          "zh": "我们能相互帮助！",
+          "file": "edition-3ba20650a8d3.mp3"
+        }
+      ],
+      "reuse": null
     },
     {
       "key": "now",
@@ -956,60 +1072,6 @@
           "en": "How old is Xinxin now?",
           "zh": "欣欣现在几岁了？",
           "file": "sentence-81.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "this",
-      "en": "this",
-      "zh": "这；这个",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/this.mp3",
-      "spokenText": "this",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 64,
-          "en": "Binbin, this is my brother, Sam.",
-          "zh": "彬彬，这是我的弟弟／哥哥萨姆。",
-          "file": "sentence-08.mp3"
-        },
-        {
-          "page": 64,
-          "en": "Hi, Sam! This is my sister, Xinxin.",
-          "zh": "你好，萨姆！这是我的妹妹／姐姐欣欣。",
-          "file": "sentence-09.mp3"
-        },
-        {
-          "page": 72,
-          "en": "What's this?",
-          "zh": "这是什么？",
-          "file": "sentence-90.mp3"
-        },
-        {
-          "page": 73,
-          "en": "What's this?",
-          "zh": "这是什么？",
-          "file": "sentence-90.mp3"
-        },
-        {
-          "page": 73,
-          "en": "What about this?",
-          "zh": "这个呢？",
-          "file": "sentence-95.mp3"
-        },
-        {
-          "page": 73,
-          "en": "This is six too.",
-          "zh": "这也是六。",
-          "file": "sentence-97.mp3"
         }
       ],
       "reuse": null
@@ -1088,6 +1150,108 @@
           "en": "How useful are numbers?",
           "zh": "数字有多大用处？",
           "file": "topic-page67.mp3"
+        },
+        {
+          "page": 79,
+          "en": "How old are you, my friend?",
+          "zh": "你几岁了，我的朋友？",
+          "file": "edition-455bba2f44b5.mp3"
+        },
+        {
+          "page": 79,
+          "en": "How can numbers help us out?",
+          "zh": "数字能怎样帮助我们？",
+          "file": "edition-82a20fe10734.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "happy",
+      "en": "happy",
+      "zh": "快乐的；开心的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/happy.mp3",
+      "spokenText": "happy",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 69,
+          "en": "Happy birthday!",
+          "zh": "生日快乐！",
+          "file": "sentence-72.mp3"
+        },
+        {
+          "page": 70,
+          "en": "Happy birthday!",
+          "zh": "生日快乐！",
+          "file": "sentence-72.mp3"
+        },
+        {
+          "page": 71,
+          "en": "Happy birthday!",
+          "zh": "生日快乐！",
+          "file": "sentence-72.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "this",
+      "en": "this",
+      "zh": "这；这个",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/this.mp3",
+      "spokenText": "this",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 64,
+          "en": "Binbin, this is my brother, Sam.",
+          "zh": "彬彬，这是我的弟弟／哥哥萨姆。",
+          "file": "sentence-08.mp3"
+        },
+        {
+          "page": 64,
+          "en": "Hi, Sam! This is my sister, Xinxin.",
+          "zh": "你好，萨姆！这是我的妹妹／姐姐欣欣。",
+          "file": "sentence-09.mp3"
+        },
+        {
+          "page": 72,
+          "en": "What's this?",
+          "zh": "这是什么？",
+          "file": "sentence-90.mp3"
+        },
+        {
+          "page": 73,
+          "en": "What's this?",
+          "zh": "这是什么？",
+          "file": "sentence-90.mp3"
+        },
+        {
+          "page": 73,
+          "en": "What about this?",
+          "zh": "这个呢？",
+          "file": "sentence-95.mp3"
+        },
+        {
+          "page": 73,
+          "en": "This is six too.",
+          "zh": "这也是“六”。",
+          "file": "sentence-97.mp3"
         }
       ],
       "reuse": null
@@ -1134,13 +1298,13 @@
         {
           "page": 67,
           "en": "Great! Let's go to the shop!",
-          "zh": "太好了！我们去商店吧！",
+          "zh": "好极了！我们一起去商店吧！",
           "file": "sentence-56.mp3"
         },
         {
           "page": 69,
           "en": "Oh, one more cut for the dog.",
-          "zh": "哦，再给狗切一刀。",
+          "zh": "噢，再切一块给小狗。",
           "file": "sentence-75.mp3"
         },
         {
@@ -1154,18 +1318,6 @@
           "en": "What numbers do you see on the card?",
           "zh": "你在卡片上看到了哪些数字？",
           "file": "sentence-83.mp3"
-        },
-        {
-          "page": 73,
-          "en": "We use them all the time.",
-          "zh": "我们一直在使用数字。",
-          "file": "sentence-102.mp3"
-        },
-        {
-          "page": 73,
-          "en": "Numbers are different around the world.",
-          "zh": "世界各地的数字形式各不相同。",
-          "file": "sentence-103.mp3"
         }
       ],
       "reuse": null
@@ -1190,66 +1342,6 @@
           "en": "How many people are there?",
           "zh": "有多少人？",
           "file": "sentence-78.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "different",
-      "en": "different",
-      "zh": "不同的",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/different.mp3",
-      "spokenText": "different",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 73,
-          "en": "Numbers are different around the world.",
-          "zh": "世界各地的数字形式各不相同。",
-          "file": "sentence-103.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "happy",
-      "en": "happy",
-      "zh": "快乐的；开心的",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/happy.mp3",
-      "spokenText": "happy",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 69,
-          "en": "Happy birthday!",
-          "zh": "生日快乐！",
-          "file": "sentence-72.mp3"
-        },
-        {
-          "page": 70,
-          "en": "Happy birthday!",
-          "zh": "生日快乐！",
-          "file": "sentence-72.mp3"
-        },
-        {
-          "page": 71,
-          "en": "Happy birthday!",
-          "zh": "生日快乐！",
-          "file": "sentence-72.mp3"
         }
       ],
       "reuse": null
@@ -1351,30 +1443,6 @@
       "reuse": null
     },
     {
-      "key": "all",
-      "en": "all",
-      "zh": "所有的；全部",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/all.mp3",
-      "spokenText": "all",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 73,
-          "en": "We use them all the time.",
-          "zh": "我们一直在使用数字。",
-          "file": "sentence-102.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
       "key": "in",
       "en": "in",
       "zh": "在……里面",
@@ -1392,7 +1460,7 @@
         {
           "page": 73,
           "en": "It's six in Chinese.",
-          "zh": "这是汉字“六”。",
+          "zh": "这是中文的“六”。",
           "file": "sentence-94.mp3"
         }
       ],
@@ -1446,7 +1514,7 @@
         {
           "page": 67,
           "en": "Great! Let's go to the shop!",
-          "zh": "太好了！我们去商店吧！",
+          "zh": "好极了！我们一起去商店吧！",
           "file": "sentence-56.mp3"
         }
       ],
@@ -1457,96 +1525,40 @@
           "file": "sentence-44.mp3",
           "text": "Great!",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Great%21&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "91a6842f025e4c8673152ec8c019581129111babd61a38dc25eeeac727b08561"
+          "sha256": "91a6842f025e4c8673152ec8c019581129111babd61a38dc25eeeac727b08561",
+          "validation": {
+            "duration": 0.768,
+            "peak": 18991
+          }
         }
       }
     },
     {
-      "key": "jump",
-      "en": "jump",
-      "zh": "跳；跳跃",
+      "key": "again",
+      "en": "again",
+      "zh": "再一次；又",
       "kind": "word",
       "aliases": [],
       "base": "",
       "expanded": "",
       "note": "",
-      "file": "supplemental/jump.mp3",
-      "spokenText": "jump",
+      "file": "supplemental/again.mp3",
+      "spokenText": "again",
       "audioSource": "Google Translate",
       "definitionSource": "课文补充释义（按原句核对）",
       "reviewStatus": "待人工审听",
       "occurrences": [
         {
-          "page": 65,
-          "en": "Jump! Jump! Jump! One, two, three!",
-          "zh": "跳！跳！跳！一、二、三！",
-          "file": "sentence-22.mp3"
+          "page": 72,
+          "en": "You're right again.",
+          "zh": "你又答对了。",
+          "file": "sentence-93.mp3"
         },
         {
-          "page": 65,
-          "en": "Jump! Jump! Jump! Three, two, one!",
-          "zh": "跳！跳！跳！三、二、一！",
-          "file": "sentence-23.mp3"
-        },
-        {
-          "page": 65,
-          "en": "Jump up high! Jump up high!",
-          "zh": "往高处跳！往高处跳！",
-          "file": "sentence-25.mp3"
-        },
-        {
-          "page": 65,
-          "en": "Jump! Jump! It's such fun!",
-          "zh": "跳！跳！真好玩！",
-          "file": "sentence-27.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "lions",
-      "en": "lions",
-      "zh": "狮子（lion 的复数）",
-      "kind": "form",
-      "aliases": [],
-      "base": "lion",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/lions.mp3",
-      "spokenText": "lions",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 67,
-          "en": "How many lions?",
-          "zh": "几只狮子？",
-          "file": "sentence-57.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "that's",
-      "en": "That's",
-      "zh": "that is 的缩写；那是",
-      "kind": "contraction",
-      "aliases": [],
-      "base": "",
-      "expanded": "that is",
-      "note": "",
-      "file": "supplemental/that-s.mp3",
-      "spokenText": "That's",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 68,
-          "en": "That's ten yuan, please.",
-          "zh": "请付十元。",
-          "file": "sentence-58.mp3"
+          "page": 79,
+          "en": "I can count back again.",
+          "zh": "我还能倒着数回来。",
+          "file": "edition-80be0e8dd0f6.mp3"
         }
       ],
       "reuse": null
@@ -1592,7 +1604,11 @@
           "file": "sentence-34.mp3",
           "text": "see",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=see&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "0014a0856ab69c5317fbcb7c625ad7a520e7157d8d3a2777f302d3fad8ffb9ee"
+          "sha256": "0014a0856ab69c5317fbcb7c625ad7a520e7157d8d3a2777f302d3fad8ffb9ee",
+          "validation": {
+            "duration": 0.864,
+            "peak": 11578
+          }
         }
       }
     },
@@ -1631,7 +1647,11 @@
           "file": "sentence-22.mp3",
           "text": "apples",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=apples&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "5b3a2fa9758d6bd81efe45a4cd2399af8efd6535ab608c3b0800dd8356744fac"
+          "sha256": "5b3a2fa9758d6bd81efe45a4cd2399af8efd6535ab608c3b0800dd8356744fac",
+          "validation": {
+            "duration": 1.056,
+            "peak": 18734
+          }
         }
       }
     },
@@ -1670,7 +1690,121 @@
           "file": "sentence-20.mp3",
           "text": "bananas",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bananas&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "fa3dc8b7d882b741c1b92605cb9a7405200ed558ae05f70e66dfe925001c4338"
+          "sha256": "fa3dc8b7d882b741c1b92605cb9a7405200ed558ae05f70e66dfe925001c4338",
+          "validation": {
+            "duration": 1.128,
+            "peak": 12616
+          }
+        }
+      }
+    },
+    {
+      "key": "from",
+      "en": "from",
+      "zh": "从；来自",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/from.mp3",
+      "spokenText": "from",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "I can count up from one to ten.",
+          "zh": "我能从一数到十。",
+          "file": "edition-581dbdc6c141.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "up",
+      "en": "up",
+      "zh": "向上",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/up.mp3",
+      "spokenText": "up",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 65,
+          "en": "Jump up high! Jump up high!",
+          "zh": "往高处跳！往高处跳！",
+          "file": "sentence-25.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I can count up from one to ten.",
+          "zh": "我能从一数到十。",
+          "file": "edition-581dbdc6c141.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-38.mp3",
+        "source": {
+          "file": "sentence-38.mp3",
+          "text": "up",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=up&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "acdda4074e5815ae24b2a824ddf8260fb124911c1058c236a459c7066d98b42d",
+          "validation": {
+            "duration": 0.624,
+            "peak": 15436
+          }
+        }
+      }
+    },
+    {
+      "key": "right",
+      "en": "right",
+      "zh": "对。",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "sentence-91.mp3",
+      "spokenText": "Right.",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 72,
+          "en": "Right.",
+          "zh": "对。",
+          "file": "sentence-91.mp3"
+        },
+        {
+          "page": 72,
+          "en": "You're right again.",
+          "zh": "你又答对了。",
+          "file": "sentence-93.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-91.mp3",
+        "source": {
+          "file": "sentence-91.mp3",
+          "text": "Right.",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Right.&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "9ef1f9727dae3409c887fb0d55a18b548629d2380be76cdd9d1fbfd5d75b24e9",
+          "validation": {
+            "duration": 0.696,
+            "peak": 19394
+          }
         }
       }
     },
@@ -1716,7 +1850,7 @@
         {
           "page": 68,
           "en": "That's ten yuan, please.",
-          "zh": "请付十元。",
+          "zh": "（共）十元，谢谢。",
           "file": "sentence-58.mp3"
         }
       ],
@@ -1751,33 +1885,13 @@
           "file": "sentence-100.mp3",
           "text": "Wow!",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wow%21&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "713fbebffb7e53aa9aed34094b4e9017fb11542dd61ea19b804b4efa4059d625"
+          "sha256": "713fbebffb7e53aa9aed34094b4e9017fb11542dd61ea19b804b4efa4059d625",
+          "validation": {
+            "duration": 0.888,
+            "peak": 20301
+          }
         }
       }
-    },
-    {
-      "key": "world",
-      "en": "world",
-      "zh": "世界",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/world.mp3",
-      "spokenText": "world",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 73,
-          "en": "Numbers are different around the world.",
-          "zh": "世界各地的数字形式各不相同。",
-          "file": "sentence-103.mp3"
-        }
-      ],
-      "reuse": null
     },
     {
       "key": "here",
@@ -1797,44 +1911,35 @@
         {
           "page": 68,
           "en": "Here you are.",
-          "zh": "给你。",
+          "zh": "给您。",
           "file": "sentence-59.mp3"
         }
       ],
       "reuse": null
     },
     {
-      "key": "up",
-      "en": "up",
-      "zh": "向上",
+      "key": "there",
+      "en": "there",
+      "zh": "那里；在那儿",
       "kind": "word",
       "aliases": [],
       "base": "",
       "expanded": "",
       "note": "",
-      "file": "supplemental/up.mp3",
-      "spokenText": "up",
+      "file": "supplemental/there.mp3",
+      "spokenText": "there",
       "audioSource": "Google Translate",
       "definitionSource": "课文补充释义（按原句核对）",
       "reviewStatus": "待人工审听",
       "occurrences": [
         {
-          "page": 65,
-          "en": "Jump up high! Jump up high!",
-          "zh": "往高处跳！往高处跳！",
-          "file": "sentence-25.mp3"
+          "page": 70,
+          "en": "How many people are there?",
+          "zh": "有多少人？",
+          "file": "sentence-78.mp3"
         }
       ],
-      "reuse": {
-        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
-        "file": "sentence-38.mp3",
-        "source": {
-          "file": "sentence-38.mp3",
-          "text": "up",
-          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=up&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "acdda4074e5815ae24b2a824ddf8260fb124911c1058c236a459c7066d98b42d"
-        }
-      }
+      "reuse": null
     },
     {
       "key": "useful",
@@ -1861,25 +1966,43 @@
       "reuse": null
     },
     {
-      "key": "around",
-      "en": "around",
-      "zh": "周围；转圈",
+      "key": "jump",
+      "en": "jump",
+      "zh": "跳；跳跃",
       "kind": "word",
       "aliases": [],
       "base": "",
       "expanded": "",
       "note": "",
-      "file": "supplemental/around.mp3",
-      "spokenText": "around",
+      "file": "supplemental/jump.mp3",
+      "spokenText": "jump",
       "audioSource": "Google Translate",
       "definitionSource": "课文补充释义（按原句核对）",
       "reviewStatus": "待人工审听",
       "occurrences": [
         {
-          "page": 73,
-          "en": "Numbers are different around the world.",
-          "zh": "世界各地的数字形式各不相同。",
-          "file": "sentence-103.mp3"
+          "page": 65,
+          "en": "Jump! Jump! Jump! One, two, three!",
+          "zh": "跳！跳！跳！一、二、三！",
+          "file": "sentence-22.mp3"
+        },
+        {
+          "page": 65,
+          "en": "Jump! Jump! Jump! Three, two, one!",
+          "zh": "跳！跳！跳！三、二、一！",
+          "file": "sentence-23.mp3"
+        },
+        {
+          "page": 65,
+          "en": "Jump up high! Jump up high!",
+          "zh": "往高处跳！往高处跳！",
+          "file": "sentence-25.mp3"
+        },
+        {
+          "page": 65,
+          "en": "Jump! Jump! It's such fun!",
+          "zh": "跳！跳！真好玩！",
+          "file": "sentence-27.mp3"
         }
       ],
       "reuse": null
@@ -1900,40 +2023,10 @@
       "reviewStatus": "待人工审听",
       "occurrences": [
         {
-          "page": 73,
-          "en": "We use them all the time.",
-          "zh": "我们一直在使用数字。",
-          "file": "sentence-102.mp3"
-        },
-        {
           "page": 64,
           "en": "When do we use numbers?",
           "zh": "我们什么时候使用数字？",
           "file": "topic-page64.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "again",
-      "en": "again",
-      "zh": "再一次；又",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/again.mp3",
-      "spokenText": "again",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 72,
-          "en": "You're right again.",
-          "zh": "你又答对了。",
-          "file": "sentence-93.mp3"
         }
       ],
       "reuse": null
@@ -2002,18 +2095,6 @@
           "file": "sentence-83.mp3"
         },
         {
-          "page": 73,
-          "en": "Numbers are helpful.",
-          "zh": "数字很有用。",
-          "file": "sentence-101.mp3"
-        },
-        {
-          "page": 73,
-          "en": "Numbers are different around the world.",
-          "zh": "世界各地的数字形式各不相同。",
-          "file": "sentence-103.mp3"
-        },
-        {
           "page": 62,
           "en": "Why are numbers important?",
           "zh": "数字为什么重要？",
@@ -2030,6 +2111,12 @@
           "en": "How useful are numbers?",
           "zh": "数字有多大用处？",
           "file": "topic-page67.mp3"
+        },
+        {
+          "page": 79,
+          "en": "How can numbers help us out?",
+          "zh": "数字能怎样帮助我们？",
+          "file": "edition-82a20fe10734.mp3"
         }
       ],
       "reuse": {
@@ -2039,7 +2126,11 @@
           "file": "sentence-07.mp3",
           "text": "Numbers",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Numbers&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "b42132e86a316fa4b4fab9c4ed079f9046af4d81c476156e6dcc2bffee92f01d"
+          "sha256": "b42132e86a316fa4b4fab9c4ed079f9046af4d81c476156e6dcc2bffee92f01d",
+          "validation": {
+            "duration": 1.08,
+            "peak": 18151
+          }
         }
       }
     },
@@ -2133,7 +2224,7 @@
         {
           "page": 69,
           "en": "Oh, one more cut for the dog.",
-          "zh": "哦，再给狗切一刀。",
+          "zh": "噢，再切一块给小狗。",
           "file": "sentence-75.mp3"
         }
       ],
@@ -2265,7 +2356,7 @@
         {
           "page": 73,
           "en": "Jiaguwen is over 3,000 years old!",
-          "zh": "甲骨文已有三千多年的历史！",
+          "zh": "甲骨文有三千多年的历史！",
           "file": "sentence-99.mp3"
         }
       ],
@@ -2396,7 +2487,11 @@
           "file": "sentence-33.mp3",
           "text": "van",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=van&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "c9233eb23ca294c29b0a24c5d5727e25ab2cd95c0ff3d1dbdef611596672e3d4"
+          "sha256": "c9233eb23ca294c29b0a24c5d5727e25ab2cd95c0ff3d1dbdef611596672e3d4",
+          "validation": {
+            "duration": 0.84,
+            "peak": 11734
+          }
         }
       }
     },
@@ -2429,7 +2524,11 @@
           "file": "sentence-34.mp3",
           "text": "vet",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=vet&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "6298bb7d2038731f3473dd9b848679316a5924ea3d64fe2757dc52bedc68f99b"
+          "sha256": "6298bb7d2038731f3473dd9b848679316a5924ea3d64fe2757dc52bedc68f99b",
+          "validation": {
+            "duration": 0.672,
+            "peak": 14433
+          }
         }
       }
     },
@@ -2462,7 +2561,11 @@
           "file": "sentence-36.mp3",
           "text": "win",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=win&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "438b5f9d2d64ec0a17592b1b664af142afad7ce7f2e8f21549208f26963b4b6e"
+          "sha256": "438b5f9d2d64ec0a17592b1b664af142afad7ce7f2e8f21549208f26963b4b6e",
+          "validation": {
+            "duration": 0.84,
+            "peak": 14355
+          }
         }
       }
     },
@@ -2495,7 +2598,11 @@
           "file": "sentence-37.mp3",
           "text": "box",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=box&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "0fc1745146ef14c953fab263e19f09d36242cae7bd3445c13f30d0f08b0861bc"
+          "sha256": "0fc1745146ef14c953fab263e19f09d36242cae7bd3445c13f30d0f08b0861bc",
+          "validation": {
+            "duration": 0.936,
+            "peak": 20550
+          }
         }
       }
     },
@@ -2528,7 +2635,11 @@
           "file": "sentence-40.mp3",
           "text": "yo-yo",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yo-yo&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "35184f1ff96c535d153e3b954294d8f140e33b20d4ea4f4cec3b50e9305bb886"
+          "sha256": "35184f1ff96c535d153e3b954294d8f140e33b20d4ea4f4cec3b50e9305bb886",
+          "validation": {
+            "duration": 0.96,
+            "peak": 21355
+          }
         }
       }
     },
@@ -2561,7 +2672,11 @@
           "file": "sentence-42.mp3",
           "text": "quiz",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=quiz&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "e8c4c56efe10e1263abce53cf89fd75e801b4b973c3dd59c1cf3b943ae5b5b10"
+          "sha256": "e8c4c56efe10e1263abce53cf89fd75e801b4b973c3dd59c1cf3b943ae5b5b10",
+          "validation": {
+            "duration": 0.936,
+            "peak": 22948
+          }
         }
       }
     },
@@ -2594,7 +2709,11 @@
           "file": "sentence-43.mp3",
           "text": "wet",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=wet&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "6bdeddcc094b24970df89beddd71451d663402af2634584b42fe4bdd0f3cbb2f"
+          "sha256": "6bdeddcc094b24970df89beddd71451d663402af2634584b42fe4bdd0f3cbb2f",
+          "validation": {
+            "duration": 0.696,
+            "peak": 13826
+          }
         }
       }
     },
@@ -2627,7 +2746,11 @@
           "file": "sentence-44.mp3",
           "text": "vat",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=vat&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "3427094c3de00af12bd4fe224ffc9867b84bb730c87d31490a10451ba61896a2"
+          "sha256": "3427094c3de00af12bd4fe224ffc9867b84bb730c87d31490a10451ba61896a2",
+          "validation": {
+            "duration": 0.72,
+            "peak": 20595
+          }
         }
       }
     },
@@ -2660,7 +2783,11 @@
           "file": "sentence-45.mp3",
           "text": "won",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=won&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "a39eda808f8dad5358b4ef5e14275e2a3f3b48dc8521d5b062249031d18e8d53"
+          "sha256": "a39eda808f8dad5358b4ef5e14275e2a3f3b48dc8521d5b062249031d18e8d53",
+          "validation": {
+            "duration": 0.816,
+            "peak": 16383
+          }
         }
       }
     },
@@ -2693,7 +2820,11 @@
           "file": "sentence-47.mp3",
           "text": "yum",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yum&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "5be25cc3c4104468707bc94f201d120ccb33438cae4100e0746e4ba93f7c60cf"
+          "sha256": "5be25cc3c4104468707bc94f201d120ccb33438cae4100e0746e4ba93f7c60cf",
+          "validation": {
+            "duration": 0.912,
+            "peak": 18594
+          }
         }
       }
     },
@@ -2726,7 +2857,11 @@
           "file": "sentence-48.mp3",
           "text": "zig",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=zig&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "bbe40fa2fab7a88170a4167119b16f055fee0b98860f81299d6f2df066ea0f48"
+          "sha256": "bbe40fa2fab7a88170a4167119b16f055fee0b98860f81299d6f2df066ea0f48",
+          "validation": {
+            "duration": 0.864,
+            "peak": 17271
+          }
         }
       }
     },
@@ -2760,7 +2895,7 @@
         {
           "page": 68,
           "en": "That's ten yuan, please.",
-          "zh": "请付十元。",
+          "zh": "（共）十元，谢谢。",
           "file": "sentence-58.mp3"
         }
       ],
@@ -2784,8 +2919,56 @@
         {
           "page": 67,
           "en": "Great! Let's go to the shop!",
-          "zh": "太好了！我们去商店吧！",
+          "zh": "好极了！我们一起去商店吧！",
           "file": "sentence-56.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "lions",
+      "en": "lions",
+      "zh": "狮子（lion 的复数）",
+      "kind": "form",
+      "aliases": [],
+      "base": "lion",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/lions.mp3",
+      "spokenText": "lions",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 67,
+          "en": "How many lions?",
+          "zh": "几只狮子？",
+          "file": "sentence-57.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "that's",
+      "en": "That's",
+      "zh": "that is 的缩写；那是",
+      "kind": "contraction",
+      "aliases": [],
+      "base": "",
+      "expanded": "that is",
+      "note": "",
+      "file": "supplemental/that-s.mp3",
+      "spokenText": "That's",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 68,
+          "en": "That's ten yuan, please.",
+          "zh": "（共）十元，谢谢。",
+          "file": "sentence-58.mp3"
         }
       ],
       "reuse": null
@@ -3114,7 +3297,7 @@
         {
           "page": 69,
           "en": "Oh, one more cut for the dog.",
-          "zh": "哦，再给狗切一刀。",
+          "zh": "噢，再切一块给小狗。",
           "file": "sentence-75.mp3"
         }
       ],
@@ -3149,7 +3332,11 @@
           "file": "sentence-76.mp3",
           "text": "odd",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=odd&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "ea6ba608bd88066e309dd493bca0ec00c81123f2342293c28bd57b7e01c1f741"
+          "sha256": "ea6ba608bd88066e309dd493bca0ec00c81123f2342293c28bd57b7e01c1f741",
+          "validation": {
+            "duration": 0.744,
+            "peak": 16630
+          }
         }
       }
     },
@@ -3182,7 +3369,11 @@
           "file": "sentence-77.mp3",
           "text": "even",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=even&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "afc45654f890ca66a88b818add85d345a524811d6f6d4dc00b7da88b5036bd6d"
+          "sha256": "afc45654f890ca66a88b818add85d345a524811d6f6d4dc00b7da88b5036bd6d",
+          "validation": {
+            "duration": 0.816,
+            "peak": 13391
+          }
         }
       }
     },
@@ -3254,12 +3445,6 @@
           "en": "What time is the party?",
           "zh": "聚会在几点？",
           "file": "sentence-82.mp3"
-        },
-        {
-          "page": 73,
-          "en": "We use them all the time.",
-          "zh": "我们一直在使用数字。",
-          "file": "sentence-102.mp3"
         }
       ],
       "reuse": null
@@ -3445,45 +3630,6 @@
       "reuse": null
     },
     {
-      "key": "right",
-      "en": "right",
-      "zh": "对。",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "sentence-91.mp3",
-      "spokenText": "Right.",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 72,
-          "en": "Right.",
-          "zh": "对。",
-          "file": "sentence-91.mp3"
-        },
-        {
-          "page": 72,
-          "en": "You're right again.",
-          "zh": "你又答对了。",
-          "file": "sentence-93.mp3"
-        }
-      ],
-      "reuse": {
-        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
-        "file": "sentence-91.mp3",
-        "source": {
-          "file": "sentence-91.mp3",
-          "text": "Right.",
-          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Right.&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "9ef1f9727dae3409c887fb0d55a18b548629d2380be76cdd9d1fbfd5d75b24e9"
-        }
-      }
-    },
-    {
       "key": "hmm",
       "en": "hmm",
       "zh": "嗯（思考时的声音）",
@@ -3549,7 +3695,7 @@
         {
           "page": 73,
           "en": "It's six in Chinese.",
-          "zh": "这是汉字“六”。",
+          "zh": "这是中文的“六”。",
           "file": "sentence-94.mp3"
         }
       ],
@@ -3572,39 +3718,15 @@
       "occurrences": [
         {
           "page": 73,
-          "en": "It's a Jiaguwen number.",
-          "zh": "这是一个甲骨文数字。",
-          "file": "sentence-98.mp3"
+          "en": "Jiaguwen is over 3,000 years old!",
+          "zh": "甲骨文有三千多年的历史！",
+          "file": "sentence-99.mp3"
         },
         {
           "page": 73,
-          "en": "Jiaguwen is over 3,000 years old!",
-          "zh": "甲骨文已有三千多年的历史！",
-          "file": "sentence-99.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "number",
-      "en": "number",
-      "zh": "数字",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/number.mp3",
-      "spokenText": "number",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 73,
-          "en": "It's a Jiaguwen number.",
+          "en": "It's a jiaguwen number.",
           "zh": "这是一个甲骨文数字。",
-          "file": "sentence-98.mp3"
+          "file": "edition-37b5ed4e4494.mp3"
         }
       ],
       "reuse": null
@@ -3627,32 +3749,8 @@
         {
           "page": 73,
           "en": "Jiaguwen is over 3,000 years old!",
-          "zh": "甲骨文已有三千多年的历史！",
+          "zh": "甲骨文有三千多年的历史！",
           "file": "sentence-99.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "helpful",
-      "en": "helpful",
-      "zh": "有帮助的；乐于助人的",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/helpful.mp3",
-      "spokenText": "helpful",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 73,
-          "en": "Numbers are helpful.",
-          "zh": "数字很有用。",
-          "file": "sentence-101.mp3"
         }
       ],
       "reuse": null
@@ -3677,6 +3775,168 @@
           "en": "When do we use numbers?",
           "zh": "我们什么时候使用数字？",
           "file": "topic-page64.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "number",
+      "en": "number",
+      "zh": "数字",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/number.mp3",
+      "spokenText": "number",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 73,
+          "en": "It's a jiaguwen number.",
+          "zh": "这是一个甲骨文数字。",
+          "file": "edition-37b5ed4e4494.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "count",
+      "en": "count",
+      "zh": "数数；计数",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/count.mp3",
+      "spokenText": "count",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "I can count up from one to ten.",
+          "zh": "我能从一数到十。",
+          "file": "edition-581dbdc6c141.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I can count back again.",
+          "zh": "我还能倒着数回来。",
+          "file": "edition-80be0e8dd0f6.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can sort and solve and count.",
+          "zh": "我们能分类、解决问题和计数。",
+          "file": "edition-40992e430203.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "back",
+      "en": "back",
+      "zh": "往回；反向",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/back.mp3",
+      "spokenText": "back",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "I can count back again.",
+          "zh": "我还能倒着数回来。",
+          "file": "edition-80be0e8dd0f6.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "out",
+      "en": "out",
+      "zh": "（help ... out）帮助……摆脱困难",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/out.mp3",
+      "spokenText": "out",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "How can numbers help us out?",
+          "zh": "数字能怎样帮助我们？",
+          "file": "edition-82a20fe10734.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can help each other out!",
+          "zh": "我们能相互帮助！",
+          "file": "edition-3ba20650a8d3.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "sort",
+      "en": "sort",
+      "zh": "分类；整理",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/sort.mp3",
+      "spokenText": "sort",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "We can sort and solve and count.",
+          "zh": "我们能分类、解决问题和计数。",
+          "file": "edition-40992e430203.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "solve",
+      "en": "solve",
+      "zh": "解决（问题）",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/solve.mp3",
+      "spokenText": "solve",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "We can sort and solve and count.",
+          "zh": "我们能分类、解决问题和计数。",
+          "file": "edition-40992e430203.mp3"
         }
       ],
       "reuse": null

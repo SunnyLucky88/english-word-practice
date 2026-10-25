@@ -3,738 +3,1120 @@
     "file": "like.mp3",
     "text": "like",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=like&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e18c49b5f73dd2dcbee4b54c2cd230363820633d20ad3298466a31d3ae4bcbfd"
+    "sha256": "e18c49b5f73dd2dcbee4b54c2cd230363820633d20ad3298466a31d3ae4bcbfd",
+    "validation": {
+      "duration": 0.744,
+      "peak": 21283
+    }
   },
   {
     "file": "dog.mp3",
     "text": "dog",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=dog&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a1a536ae869865db5844657964896c4b0c0fbbe051604d14279a860d0042051f"
+    "sha256": "a1a536ae869865db5844657964896c4b0c0fbbe051604d14279a860d0042051f",
+    "validation": {
+      "duration": 0.816,
+      "peak": 21074
+    }
   },
   {
     "file": "pet.mp3",
     "text": "pet",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=pet&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "cadc3fd67878d2abe50aa44ba8927d514a55e1f8e985044da803178f28c28b5d"
+    "sha256": "cadc3fd67878d2abe50aa44ba8927d514a55e1f8e985044da803178f28c28b5d",
+    "validation": {
+      "duration": 0.672,
+      "peak": 16851
+    }
   },
   {
     "file": "cat.mp3",
     "text": "cat",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cat&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fb98c66514e908ae32e701ef040ccf5295fd06fa553e586171713866d1d5c459"
+    "sha256": "fb98c66514e908ae32e701ef040ccf5295fd06fa553e586171713866d1d5c459",
+    "validation": {
+      "duration": 0.72,
+      "peak": 16762
+    }
   },
   {
     "file": "fish.mp3",
     "text": "fish",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=fish&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7fb51eb90861d4c3c3ed01d1acc10ea82cf1f318741a46e311c4d7c050174f26"
+    "sha256": "7fb51eb90861d4c3c3ed01d1acc10ea82cf1f318741a46e311c4d7c050174f26",
+    "validation": {
+      "duration": 0.936,
+      "peak": 17657
+    }
   },
   {
     "file": "bird.mp3",
     "text": "bird",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bird&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1a379551dc252753bab15ef3011fa34a225d0592758e168493abc5866f4bdcf7"
+    "sha256": "1a379551dc252753bab15ef3011fa34a225d0592758e168493abc5866f4bdcf7",
+    "validation": {
+      "duration": 0.792,
+      "peak": 13049
+    }
   },
   {
     "file": "rabbit.mp3",
     "text": "rabbit",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=rabbit&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "14fa629624260de27a719ad630f08a8a0305a0c4c31d5fc32ccec30c4b0696fb"
+    "sha256": "14fa629624260de27a719ad630f08a8a0305a0c4c31d5fc32ccec30c4b0696fb",
+    "validation": {
+      "duration": 0.84,
+      "peak": 20314
+    }
   },
   {
     "file": "go.mp3",
     "text": "go",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=go&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "42dd053c5b7378fe495c9c5d5c8af54b69eda0d1bd99f15ebd991c3943ecb9df"
+    "sha256": "42dd053c5b7378fe495c9c5d5c8af54b69eda0d1bd99f15ebd991c3943ecb9df",
+    "validation": {
+      "duration": 0.72,
+      "peak": 15425
+    }
   },
   {
     "file": "zoo.mp3",
     "text": "zoo",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=zoo&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "bd28748256a60ffa2b9fd7345a1d7cd65779852a90c3cd1e4ccda7e9fc031062"
+    "sha256": "bd28748256a60ffa2b9fd7345a1d7cd65779852a90c3cd1e4ccda7e9fc031062",
+    "validation": {
+      "duration": 0.84,
+      "peak": 19212
+    }
   },
   {
     "file": "fox.mp3",
     "text": "fox",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=fox&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "37460c82f8f9b0db41efd574365b9d667b73c60f45075789d61264fbdf7e3e3b"
+    "sha256": "37460c82f8f9b0db41efd574365b9d667b73c60f45075789d61264fbdf7e3e3b",
+    "validation": {
+      "duration": 1.056,
+      "peak": 17674
+    }
   },
   {
     "file": "miss.mp3",
     "text": "Miss",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Miss&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9e3e0c4bbb6f37f41c9db0bfab4d0b7efd55732d4020a5e49405053e1cc09ccd"
+    "sha256": "9e3e0c4bbb6f37f41c9db0bfab4d0b7efd55732d4020a5e49405053e1cc09ccd",
+    "validation": {
+      "duration": 0.912,
+      "peak": 13698
+    }
   },
   {
     "file": "panda.mp3",
     "text": "panda",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=panda&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d7eba9860df4416aaaa8a4b17007c83650cb6cf716560ec5d238fecb4a494bcf"
+    "sha256": "d7eba9860df4416aaaa8a4b17007c83650cb6cf716560ec5d238fecb4a494bcf",
+    "validation": {
+      "duration": 0.816,
+      "peak": 14100
+    }
   },
   {
     "file": "red-panda.mp3",
     "text": "red panda",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=red+panda&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f7adfd35177ebfe6ce36832e17c1d86751e7bcc339501444c66a46008013ba1a"
+    "sha256": "f7adfd35177ebfe6ce36832e17c1d86751e7bcc339501444c66a46008013ba1a",
+    "validation": {
+      "duration": 1.128,
+      "peak": 17222
+    }
   },
   {
     "file": "cute.mp3",
     "text": "cute",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cute&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7bf39bb1638e2327175e032c2710b5a4e6bd75d81763822f13512ef0c1f0b96a"
+    "sha256": "7bf39bb1638e2327175e032c2710b5a4e6bd75d81763822f13512ef0c1f0b96a",
+    "validation": {
+      "duration": 0.768,
+      "peak": 15754
+    }
   },
   {
     "file": "monkey.mp3",
     "text": "monkey",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=monkey&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5cfd9c8fe5fd5ea73c0b40a868ee66afcc45791ca0f8d90d75f54872edcdce36"
+    "sha256": "5cfd9c8fe5fd5ea73c0b40a868ee66afcc45791ca0f8d90d75f54872edcdce36",
+    "validation": {
+      "duration": 0.96,
+      "peak": 20019
+    }
   },
   {
     "file": "tiger.mp3",
     "text": "tiger",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tiger&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "abec1e79d15dd952b2f57d57dae5faa8df48db864015541331e3af73f4175b8b"
+    "sha256": "abec1e79d15dd952b2f57d57dae5faa8df48db864015541331e3af73f4175b8b",
+    "validation": {
+      "duration": 0.96,
+      "peak": 19002
+    }
   },
   {
     "file": "elephant.mp3",
     "text": "elephant",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=elephant&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e68bca59cb6e63e404b46c6ae7d68f100fdae53521c9414c2cd6f6ef61d98777"
+    "sha256": "e68bca59cb6e63e404b46c6ae7d68f100fdae53521c9414c2cd6f6ef61d98777",
+    "validation": {
+      "duration": 0.984,
+      "peak": 22283
+    }
   },
   {
     "file": "lion.mp3",
     "text": "lion",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=lion&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "51b274744c06b3dd9aa11d9eea35ce2c7d4b85d2a8d1a52231f248f4a31a0f16"
+    "sha256": "51b274744c06b3dd9aa11d9eea35ce2c7d4b85d2a8d1a52231f248f4a31a0f16",
+    "validation": {
+      "duration": 0.936,
+      "peak": 22056
+    }
   },
   {
     "file": "animal.mp3",
     "text": "animal",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=animal&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1447615a68b94c63bc19a8f860393176e52663267dfdafbe48fd13e4f5e6d511"
+    "sha256": "1447615a68b94c63bc19a8f860393176e52663267dfdafbe48fd13e4f5e6d511",
+    "validation": {
+      "duration": 0.888,
+      "peak": 17193
+    }
   },
   {
     "file": "giraffe.mp3",
     "text": "giraffe",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=giraffe&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3ef0d8569138489df2fd226ba0fca45d6b517f44760e044168fa81f0bd3f6e24"
+    "sha256": "3ef0d8569138489df2fd226ba0fca45d6b517f44760e044168fa81f0bd3f6e24",
+    "validation": {
+      "duration": 1.032,
+      "peak": 17963
+    }
   },
   {
     "file": "tall.mp3",
     "text": "tall",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tall&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5826392e86445e38e487afc9b4397a28d16e9ad7610a4211cd5ffa1936ab2ea7"
+    "sha256": "5826392e86445e38e487afc9b4397a28d16e9ad7610a4211cd5ffa1936ab2ea7",
+    "validation": {
+      "duration": 0.816,
+      "peak": 15696
+    }
   },
   {
     "file": "fast.mp3",
     "text": "fast",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=fast&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9d3a61b6f3a3fc2c1bde300b78bbcc89307fc743730e950b30e3dd539b4b6162"
+    "sha256": "9d3a61b6f3a3fc2c1bde300b78bbcc89307fc743730e950b30e3dd539b4b6162",
+    "validation": {
+      "duration": 0.912,
+      "peak": 18802
+    }
   },
   {
     "file": "sentence-01.mp3",
     "text": "Whose hands are these?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Whose+hands+are+these%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "64a56a57dcb2a9ef2effdf61b71b6d3857fde445bafe243ad59b698431ebfd5d"
+    "sha256": "64a56a57dcb2a9ef2effdf61b71b6d3857fde445bafe243ad59b698431ebfd5d",
+    "validation": {
+      "duration": 1.68,
+      "peak": 16781
+    }
   },
   {
     "file": "sentence-02.mp3",
     "text": "What animals do you know?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+animals+do+you+know%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "60918db12b0c56483545dce0d5534e5a944387b7ae5214a65136c8ab5f5cd3fd"
+    "sha256": "60918db12b0c56483545dce0d5534e5a944387b7ae5214a65136c8ab5f5cd3fd",
+    "validation": {
+      "duration": 1.968,
+      "peak": 20147
+    }
   },
   {
     "file": "sentence-03.mp3",
     "text": "So many animals,",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=So+many+animals%2C&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7aff8049c78babc01c48825bbc15556e6dd8f243a2b9e71f1a602504a648cabb"
+    "sha256": "7aff8049c78babc01c48825bbc15556e6dd8f243a2b9e71f1a602504a648cabb",
+    "validation": {
+      "duration": 1.656,
+      "peak": 20466
+    }
   },
   {
     "file": "sentence-04.mp3",
     "text": "Big, tall and small.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Big%2C+tall+and+small.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1d2786ccc43ede454ed08d8a9d460ed39628a47e0cb42d80cf6dc7b014405057"
+    "sha256": "1d2786ccc43ede454ed08d8a9d460ed39628a47e0cb42d80cf6dc7b014405057",
+    "validation": {
+      "duration": 2.208,
+      "peak": 22294
+    }
   },
   {
     "file": "sentence-05.mp3",
     "text": "Pets and wild animals,",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Pets+and+wild+animals%2C&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "50029980d057d5968c70930e3eb4112b97e6bb2322695864f415983d6fe4b0af"
+    "sha256": "50029980d057d5968c70930e3eb4112b97e6bb2322695864f415983d6fe4b0af",
+    "validation": {
+      "duration": 2.016,
+      "peak": 20752
+    }
   },
   {
     "file": "sentence-06.mp3",
     "text": "We love them all.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+love+them+all.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3090a2d00adabf1d6b16844143d88b08f2ffbdf2175b7976a521106b42314cb1"
+    "sha256": "3090a2d00adabf1d6b16844143d88b08f2ffbdf2175b7976a521106b42314cb1",
+    "validation": {
+      "duration": 1.368,
+      "peak": 21712
+    }
   },
   {
     "file": "sentence-07.mp3",
     "text": "Animal song",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Animal+song&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1ca1451f00c4ab5996ffd00530fe139a789fe9ab0e1685eadc565d1163e5e66c"
+    "sha256": "1ca1451f00c4ab5996ffd00530fe139a789fe9ab0e1685eadc565d1163e5e66c",
+    "validation": {
+      "duration": 1.272,
+      "peak": 17336
+    }
   },
   {
     "file": "sentence-08.mp3",
     "text": "Good morning, Mike!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Good+morning%2C+Mike%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "37dbba232fc110029755f7062337347d672751a9d41b9019d278cbc610c152df"
+    "sha256": "37dbba232fc110029755f7062337347d672751a9d41b9019d278cbc610c152df",
+    "validation": {
+      "duration": 1.44,
+      "peak": 21350
+    }
   },
   {
     "file": "sentence-09.mp3",
     "text": "Good morning! Come in.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Good+morning%21+Come+in.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "787db4bba3f468e748ffc9aa239da222431e699e558c6ec313f58763d0fd6794"
+    "sha256": "787db4bba3f468e748ffc9aa239da222431e699e558c6ec313f58763d0fd6794",
+    "validation": {
+      "duration": 1.872,
+      "peak": 20313
+    }
   },
   {
     "file": "sentence-10.mp3",
     "text": "I like your dog.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+your+dog.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "02f9c196789c2ea48694755d9dbbe930407379ebd6c4b113ec190db02900e4ed"
+    "sha256": "02f9c196789c2ea48694755d9dbbe930407379ebd6c4b113ec190db02900e4ed",
+    "validation": {
+      "duration": 1.44,
+      "peak": 18641
+    }
   },
   {
     "file": "sentence-11.mp3",
     "text": "Thanks. Do you have a pet?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thanks.+Do+you+have+a+pet%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "13b9c650a52ca0c6a4ea1befba962a84ff78706ddaaca82d1fa8ede3c511fb25"
+    "sha256": "13b9c650a52ca0c6a4ea1befba962a84ff78706ddaaca82d1fa8ede3c511fb25",
+    "validation": {
+      "duration": 2.256,
+      "peak": 17698
+    }
   },
   {
     "file": "sentence-12.mp3",
     "text": "No, I don't.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=No%2C+I+don%27t.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fe473dba738deb4466000379a9dcb51c2df92ca6001e09e1e7551915b6977515"
+    "sha256": "fe473dba738deb4466000379a9dcb51c2df92ca6001e09e1e7551915b6977515",
+    "validation": {
+      "duration": 1.368,
+      "peak": 20363
+    }
   },
   {
     "file": "sentence-13.mp3",
     "text": "Yes, I do. I have a cat.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Yes%2C+I+do.+I+have+a+cat.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b3b38970b2b177e9b04e04080ce238b87a8d5e379c899b6c05625a95a3e451d7"
+    "sha256": "b3b38970b2b177e9b04e04080ce238b87a8d5e379c899b6c05625a95a3e451d7",
+    "validation": {
+      "duration": 2.568,
+      "peak": 21791
+    }
   },
   {
     "file": "sentence-14.mp3",
     "text": "Do you have a pet?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Do+you+have+a+pet%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b475573a64b7dc317115abf108dc26242fffc87dd6034fcee75cf3d148057307"
+    "sha256": "b475573a64b7dc317115abf108dc26242fffc87dd6034fcee75cf3d148057307",
+    "validation": {
+      "duration": 1.44,
+      "peak": 17700
+    }
   },
   {
     "file": "sentence-15.mp3",
     "text": "Yes, I do. I have a dog.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Yes%2C+I+do.+I+have+a+dog.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "80272c3d11f54c4bcdb4d63753b2c6c8a2d36349f59ed7098c59a046bdd468a1"
+    "sha256": "80272c3d11f54c4bcdb4d63753b2c6c8a2d36349f59ed7098c59a046bdd468a1",
+    "validation": {
+      "duration": 2.64,
+      "peak": 21590
+    }
   },
   {
     "file": "sentence-16.mp3",
     "text": "I like fish.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+fish.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3803ed9c40001b02dc8bd449fdf21db71ed8a85d026ad3a90e0680c8df337a7e"
+    "sha256": "3803ed9c40001b02dc8bd449fdf21db71ed8a85d026ad3a90e0680c8df337a7e",
+    "validation": {
+      "duration": 1.392,
+      "peak": 19116
+    }
   },
   {
     "file": "sentence-17.mp3",
     "text": "I like cats.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+cats.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4b33778801a8c423e45ce827dfb16ce8343f510a1104dd8c26d224d5777fdfb3"
+    "sha256": "4b33778801a8c423e45ce827dfb16ce8343f510a1104dd8c26d224d5777fdfb3",
+    "validation": {
+      "duration": 1.488,
+      "peak": 19561
+    }
   },
   {
     "file": "sentence-18.mp3",
     "text": "I like birds.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+birds.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "dae9299ab160f5768e9e034aba527b73da7dc875d74b9a20d5a7dc54d022e77e"
+    "sha256": "dae9299ab160f5768e9e034aba527b73da7dc875d74b9a20d5a7dc54d022e77e",
+    "validation": {
+      "duration": 1.488,
+      "peak": 19410
+    }
   },
   {
     "file": "sentence-19.mp3",
     "text": "I like rabbits.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+rabbits.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "05be940530f83a17c2087be9e833b6345f431712a6e1a0a88e09244bbf196467"
+    "sha256": "05be940530f83a17c2087be9e833b6345f431712a6e1a0a88e09244bbf196467",
+    "validation": {
+      "duration": 1.536,
+      "peak": 22771
+    }
   },
   {
     "file": "sentence-20.mp3",
     "text": "I like my dog.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+my+dog.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9c8374c8447eac545f4353f503003d614ee90ea463fe9644c50962da3b8230eb"
+    "sha256": "9c8374c8447eac545f4353f503003d614ee90ea463fe9644c50962da3b8230eb",
+    "validation": {
+      "duration": 1.488,
+      "peak": 19801
+    }
   },
   {
     "file": "sentence-21.mp3",
     "text": "Run, run, run like a dog.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Run%2C+run%2C+run+like+a+dog.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "703591a6128ae79d2a968e5367455bb8ce6d304efcc1027a13faed204ad7c927"
+    "sha256": "703591a6128ae79d2a968e5367455bb8ce6d304efcc1027a13faed204ad7c927",
+    "validation": {
+      "duration": 2.856,
+      "peak": 19466
+    }
   },
   {
     "file": "sentence-22.mp3",
     "text": "Sleep, sleep, sleep like a cat.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Sleep%2C+sleep%2C+sleep+like+a+cat.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "382dcc018bbbef24651ee47f5617f481a5ed84a797d213bf80d849ae3b64b7ce"
+    "sha256": "382dcc018bbbef24651ee47f5617f481a5ed84a797d213bf80d849ae3b64b7ce",
+    "validation": {
+      "duration": 3.024,
+      "peak": 19722
+    }
   },
   {
     "file": "sentence-23.mp3",
     "text": "Sing, sing, sing like a bird.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Sing%2C+sing%2C+sing+like+a+bird.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "448c7506a009d72b884bb1ea1aca389bee40af0cc203f5de3c63a252fcffc09d"
+    "sha256": "448c7506a009d72b884bb1ea1aca389bee40af0cc203f5de3c63a252fcffc09d",
+    "validation": {
+      "duration": 3.0,
+      "peak": 19593
+    }
   },
   {
     "file": "sentence-24.mp3",
     "text": "Hop, hop, hop like a rabbit.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hop%2C+hop%2C+hop+like+a+rabbit.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "40ee20998c2a3e976a934bc285e207e4c53cd06e47a2ae43e4e1ac6d151283f2"
+    "sha256": "40ee20998c2a3e976a934bc285e207e4c53cd06e47a2ae43e4e1ac6d151283f2",
+    "validation": {
+      "duration": 2.832,
+      "peak": 25430
+    }
   },
   {
     "file": "sentence-25.mp3",
     "text": "Swim, swim, swim like a fish.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Swim%2C+swim%2C+swim+like+a+fish.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0bfd67590c494cfc225eeda2af1251b0438caa2ddde464d5ef32db3bb79cd073"
+    "sha256": "0bfd67590c494cfc225eeda2af1251b0438caa2ddde464d5ef32db3bb79cd073",
+    "validation": {
+      "duration": 3.408,
+      "peak": 20950
+    }
   },
   {
     "file": "sentence-26.mp3",
     "text": "I",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b6b300f12c6e044ff0ad7e615b89cad75399240e533aa83fe558d29380ceda55"
+    "sha256": "b6b300f12c6e044ff0ad7e615b89cad75399240e533aa83fe558d29380ceda55",
+    "validation": {
+      "duration": 0.72,
+      "peak": 19288
+    }
   },
   {
     "file": "sentence-27.mp3",
     "text": "J",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=J&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "00df9cd3a03ef655384614be0ec8e0aba208921d81d7a32d91cf737516515b01"
+    "sha256": "00df9cd3a03ef655384614be0ec8e0aba208921d81d7a32d91cf737516515b01",
+    "validation": {
+      "duration": 0.792,
+      "peak": 14465
+    }
   },
   {
     "file": "sentence-28.mp3",
     "text": "K",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=K&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "292660f3337e8497baa8624dc6018520cd7c0db4385ed847e2507e55959263e7"
+    "sha256": "292660f3337e8497baa8624dc6018520cd7c0db4385ed847e2507e55959263e7",
+    "validation": {
+      "duration": 0.744,
+      "peak": 15257
+    }
   },
   {
     "file": "sentence-29.mp3",
     "text": "L",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=L&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "eff3fe1ab835bef0b23216a9b0973d940758938d0cf60d588c5d0b37d32c9b30"
+    "sha256": "eff3fe1ab835bef0b23216a9b0973d940758938d0cf60d588c5d0b37d32c9b30",
+    "validation": {
+      "duration": 0.72,
+      "peak": 13036
+    }
   },
   {
     "file": "sentence-30.mp3",
     "text": "ill",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=ill&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "19006cae6fa7d02f85b37fa6a7d288a5bf3a6505b48fde9fe636dd92898cd3f1"
+    "sha256": "19006cae6fa7d02f85b37fa6a7d288a5bf3a6505b48fde9fe636dd92898cd3f1",
+    "validation": {
+      "duration": 0.744,
+      "peak": 13569
+    }
   },
   {
     "file": "sentence-31.mp3",
     "text": "kid",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=kid&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "170da9022767f225cf54825cfca3f054cb3a15f7cc0b7bfa93b90c2493d2eee4"
+    "sha256": "170da9022767f225cf54825cfca3f054cb3a15f7cc0b7bfa93b90c2493d2eee4",
+    "validation": {
+      "duration": 0.72,
+      "peak": 19636
+    }
   },
   {
     "file": "sentence-32.mp3",
     "text": "job",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=job&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3327a36c5a5357af375a49ddc1d6e0e2a4b3efb54a80b79e6b3c20cce004ec92"
+    "sha256": "3327a36c5a5357af375a49ddc1d6e0e2a4b3efb54a80b79e6b3c20cce004ec92",
+    "validation": {
+      "duration": 0.768,
+      "peak": 18892
+    }
   },
   {
     "file": "sentence-33.mp3",
     "text": "jet",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=jet&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "597a4617bafa93818323ffa88c66b225b9fa9af6ca6f70123285e3ba789f6368"
+    "sha256": "597a4617bafa93818323ffa88c66b225b9fa9af6ca6f70123285e3ba789f6368",
+    "validation": {
+      "duration": 0.744,
+      "peak": 17453
+    }
   },
   {
     "file": "sentence-34.mp3",
     "text": "Kim",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Kim&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "780b206ca393aefa37b84b6e36288a2e27187b9d3763bc6f644f4a74d40030e3"
+    "sha256": "780b206ca393aefa37b84b6e36288a2e27187b9d3763bc6f644f4a74d40030e3",
+    "validation": {
+      "duration": 0.84,
+      "peak": 19834
+    }
   },
   {
     "file": "sentence-35.mp3",
     "text": "kite",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=kite&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5e0fe0ee946701314489ef4358f364d5cf52ff27a3a52748ba36d55dbf276272"
+    "sha256": "5e0fe0ee946701314489ef4358f364d5cf52ff27a3a52748ba36d55dbf276272",
+    "validation": {
+      "duration": 0.768,
+      "peak": 18608
+    }
   },
   {
     "file": "sentence-36.mp3",
     "text": "leg",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=leg&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9a995d0e93b092d6853c373998ef5ea7c93e58b10056ae661411a2974f09fb01"
-  },
-  {
-    "file": "sentence-37.mp3",
-    "text": "lion",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=lion&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "51b274744c06b3dd9aa11d9eea35ce2c7d4b85d2a8d1a52231f248f4a31a0f16"
+    "sha256": "9a995d0e93b092d6853c373998ef5ea7c93e58b10056ae661411a2974f09fb01",
+    "validation": {
+      "duration": 0.816,
+      "peak": 13930
+    }
   },
   {
     "file": "sentence-38.mp3",
     "text": "big",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=big&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "34b0feec9a43498c9c64c1b721d70d9b8ae82aa54bda8f7235e2110f2fa92bd1"
+    "sha256": "34b0feec9a43498c9c64c1b721d70d9b8ae82aa54bda8f7235e2110f2fa92bd1",
+    "validation": {
+      "duration": 0.744,
+      "peak": 14314
+    }
   },
   {
     "file": "sentence-39.mp3",
     "text": "dig",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=dig&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "bdf5afeb56dbf6effea10213df8f1de1d757b8ed54651fab474f5e825cea13fb"
+    "sha256": "bdf5afeb56dbf6effea10213df8f1de1d757b8ed54651fab474f5e825cea13fb",
+    "validation": {
+      "duration": 0.72,
+      "peak": 18272
+    }
   },
   {
     "file": "sentence-40.mp3",
     "text": "Jim",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Jim&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "553ded74a62e1675caecb2aa409bbbdd9896ec81c59b668aed8ab5f7585789a0"
+    "sha256": "553ded74a62e1675caecb2aa409bbbdd9896ec81c59b668aed8ab5f7585789a0",
+    "validation": {
+      "duration": 0.84,
+      "peak": 18404
+    }
   },
   {
     "file": "sentence-41.mp3",
     "text": "lab",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=lab&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "44c67bd46af3442417a9df717a9397c9c3db20d5d7bfba67cd1c1d1a78ce436e"
+    "sha256": "44c67bd46af3442417a9df717a9397c9c3db20d5d7bfba67cd1c1d1a78ce436e",
+    "validation": {
+      "duration": 0.816,
+      "peak": 17354
+    }
   },
   {
     "file": "sentence-42.mp3",
     "text": "led",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=led&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a6d43e19ac1e57d93cde25fec9108c5c5dc2c99931510a98d88a50f60d4b64ed"
+    "sha256": "a6d43e19ac1e57d93cde25fec9108c5c5dc2c99931510a98d88a50f60d4b64ed",
+    "validation": {
+      "duration": 0.744,
+      "peak": 13818
+    }
   },
   {
     "file": "sentence-43.mp3",
     "text": "Let's go to the zoo!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Let%27s+go+to+the+zoo%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "be11c11005f178a889a3738641cd50a117ab20a8b615c3eef5ae16c3ac45132d"
+    "sha256": "be11c11005f178a889a3738641cd50a117ab20a8b615c3eef5ae16c3ac45132d",
+    "validation": {
+      "duration": 1.728,
+      "peak": 20704
+    }
   },
   {
     "file": "sentence-44.mp3",
     "text": "Great!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Great%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "91a6842f025e4c8673152ec8c019581129111babd61a38dc25eeeac727b08561"
+    "sha256": "91a6842f025e4c8673152ec8c019581129111babd61a38dc25eeeac727b08561",
+    "validation": {
+      "duration": 0.768,
+      "peak": 18991
+    }
   },
   {
     "file": "sentence-45.mp3",
     "text": "Look! What's this?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%21+What%27s+this%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "08e8fd0c4901d9fbc3d3d8d788022a29d0f0b35e76216855c9d987a8f1f50a36"
+    "sha256": "08e8fd0c4901d9fbc3d3d8d788022a29d0f0b35e76216855c9d987a8f1f50a36",
+    "validation": {
+      "duration": 1.872,
+      "peak": 21608
+    }
   },
   {
     "file": "sentence-46.mp3",
     "text": "It's a fox.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+a+fox.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3a0fb2b4243268ad1eac832d98053e0d837df87a606a0edcb7900820064b7dbd"
+    "sha256": "3a0fb2b4243268ad1eac832d98053e0d837df87a606a0edcb7900820064b7dbd",
+    "validation": {
+      "duration": 1.416,
+      "peak": 19764
+    }
   },
   {
     "file": "sentence-47.mp3",
     "text": "Miss White, what's that?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Miss+White%2C+what%27s+that%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "21b340ac334f36ff4482545bef899db1354eaffbf312f56cd57a7a4331f9b889"
+    "sha256": "21b340ac334f36ff4482545bef899db1354eaffbf312f56cd57a7a4331f9b889",
+    "validation": {
+      "duration": 1.992,
+      "peak": 22025
+    }
   },
   {
     "file": "sentence-48.mp3",
     "text": "It's a red panda.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+a+red+panda.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2e292eec5cb4cd0fe75691cab9ce2458fc63507fb4d6aae3401d5d228e456553"
+    "sha256": "2e292eec5cb4cd0fe75691cab9ce2458fc63507fb4d6aae3401d5d228e456553",
+    "validation": {
+      "duration": 1.488,
+      "peak": 18220
+    }
   },
   {
     "file": "sentence-49.mp3",
     "text": "It's cute!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+cute%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "dc4a9f78df132d8d7af648e3f9839681eac8977555b0ac77a1dc059a2da2d35b"
-  },
-  {
-    "file": "sentence-50.mp3",
-    "text": "What's this?",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s+this%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b28d0f6cc37e61d41aa102d8cc5a7a475e55794a6850cae453a3f0efe1d817d5"
+    "sha256": "dc4a9f78df132d8d7af648e3f9839681eac8977555b0ac77a1dc059a2da2d35b",
+    "validation": {
+      "duration": 1.056,
+      "peak": 23471
+    }
   },
   {
     "file": "sentence-51.mp3",
     "text": "It's a panda.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+a+panda.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ad8c0e4067caf97f394118b634b73f3b6c0ab265f97492e17f74b2413c33c848"
+    "sha256": "ad8c0e4067caf97f394118b634b73f3b6c0ab265f97492e17f74b2413c33c848",
+    "validation": {
+      "duration": 1.224,
+      "peak": 20558
+    }
   },
   {
     "file": "sentence-52.mp3",
     "text": "It's a monkey.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+a+monkey.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3675bc29f161790c6f5935f2f4b430d2ae53974de9c847b8562dc7c849d1a4df"
+    "sha256": "3675bc29f161790c6f5935f2f4b430d2ae53974de9c847b8562dc7c849d1a4df",
+    "validation": {
+      "duration": 1.296,
+      "peak": 20353
+    }
   },
   {
     "file": "sentence-53.mp3",
     "text": "It's a tiger.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+a+tiger.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "88b204535933237a4dc905c9e96e8f45565f75c1c8ce02119be14e300d9ec975"
+    "sha256": "88b204535933237a4dc905c9e96e8f45565f75c1c8ce02119be14e300d9ec975",
+    "validation": {
+      "duration": 1.296,
+      "peak": 21043
+    }
   },
   {
     "file": "sentence-54.mp3",
     "text": "It's an elephant.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+an+elephant.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ce53253f6c9dedcd74b567c5f74c8c5ff7c9736bab7d81e8d24e7689efb584a4"
+    "sha256": "ce53253f6c9dedcd74b567c5f74c8c5ff7c9736bab7d81e8d24e7689efb584a4",
+    "validation": {
+      "duration": 1.296,
+      "peak": 20585
+    }
   },
   {
     "file": "sentence-55.mp3",
     "text": "It's a lion.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+a+lion.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6dd18dd09b4d397b632703b010c88201a96a9283da49cfe222161f79b05f2e66"
+    "sha256": "6dd18dd09b4d397b632703b010c88201a96a9283da49cfe222161f79b05f2e66",
+    "validation": {
+      "duration": 1.272,
+      "peak": 20480
+    }
   },
   {
     "file": "sentence-56.mp3",
     "text": "What's this? It's an elephant.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s+this%3F+It%27s+an+elephant.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f0f5a2c16eabdbc4cbc9c6aeb6956b6b7b09fdbd7d16ef35c7f647e684be7046"
+    "sha256": "f0f5a2c16eabdbc4cbc9c6aeb6956b6b7b09fdbd7d16ef35c7f647e684be7046",
+    "validation": {
+      "duration": 2.4,
+      "peak": 20741
+    }
   },
   {
     "file": "sentence-57.mp3",
     "text": "What's this? It's a monkey.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s+this%3F+It%27s+a+monkey.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c1316153805681ea780e52a7003b6a92a3ce08066cc68157928792e4ecd1ae0e"
+    "sha256": "c1316153805681ea780e52a7003b6a92a3ce08066cc68157928792e4ecd1ae0e",
+    "validation": {
+      "duration": 2.4,
+      "peak": 20388
+    }
   },
   {
     "file": "sentence-58.mp3",
     "text": "What's this? It's a panda.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s+this%3F+It%27s+a+panda.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c2dd5194a9ddce6bfa738a1065a47470187d73b89701f916a1194f55ce8e086b"
+    "sha256": "c2dd5194a9ddce6bfa738a1065a47470187d73b89701f916a1194f55ce8e086b",
+    "validation": {
+      "duration": 2.328,
+      "peak": 20318
+    }
   },
   {
     "file": "sentence-59.mp3",
     "text": "What's this? It's a lion!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s+this%3F+It%27s+a+lion%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0831e9c37672f03f139bb6739021fa64e1a3510443aebba9ec93a7239e5ddf2f"
+    "sha256": "0831e9c37672f03f139bb6739021fa64e1a3510443aebba9ec93a7239e5ddf2f",
+    "validation": {
+      "duration": 2.352,
+      "peak": 21971
+    }
   },
   {
     "file": "sentence-60.mp3",
     "text": "What's this? It's a tiger!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s+this%3F+It%27s+a+tiger%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c4b4c4330a7ceb88a1eeec3e7783762c7298f2f8823867ba8de66ab94d0a846e"
+    "sha256": "c4b4c4330a7ceb88a1eeec3e7783762c7298f2f8823867ba8de66ab94d0a846e",
+    "validation": {
+      "duration": 2.424,
+      "peak": 22215
+    }
   },
   {
     "file": "sentence-61.mp3",
     "text": "Run!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Run%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "007d7c07d3e07acd5a1d305e3dabb01e2c3c233a01e744e649d3e717c8b0674c"
+    "sha256": "007d7c07d3e07acd5a1d305e3dabb01e2c3c233a01e744e649d3e717c8b0674c",
+    "validation": {
+      "duration": 0.816,
+      "peak": 17953
+    }
   },
   {
     "file": "sentence-62.mp3",
     "text": "The giraffe is tall!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=The+giraffe+is+tall%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "325ad88962b04574f3cbe076280873b9ab8005be26d014cdfad377ea9590e30a"
+    "sha256": "325ad88962b04574f3cbe076280873b9ab8005be26d014cdfad377ea9590e30a",
+    "validation": {
+      "duration": 1.704,
+      "peak": 20757
+    }
   },
   {
     "file": "sentence-63.mp3",
     "text": "The lion is fast!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=The+lion+is+fast%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4045bfb8238ace332b94ba9d701ce4f956697240703437097fef3df137f7889d"
+    "sha256": "4045bfb8238ace332b94ba9d701ce4f956697240703437097fef3df137f7889d",
+    "validation": {
+      "duration": 1.776,
+      "peak": 22023
+    }
   },
   {
     "file": "sentence-64.mp3",
     "text": "The elephant is big!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=The+elephant+is+big%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7827ae2dae9caf098a7bc0e1cd7ee2a9793115aee717df19bda4769d5b525fdf"
+    "sha256": "7827ae2dae9caf098a7bc0e1cd7ee2a9793115aee717df19bda4769d5b525fdf",
+    "validation": {
+      "duration": 1.704,
+      "peak": 23266
+    }
   },
   {
     "file": "sentence-65.mp3",
     "text": "The fish is small!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=The+fish+is+small%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4adf85c8fa467ff551e0af4d873f1ad6e63432c868b638f5d2402f7af3446b01"
+    "sha256": "4adf85c8fa467ff551e0af4d873f1ad6e63432c868b638f5d2402f7af3446b01",
+    "validation": {
+      "duration": 1.56,
+      "peak": 15513
+    }
   },
   {
     "file": "sentence-66.mp3",
     "text": "I like fish!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+fish%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e8d8fbc69e302e23556e51536df913b261a115dbfc91b6ffa2546c8177ceb0d8"
-  },
-  {
-    "file": "sentence-67.mp3",
-    "text": "bird",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bird&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1a379551dc252753bab15ef3011fa34a225d0592758e168493abc5866f4bdcf7"
-  },
-  {
-    "file": "sentence-68.mp3",
-    "text": "cat",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cat&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fb98c66514e908ae32e701ef040ccf5295fd06fa553e586171713866d1d5c459"
-  },
-  {
-    "file": "sentence-69.mp3",
-    "text": "dog",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=dog&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a1a536ae869865db5844657964896c4b0c0fbbe051604d14279a860d0042051f"
-  },
-  {
-    "file": "sentence-70.mp3",
-    "text": "elephant",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=elephant&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e68bca59cb6e63e404b46c6ae7d68f100fdae53521c9414c2cd6f6ef61d98777"
-  },
-  {
-    "file": "sentence-71.mp3",
-    "text": "fish",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=fish&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7fb51eb90861d4c3c3ed01d1acc10ea82cf1f318741a46e311c4d7c050174f26"
-  },
-  {
-    "file": "sentence-72.mp3",
-    "text": "giraffe",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=giraffe&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3ef0d8569138489df2fd226ba0fca45d6b517f44760e044168fa81f0bd3f6e24"
-  },
-  {
-    "file": "sentence-73.mp3",
-    "text": "monkey",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=monkey&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5cfd9c8fe5fd5ea73c0b40a868ee66afcc45791ca0f8d90d75f54872edcdce36"
-  },
-  {
-    "file": "sentence-74.mp3",
-    "text": "panda",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=panda&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d7eba9860df4416aaaa8a4b17007c83650cb6cf716560ec5d238fecb4a494bcf"
-  },
-  {
-    "file": "sentence-75.mp3",
-    "text": "rabbit",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=rabbit&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "14fa629624260de27a719ad630f08a8a0305a0c4c31d5fc32ccec30c4b0696fb"
-  },
-  {
-    "file": "sentence-76.mp3",
-    "text": "tiger",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tiger&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "abec1e79d15dd952b2f57d57dae5faa8df48db864015541331e3af73f4175b8b"
+    "sha256": "e8d8fbc69e302e23556e51536df913b261a115dbfc91b6ffa2546c8177ceb0d8",
+    "validation": {
+      "duration": 1.392,
+      "peak": 20362
+    }
   },
   {
     "file": "sentence-77.mp3",
     "text": "small",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=small&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "120082228243e74d8d05691a2f76ec0229c7bc5172380845eb9b1649893ebbdf"
-  },
-  {
-    "file": "sentence-78.mp3",
-    "text": "tall",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tall&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5826392e86445e38e487afc9b4397a28d16e9ad7610a4211cd5ffa1936ab2ea7"
-  },
-  {
-    "file": "sentence-79.mp3",
-    "text": "fast",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=fast&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9d3a61b6f3a3fc2c1bde300b78bbcc89307fc743730e950b30e3dd539b4b6162"
+    "sha256": "120082228243e74d8d05691a2f76ec0229c7bc5172380845eb9b1649893ebbdf",
+    "validation": {
+      "duration": 0.936,
+      "peak": 16767
+    }
   },
   {
     "file": "sentence-80.mp3",
     "text": "Pets",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Pets&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1dedc5dfe37a1aaa41cc1e7de10ebbe10314bf2d28e1d6bde14544c83b0d8a3f"
+    "sha256": "1dedc5dfe37a1aaa41cc1e7de10ebbe10314bf2d28e1d6bde14544c83b0d8a3f",
+    "validation": {
+      "duration": 0.912,
+      "peak": 17009
+    }
   },
   {
     "file": "sentence-81.mp3",
     "text": "Wild animals",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wild+animals&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3b13e9da9bad1713a10f372b68a10be1a0df4a0665b26e3adad29b7d8f866ce7"
+    "sha256": "3b13e9da9bad1713a10f372b68a10be1a0df4a0665b26e3adad29b7d8f866ce7",
+    "validation": {
+      "duration": 1.512,
+      "peak": 22156
+    }
   },
   {
     "file": "sentence-82.mp3",
     "text": "Animals I like",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Animals+I+like&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "aaf0d2a295e35b86eb80313af2f3b460c06b4386b0559874bc784d9cb4ee11f7"
+    "sha256": "aaf0d2a295e35b86eb80313af2f3b460c06b4386b0559874bc784d9cb4ee11f7",
+    "validation": {
+      "duration": 1.368,
+      "peak": 18776
+    }
   },
   {
     "file": "sentence-83.mp3",
     "text": "This is my book.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+is+my+book.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2a7fbdcf7a055174c5fda38db7ee9c8b1363b5943bf91219ec7aa1f1b54914ff"
+    "sha256": "2a7fbdcf7a055174c5fda38db7ee9c8b1363b5943bf91219ec7aa1f1b54914ff",
+    "validation": {
+      "duration": 1.392,
+      "peak": 26205
+    }
   },
   {
     "file": "sentence-84.mp3",
     "text": "This is a monkey.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+is+a+monkey.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b989e02fd8f9198e9d34c33855163aa8a87ae36c97c9044f2910f0abaf6406e8"
+    "sha256": "b989e02fd8f9198e9d34c33855163aa8a87ae36c97c9044f2910f0abaf6406e8",
+    "validation": {
+      "duration": 1.488,
+      "peak": 27418
+    }
   },
   {
     "file": "sentence-85.mp3",
     "text": "It's cute.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+cute.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a69586728e7d98759d62b50082f90b3d06c9fddee99ebba635f13b00a1774f60"
+    "sha256": "a69586728e7d98759d62b50082f90b3d06c9fddee99ebba635f13b00a1774f60",
+    "validation": {
+      "duration": 1.032,
+      "peak": 21975
+    }
   },
   {
     "file": "sentence-86.mp3",
     "text": "This is an ...",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+is+an+...&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "362abe92abc4d10a2e5a3ec329786dc709f95bac4455d6530d95622da0116644"
-  },
-  {
-    "file": "sentence-87.mp3",
-    "text": "Fish are amazing. Are we amazing, Mum?",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Fish+are+amazing.+Are+we+amazing%2C+Mum%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a8b81c052e596aa180abf7bcaa9b734ed31a6912c03fb7733daf24d77b17afa7"
-  },
-  {
-    "file": "sentence-88.mp3",
-    "text": "Yes. We're big.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Yes.+We%27re+big.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3efbcedad8068e7f268c192020ec082364c889ecb5b9af4b049fe792858dce24"
-  },
-  {
-    "file": "sentence-89.mp3",
-    "text": "But whale sharks are big too.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=But+whale+sharks+are+big+too.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0a92f41560d2066b2fc86da368df6f86f7db2bfb93f56fb182343b8278eeb846"
-  },
-  {
-    "file": "sentence-90.mp3",
-    "text": "We're fast.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We%27re+fast.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3dbaac07e20d444f25cbbd566776f116d38562590f8077a3d1b68cbbe061d01b"
-  },
-  {
-    "file": "sentence-91.mp3",
-    "text": "But squids are fast too.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=But+squids+are+fast+too.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "de74cb22805c72cff6beadf83bdca88c935769796b4a385dcef4efc2da538504"
-  },
-  {
-    "file": "sentence-92.mp3",
-    "text": "We can jump.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+jump.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8eeb3d3f3c4a621831a62ddce67344f46b9dbe09d21908a29eebd64270485295"
-  },
-  {
-    "file": "sentence-93.mp3",
-    "text": "But sea lions can jump too.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=But+sea+lions+can+jump+too.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "21f23e9c2348b77ad781ea01b892507b83cc2f8a94e4abd165633d2f44939014"
-  },
-  {
-    "file": "sentence-94.mp3",
-    "text": "Aha! I know! We sing!",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Aha%21+I+know%21+We+sing%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f7c11f7ed1f8b96de3c0f59fba08a32892ba25a8e407b684c9769086d88fd260"
-  },
-  {
-    "file": "sentence-95.mp3",
-    "text": "That's it! Our songs are special. That is amazing!",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=That%27s+it%21+Our+songs+are+special.+That+is+amazing%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "872e029aa980f0c45af2f17ef877003a641135bf48a12562c699a02de2030916"
-  },
-  {
-    "file": "sentence-96.mp3",
-    "text": "Some animals are wild. Some others live with us.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Some+animals+are+wild.+Some+others+live+with+us.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a5333337a9c33dae114631302d502ce35c4ec546ae628ff60aef8b7cb3a8f289"
-  },
-  {
-    "file": "sentence-97.mp3",
-    "text": "Animals can be big, small, fast or slow.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Animals+can+be+big%2C+small%2C+fast+or+slow.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2a80498a3818383ecf2aa881af6c2a260bb446d42f4edd77c62ce5909e983fe9"
-  },
-  {
-    "file": "sentence-98.mp3",
-    "text": "They are all special.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=They+are+all+special.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "703565a53b0b29e2991d5b11cf915f45ab560378edaa4d395ffcc8128e1cef3a"
+    "sha256": "362abe92abc4d10a2e5a3ec329786dc709f95bac4455d6530d95622da0116644",
+    "validation": {
+      "duration": 1.056,
+      "peak": 27481
+    }
   },
   {
     "file": "topic-page26.mp3",
     "text": "How are animals different?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+are+animals+different%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9440cee28cf601869d45398bfaf0321e306780b93df92377404ba0d15d42e959"
+    "sha256": "9440cee28cf601869d45398bfaf0321e306780b93df92377404ba0d15d42e959",
+    "validation": {
+      "duration": 1.728,
+      "peak": 24295
+    }
   },
   {
     "file": "topic-page28.mp3",
     "text": "What pets do you know?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+pets+do+you+know%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "51e6b3d4e85911e9b05f912004c4e859a85781aa14fd7f68dfaf9e896bda1402"
+    "sha256": "51e6b3d4e85911e9b05f912004c4e859a85781aa14fd7f68dfaf9e896bda1402",
+    "validation": {
+      "duration": 1.776,
+      "peak": 18016
+    }
   },
   {
     "file": "topic-page31.mp3",
     "text": "What wild animals do you know?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+wild+animals+do+you+know%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1a063e825b51a011849f2f3f7e1aa646e57518f91ab21c3eb7607fb92ef0f955"
+    "sha256": "1a063e825b51a011849f2f3f7e1aa646e57518f91ab21c3eb7607fb92ef0f955",
+    "validation": {
+      "duration": 2.328,
+      "peak": 20142
+    }
+  },
+  {
+    "file": "edition-d61259269b75.mp3",
+    "text": "What's that?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s+that%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3c2e4ce75e4d6c5011a20921a5f455e6ecaee3e3274b7a68d32d81732236439d",
+    "validation": {
+      "duration": 0.96,
+      "peak": 15834
+    }
+  },
+  {
+    "file": "edition-a8baa8d0845f.mp3",
+    "text": "Mum, what makes us great?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Mum%2C+what+makes+us+great%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "177a1027c8a63658cc1cbd5950c764ba9cc41a9ed939bee514c492a6a98e7bba",
+    "validation": {
+      "duration": 2.184,
+      "peak": 19954
+    }
+  },
+  {
+    "file": "edition-e7509ad56446.mp3",
+    "text": "We are big.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+are+big.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f1cd7c40fcdad95fe7431b3f06ff6524b409b7ff9a69498fcee14d56fda40c5e",
+    "validation": {
+      "duration": 1.176,
+      "peak": 20586
+    }
+  },
+  {
+    "file": "edition-5c744b86351c.mp3",
+    "text": "Elephants are big too.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Elephants+are+big+too.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "42f822f92d359f2bd664d8e9632a430cc75e0e3becb15b6bc1b991a8c31781dc",
+    "validation": {
+      "duration": 1.824,
+      "peak": 24766
+    }
+  },
+  {
+    "file": "edition-386332c84b5a.mp3",
+    "text": "We are fast.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+are+fast.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "6bf1a1c1bab771d7cf664d42930c44fb7a8b79bbe827744e6bfc1156c3496ccf",
+    "validation": {
+      "duration": 1.368,
+      "peak": 20829
+    }
+  },
+  {
+    "file": "edition-745e847d958c.mp3",
+    "text": "Fish are fast too.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Fish+are+fast+too.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "735a9821cdbab6aa6cc6c2ba1c6f08e09863ab9a20557330392ee213c181f5e5",
+    "validation": {
+      "duration": 1.68,
+      "peak": 19522
+    }
+  },
+  {
+    "file": "edition-74fe46a6eae8.mp3",
+    "text": "We eat a lot.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+eat+a+lot.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9c754e49d948ecc1fcf1f92dd991a18c3cf43be1c6b54cd40d27156c592d83a5",
+    "validation": {
+      "duration": 1.224,
+      "peak": 19623
+    }
+  },
+  {
+    "file": "edition-355a7789b2f3.mp3",
+    "text": "Pandas eat a lot too.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Pandas+eat+a+lot+too.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b11f0d4aee7ed7e1b89c3821bbd38c680b6663bd4dd724e9beedb2cfec4c6689",
+    "validation": {
+      "duration": 2.016,
+      "peak": 17664
+    }
+  },
+  {
+    "file": "edition-8443449a2781.mp3",
+    "text": "I know! We sing!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+know%21+We+sing%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1762e60cd306c4d2217420e15b864feef07a1b79b2042a1c36b51cc746746509",
+    "validation": {
+      "duration": 1.896,
+      "peak": 16970
+    }
+  },
+  {
+    "file": "edition-721c4257dd5b.mp3",
+    "text": "Yes! We can sing nice songs.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Yes%21+We+can+sing+nice+songs.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9ef2dbf6d53ace36041dd8ac08e63c1502c98ce4004182a9f62b6e97d5bf0e5f",
+    "validation": {
+      "duration": 3.144,
+      "peak": 21954
+    }
+  },
+  {
+    "file": "sentence-50.mp3",
+    "text": "What's this?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s+this%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b28d0f6cc37e61d41aa102d8cc5a7a475e55794a6850cae453a3f0efe1d817d5",
+    "validation": {
+      "duration": 1.2,
+      "peak": 19954
+    }
+  },
+  {
+    "file": "edition-f1c25dab205c.mp3",
+    "text": "A dog says \"woof\". A cat says \"meow\".",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=A+dog+says+%22woof%22.+A+cat+says+%22meow%22.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1aec228d18e99f5b5c909121ea386d3b57c6a96bc093b894f0f39e0acd9ff27e",
+    "validation": {
+      "duration": 4.176,
+      "peak": 20927
+    }
+  },
+  {
+    "file": "edition-775227d3fbba.mp3",
+    "text": "I watch them run to the top of the hill,",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+watch+them+run+to+the+top+of+the+hill%2C&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d48523e1268364f9b56a342507b234f8c10564e841fcc8cb28915225ae8eca29",
+    "validation": {
+      "duration": 2.712,
+      "peak": 18402
+    }
+  },
+  {
+    "file": "edition-c030ae18610a.mp3",
+    "text": "And then run down again.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=And+then+run+down+again.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "abed2afc5b31c190b70c4d7415a4e9c97e2a80816c58f4aaa1658ff86a7ccc04",
+    "validation": {
+      "duration": 1.992,
+      "peak": 16878
+    }
+  },
+  {
+    "file": "edition-83b574574f05.mp3",
+    "text": "A lion says \"roar\". A tiger says \"growl\".",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=A+lion+says+%22roar%22.+A+tiger+says+%22growl%22.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "26b033dc1ee79e1a7ad06808b686182e8ec634be696c04869b54da414fcfa3fa",
+    "validation": {
+      "duration": 4.32,
+      "peak": 23515
+    }
   }
 ]

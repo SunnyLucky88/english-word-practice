@@ -245,7 +245,7 @@
     },
     {
       "en": "Good morning! Come in.",
-      "zh": "早上好！请进。",
+      "zh": "早上好！进来吧。",
       "practice": true,
       "page": 28,
       "file": "sentence-09.mp3",
@@ -468,14 +468,6 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "lion",
-      "zh": "狮子",
-      "practice": false,
-      "page": 30,
-      "file": "sentence-37.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "big",
       "zh": "大的",
       "practice": false,
@@ -517,7 +509,7 @@
     },
     {
       "en": "Let's go to the zoo!",
-      "zh": "我们去动物园吧！",
+      "zh": "我们一起去动物园吧！",
       "practice": true,
       "page": 31,
       "file": "sentence-43.mp3",
@@ -541,7 +533,7 @@
     },
     {
       "en": "It's a fox.",
-      "zh": "它是一只狐狸。",
+      "zh": "是只狐狸。",
       "practice": true,
       "page": 31,
       "file": "sentence-46.mp3",
@@ -557,7 +549,7 @@
     },
     {
       "en": "It's a red panda.",
-      "zh": "它是一只小熊猫。",
+      "zh": "是只小熊猫。",
       "practice": true,
       "page": 31,
       "file": "sentence-48.mp3",
@@ -569,14 +561,6 @@
       "practice": true,
       "page": 31,
       "file": "sentence-49.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "What's this?",
-      "zh": "这是什么？",
-      "practice": true,
-      "page": 31,
-      "file": "sentence-50.mp3",
       "audioSource": "Google Translate"
     },
     {
@@ -708,107 +692,11 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "bird",
-      "zh": "鸟",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-67.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "cat",
-      "zh": "猫",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-68.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "dog",
-      "zh": "狗",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-69.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "elephant",
-      "zh": "大象",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-70.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "fish",
-      "zh": "鱼",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-71.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "giraffe",
-      "zh": "长颈鹿",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-72.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "monkey",
-      "zh": "猴子",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-73.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "panda",
-      "zh": "大熊猫",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-74.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "rabbit",
-      "zh": "兔子",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-75.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "tiger",
-      "zh": "老虎",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-76.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "small",
       "zh": "小的",
       "practice": false,
       "page": 33,
       "file": "sentence-77.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "tall",
-      "zh": "高的",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-78.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "fast",
-      "zh": "快的",
-      "practice": false,
-      "page": 33,
-      "file": "sentence-79.mp3",
       "audioSource": "Google Translate"
     },
     {
@@ -868,102 +756,6 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "Fish are amazing. Are we amazing, Mum?",
-      "zh": "鱼真神奇。妈妈，我们也神奇吗？",
-      "practice": true,
-      "page": 36,
-      "file": "sentence-87.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "Yes. We're big.",
-      "zh": "是的。我们的体形很大。",
-      "practice": true,
-      "page": 36,
-      "file": "sentence-88.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "But whale sharks are big too.",
-      "zh": "但是鲸鲨的体形也很大。",
-      "practice": true,
-      "page": 36,
-      "file": "sentence-89.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "We're fast.",
-      "zh": "我们游得很快。",
-      "practice": true,
-      "page": 36,
-      "file": "sentence-90.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "But squids are fast too.",
-      "zh": "但是鱿鱼游得也很快。",
-      "practice": true,
-      "page": 36,
-      "file": "sentence-91.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "We can jump.",
-      "zh": "我们会跳。",
-      "practice": true,
-      "page": 37,
-      "file": "sentence-92.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "But sea lions can jump too.",
-      "zh": "但是海狮也会跳。",
-      "practice": true,
-      "page": 37,
-      "file": "sentence-93.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "Aha! I know! We sing!",
-      "zh": "啊哈！我知道了！我们会唱歌！",
-      "practice": true,
-      "page": 37,
-      "file": "sentence-94.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "That's it! Our songs are special. That is amazing!",
-      "zh": "没错！我们的歌声很特别。这真神奇！",
-      "practice": true,
-      "page": 37,
-      "file": "sentence-95.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "Some animals are wild. Some others live with us.",
-      "zh": "有些动物是野生的，有些和我们一起生活。",
-      "practice": true,
-      "page": 37,
-      "file": "sentence-96.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "Animals can be big, small, fast or slow.",
-      "zh": "动物有大的、小的、快的和慢的。",
-      "practice": true,
-      "page": 37,
-      "file": "sentence-97.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "They are all special.",
-      "zh": "它们都很特别。",
-      "practice": true,
-      "page": 37,
-      "file": "sentence-98.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "How are animals different?",
       "zh": "动物有哪些不同？",
       "page": 26,
@@ -986,19 +778,99 @@
       "file": "topic-page31.mp3",
       "practice": true,
       "audioSource": "Google Translate"
+    },
+    {
+      "en": "What's that?",
+      "zh": "那是什么？",
+      "page": 31,
+      "file": "edition-d61259269b75.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Mum, what makes us great?",
+      "zh": "妈妈，是什么让我们很棒？",
+      "page": 36,
+      "file": "edition-a8baa8d0845f.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We are big.",
+      "zh": "我们体型大。",
+      "page": 36,
+      "file": "edition-e7509ad56446.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Elephants are big too.",
+      "zh": "大象的体型也大。",
+      "page": 36,
+      "file": "edition-5c744b86351c.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We are fast.",
+      "zh": "我们速度快。",
+      "page": 36,
+      "file": "edition-386332c84b5a.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Fish are fast too.",
+      "zh": "鱼的速度也快。",
+      "page": 36,
+      "file": "edition-745e847d958c.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We eat a lot.",
+      "zh": "我们吃得多。",
+      "page": 37,
+      "file": "edition-74fe46a6eae8.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Pandas eat a lot too.",
+      "zh": "大熊猫也吃得多。",
+      "page": 37,
+      "file": "edition-355a7789b2f3.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I know! We sing!",
+      "zh": "我知道了！我们会唱歌！",
+      "page": 37,
+      "file": "edition-8443449a2781.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Yes! We can sing nice songs.",
+      "zh": "是的！我们会唱好听的歌。",
+      "page": 37,
+      "file": "edition-721c4257dd5b.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
     }
   ],
   "groups": [
     {
-      "title": "单元主题问句",
-      "note": "第 26 页 · 教材主题问句",
+      "title": "第 26 页 · 课文与点读",
+      "note": "第 26 页 · 用户确认版PDF",
       "clips": [
-        99
+        73
       ]
     },
     {
-      "title": "导入思考与动物歌谣",
-      "note": "第 27 页 · 谷歌原速朗读",
+      "title": "第 27 页 · 课文与点读",
+      "note": "第 27 页 · 用户确认版PDF",
       "clips": [
         1,
         2,
@@ -1010,16 +882,10 @@
       ]
     },
     {
-      "title": "A · 主题问句",
-      "note": "第 28 页 · 教材主题问句",
+      "title": "第 28 页 · 课文与点读",
+      "note": "第 28 页 · 用户确认版PDF",
       "clips": [
-        100
-      ]
-    },
-    {
-      "title": "A · 宠物对话",
-      "note": "第 28 页 · 谷歌原速朗读",
-      "clips": [
+        74,
         8,
         9,
         10,
@@ -1032,8 +898,8 @@
       ]
     },
     {
-      "title": "A · 我喜欢的宠物",
-      "note": "第 29 页 · 谷歌原速朗读",
+      "title": "第 29 页 · 课文与点读",
+      "note": "第 29 页 · 用户确认版PDF",
       "clips": [
         16,
         17,
@@ -1048,8 +914,8 @@
       ]
     },
     {
-      "title": "字母 I—L 与示例单词",
-      "note": "第 30 页 · 字母名称和例词，非独立音素示范",
+      "title": "第 30 页 · 课文与点读",
+      "note": "第 30 页 · 用户确认版PDF",
       "clips": [
         26,
         27,
@@ -1067,13 +933,6 @@
         39,
         40,
         41,
-        42
-      ]
-    },
-    {
-      "title": "书写字母复读",
-      "note": "第 30 页 · 字母名称，非独立音素",
-      "clips": [
         26,
         27,
         28,
@@ -1081,31 +940,27 @@
       ]
     },
     {
-      "title": "B · 主题问句",
-      "note": "第 31 页 · 教材主题问句",
+      "title": "第 31 页 · 课文与点读",
+      "note": "第 31 页 · 用户确认版PDF",
       "clips": [
-        101
-      ]
-    },
-    {
-      "title": "B · 认识野生动物",
-      "note": "第 31 页 · 谷歌原速朗读",
-      "clips": [
+        75,
+        42,
         43,
         44,
         45,
         46,
         47,
         48,
-        49,
-        50,
-        46
+        76,
+        45
       ]
     },
     {
-      "title": "B · 动物与歌谣",
-      "note": "第 32 页 · 谷歌原速朗读",
+      "title": "第 32 页 · 课文与点读",
+      "note": "第 32 页 · 用户确认版PDF",
       "clips": [
+        49,
+        50,
         51,
         52,
         53,
@@ -1114,111 +969,73 @@
         56,
         57,
         58,
-        59,
-        60,
-        61
+        59
       ]
     },
     {
-      "title": "阅读 · 动物的特点",
-      "note": "第 33 页 · 谷歌原速朗读",
+      "title": "第 33 页 · 课文与点读",
+      "note": "第 33 页 · 用户确认版PDF",
       "clips": [
+        60,
+        61,
         62,
         63,
         64,
+        37,
         65
       ]
     },
     {
-      "title": "阅读页 · 词汇复习",
-      "note": "第 33 页 · 谷歌原速朗读",
+      "title": "第 34 页 · 课文与点读",
+      "note": "第 34 页 · 用户确认版PDF",
       "clips": [
         66,
         67,
-        68,
+        68
+      ]
+    },
+    {
+      "title": "第 35 页 · 课文与点读",
+      "note": "第 35 页 · 用户确认版PDF",
+      "clips": [
         69,
         70,
         71,
-        72,
-        37,
-        73,
-        74,
-        75,
-        76,
-        38,
+        72
+      ]
+    },
+    {
+      "title": "第 36 页 · 课文与点读",
+      "note": "第 36 页 · 用户确认版PDF",
+      "clips": [
         77,
         78,
-        79
-      ]
-    },
-    {
-      "title": "项目 · 动物分类词汇",
-      "note": "第 34 页 · 谷歌原速朗读",
-      "clips": [
-        67,
-        68,
-        69,
-        70,
-        71,
-        72,
-        37,
-        73,
-        74,
-        75,
-        76,
+        79,
         80,
-        68,
-        81,
-        74,
-        82,
-        68,
-        74
+        81
       ]
     },
     {
-      "title": "项目 · 介绍动物图画书",
-      "note": "第 35 页 · 谷歌原速朗读",
+      "title": "第 37 页 · 课文与点读",
+      "note": "第 37 页 · 用户确认版PDF",
       "clips": [
+        82,
         83,
         84,
-        85,
-        86
-      ]
-    },
-    {
-      "title": "图画书中的动物标签",
-      "note": "第 35 页 · 谷歌原速朗读",
-      "clips": [
-        76,
-        74
-      ]
-    },
-    {
-      "title": "阅读时光 · 神奇的鲸鱼（上）",
-      "note": "第 36 页 · 谷歌原速朗读",
-      "clips": [
-        87,
-        88,
-        89,
-        90,
-        91
-      ]
-    },
-    {
-      "title": "阅读时光 · 神奇的鲸鱼（下）",
-      "note": "第 37 页 · 谷歌原速朗读",
-      "clips": [
-        92,
-        93,
-        94,
-        95,
-        96,
-        97,
-        98
+        85
       ]
     }
   ],
-  "wordSource": "书后第 83—84 页 · Words in each unit · Unit 3",
+  "wordSource": {
+    "title": "用户于2026-10-25确认的实物匹配PDF · Words in each unit",
+    "pages": [
+      83,
+      84,
+      85
+    ],
+    "isbn": "978-7-107-38250-5",
+    "pdfSha256": "025d9882c7b3078dfda1321be3c0bd84acf1f34964edc3cba53f90ecc13b90a6"
+  },
   "expressions": [
     {
       "en": "Good morning, Mike!",
@@ -1295,7 +1112,7 @@
     {
       "en": "Miss White, what's that?",
       "zh": "怀特老师，那是什么？",
-      "page": 90,
+      "page": 89,
       "id": "unit3-key-10",
       "file": "sentence-47.mp3",
       "audioSource": "Google Translate"
@@ -1303,7 +1120,7 @@
     {
       "en": "It's a red panda.",
       "zh": "是只小熊猫。",
-      "page": 90,
+      "page": 89,
       "id": "unit3-key-11",
       "file": "sentence-48.mp3",
       "audioSource": "Google Translate"
@@ -1318,9 +1135,68 @@
         78,
         79
       ],
-      "lyricsStatus": "awaiting-user-pages",
-      "lines": []
+      "lyricsStatus": "complete",
+      "lines": [
+        {
+          "en": "A dog says \"woof\". A cat says \"meow\".",
+          "zh": "狗“汪汪”叫，猫“喵喵”叫。",
+          "page": 78,
+          "file": "edition-f1c25dab205c.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "I watch them run to the top of the hill,",
+          "zh": "我看着它们跑上山顶，",
+          "page": 78,
+          "file": "edition-775227d3fbba.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "And then run down again.",
+          "zh": "然后又跑下山。",
+          "page": 78,
+          "file": "edition-c030ae18610a.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "A lion says \"roar\". A tiger says \"growl\".",
+          "zh": "狮子咆哮，老虎低吼。",
+          "page": 78,
+          "file": "edition-83b574574f05.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "I watch them run to the top of the hill,",
+          "zh": "我看着它们跑上山顶，",
+          "page": 78,
+          "file": "edition-775227d3fbba.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "And then run down again.",
+          "zh": "然后又跑下山。",
+          "page": 78,
+          "file": "edition-c030ae18610a.mp3",
+          "audioSource": "Google Translate"
+        }
+      ],
+      "source": "用户确认版PDF · Appendix 1 Songs",
+      "audioNote": "谷歌原速合成朗读，非演唱或教材原声"
     }
   ],
-  "unit": 3
+  "unit": 3,
+  "textbookSource": {
+    "title": "人教版英语三年级上册（用户确认实物匹配版本）",
+    "isbn": "978-7-107-38250-5",
+    "physicalEdition": "2024年7月第1版",
+    "physicalPrinting": "2026年7月第3次印刷",
+    "confirmedByUser": "2026-10-25",
+    "digitalPrinting": "电子版未列出印次，不声称与实物同一印次",
+    "sha256": "025d9882c7b3078dfda1321be3c0bd84acf1f34964edc3cba53f90ecc13b90a6",
+    "pdfPages": 100,
+    "printedPageToPdfPageOffset": 6,
+    "sourceListing": "https://github.com/siknet/FreePEP/blob/main/piclist.md",
+    "officialReader": "https://book.pep.com.cn/1212001301245/mobile/index.html",
+    "verification": "封底ISBN相同；印刷页21的正文、插图与练习匹配用户实物照片；用户确认以此PDF重做。"
+  }
 }

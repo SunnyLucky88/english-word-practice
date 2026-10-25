@@ -3,733 +3,1150 @@
     "file": "old.mp3",
     "text": "old",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=old&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9773be55f12e27c03e9f2cedd267403c31a2b6a4bfdcc3cb94589b0bffa7a520"
+    "sha256": "9773be55f12e27c03e9f2cedd267403c31a2b6a4bfdcc3cb94589b0bffa7a520",
+    "validation": {
+      "duration": 0.768,
+      "peak": 15759
+    }
   },
   {
     "file": "five.mp3",
     "text": "five",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=five&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0125ae88906198d114a7b3d0a17e90449399387dc649273cc9d87f3012215f0d"
+    "sha256": "0125ae88906198d114a7b3d0a17e90449399387dc649273cc9d87f3012215f0d",
+    "validation": {
+      "duration": 0.84,
+      "peak": 18905
+    }
   },
   {
     "file": "year.mp3",
     "text": "year",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=year&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "90d142feb0775e2941edc7a9b4521079dc2ec156840752ad2bd77cdacf893956"
+    "sha256": "90d142feb0775e2941edc7a9b4521079dc2ec156840752ad2bd77cdacf893956",
+    "validation": {
+      "duration": 0.864,
+      "peak": 14217
+    }
   },
   {
     "file": "one.mp3",
     "text": "one",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=one&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "32abc5a88ccf07d14c61f6755f2bd393515a0eaa308683fac35e922b59c9d1f1"
+    "sha256": "32abc5a88ccf07d14c61f6755f2bd393515a0eaa308683fac35e922b59c9d1f1",
+    "validation": {
+      "duration": 0.84,
+      "peak": 15253
+    }
   },
   {
     "file": "two.mp3",
     "text": "two",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=two&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7058779203002153d800099bd00f0c60423b3d3b1dc7f00a687e2dbce88dce28"
+    "sha256": "7058779203002153d800099bd00f0c60423b3d3b1dc7f00a687e2dbce88dce28",
+    "validation": {
+      "duration": 0.768,
+      "peak": 14301
+    }
   },
   {
     "file": "three.mp3",
     "text": "three",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=three&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "23052964cbdbf9b608f8b85f243cff874851003e907a485c9fb157de9eebf9ca"
+    "sha256": "23052964cbdbf9b608f8b85f243cff874851003e907a485c9fb157de9eebf9ca",
+    "validation": {
+      "duration": 0.816,
+      "peak": 14537
+    }
   },
   {
     "file": "four.mp3",
     "text": "four",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=four&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ebe2c01df4519741e87269ff8bd38f02024028d48f938a40319fe6a564d01d28"
+    "sha256": "ebe2c01df4519741e87269ff8bd38f02024028d48f938a40319fe6a564d01d28",
+    "validation": {
+      "duration": 0.816,
+      "peak": 14972
+    }
   },
   {
     "file": "ten.mp3",
     "text": "ten",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=ten&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "de56aab0178c841ae53704e5e0822029207cb06a429a909490ab0d780dae92c5"
+    "sha256": "de56aab0178c841ae53704e5e0822029207cb06a429a909490ab0d780dae92c5",
+    "validation": {
+      "duration": 0.816,
+      "peak": 10763
+    }
   },
   {
     "file": "six.mp3",
     "text": "six",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=six&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5f82dbf36d27fd0d3e43eb93cbb6ae68fc1799201e321e907f95c63206839f77"
+    "sha256": "5f82dbf36d27fd0d3e43eb93cbb6ae68fc1799201e321e907f95c63206839f77",
+    "validation": {
+      "duration": 1.056,
+      "peak": 14732
+    }
   },
   {
     "file": "seven.mp3",
     "text": "seven",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=seven&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9c9f3d7dac1cc12af3d4a18924c71c8b07984744ee3e2e052000650e8e18ec4e"
+    "sha256": "9c9f3d7dac1cc12af3d4a18924c71c8b07984744ee3e2e052000650e8e18ec4e",
+    "validation": {
+      "duration": 0.96,
+      "peak": 16153
+    }
   },
   {
     "file": "eight.mp3",
     "text": "eight",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=eight&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9d7b73e38c611b438becdfc1dcafe9419879b194bb71734b9a21cd863dca4bab"
+    "sha256": "9d7b73e38c611b438becdfc1dcafe9419879b194bb71734b9a21cd863dca4bab",
+    "validation": {
+      "duration": 0.672,
+      "peak": 15643
+    }
   },
   {
     "file": "nine.mp3",
     "text": "nine",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=nine&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b204ad918cc13c40f1eda657e1787fa902024dbdf3a7e03371ccd5883fa5d8f8"
+    "sha256": "b204ad918cc13c40f1eda657e1787fa902024dbdf3a7e03371ccd5883fa5d8f8",
+    "validation": {
+      "duration": 0.864,
+      "peak": 16653
+    }
   },
   {
     "file": "oclock.mp3",
     "text": "o'clock",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=o%27clock&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c20d1cd4760e35c334140cc7195ba22ee17a842b1e676ada9611223369eb39bb"
+    "sha256": "c20d1cd4760e35c334140cc7195ba22ee17a842b1e676ada9611223369eb39bb",
+    "validation": {
+      "duration": 0.912,
+      "peak": 15285
+    }
   },
   {
     "file": "cut.mp3",
     "text": "cut",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cut&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "168e9359893e047f13058735b33ad2c69e728f9e301a7dbe363485d2e8f937f6"
+    "sha256": "168e9359893e047f13058735b33ad2c69e728f9e301a7dbe363485d2e8f937f6",
+    "validation": {
+      "duration": 0.648,
+      "peak": 16961
+    }
   },
   {
     "file": "eat.mp3",
     "text": "eat",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=eat&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "be53cf7c16e30ddd9d66f383140f68670fe23ccd917fb017113d221dec600ecb"
+    "sha256": "be53cf7c16e30ddd9d66f383140f68670fe23ccd917fb017113d221dec600ecb",
+    "validation": {
+      "duration": 0.672,
+      "peak": 12438
+    }
   },
   {
     "file": "cake.mp3",
     "text": "cake",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cake&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1303db4dcfb901c4408a1177637c04c6866425a9f08c78f185f88d41cb3df49b"
+    "sha256": "1303db4dcfb901c4408a1177637c04c6866425a9f08c78f185f88d41cb3df49b",
+    "validation": {
+      "duration": 0.792,
+      "peak": 19534
+    }
   },
   {
     "file": "sentence-01.mp3",
     "text": "What numbers do you see?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+numbers+do+you+see%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "62a242ab1c8f8b7b216edacd270d271d6085d7d7f495d785a6cefbf85c66ed7e"
+    "sha256": "62a242ab1c8f8b7b216edacd270d271d6085d7d7f495d785a6cefbf85c66ed7e",
+    "validation": {
+      "duration": 1.92,
+      "peak": 18537
+    }
   },
   {
     "file": "sentence-02.mp3",
     "text": "Where do you see numbers?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Where+do+you+see+numbers%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7da138cc8279389678841a9657d2e0ac4771cd1b67a6a5b154ad321c8f5d1fb7"
+    "sha256": "7da138cc8279389678841a9657d2e0ac4771cd1b67a6a5b154ad321c8f5d1fb7",
+    "validation": {
+      "duration": 1.968,
+      "peak": 18121
+    }
   },
   {
     "file": "sentence-03.mp3",
     "text": "One boy, two boys,",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=One+boy%2C+two+boys%2C&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "70ec6a43b488e287836e26bd91168284610f22eaaaa19a882d2ddc40e1f1e68a"
+    "sha256": "70ec6a43b488e287836e26bd91168284610f22eaaaa19a882d2ddc40e1f1e68a",
+    "validation": {
+      "duration": 2.424,
+      "peak": 20569
+    }
   },
   {
     "file": "sentence-04.mp3",
     "text": "Three boys, four!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Three+boys%2C+four%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6753cc3e001a0a7df3ba14f48790ed036ec5ff6635eccfefe942cbedd9d0591c"
+    "sha256": "6753cc3e001a0a7df3ba14f48790ed036ec5ff6635eccfefe942cbedd9d0591c",
+    "validation": {
+      "duration": 1.824,
+      "peak": 20733
+    }
   },
   {
     "file": "sentence-05.mp3",
     "text": "Five boys, six boys,",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Five+boys%2C+six+boys%2C&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f782216b8c895f431e36cbc3f2c72d00515fe2c95cec4df8619bd72bb3eb7651"
+    "sha256": "f782216b8c895f431e36cbc3f2c72d00515fe2c95cec4df8619bd72bb3eb7651",
+    "validation": {
+      "duration": 2.688,
+      "peak": 21899
+    }
   },
   {
     "file": "sentence-06.mp3",
     "text": "Seven boys, more!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Seven+boys%2C+more%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f99c466dcda91798ba760bca0ce7fad5e7d03c372bbc6aac5ef3b38e84aa768a"
+    "sha256": "f99c466dcda91798ba760bca0ce7fad5e7d03c372bbc6aac5ef3b38e84aa768a",
+    "validation": {
+      "duration": 2.016,
+      "peak": 20687
+    }
   },
   {
     "file": "sentence-07.mp3",
     "text": "Numbers",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Numbers&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b42132e86a316fa4b4fab9c4ed079f9046af4d81c476156e6dcc2bffee92f01d"
+    "sha256": "b42132e86a316fa4b4fab9c4ed079f9046af4d81c476156e6dcc2bffee92f01d",
+    "validation": {
+      "duration": 1.08,
+      "peak": 18151
+    }
   },
   {
     "file": "sentence-08.mp3",
     "text": "Binbin, this is my brother, Sam.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Binbin%2C+this+is+my+brother%2C+Sam.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a132045095140041abf30743e6f7474cd2345bce2d778b4d524eae7b10cff3f9"
+    "sha256": "a132045095140041abf30743e6f7474cd2345bce2d778b4d524eae7b10cff3f9",
+    "validation": {
+      "duration": 3.192,
+      "peak": 24336
+    }
   },
   {
     "file": "sentence-09.mp3",
     "text": "Hi, Sam! This is my sister, Xinxin.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%2C+Sam%21+This+is+my+sister%2C+Xinxin.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "83d39861165f639964a82ed2d146eb8508dac41b5bee974029bfb5ecb6951632"
+    "sha256": "83d39861165f639964a82ed2d146eb8508dac41b5bee974029bfb5ecb6951632",
+    "validation": {
+      "duration": 4.032,
+      "peak": 26097
+    }
   },
   {
     "file": "sentence-10.mp3",
     "text": "Hello, Xinxin!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%2C+Xinxin%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0d5ec80dd4433e4d231149c839850d524589eae59899a62dd82e5319dbc90252"
+    "sha256": "0d5ec80dd4433e4d231149c839850d524589eae59899a62dd82e5319dbc90252",
+    "validation": {
+      "duration": 1.704,
+      "peak": 18324
+    }
   },
   {
     "file": "sentence-11.mp3",
     "text": "Hi, Sam!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%2C+Sam%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f0558ddd91b65293ea9ba808798fb06ed1560b005505e7d03c25d609850349cb"
+    "sha256": "f0558ddd91b65293ea9ba808798fb06ed1560b005505e7d03c25d609850349cb",
+    "validation": {
+      "duration": 1.392,
+      "peak": 24539
+    }
   },
   {
     "file": "sentence-12.mp3",
     "text": "How old are you?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+old+are+you%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e5656a451a2e03aee2f550b0e4dc085ea425589654453e17663d11cb23a5e746"
+    "sha256": "e5656a451a2e03aee2f550b0e4dc085ea425589654453e17663d11cb23a5e746",
+    "validation": {
+      "duration": 1.296,
+      "peak": 21936
+    }
   },
   {
     "file": "sentence-13.mp3",
     "text": "I'm five years old.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%27m+five+years+old.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "956ce64fb269f85c45c8d48f637d49919c3c08207ae36e3130ba2d0cf67240ab"
+    "sha256": "956ce64fb269f85c45c8d48f637d49919c3c08207ae36e3130ba2d0cf67240ab",
+    "validation": {
+      "duration": 1.512,
+      "peak": 16365
+    }
   },
   {
     "file": "sentence-14.mp3",
     "text": "Me too.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Me+too.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ebfa83d579122443afb42010f3b94d211c2ebe47836e1340c4231c3eb05696b1"
+    "sha256": "ebfa83d579122443afb42010f3b94d211c2ebe47836e1340c4231c3eb05696b1",
+    "validation": {
+      "duration": 1.056,
+      "peak": 20542
+    }
   },
   {
     "file": "sentence-15.mp3",
     "text": "Hello, Xiaoli! How old are you?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%2C+Xiaoli%21+How+old+are+you%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "acbbfc8954bbe93791a247ebca62a3f9f39a288aa1d1a29a02752d71181632e4"
-  },
-  {
-    "file": "sentence-16.mp3",
-    "text": "one",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=one&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "32abc5a88ccf07d14c61f6755f2bd393515a0eaa308683fac35e922b59c9d1f1"
-  },
-  {
-    "file": "sentence-17.mp3",
-    "text": "two",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=two&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7058779203002153d800099bd00f0c60423b3d3b1dc7f00a687e2dbce88dce28"
-  },
-  {
-    "file": "sentence-18.mp3",
-    "text": "three",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=three&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "23052964cbdbf9b608f8b85f243cff874851003e907a485c9fb157de9eebf9ca"
-  },
-  {
-    "file": "sentence-19.mp3",
-    "text": "four",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=four&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ebe2c01df4519741e87269ff8bd38f02024028d48f938a40319fe6a564d01d28"
-  },
-  {
-    "file": "sentence-20.mp3",
-    "text": "five",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=five&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0125ae88906198d114a7b3d0a17e90449399387dc649273cc9d87f3012215f0d"
+    "sha256": "acbbfc8954bbe93791a247ebca62a3f9f39a288aa1d1a29a02752d71181632e4",
+    "validation": {
+      "duration": 2.832,
+      "peak": 21917
+    }
   },
   {
     "file": "sentence-21.mp3",
     "text": "1, 2, ...",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=1%2C+2%2C+...&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1c85742a6559d2655e337bd428e4a3a466ee9ef1f9bd69a80d61c0a48162d619"
+    "sha256": "1c85742a6559d2655e337bd428e4a3a466ee9ef1f9bd69a80d61c0a48162d619",
+    "validation": {
+      "duration": 1.632,
+      "peak": 16328
+    }
   },
   {
     "file": "sentence-22.mp3",
     "text": "Jump! Jump! Jump! One, two, three!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Jump%21+Jump%21+Jump%21+One%2C+two%2C+three%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "df2151f088153694ca4e767359d9ecaa7d608b5f8b9a7018a7bd4bcf646ccfdf"
+    "sha256": "df2151f088153694ca4e767359d9ecaa7d608b5f8b9a7018a7bd4bcf646ccfdf",
+    "validation": {
+      "duration": 4.608,
+      "peak": 22659
+    }
   },
   {
     "file": "sentence-23.mp3",
     "text": "Jump! Jump! Jump! Three, two, one!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Jump%21+Jump%21+Jump%21+Three%2C+two%2C+one%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "90952aaaeb58490f06c5bd9ed594e3113307ef790268d606c4b0c04237ad69a5"
+    "sha256": "90952aaaeb58490f06c5bd9ed594e3113307ef790268d606c4b0c04237ad69a5",
+    "validation": {
+      "duration": 4.608,
+      "peak": 22659
+    }
   },
   {
     "file": "sentence-24.mp3",
     "text": "Four and five! Four and five!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Four+and+five%21+Four+and+five%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "30e0be23c4e02edba3b25d7bca2a7d7b19ce66100786da80b1c17fa677ade5f6"
+    "sha256": "30e0be23c4e02edba3b25d7bca2a7d7b19ce66100786da80b1c17fa677ade5f6",
+    "validation": {
+      "duration": 2.616,
+      "peak": 24632
+    }
   },
   {
     "file": "sentence-25.mp3",
     "text": "Jump up high! Jump up high!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Jump+up+high%21+Jump+up+high%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "590e5575344457e7225fe3f5d1519c4b24132d20d342b2f9de88de08ebc6e09e"
+    "sha256": "590e5575344457e7225fe3f5d1519c4b24132d20d342b2f9de88de08ebc6e09e",
+    "validation": {
+      "duration": 2.448,
+      "peak": 21823
+    }
   },
   {
     "file": "sentence-26.mp3",
     "text": "Five! Four! Three, two, one!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Five%21+Four%21+Three%2C+two%2C+one%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f437a9e3ecc59c97589c9e0ecbdcd40eb83f4f05bb6ad9b4df769edbccec1c84"
+    "sha256": "f437a9e3ecc59c97589c9e0ecbdcd40eb83f4f05bb6ad9b4df769edbccec1c84",
+    "validation": {
+      "duration": 4.008,
+      "peak": 22715
+    }
   },
   {
     "file": "sentence-27.mp3",
     "text": "Jump! Jump! It's such fun!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Jump%21+Jump%21+It%27s+such+fun%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "833cd10a975fc52ab2e7e7d656f75f2b4a204c501c3c3a385f16e9145d419101"
+    "sha256": "833cd10a975fc52ab2e7e7d656f75f2b4a204c501c3c3a385f16e9145d419101",
+    "validation": {
+      "duration": 2.832,
+      "peak": 22659
+    }
   },
   {
     "file": "sentence-28.mp3",
     "text": "V",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=V&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f1e8fc6f40a5789d894183475138d0a5e2cef48a9221cd0d5c6c4b8938dfa93a"
+    "sha256": "f1e8fc6f40a5789d894183475138d0a5e2cef48a9221cd0d5c6c4b8938dfa93a",
+    "validation": {
+      "duration": 0.744,
+      "peak": 16219
+    }
   },
   {
     "file": "sentence-29.mp3",
     "text": "W",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=W&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5ca998483640c230978f76f723fa29da3be8ea4ff5b14aedf7459a0d0b363330"
+    "sha256": "5ca998483640c230978f76f723fa29da3be8ea4ff5b14aedf7459a0d0b363330",
+    "validation": {
+      "duration": 0.96,
+      "peak": 22257
+    }
   },
   {
     "file": "sentence-30.mp3",
     "text": "X",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=X&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "330fc243422047adc2bd3ab94d11c17f34e40b0a0d54e45de1dad4553265cb4d"
+    "sha256": "330fc243422047adc2bd3ab94d11c17f34e40b0a0d54e45de1dad4553265cb4d",
+    "validation": {
+      "duration": 0.912,
+      "peak": 15522
+    }
   },
   {
     "file": "sentence-31.mp3",
     "text": "Y",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Y&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e9494522da4eb49367085f3577461f68a10412981ac080b7f93806d86abe5f5c"
+    "sha256": "e9494522da4eb49367085f3577461f68a10412981ac080b7f93806d86abe5f5c",
+    "validation": {
+      "duration": 0.792,
+      "peak": 22238
+    }
   },
   {
     "file": "sentence-32.mp3",
     "text": "Z",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=zed&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9facd2bf510075a85fc783b0fde756f6d8ff6c15734d3fafc0f0fa321b11f8c3",
-    "spokenText": "zed"
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Z&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b3d51e451e8849f54092f8ce9ad7fadbec8916fb985888750e6890fa17fbe3b9",
+    "validation": {
+      "duration": 0.84,
+      "peak": 12344
+    }
   },
   {
     "file": "sentence-33.mp3",
     "text": "van",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=van&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c9233eb23ca294c29b0a24c5d5727e25ab2cd95c0ff3d1dbdef611596672e3d4"
+    "sha256": "c9233eb23ca294c29b0a24c5d5727e25ab2cd95c0ff3d1dbdef611596672e3d4",
+    "validation": {
+      "duration": 0.84,
+      "peak": 11734
+    }
   },
   {
     "file": "sentence-34.mp3",
     "text": "vet",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=vet&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6298bb7d2038731f3473dd9b848679316a5924ea3d64fe2757dc52bedc68f99b"
+    "sha256": "6298bb7d2038731f3473dd9b848679316a5924ea3d64fe2757dc52bedc68f99b",
+    "validation": {
+      "duration": 0.672,
+      "peak": 14433
+    }
   },
   {
     "file": "sentence-35.mp3",
     "text": "we",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=we&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "245219d2449d2b882425c8e88fbe2ecfa382d97da218e0a1d2d5f2b3e1d3c8b1"
+    "sha256": "245219d2449d2b882425c8e88fbe2ecfa382d97da218e0a1d2d5f2b3e1d3c8b1",
+    "validation": {
+      "duration": 0.744,
+      "peak": 15148
+    }
   },
   {
     "file": "sentence-36.mp3",
     "text": "win",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=win&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "438b5f9d2d64ec0a17592b1b664af142afad7ce7f2e8f21549208f26963b4b6e"
+    "sha256": "438b5f9d2d64ec0a17592b1b664af142afad7ce7f2e8f21549208f26963b4b6e",
+    "validation": {
+      "duration": 0.84,
+      "peak": 14355
+    }
   },
   {
     "file": "sentence-37.mp3",
     "text": "box",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=box&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0fc1745146ef14c953fab263e19f09d36242cae7bd3445c13f30d0f08b0861bc"
-  },
-  {
-    "file": "sentence-38.mp3",
-    "text": "six",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=six&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5f82dbf36d27fd0d3e43eb93cbb6ae68fc1799201e321e907f95c63206839f77"
+    "sha256": "0fc1745146ef14c953fab263e19f09d36242cae7bd3445c13f30d0f08b0861bc",
+    "validation": {
+      "duration": 0.936,
+      "peak": 20550
+    }
   },
   {
     "file": "sentence-39.mp3",
     "text": "yellow",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yellow&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1288865d1b9616344b02a197d54efc17789a651482094072938879bb0902ac6f"
+    "sha256": "1288865d1b9616344b02a197d54efc17789a651482094072938879bb0902ac6f",
+    "validation": {
+      "duration": 0.888,
+      "peak": 21215
+    }
   },
   {
     "file": "sentence-40.mp3",
     "text": "yo-yo",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yo-yo&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "35184f1ff96c535d153e3b954294d8f140e33b20d4ea4f4cec3b50e9305bb886"
+    "sha256": "35184f1ff96c535d153e3b954294d8f140e33b20d4ea4f4cec3b50e9305bb886",
+    "validation": {
+      "duration": 0.96,
+      "peak": 21355
+    }
   },
   {
     "file": "sentence-41.mp3",
     "text": "Zip",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Zip&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "001ad5bebfecd3681c1555796685614f3be1e91eb2eb97c08c2fd860fd2aa6a3"
+    "sha256": "001ad5bebfecd3681c1555796685614f3be1e91eb2eb97c08c2fd860fd2aa6a3",
+    "validation": {
+      "duration": 0.744,
+      "peak": 13253
+    }
   },
   {
     "file": "sentence-42.mp3",
     "text": "quiz",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=quiz&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e8c4c56efe10e1263abce53cf89fd75e801b4b973c3dd59c1cf3b943ae5b5b10"
+    "sha256": "e8c4c56efe10e1263abce53cf89fd75e801b4b973c3dd59c1cf3b943ae5b5b10",
+    "validation": {
+      "duration": 0.936,
+      "peak": 22948
+    }
   },
   {
     "file": "sentence-43.mp3",
     "text": "wet",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=wet&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6bdeddcc094b24970df89beddd71451d663402af2634584b42fe4bdd0f3cbb2f"
+    "sha256": "6bdeddcc094b24970df89beddd71451d663402af2634584b42fe4bdd0f3cbb2f",
+    "validation": {
+      "duration": 0.696,
+      "peak": 13826
+    }
   },
   {
     "file": "sentence-44.mp3",
     "text": "vat",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=vat&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3427094c3de00af12bd4fe224ffc9867b84bb730c87d31490a10451ba61896a2"
+    "sha256": "3427094c3de00af12bd4fe224ffc9867b84bb730c87d31490a10451ba61896a2",
+    "validation": {
+      "duration": 0.72,
+      "peak": 20595
+    }
   },
   {
     "file": "sentence-45.mp3",
     "text": "won",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=won&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a39eda808f8dad5358b4ef5e14275e2a3f3b48dc8521d5b062249031d18e8d53"
+    "sha256": "a39eda808f8dad5358b4ef5e14275e2a3f3b48dc8521d5b062249031d18e8d53",
+    "validation": {
+      "duration": 0.816,
+      "peak": 16383
+    }
   },
   {
     "file": "sentence-46.mp3",
     "text": "yes",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yes&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "577e43126ded588f09876ac796281770020e0c824a6629a783c45113ffc118d7"
+    "sha256": "577e43126ded588f09876ac796281770020e0c824a6629a783c45113ffc118d7",
+    "validation": {
+      "duration": 0.936,
+      "peak": 14994
+    }
   },
   {
     "file": "sentence-47.mp3",
     "text": "yum",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yum&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5be25cc3c4104468707bc94f201d120ccb33438cae4100e0746e4ba93f7c60cf"
+    "sha256": "5be25cc3c4104468707bc94f201d120ccb33438cae4100e0746e4ba93f7c60cf",
+    "validation": {
+      "duration": 0.912,
+      "peak": 18594
+    }
   },
   {
     "file": "sentence-48.mp3",
     "text": "zig",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=zig&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "bbe40fa2fab7a88170a4167119b16f055fee0b98860f81299d6f2df066ea0f48"
+    "sha256": "bbe40fa2fab7a88170a4167119b16f055fee0b98860f81299d6f2df066ea0f48",
+    "validation": {
+      "duration": 0.864,
+      "peak": 17271
+    }
   },
   {
     "file": "sentence-49.mp3",
     "text": "How many apples?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+many+apples%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "87515e6e28e02b5d5c5606d10c9bf329770de4ec48e5e80729f9225c045ebfcb"
+    "sha256": "87515e6e28e02b5d5c5606d10c9bf329770de4ec48e5e80729f9225c045ebfcb",
+    "validation": {
+      "duration": 1.488,
+      "peak": 18711
+    }
   },
   {
     "file": "sentence-50.mp3",
     "text": "Two.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Two.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0158a966e9b0f2f13b5c5977f80f2c79acf35b27975b2bf5260eb9640c30a0b3"
+    "sha256": "0158a966e9b0f2f13b5c5977f80f2c79acf35b27975b2bf5260eb9640c30a0b3",
+    "validation": {
+      "duration": 0.792,
+      "peak": 12248
+    }
   },
   {
     "file": "sentence-51.mp3",
     "text": "How many bananas?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+many+bananas%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8910a5440da504168d4c23327cc7f7d6969150cb4e21f4ddcd717383bc7a7a47"
+    "sha256": "8910a5440da504168d4c23327cc7f7d6969150cb4e21f4ddcd717383bc7a7a47",
+    "validation": {
+      "duration": 1.608,
+      "peak": 16724
+    }
   },
   {
     "file": "sentence-52.mp3",
     "text": "Three. And one orange.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Three.+And+one+orange.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c28e7bbec9cbb003e88c722719e122c2a7769f6500eaaa4088a3ebcb5c54e5e5"
+    "sha256": "c28e7bbec9cbb003e88c722719e122c2a7769f6500eaaa4088a3ebcb5c54e5e5",
+    "validation": {
+      "duration": 2.232,
+      "peak": 18275
+    }
   },
   {
     "file": "sentence-53.mp3",
     "text": "OK.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=OK.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8430a611de130d9ab8c205a6728af8517493b49c66ea82cc67e4ee574102b213"
+    "sha256": "8430a611de130d9ab8c205a6728af8517493b49c66ea82cc67e4ee574102b213",
+    "validation": {
+      "duration": 0.792,
+      "peak": 18303
+    }
   },
   {
     "file": "sentence-54.mp3",
     "text": "I have ten yuan.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+have+ten+yuan.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e1d49792550250056ccf5bfeda4fb020af7932d3e45f3cde52befb891357494d"
+    "sha256": "e1d49792550250056ccf5bfeda4fb020af7932d3e45f3cde52befb891357494d",
+    "validation": {
+      "duration": 1.608,
+      "peak": 20975
+    }
   },
   {
     "file": "sentence-55.mp3",
     "text": "I have six yuan.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+have+six+yuan.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a0f801f1cf10b675d385bf6bc57256d2876350b20538af02eb8a9ca62656eabd"
+    "sha256": "a0f801f1cf10b675d385bf6bc57256d2876350b20538af02eb8a9ca62656eabd",
+    "validation": {
+      "duration": 1.656,
+      "peak": 20638
+    }
   },
   {
     "file": "sentence-56.mp3",
     "text": "Great! Let's go to the shop!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Great%21+Let%27s+go+to+the+shop%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "cbe0d7c682586374f16ab03b7cb053d36dec33fa736a2179e675c3b834f01a2a"
+    "sha256": "cbe0d7c682586374f16ab03b7cb053d36dec33fa736a2179e675c3b834f01a2a",
+    "validation": {
+      "duration": 2.424,
+      "peak": 20340
+    }
   },
   {
     "file": "sentence-57.mp3",
     "text": "How many lions?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+many+lions%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8c747fc895fb7c7a2c023aee2d27136d1dc7c4f9ca2d6d907965f6609234c7e2"
+    "sha256": "8c747fc895fb7c7a2c023aee2d27136d1dc7c4f9ca2d6d907965f6609234c7e2",
+    "validation": {
+      "duration": 1.56,
+      "peak": 18395
+    }
   },
   {
     "file": "sentence-58.mp3",
     "text": "That's ten yuan, please.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=That%27s+ten+yuan%2C+please.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9ad4b0c290df885f6930de0c9357f6ffaf7ecf689197ee4978ecffa0021d5dfe"
+    "sha256": "9ad4b0c290df885f6930de0c9357f6ffaf7ecf689197ee4978ecffa0021d5dfe",
+    "validation": {
+      "duration": 2.28,
+      "peak": 19901
+    }
   },
   {
     "file": "sentence-59.mp3",
     "text": "Here you are.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Here+you+are.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6920a9298b2e84add4afa64ea8f9a5da9bf5b597e4fc9d605c4ebd76a8c9992d"
-  },
-  {
-    "file": "sentence-60.mp3",
-    "text": "seven",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=seven&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9c9f3d7dac1cc12af3d4a18924c71c8b07984744ee3e2e052000650e8e18ec4e"
-  },
-  {
-    "file": "sentence-61.mp3",
-    "text": "eight",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=eight&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9d7b73e38c611b438becdfc1dcafe9419879b194bb71734b9a21cd863dca4bab"
-  },
-  {
-    "file": "sentence-62.mp3",
-    "text": "nine",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=nine&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b204ad918cc13c40f1eda657e1787fa902024dbdf3a7e03371ccd5883fa5d8f8"
-  },
-  {
-    "file": "sentence-63.mp3",
-    "text": "ten",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=ten&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "de56aab0178c841ae53704e5e0822029207cb06a429a909490ab0d780dae92c5"
+    "sha256": "6920a9298b2e84add4afa64ea8f9a5da9bf5b597e4fc9d605c4ebd76a8c9992d",
+    "validation": {
+      "duration": 1.032,
+      "peak": 16544
+    }
   },
   {
     "file": "sentence-64.mp3",
     "text": "One head, two legs, ten toes.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=One+head%2C+two+legs%2C+ten+toes.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "30e7b3778e0d503394e7a829df0ef9428029453f856b90b01bfb67e1ac978818"
+    "sha256": "30e7b3778e0d503394e7a829df0ef9428029453f856b90b01bfb67e1ac978818",
+    "validation": {
+      "duration": 3.528,
+      "peak": 18558
+    }
   },
   {
     "file": "sentence-65.mp3",
     "text": "I am a child.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+a+child.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1a5060f542b37429e7518e353216149cddd264fc787f7df2743cad3fe954b2d1"
+    "sha256": "1a5060f542b37429e7518e353216149cddd264fc787f7df2743cad3fe954b2d1",
+    "validation": {
+      "duration": 1.32,
+      "peak": 23727
+    }
   },
   {
     "file": "sentence-66.mp3",
     "text": "One head, eight eyes, eight legs.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=One+head%2C+eight+eyes%2C+eight+legs.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "03f5d5f74ad321fc0382fd70aec047a587f9de084c5ac305e2f79335ddf7e723"
+    "sha256": "03f5d5f74ad321fc0382fd70aec047a587f9de084c5ac305e2f79335ddf7e723",
+    "validation": {
+      "duration": 3.408,
+      "peak": 20079
+    }
   },
   {
     "file": "sentence-67.mp3",
     "text": "I am a spider.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+a+spider.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fdf4a7869dbb8c0dda58db4c7dc60bc80f8a22d147733b73831fd826738f4b0e"
+    "sha256": "fdf4a7869dbb8c0dda58db4c7dc60bc80f8a22d147733b73831fd826738f4b0e",
+    "validation": {
+      "duration": 1.464,
+      "peak": 23656
+    }
   },
   {
     "file": "sentence-68.mp3",
     "text": "One head, four wings, six legs.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=One+head%2C+four+wings%2C+six+legs.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "51dae1666b1916a3159d0bc4e3e5d7f6bcdb57aef3de7ff69b64ab5bf44f9fb7"
+    "sha256": "51dae1666b1916a3159d0bc4e3e5d7f6bcdb57aef3de7ff69b64ab5bf44f9fb7",
+    "validation": {
+      "duration": 3.696,
+      "peak": 23911
+    }
   },
   {
     "file": "sentence-69.mp3",
     "text": "I am a bee.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+a+bee.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0907e6efb40ce4665e1d3c231ade4fa107bcef059cd462199a00d3438e30bc14"
+    "sha256": "0907e6efb40ce4665e1d3c231ade4fa107bcef059cd462199a00d3438e30bc14",
+    "validation": {
+      "duration": 1.176,
+      "peak": 23983
+    }
   },
   {
     "file": "sentence-70.mp3",
     "text": "It's seven o'clock. Hurry!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+seven+o%27clock.+Hurry%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3e57d2b64abbe834959afd97a5600f52f29d27997b0033d96d00aca389203375"
+    "sha256": "3e57d2b64abbe834959afd97a5600f52f29d27997b0033d96d00aca389203375",
+    "validation": {
+      "duration": 2.328,
+      "peak": 19997
+    }
   },
   {
     "file": "sentence-71.mp3",
     "text": "One orange, two apples and three bananas.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=One+orange%2C+two+apples+and+three+bananas.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "626676291d4cb42b756fb2410f5acc5fa66bb6654e1b7f16100867872d3bad53"
+    "sha256": "626676291d4cb42b756fb2410f5acc5fa66bb6654e1b7f16100867872d3bad53",
+    "validation": {
+      "duration": 3.672,
+      "peak": 20662
+    }
   },
   {
     "file": "sentence-72.mp3",
     "text": "Happy birthday!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Happy+birthday%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "18d29e64da69a46563d873db999525e0799bb60334bc557c9c2b8628ffd396d6"
+    "sha256": "18d29e64da69a46563d873db999525e0799bb60334bc557c9c2b8628ffd396d6",
+    "validation": {
+      "duration": 1.416,
+      "peak": 20997
+    }
   },
   {
     "file": "sentence-73.mp3",
     "text": "Three cuts. Let's eat!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Three+cuts.+Let%27s+eat%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a13662d17cd945095180ee5f7a28ac88bea272924706fb76ea2cfa4fdfc8106a"
+    "sha256": "a13662d17cd945095180ee5f7a28ac88bea272924706fb76ea2cfa4fdfc8106a",
+    "validation": {
+      "duration": 2.184,
+      "peak": 17794
+    }
   },
   {
     "file": "sentence-74.mp3",
     "text": "Dogs don't eat cake, Sam!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Dogs+don%27t+eat+cake%2C+Sam%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "41c4d4f89aa31351a7aefae21372931f473365484c4f92d8f710a44b60f729b1"
+    "sha256": "41c4d4f89aa31351a7aefae21372931f473365484c4f92d8f710a44b60f729b1",
+    "validation": {
+      "duration": 2.424,
+      "peak": 19644
+    }
   },
   {
     "file": "sentence-75.mp3",
     "text": "Oh, one more cut for the dog.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Oh%2C+one+more+cut+for+the+dog.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0b9fc13e6501dafff407956290daa163243f41a2c23907b36329eb958fdcc9a7"
+    "sha256": "0b9fc13e6501dafff407956290daa163243f41a2c23907b36329eb958fdcc9a7",
+    "validation": {
+      "duration": 2.544,
+      "peak": 18474
+    }
   },
   {
     "file": "sentence-76.mp3",
     "text": "odd",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=odd&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ea6ba608bd88066e309dd493bca0ec00c81123f2342293c28bd57b7e01c1f741"
+    "sha256": "ea6ba608bd88066e309dd493bca0ec00c81123f2342293c28bd57b7e01c1f741",
+    "validation": {
+      "duration": 0.744,
+      "peak": 16630
+    }
   },
   {
     "file": "sentence-77.mp3",
     "text": "even",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=even&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "afc45654f890ca66a88b818add85d345a524811d6f6d4dc00b7da88b5036bd6d"
+    "sha256": "afc45654f890ca66a88b818add85d345a524811d6f6d4dc00b7da88b5036bd6d",
+    "validation": {
+      "duration": 0.816,
+      "peak": 13391
+    }
   },
   {
     "file": "sentence-78.mp3",
     "text": "How many people are there?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+many+people+are+there%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8f6b2fd84a1b90de982b37b4ae6ed8049d84c57a9e3204fe0127832bc4274b59"
+    "sha256": "8f6b2fd84a1b90de982b37b4ae6ed8049d84c57a9e3204fe0127832bc4274b59",
+    "validation": {
+      "duration": 1.896,
+      "peak": 17517
+    }
   },
   {
     "file": "sentence-79.mp3",
     "text": "How old is Matt?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+old+is+Matt%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "67fe87bd62c2750577f1a992b00a20fcdb69f2cf352fe445809a854f4d208758"
+    "sha256": "67fe87bd62c2750577f1a992b00a20fcdb69f2cf352fe445809a854f4d208758",
+    "validation": {
+      "duration": 1.392,
+      "peak": 22360
+    }
   },
   {
     "file": "sentence-80.mp3",
     "text": "You are invited!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=You+are+invited%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f21fd5d8f6dd55a03cfde47b3f43c2bbae64fd66d568328d64f0337f6b8a32d0"
+    "sha256": "f21fd5d8f6dd55a03cfde47b3f43c2bbae64fd66d568328d64f0337f6b8a32d0",
+    "validation": {
+      "duration": 1.32,
+      "peak": 24313
+    }
   },
   {
     "file": "sentence-81.mp3",
     "text": "How old is Xinxin now?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+old+is+Xinxin+now%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c0754a1df59835410dc7e68adb7e2c818e37a1c2e82305f32a2d1be7830e9bc2"
+    "sha256": "c0754a1df59835410dc7e68adb7e2c818e37a1c2e82305f32a2d1be7830e9bc2",
+    "validation": {
+      "duration": 2.208,
+      "peak": 24074
+    }
   },
   {
     "file": "sentence-82.mp3",
     "text": "What time is the party?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+time+is+the+party%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e53fb4b2ccd26d9c2f76039b344150a570a47337b6c13589380d923a684f38f7"
+    "sha256": "e53fb4b2ccd26d9c2f76039b344150a570a47337b6c13589380d923a684f38f7",
+    "validation": {
+      "duration": 1.896,
+      "peak": 20058
+    }
   },
   {
     "file": "sentence-83.mp3",
     "text": "What numbers do you see on the card?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+numbers+do+you+see+on+the+card%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e0497b1112b39af614f0cae92e3fc93bede545d394ba246201345eebd8ed6d70"
+    "sha256": "e0497b1112b39af614f0cae92e3fc93bede545d394ba246201345eebd8ed6d70",
+    "validation": {
+      "duration": 2.448,
+      "peak": 19344
+    }
   },
   {
     "file": "sentence-84.mp3",
     "text": "to Xinxin's 6th birthday party!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=to+Xinxin%27s+6th+birthday+party%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "cf2098ed2d098e9da23d5c271e320e57ca99bed7fd11fd164f90e6e1554ed15c"
+    "sha256": "cf2098ed2d098e9da23d5c271e320e57ca99bed7fd11fd164f90e6e1554ed15c",
+    "validation": {
+      "duration": 2.832,
+      "peak": 15604
+    }
   },
   {
     "file": "sentence-85.mp3",
     "text": "5 p.m.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=5+p.m.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "cbcee064abd1a0531cd2eedebcf4b1e5211b2559ec62b32a6f87345c8c37ffb1"
+    "sha256": "cbcee064abd1a0531cd2eedebcf4b1e5211b2559ec62b32a6f87345c8c37ffb1",
+    "validation": {
+      "duration": 1.344,
+      "peak": 21361
+    }
   },
   {
     "file": "sentence-86.mp3",
     "text": "Xinxin's home",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Xinxin%27s+home&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "252b0d5afc9d9d085566ba2cafc48b10939a7ca0eafb1b7378c06e1f51754f2a"
+    "sha256": "252b0d5afc9d9d085566ba2cafc48b10939a7ca0eafb1b7378c06e1f51754f2a",
+    "validation": {
+      "duration": 1.536,
+      "peak": 21366
+    }
   },
   {
     "file": "sentence-87.mp3",
     "text": "Thanks!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thanks%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1971c4f879abfe93d4e68de178480cd0eda5a1fd4d2418fdfab283658ca445bf"
+    "sha256": "1971c4f879abfe93d4e68de178480cd0eda5a1fd4d2418fdfab283658ca445bf",
+    "validation": {
+      "duration": 0.936,
+      "peak": 17730
+    }
   },
   {
     "file": "sentence-88.mp3",
     "text": "How many cards?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+many+cards%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "607b0315bec22bc59ead39d2415d4d46ebebf87cbf8629aa4a5ce07668cb30db"
+    "sha256": "607b0315bec22bc59ead39d2415d4d46ebebf87cbf8629aa4a5ce07668cb30db",
+    "validation": {
+      "duration": 1.464,
+      "peak": 17240
+    }
   },
   {
     "file": "sentence-89.mp3",
     "text": "Six.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Six.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8d7e38c9c61279fff147421aa12d5dbfbf8cda3bb54d70a8bb5e93399e8a0f38"
+    "sha256": "8d7e38c9c61279fff147421aa12d5dbfbf8cda3bb54d70a8bb5e93399e8a0f38",
+    "validation": {
+      "duration": 1.056,
+      "peak": 17040
+    }
   },
   {
     "file": "sentence-90.mp3",
     "text": "What's this?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s+this%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b28d0f6cc37e61d41aa102d8cc5a7a475e55794a6850cae453a3f0efe1d817d5"
+    "sha256": "b28d0f6cc37e61d41aa102d8cc5a7a475e55794a6850cae453a3f0efe1d817d5",
+    "validation": {
+      "duration": 1.2,
+      "peak": 19954
+    }
   },
   {
     "file": "sentence-91.mp3",
     "text": "Right.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Right.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9ef1f9727dae3409c887fb0d55a18b548629d2380be76cdd9d1fbfd5d75b24e9"
+    "sha256": "9ef1f9727dae3409c887fb0d55a18b548629d2380be76cdd9d1fbfd5d75b24e9",
+    "validation": {
+      "duration": 0.696,
+      "peak": 19394
+    }
   },
   {
     "file": "sentence-92.mp3",
     "text": "Hmm, six?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hmm%2C+six%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2469b3824cfa7304f61ac6f3e91a6959ab7211b0db53eedb0b28733ee98e094e"
+    "sha256": "2469b3824cfa7304f61ac6f3e91a6959ab7211b0db53eedb0b28733ee98e094e",
+    "validation": {
+      "duration": 1.584,
+      "peak": 12532
+    }
   },
   {
     "file": "sentence-93.mp3",
     "text": "You're right again.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=You%27re+right+again.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "bc71153f46e5b4dffa5c1b1e3364d5b0ee4f215499e987b9f4e7e464d4b35a2d"
+    "sha256": "bc71153f46e5b4dffa5c1b1e3364d5b0ee4f215499e987b9f4e7e464d4b35a2d",
+    "validation": {
+      "duration": 1.272,
+      "peak": 22734
+    }
   },
   {
     "file": "sentence-94.mp3",
     "text": "It's six in Chinese.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+six+in+Chinese.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1f0aa40e2e4c4ea212bae2e4eeb5b3f9bad7353680246c86ed704819fd392558"
+    "sha256": "1f0aa40e2e4c4ea212bae2e4eeb5b3f9bad7353680246c86ed704819fd392558",
+    "validation": {
+      "duration": 1.968,
+      "peak": 17393
+    }
   },
   {
     "file": "sentence-95.mp3",
     "text": "What about this?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+about+this%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ad6f4f4b2ec45d2ce12073ac9bce701118e3bcdd4e002c5955fa1ebcd5c062a4"
+    "sha256": "ad6f4f4b2ec45d2ce12073ac9bce701118e3bcdd4e002c5955fa1ebcd5c062a4",
+    "validation": {
+      "duration": 1.368,
+      "peak": 20693
+    }
   },
   {
     "file": "sentence-96.mp3",
     "text": "I don't know.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+don%27t+know.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f7dce8b3a6d7c9d9f71fd81ccf750a38ad3ec84c30a91e813e00074100bfca2f"
+    "sha256": "f7dce8b3a6d7c9d9f71fd81ccf750a38ad3ec84c30a91e813e00074100bfca2f",
+    "validation": {
+      "duration": 1.032,
+      "peak": 16191
+    }
   },
   {
     "file": "sentence-97.mp3",
     "text": "This is six too.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+is+six+too.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "593863ebac82a5e9458f6618595a2cd67c1ab9a18e2446ca2881a3fb329b356e"
-  },
-  {
-    "file": "sentence-98.mp3",
-    "text": "It's a Jiaguwen number.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+a+Jiaguwen+number.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "472069c62fc3a6c609a86dc2a012f6d08c1e1e30e436f1135629c54c6bdd072d"
+    "sha256": "593863ebac82a5e9458f6618595a2cd67c1ab9a18e2446ca2881a3fb329b356e",
+    "validation": {
+      "duration": 1.56,
+      "peak": 26159
+    }
   },
   {
     "file": "sentence-99.mp3",
     "text": "Jiaguwen is over 3,000 years old!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Jiaguwen+is+over+3%2C000+years+old%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1c5d9c9593b55e9ea31c11fba6b6a2b107d46fccc9365b9c0f6783ce0cec3c10"
+    "sha256": "1c5d9c9593b55e9ea31c11fba6b6a2b107d46fccc9365b9c0f6783ce0cec3c10",
+    "validation": {
+      "duration": 3.12,
+      "peak": 17077
+    }
   },
   {
     "file": "sentence-100.mp3",
     "text": "Wow!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wow%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "713fbebffb7e53aa9aed34094b4e9017fb11542dd61ea19b804b4efa4059d625"
-  },
-  {
-    "file": "sentence-101.mp3",
-    "text": "Numbers are helpful.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Numbers+are+helpful.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9adc2de98ccec6e6d9ecaac307e5e8922f0271a299e4351cb948715eeaf652e6"
-  },
-  {
-    "file": "sentence-102.mp3",
-    "text": "We use them all the time.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+use+them+all+the+time.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "07b520503f7eeaf6d5b2e4936733afe35d8ccf179c79ae3956b7d12e44a4ebb9"
-  },
-  {
-    "file": "sentence-103.mp3",
-    "text": "Numbers are different around the world.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Numbers+are+different+around+the+world.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "97caf90bf7c805b0e33e5cb2764fa0231095ad643cfdc3d307fcb46f379c10df"
+    "sha256": "713fbebffb7e53aa9aed34094b4e9017fb11542dd61ea19b804b4efa4059d625",
+    "validation": {
+      "duration": 0.888,
+      "peak": 20301
+    }
   },
   {
     "file": "topic-page62.mp3",
     "text": "Why are numbers important?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Why+are+numbers+important%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8fdd0e83510fa5ebcd1708fd518d3427f61d5424060443599ed51980948a73eb"
+    "sha256": "8fdd0e83510fa5ebcd1708fd518d3427f61d5424060443599ed51980948a73eb",
+    "validation": {
+      "duration": 1.8,
+      "peak": 18469
+    }
   },
   {
     "file": "topic-page64.mp3",
     "text": "When do we use numbers?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=When+do+we+use+numbers%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "699608961f80c34fc8ad708e614ee4bb398cebebd5614feb5b03aa2a25b5de46"
+    "sha256": "699608961f80c34fc8ad708e614ee4bb398cebebd5614feb5b03aa2a25b5de46",
+    "validation": {
+      "duration": 2.088,
+      "peak": 21190
+    }
   },
   {
     "file": "topic-page67.mp3",
     "text": "How useful are numbers?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+useful+are+numbers%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8673d269cd8914d104c53496f6d0252a36fc87a384160369731df3dc671047e3"
+    "sha256": "8673d269cd8914d104c53496f6d0252a36fc87a384160369731df3dc671047e3",
+    "validation": {
+      "duration": 1.968,
+      "peak": 20345
+    }
+  },
+  {
+    "file": "edition-37b5ed4e4494.mp3",
+    "text": "It's a jiaguwen number.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+a+jiaguwen+number.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "cefa83830afde1065bc53b233af0a47c56531aa2f040c103557b0e9c386f24b0",
+    "validation": {
+      "duration": 1.968,
+      "peak": 18515
+    }
+  },
+  {
+    "file": "edition-455bba2f44b5.mp3",
+    "text": "How old are you, my friend?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+old+are+you%2C+my+friend%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "af8e505c4a777692691850bef80ec180e38aefd9b809ebac9bd0ddc0612f31a6",
+    "validation": {
+      "duration": 2.352,
+      "peak": 22471
+    }
+  },
+  {
+    "file": "edition-581dbdc6c141.mp3",
+    "text": "I can count up from one to ten.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+can+count+up+from+one+to+ten.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "03845b0391c19a4e8eccfc8aa02c7a1c6c82fff2eda64924b7f42abdc5192f61",
+    "validation": {
+      "duration": 2.472,
+      "peak": 16573
+    }
+  },
+  {
+    "file": "edition-80be0e8dd0f6.mp3",
+    "text": "I can count back again.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+can+count+back+again.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "86568cf3688f571eadca6d95e56669b82e4f0becf7829e6f97b01119d4445dec",
+    "validation": {
+      "duration": 1.944,
+      "peak": 18876
+    }
+  },
+  {
+    "file": "edition-82a20fe10734.mp3",
+    "text": "How can numbers help us out?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+can+numbers+help+us+out%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d6b19f87ed5d0aae4c62c8c5ca001bb0cbcab2b188872eb75ce753870f73fca6",
+    "validation": {
+      "duration": 2.088,
+      "peak": 25570
+    }
+  },
+  {
+    "file": "edition-40992e430203.mp3",
+    "text": "We can sort and solve and count.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+sort+and+solve+and+count.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "86e622c8ae4318609d35ba18a9bf50257fbd03a729db1bfc344702007b9b900c",
+    "validation": {
+      "duration": 2.472,
+      "peak": 18983
+    }
+  },
+  {
+    "file": "edition-3ba20650a8d3.mp3",
+    "text": "We can help each other out!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+help+each+other+out%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "90db48c3cc673a74ebd4dbbc615ad020df247e5b01442b602dcab64e2ce686d7",
+    "validation": {
+      "duration": 1.992,
+      "peak": 20419
+    }
   }
 ]

@@ -3,600 +3,970 @@
     "file": "name.mp3",
     "text": "name",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=name&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5b565db7693a694cbb0a2b8e0c32d350827de6a3e34613d3f51ca4e409a76214"
+    "sha256": "5b565db7693a694cbb0a2b8e0c32d350827de6a3e34613d3f51ca4e409a76214",
+    "validation": {
+      "duration": 0.816,
+      "peak": 14056
+    }
   },
   {
     "file": "nice.mp3",
     "text": "nice",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=nice&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "25595b052a642c2428ece1c5cf56c9098e9c58601af53f18110e35e038e25cb0"
+    "sha256": "25595b052a642c2428ece1c5cf56c9098e9c58601af53f18110e35e038e25cb0",
+    "validation": {
+      "duration": 0.936,
+      "peak": 17357
+    }
   },
   {
     "file": "ear.mp3",
     "text": "ear",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=ear&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "090d605f3af80c970067035cea8499a2f8c995d30a8a1a94bd1d1184b827f4ee"
+    "sha256": "090d605f3af80c970067035cea8499a2f8c995d30a8a1a94bd1d1184b827f4ee",
+    "validation": {
+      "duration": 0.744,
+      "peak": 15556
+    }
   },
   {
     "file": "hand.mp3",
     "text": "hand",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=hand&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5fc6bf50ae0c453d523f9978df09f5a970d68f9db54056763e10dedbac2229b6"
+    "sha256": "5fc6bf50ae0c453d523f9978df09f5a970d68f9db54056763e10dedbac2229b6",
+    "validation": {
+      "duration": 0.816,
+      "peak": 9174
+    }
   },
   {
     "file": "eye.mp3",
     "text": "eye",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=eye&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d18ce2410a39751be5cf53276095dc0f0ae12c44d76c6bc818be5db3c73a1269"
+    "sha256": "d18ce2410a39751be5cf53276095dc0f0ae12c44d76c6bc818be5db3c73a1269",
+    "validation": {
+      "duration": 0.72,
+      "peak": 19234
+    }
   },
   {
     "file": "mouth.mp3",
     "text": "mouth",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=mouth&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9fbba3f3af0314e5bf08118599ae21fad6297e51819b18df6575be25814f2831"
+    "sha256": "9fbba3f3af0314e5bf08118599ae21fad6297e51819b18df6575be25814f2831",
+    "validation": {
+      "duration": 0.816,
+      "peak": 17658
+    }
   },
   {
     "file": "arm.mp3",
     "text": "arm",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=arm&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "649d68056d900c0e2f0dc4bb82bdefc3a15f9eb49502917cf37f9429bbd216c3"
+    "sha256": "649d68056d900c0e2f0dc4bb82bdefc3a15f9eb49502917cf37f9429bbd216c3",
+    "validation": {
+      "duration": 0.816,
+      "peak": 18279
+    }
   },
   {
     "file": "can.mp3",
     "text": "can",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=can&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "04166807a18de6f3887664e496c68c9bd8362247a69cb65e1653a559495e1189"
+    "sha256": "04166807a18de6f3887664e496c68c9bd8362247a69cb65e1653a559495e1189",
+    "validation": {
+      "duration": 0.816,
+      "peak": 11740
+    }
   },
   {
     "file": "share.mp3",
     "text": "share",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=share&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d8d7a733a0960c3ea6121dedededb43756a1fdd2f5ecb98646764f36195d0174"
+    "sha256": "d8d7a733a0960c3ea6121dedededb43756a1fdd2f5ecb98646764f36195d0174",
+    "validation": {
+      "duration": 0.912,
+      "peak": 13839
+    }
   },
   {
     "file": "smile.mp3",
     "text": "smile",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=smile&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a85c81457dbfd2d31f145830b90743e8dd2d74aa18fe1107355ca8667b54293a"
+    "sha256": "a85c81457dbfd2d31f145830b90743e8dd2d74aa18fe1107355ca8667b54293a",
+    "validation": {
+      "duration": 0.984,
+      "peak": 19256
+    }
   },
   {
     "file": "listen.mp3",
     "text": "listen",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=listen&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6fb3085d360068d52e4b3c0151ce94567b95bf4fcaf70d9b1ad560e43732c06e"
+    "sha256": "6fb3085d360068d52e4b3c0151ce94567b95bf4fcaf70d9b1ad560e43732c06e",
+    "validation": {
+      "duration": 0.864,
+      "peak": 20516
+    }
   },
   {
     "file": "help.mp3",
     "text": "help",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=help&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "42bcdb24df4f94d3a3db3c7584b467f00f18521473800a698049fa3023f73e36"
+    "sha256": "42bcdb24df4f94d3a3db3c7584b467f00f18521473800a698049fa3023f73e36",
+    "validation": {
+      "duration": 0.72,
+      "peak": 19452
+    }
   },
   {
     "file": "say.mp3",
     "text": "say",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=say&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "693f956ab660bb1140be66ade8b17ed5fe58e55f7146ad14d156d25c84c0c2ea"
-  },
-  {
-    "file": "and.mp3",
-    "text": "and",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=and&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1741f527a8d69f9942c7950c77e33e1f2ee14b32eb593d9ffec64669a2c6f30d"
-  },
-  {
-    "file": "goodbye.mp3",
-    "text": "goodbye",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=goodbye&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "64c78b70bcdd12c3b883c212cf8dee54401137992e343048f642aa9078581c66"
-  },
-  {
-    "file": "toy.mp3",
-    "text": "toy",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=toy&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f9a8250529e1903402a5041c805103e113a7f1e6e7a242cb919e6f03500877b4"
+    "sha256": "693f956ab660bb1140be66ade8b17ed5fe58e55f7146ad14d156d25c84c0c2ea",
+    "validation": {
+      "duration": 0.864,
+      "peak": 11964
+    }
   },
   {
     "file": "friend.mp3",
     "text": "friend",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=friend&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4e3fa41a28eb972bfd74a809e80fcc69e689d32d160671aabed72e56da65d3fb"
+    "sha256": "4e3fa41a28eb972bfd74a809e80fcc69e689d32d160671aabed72e56da65d3fb",
+    "validation": {
+      "duration": 0.816,
+      "peak": 13494
+    }
   },
   {
     "file": "good.mp3",
     "text": "good",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=good&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5625a7aa9e29189ca0f2a6bb7c7b0a6900bc1cdce1b341b3c835517724ee0200"
+    "sha256": "5625a7aa9e29189ca0f2a6bb7c7b0a6900bc1cdce1b341b3c835517724ee0200",
+    "validation": {
+      "duration": 0.672,
+      "peak": 15114
+    }
   },
   {
     "file": "sentence-01.mp3",
     "text": "Are they friends?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Are%20they%20friends%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "adf12cdd21a8b897bd6e0d8e359baa6828aa1ff5111fe6a1432813dcce5c6837"
+    "sha256": "adf12cdd21a8b897bd6e0d8e359baa6828aa1ff5111fe6a1432813dcce5c6837",
+    "validation": {
+      "duration": 1.416,
+      "peak": 19554
+    }
   },
   {
     "file": "sentence-02.mp3",
     "text": "What makes you a good friend?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%20makes%20you%20a%20good%20friend%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "77f2f4fda5d555eae719ddb5c847f794db708d47f801669038db6d33d0c3d291"
+    "sha256": "77f2f4fda5d555eae719ddb5c847f794db708d47f801669038db6d33d0c3d291",
+    "validation": {
+      "duration": 2.04,
+      "peak": 17711
+    }
   },
   {
     "file": "sentence-03.mp3",
     "text": "Hello! Hello!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%21%20Hello%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "118b6f0013161cbc34a547c88b7072874ea7b0b0ffb4d70d12f2c9fde1a00802"
+    "sha256": "118b6f0013161cbc34a547c88b7072874ea7b0b0ffb4d70d12f2c9fde1a00802",
+    "validation": {
+      "duration": 1.68,
+      "peak": 19989
+    }
   },
   {
     "file": "sentence-04.mp3",
     "text": "What's your name?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What%27s%20your%20name%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "66b3366452e390200abeae9023d95d3175e6de45c167beb7d8c9af22b999e81d"
+    "sha256": "66b3366452e390200abeae9023d95d3175e6de45c167beb7d8c9af22b999e81d",
+    "validation": {
+      "duration": 1.248,
+      "peak": 18112
+    }
   },
   {
     "file": "sentence-05.mp3",
     "text": "Nice to meet you.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Nice%20to%20meet%20you.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2620e2eaa2f38a2219ffbc277a208aea9ca1aa0b1a7c4b394f2ab6ffd9f6bdc7"
+    "sha256": "2620e2eaa2f38a2219ffbc277a208aea9ca1aa0b1a7c4b394f2ab6ffd9f6bdc7",
+    "validation": {
+      "duration": 1.368,
+      "peak": 17568
+    }
   },
   {
     "file": "sentence-06.mp3",
     "text": "Let's play a game!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Let%27s%20play%20a%20game%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "93d9da44851d07204a25c347af46ba1e0a3b32c66530e54ba5238ba9af47f893"
+    "sha256": "93d9da44851d07204a25c347af46ba1e0a3b32c66530e54ba5238ba9af47f893",
+    "validation": {
+      "duration": 1.512,
+      "peak": 18646
+    }
   },
   {
     "file": "sentence-07.mp3",
     "text": "Hello! I'm Mike Black.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%21%20I%27m%20Mike%20Black.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "62fbe0e008a4c57217f803b2cdd12f4578dd4d42016dc720a98724eb34259517"
+    "sha256": "62fbe0e008a4c57217f803b2cdd12f4578dd4d42016dc720a98724eb34259517",
+    "validation": {
+      "duration": 2.136,
+      "peak": 19789
+    }
   },
   {
     "file": "sentence-08.mp3",
     "text": "Hi! My name is Wu Binbin.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%21%20My%20name%20is%20Wu%20Binbin.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5586444644ef2bb37b742218ecdb69385b9338e2c6a898643df610758cba6870"
+    "sha256": "5586444644ef2bb37b742218ecdb69385b9338e2c6a898643df610758cba6870",
+    "validation": {
+      "duration": 2.736,
+      "peak": 20002
+    }
   },
   {
     "file": "sentence-09.mp3",
     "text": "Nice to meet you too.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Nice%20to%20meet%20you%20too.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0be1aa3727cfa86d25fb467b7c90848ad916af55f53ab4b0945f26f58497f6af"
-  },
-  {
-    "file": "sentence-10.mp3",
-    "text": "Hello there!",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%20there%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "472da4be1d40163f15435c9e623cc74b614b480e3863d989fe760aaffd73b4e8"
-  },
-  {
-    "file": "sentence-11.mp3",
-    "text": "Let's be friends.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Let%27s%20be%20friends.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b99ac08c18d8766ae27a4847fe38f9dcd8a7ea3adebe6a1962d5111e1fffe5e6"
-  },
-  {
-    "file": "sentence-12.mp3",
-    "text": "My name is Sarah.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=My%20name%20is%20Sarah.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8b218eab61be7d17611494ed55d1309fa8e69582b95c514d5e508d66b41ff8fe"
-  },
-  {
-    "file": "sentence-13.mp3",
-    "text": "Let's shake hands.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Let%27s%20shake%20hands.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "39eecc2816ee1b0aa0e4c7f31adead05403952808746b672ac2575e6c2516b4e"
-  },
-  {
-    "file": "sentence-14.mp3",
-    "text": "I am John.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20am%20John.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "62e0438d3ec954bc378942c779494b98f2b64b806163ad0b8d606122c911b8f7"
+    "sha256": "0be1aa3727cfa86d25fb467b7c90848ad916af55f53ab4b0945f26f58497f6af",
+    "validation": {
+      "duration": 1.872,
+      "peak": 18555
+    }
   },
   {
     "file": "sentence-15.mp3",
     "text": "Hello! My name is Mike Black.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%21%20My%20name%20is%20Mike%20Black.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2cd1b8225ecc0420eb25b4766cf06082a59fe77215c6b41d53d3a5ba26d2c932"
+    "sha256": "2cd1b8225ecc0420eb25b4766cf06082a59fe77215c6b41d53d3a5ba26d2c932",
+    "validation": {
+      "duration": 2.808,
+      "peak": 19978
+    }
   },
   {
     "file": "sentence-16.mp3",
     "text": "Hi! I'm Sarah Miller.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%21%20I%27m%20Sarah%20Miller.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f347053fe8ce2a4cd35e671a972e2e061ef98aa3417ff7d95a48ab320efee6ec"
+    "sha256": "f347053fe8ce2a4cd35e671a972e2e061ef98aa3417ff7d95a48ab320efee6ec",
+    "validation": {
+      "duration": 2.136,
+      "peak": 19176
+    }
   },
   {
     "file": "sentence-17.mp3",
     "text": "Wave your hand. Hello!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wave%20your%20hand.%20Hello%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b438f0adc684d144168fb633be87e90654de7963931856237f8d7133bfa5d401"
+    "sha256": "b438f0adc684d144168fb633be87e90654de7963931856237f8d7133bfa5d401",
+    "validation": {
+      "duration": 2.112,
+      "peak": 23093
+    }
   },
   {
     "file": "sentence-18.mp3",
     "text": "Look into my eyes. Hi!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%20into%20my%20eyes.%20Hi%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "af7fab45972a6adefd9020009acf04828fefd024a57a25df0854c3ac123991d7"
+    "sha256": "af7fab45972a6adefd9020009acf04828fefd024a57a25df0854c3ac123991d7",
+    "validation": {
+      "duration": 2.304,
+      "peak": 19192
+    }
   },
   {
     "file": "sentence-19.mp3",
     "text": "Point to your ear. Listen!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Point%20to%20your%20ear.%20Listen%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d1fc45d208e0e2b2bed17628e3671472a3f0bd80b6a733ae05378432cc3fb4ff"
+    "sha256": "d1fc45d208e0e2b2bed17628e3671472a3f0bd80b6a733ae05378432cc3fb4ff",
+    "validation": {
+      "duration": 2.28,
+      "peak": 24351
+    }
   },
   {
     "file": "sentence-20.mp3",
     "text": "Point to your mouth. Smile!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Point%20to%20your%20mouth.%20Smile%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0d363eed35496f3ba26e5173dbf980d6ca823b22d9acc654b0ac2eb4309958ff"
+    "sha256": "0d363eed35496f3ba26e5173dbf980d6ca823b22d9acc654b0ac2eb4309958ff",
+    "validation": {
+      "duration": 2.424,
+      "peak": 24620
+    }
   },
   {
     "file": "sentence-21.mp3",
     "text": "Wave your arm. Bye!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wave%20your%20arm.%20Bye%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5368eb9a0787070c716d8f5d0b06ca7762787ce4ccd1d7fdcf63cb687d6ece24"
+    "sha256": "5368eb9a0787070c716d8f5d0b06ca7762787ce4ccd1d7fdcf63cb687d6ece24",
+    "validation": {
+      "duration": 2.04,
+      "peak": 23165
+    }
   },
   {
     "file": "sentence-22.mp3",
     "text": "John Baker",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=John%20Baker&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "368ea5ea7d90ca31b469ef5c872e369ba20a77d7629bdfd489af17a29fda9158"
+    "sha256": "368ea5ea7d90ca31b469ef5c872e369ba20a77d7629bdfd489af17a29fda9158",
+    "validation": {
+      "duration": 1.296,
+      "peak": 20314
+    }
   },
   {
     "file": "sentence-23.mp3",
     "text": "Wu Binbin",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Wu%20Binbin&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "13cfa3e81f053ae2e89f3a81f3fe44e8f91e64ca761f681dfbbc726a7592639b"
+    "sha256": "13cfa3e81f053ae2e89f3a81f3fe44e8f91e64ca761f681dfbbc726a7592639b",
+    "validation": {
+      "duration": 1.272,
+      "peak": 19302
+    }
   },
   {
     "file": "sentence-24.mp3",
     "text": "Chen Jie",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Chen%20Jie&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8e348dd83fb0e2aed6d90979ffb0f4379f012487f831b7d6d4c4cc364d4d58b8"
+    "sha256": "8e348dd83fb0e2aed6d90979ffb0f4379f012487f831b7d6d4c4cc364d4d58b8",
+    "validation": {
+      "duration": 1.176,
+      "peak": 20504
+    }
   },
   {
     "file": "sentence-25.mp3",
     "text": "Sarah Miller",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Sarah%20Miller&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c69f9e60608f816cb359812d7b042cbe47389d36f16d2e02706d98c584667953"
+    "sha256": "c69f9e60608f816cb359812d7b042cbe47389d36f16d2e02706d98c584667953",
+    "validation": {
+      "duration": 1.32,
+      "peak": 15608
+    }
   },
   {
     "file": "sentence-26.mp3",
     "text": "Mike Black",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Mike%20Black&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "bace68c3447f57406461aa226d9aba1b5c48f9a375ac5661ef39a8303cf911d1"
-  },
-  {
-    "file": "key-05.mp3",
-    "text": "Oh no!",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Oh+no%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d7653027dac7721a9240a0f79fc2769279cfd1c1366c27a0e1ad4554daaf9293"
-  },
-  {
-    "file": "key-06.mp3",
-    "text": "It's OK, Chen Jie.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+OK%2C+Chen+Jie.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0aa428dab12483b2fa01792cfd7dcb485c1d69d31b16cb0ca7e8f54bfc03ba50"
-  },
-  {
-    "file": "key-07.mp3",
-    "text": "Hey, Sarah! We can share.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hey%2C+Sarah%21+We+can+share.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f3b19860ae78fbe1e8c24e94923567726f95b3acf98c4fae94bab1cbda84e972"
-  },
-  {
-    "file": "key-08.mp3",
-    "text": "Thanks, Sarah.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thanks%2C+Sarah.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ffa846e606b024c17119df9d48ceda9b45716a06157e27a89a7630273cf136df"
-  },
-  {
-    "file": "key-09.mp3",
-    "text": "Thank you, Chen Jie.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thank+you%2C+Chen+Jie.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "78647f645640423505f110a7b768e191f928a7024af4270206663d31f7d00c64"
-  },
-  {
-    "file": "key-10.mp3",
-    "text": "I listen with care.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+listen+with+care.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6e35737c8ded1946cd3f7560411cbdd464eb0b36e19e2bd4932d59471fc9b63b"
-  },
-  {
-    "file": "key-11.mp3",
-    "text": "I am nice to my friends.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+nice+to+my+friends.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b3904a67605062c9c7f4b7853d7a85a29edf77422b54dfd8885a23294dac5290"
+    "sha256": "bace68c3447f57406461aa226d9aba1b5c48f9a375ac5661ef39a8303cf911d1",
+    "validation": {
+      "duration": 1.176,
+      "peak": 22690
+    }
   },
   {
     "file": "sentence-27.mp3",
     "text": "A",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=A&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "55e7ca4356c1bb279d0764a5858f54fbda0fa70f7b00c0836b3ae0117c928ba2"
+    "sha256": "55e7ca4356c1bb279d0764a5858f54fbda0fa70f7b00c0836b3ae0117c928ba2",
+    "validation": {
+      "duration": 0.744,
+      "peak": 11009
+    }
   },
   {
     "file": "sentence-28.mp3",
     "text": "B",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=B&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "66c2990c026f99c6578adfe7384e77763fe7c71530c05d1d7c094f8835c224f8"
+    "sha256": "66c2990c026f99c6578adfe7384e77763fe7c71530c05d1d7c094f8835c224f8",
+    "validation": {
+      "duration": 0.744,
+      "peak": 14138
+    }
   },
   {
     "file": "sentence-29.mp3",
     "text": "C",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=C&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c171d5d39da895f56d7f9eb1f28d61eb610d7249c1fd7cde06494b17f0ad481d"
+    "sha256": "c171d5d39da895f56d7f9eb1f28d61eb610d7249c1fd7cde06494b17f0ad481d",
+    "validation": {
+      "duration": 0.864,
+      "peak": 11910
+    }
   },
   {
     "file": "sentence-30.mp3",
     "text": "D",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=D&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a0c86074bdd780c6f28b561edf22ebedfe301ba8776ab2793324cc2c8b56e4c0"
+    "sha256": "a0c86074bdd780c6f28b561edf22ebedfe301ba8776ab2793324cc2c8b56e4c0",
+    "validation": {
+      "duration": 0.744,
+      "peak": 14401
+    }
   },
   {
     "file": "sentence-31.mp3",
     "text": "apple",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "975b26de0a6ecb7b53c3edacd2cdab5f11bad729bc853afb808f3b6d052342b1"
+    "sha256": "975b26de0a6ecb7b53c3edacd2cdab5f11bad729bc853afb808f3b6d052342b1",
+    "validation": {
+      "duration": 0.84,
+      "peak": 18491
+    }
   },
   {
     "file": "sentence-32.mp3",
     "text": "bag",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bag&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5b9c7b3073faac4e10f4ce81caa5315b763a0250d7673b93864a62f594449f43"
+    "sha256": "5b9c7b3073faac4e10f4ce81caa5315b763a0250d7673b93864a62f594449f43",
+    "validation": {
+      "duration": 0.792,
+      "peak": 18759
+    }
   },
   {
     "file": "sentence-33.mp3",
     "text": "bed",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bed&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "872355c9dfeab1fe1b47a7e308eba804268bfc92b1b697f11a8b1a5e9dd9d57c"
+    "sha256": "872355c9dfeab1fe1b47a7e308eba804268bfc92b1b697f11a8b1a5e9dd9d57c",
+    "validation": {
+      "duration": 0.72,
+      "peak": 13305
+    }
   },
   {
     "file": "sentence-34.mp3",
     "text": "Bob",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Bob&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "283f8c108aa2d69cc91b6b0f303c70cb41eda16cb212bde2621e95ee22d3f89e"
+    "sha256": "283f8c108aa2d69cc91b6b0f303c70cb41eda16cb212bde2621e95ee22d3f89e",
+    "validation": {
+      "duration": 0.816,
+      "peak": 21640
+    }
   },
   {
     "file": "sentence-35.mp3",
     "text": "cat",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cat&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fb98c66514e908ae32e701ef040ccf5295fd06fa553e586171713866d1d5c459"
+    "sha256": "fb98c66514e908ae32e701ef040ccf5295fd06fa553e586171713866d1d5c459",
+    "validation": {
+      "duration": 0.72,
+      "peak": 16762
+    }
   },
   {
     "file": "sentence-37.mp3",
     "text": "dog",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=dog&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a1a536ae869865db5844657964896c4b0c0fbbe051604d14279a860d0042051f"
+    "sha256": "a1a536ae869865db5844657964896c4b0c0fbbe051604d14279a860d0042051f",
+    "validation": {
+      "duration": 0.816,
+      "peak": 21074
+    }
   },
   {
     "file": "sentence-38.mp3",
     "text": "sad",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=sad&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "eb7be5a4b3549904d2d6735a17c78f01bd387b15c4402a3fc00c47ca5633725c"
+    "sha256": "eb7be5a4b3549904d2d6735a17c78f01bd387b15c4402a3fc00c47ca5633725c",
+    "validation": {
+      "duration": 0.912,
+      "peak": 15532
+    }
   },
   {
     "file": "sentence-39.mp3",
     "text": "bad",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bad&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f60734ced0c7b68bd9fad67013b9be9feae2991a963a0d2311d80edf28f74f18"
+    "sha256": "f60734ced0c7b68bd9fad67013b9be9feae2991a963a0d2311d80edf28f74f18",
+    "validation": {
+      "duration": 0.744,
+      "peak": 17084
+    }
   },
   {
     "file": "sentence-40.mp3",
     "text": "cab",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cab&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "cd87a44d593259fad3235ea3ca56c00b2c6e3eca402344e9548cefe0f602fd89"
+    "sha256": "cd87a44d593259fad3235ea3ca56c00b2c6e3eca402344e9548cefe0f602fd89",
+    "validation": {
+      "duration": 0.816,
+      "peak": 16350
+    }
   },
   {
     "file": "sentence-41.mp3",
     "text": "dad",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=dad&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1ed94835aaad8b0ca5fc897cb7f9017547ae72fa871ecebcdbd13f6fa967e184"
+    "sha256": "1ed94835aaad8b0ca5fc897cb7f9017547ae72fa871ecebcdbd13f6fa967e184",
+    "validation": {
+      "duration": 0.744,
+      "peak": 17196
+    }
+  },
+  {
+    "file": "key-05.mp3",
+    "text": "Oh no!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Oh+no%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d7653027dac7721a9240a0f79fc2769279cfd1c1366c27a0e1ad4554daaf9293",
+    "validation": {
+      "duration": 1.008,
+      "peak": 21546
+    }
+  },
+  {
+    "file": "key-06.mp3",
+    "text": "It's OK, Chen Jie.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+OK%2C+Chen+Jie.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "0aa428dab12483b2fa01792cfd7dcb485c1d69d31b16cb0ca7e8f54bfc03ba50",
+    "validation": {
+      "duration": 2.232,
+      "peak": 20725
+    }
   },
   {
     "file": "sentence-44.mp3",
     "text": "We can share.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+share.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "eaafc2aac872b61f69f01dceffd53580d5c32670371d5a92d662c183c5cccf6a"
+    "sha256": "eaafc2aac872b61f69f01dceffd53580d5c32670371d5a92d662c183c5cccf6a",
+    "validation": {
+      "duration": 1.272,
+      "peak": 15745
+    }
+  },
+  {
+    "file": "key-08.mp3",
+    "text": "Thanks, Sarah.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thanks%2C+Sarah.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "ffa846e606b024c17119df9d48ceda9b45716a06157e27a89a7630273cf136df",
+    "validation": {
+      "duration": 1.488,
+      "peak": 16288
+    }
+  },
+  {
+    "file": "key-07.mp3",
+    "text": "Hey, Sarah! We can share.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hey%2C+Sarah%21+We+can+share.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f3b19860ae78fbe1e8c24e94923567726f95b3acf98c4fae94bab1cbda84e972",
+    "validation": {
+      "duration": 2.544,
+      "peak": 15485
+    }
+  },
+  {
+    "file": "key-09.mp3",
+    "text": "Thank you, Chen Jie.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thank+you%2C+Chen+Jie.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "78647f645640423505f110a7b768e191f928a7024af4270206663d31f7d00c64",
+    "validation": {
+      "duration": 1.992,
+      "peak": 20745
+    }
   },
   {
     "file": "sentence-48.mp3",
     "text": "Thank you.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thank+you.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c5e8c7588f5825086bf46cc3823a8dc5fe877db2a87ac5942dbf2c623e25180e"
+    "sha256": "c5e8c7588f5825086bf46cc3823a8dc5fe877db2a87ac5942dbf2c623e25180e",
+    "validation": {
+      "duration": 0.888,
+      "peak": 21510
+    }
   },
   {
     "file": "sentence-49.mp3",
     "text": "It's OK.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It%27s+OK.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1f98ae930e2f967a16d84d8c333d764bcfd56f43f7a8736802f89f57331b5c47"
+    "sha256": "1f98ae930e2f967a16d84d8c333d764bcfd56f43f7a8736802f89f57331b5c47",
+    "validation": {
+      "duration": 1.08,
+      "peak": 21391
+    }
   },
   {
     "file": "sentence-50.mp3",
     "text": "I smile.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+smile.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "770e58cb6fe1cc428f0f316728bb5d82f93ac9972e41f2c9c7c458c446efaa6d"
+    "sha256": "770e58cb6fe1cc428f0f316728bb5d82f93ac9972e41f2c9c7c458c446efaa6d",
+    "validation": {
+      "duration": 1.104,
+      "peak": 18191
+    }
   },
   {
     "file": "sentence-51.mp3",
     "text": "I listen.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+listen.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9d1cb11a142adb9512df5a4d85085f28226473a07fa5dd0d3f05d5d6c633cfc6"
+    "sha256": "9d1cb11a142adb9512df5a4d85085f28226473a07fa5dd0d3f05d5d6c633cfc6",
+    "validation": {
+      "duration": 1.008,
+      "peak": 19313
+    }
   },
   {
     "file": "sentence-52.mp3",
     "text": "I help.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+help.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "192a4ee205a57e4c3971269ee99ef40f04cdc82e6c4b89bd8c0f7a34c0a84440"
+    "sha256": "192a4ee205a57e4c3971269ee99ef40f04cdc82e6c4b89bd8c0f7a34c0a84440",
+    "validation": {
+      "duration": 0.888,
+      "peak": 19535
+    }
   },
   {
     "file": "sentence-53.mp3",
     "text": "I share.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+share.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ec725d89453db94dbf22fd5ab4e7c32a970f07236ccc5bdf9a51263efeb2bf1c"
+    "sha256": "ec725d89453db94dbf22fd5ab4e7c32a970f07236ccc5bdf9a51263efeb2bf1c",
+    "validation": {
+      "duration": 1.032,
+      "peak": 20165
+    }
   },
   {
     "file": "sentence-54.mp3",
     "text": "Am I a good friend? Yes, I am!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Am+I+a+good+friend%3F+Yes%2C+I+am%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "238da9863604bc0b3a83fde1aa2aa2e85c7632c7316d4eae3f9efd050f954c41"
+    "sha256": "238da9863604bc0b3a83fde1aa2aa2e85c7632c7316d4eae3f9efd050f954c41",
+    "validation": {
+      "duration": 3.144,
+      "peak": 22516
+    }
   },
   {
     "file": "sentence-55.mp3",
     "text": "I listen and say \"Hi!\" I smile too.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+listen+and+say+%22Hi%21%22+I+smile+too.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "467e665896c1f0997daf5ea1504f59bc2375f706b1cbf6c99febfb2bbe290aae"
+    "sha256": "467e665896c1f0997daf5ea1504f59bc2375f706b1cbf6c99febfb2bbe290aae",
+    "validation": {
+      "duration": 3.552,
+      "peak": 20247
+    }
   },
   {
     "file": "sentence-56.mp3",
     "text": "I help and share. I play fair too.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+help+and+share.+I+play+fair+too.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c11e38cf0bd86bbe268aa6970b900bb7557442d28076a69cc4194775222dc9b6"
+    "sha256": "c11e38cf0bd86bbe268aa6970b900bb7557442d28076a69cc4194775222dc9b6",
+    "validation": {
+      "duration": 3.0,
+      "peak": 21816
+    }
   },
   {
-    "file": "sentence-57.mp3",
-    "text": "I say \"Hi!\" and \"Goodbye!\"",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+say+%22Hi%21%22+and+%22Goodbye%21%22&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2c773adca9191c738a369a5fedf217b71d28319261cd43b39e713e5a45d68a28"
-  },
-  {
-    "file": "sentence-59.mp3",
-    "text": "I share my toys.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+share+my+toys.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f546ee46410a0768d255552282a4bd88a6094aa086de51bad3c1fbef28036b54"
-  },
-  {
-    "file": "sentence-60.mp3",
-    "text": "I help my friends.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+help+my+friends.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2cd79ba99d5cee3ea2373d251a302eac92bd46c38e4a57bafc9cbea3eddbfc2e"
+    "file": "key-11.mp3",
+    "text": "I am nice to my friends.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+nice+to+my+friends.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b3904a67605062c9c7f4b7853d7a85a29edf77422b54dfd8885a23294dac5290",
+    "validation": {
+      "duration": 2.208,
+      "peak": 19485
+    }
   },
   {
     "file": "sentence-62.mp3",
     "text": "I am a good friend!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+a+good+friend%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f3f8a66f91b66f6ec6f1703873df5ba98c669473f816f444f1ff1ff40397cc15"
+    "sha256": "f3f8a66f91b66f6ec6f1703873df5ba98c669473f816f444f1ff1ff40397cc15",
+    "validation": {
+      "duration": 1.68,
+      "peak": 23574
+    }
   },
   {
     "file": "sentence-63.mp3",
     "text": "What do friends do?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+do+friends+do%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "51f94c439df4c3ad0234de3e58dd850aa587afa8790e2f82a63c27b6affb356a"
+    "sha256": "51f94c439df4c3ad0234de3e58dd850aa587afa8790e2f82a63c27b6affb356a",
+    "validation": {
+      "duration": 1.488,
+      "peak": 19876
+    }
   },
   {
     "file": "sentence-64.mp3",
     "text": "Smile.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Smile.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "209b13459d2ad6fa97e9646f1d8518b97fd28930c19165d3122d9edb318ba5f8"
-  },
-  {
-    "file": "sentence-65.mp3",
-    "text": "Be nice.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Be+nice.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "110d5754009433a96290a739c7fdffb38635c144e388da2af955a8512eb6c811"
+    "sha256": "209b13459d2ad6fa97e9646f1d8518b97fd28930c19165d3122d9edb318ba5f8",
+    "validation": {
+      "duration": 0.984,
+      "peak": 20710
+    }
   },
   {
     "file": "sentence-66.mp3",
     "text": "Listen.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Listen.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f95ef97cfffa55c6b1a295e4d37d05f6073837ab19d0dd2297134e08b8ae6328"
+    "sha256": "f95ef97cfffa55c6b1a295e4d37d05f6073837ab19d0dd2297134e08b8ae6328",
+    "validation": {
+      "duration": 0.864,
+      "peak": 21290
+    }
   },
   {
     "file": "sentence-67.mp3",
     "text": "Play together.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Play+together.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "80ba2a5051a2f3c6abb9b3a62a4292eca244f779ba35e0129ead386552653c20"
+    "sha256": "80ba2a5051a2f3c6abb9b3a62a4292eca244f779ba35e0129ead386552653c20",
+    "validation": {
+      "duration": 1.296,
+      "peak": 19431
+    }
   },
   {
     "file": "sentence-68.mp3",
     "text": "I say \"Hi!\"",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+say+%22Hi%21%22&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e787107340d312d5eac012205c7209b1be8ec53f04061e8b3fe2a365a7a7810f"
+    "sha256": "e787107340d312d5eac012205c7209b1be8ec53f04061e8b3fe2a365a7a7810f",
+    "validation": {
+      "duration": 1.368,
+      "peak": 21031
+    }
   },
   {
     "file": "sentence-69.mp3",
     "text": "Make friends",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Make+friends&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "48b8aea6dbeb1984f714d59676bb7ffd5f7aba893af71452d73f53d0de6136f3"
+    "sha256": "48b8aea6dbeb1984f714d59676bb7ffd5f7aba893af71452d73f53d0de6136f3",
+    "validation": {
+      "duration": 1.32,
+      "peak": 23081
+    }
   },
   {
     "file": "sentence-70.mp3",
     "text": "Friends listen.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Friends+listen.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "97579d64c8daf94bbcbec52c931bdde494b387fdbc6018ce52724301568f067e"
+    "sha256": "97579d64c8daf94bbcbec52c931bdde494b387fdbc6018ce52724301568f067e",
+    "validation": {
+      "duration": 1.296,
+      "peak": 19032
+    }
   },
   {
     "file": "sentence-71.mp3",
     "text": "Friends help and share ...",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Friends+help+and+share+...&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "89a8fe8ba73dc9fe781616142970b10c6e06ee578f0c784d8765b680696acef5"
+    "sha256": "89a8fe8ba73dc9fe781616142970b10c6e06ee578f0c784d8765b680696acef5",
+    "validation": {
+      "duration": 1.8,
+      "peak": 20130
+    }
   },
   {
     "file": "sentence-72.mp3",
     "text": "Zoom is my new friend.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Zoom+is+my+new+friend.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7f38357184279560486325030c3e7453489a32a50e1afa4564915509a5bd6617"
+    "sha256": "7f38357184279560486325030c3e7453489a32a50e1afa4564915509a5bd6617",
+    "validation": {
+      "duration": 1.992,
+      "peak": 21152
+    }
   },
   {
     "file": "sentence-73.mp3",
     "text": "Hi! I'm Zip.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%21+I%27m+Zip.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1bd979b584031610c95b7a5f3718fda4218dcac56c19e205b20ab9aed6a702f1"
+    "sha256": "1bd979b584031610c95b7a5f3718fda4218dcac56c19e205b20ab9aed6a702f1",
+    "validation": {
+      "duration": 1.584,
+      "peak": 19176
+    }
   },
   {
     "file": "sentence-74.mp3",
     "text": "Hi! My name is Zoom.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%21+My+name+is+Zoom.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "93dc43910af5ebd8719cc4b8b3a84c4b50ee1bd334629053e8c2e1e0afabe712"
+    "sha256": "93dc43910af5ebd8719cc4b8b3a84c4b50ee1bd334629053e8c2e1e0afabe712",
+    "validation": {
+      "duration": 2.16,
+      "peak": 19176
+    }
   },
   {
     "file": "sentence-75.mp3",
     "text": "Zoom is nice.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Zoom+is+nice.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3c9e3cf049bb77e493937dbfa0fcdccf1a9d84815a166b122651382ed00f886e"
+    "sha256": "3c9e3cf049bb77e493937dbfa0fcdccf1a9d84815a166b122651382ed00f886e",
+    "validation": {
+      "duration": 1.536,
+      "peak": 19552
+    }
   },
   {
     "file": "sentence-76.mp3",
     "text": "We share food.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+share+food.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "56da515f1c4899501daeaa9474cce6522b753d0046cbf77e780a7679dd7c4383"
+    "sha256": "56da515f1c4899501daeaa9474cce6522b753d0046cbf77e780a7679dd7c4383",
+    "validation": {
+      "duration": 1.368,
+      "peak": 16466
+    }
   },
   {
     "file": "sentence-77.mp3",
     "text": "We play together.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+play+together.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f684a188917b92d2b111bc4bff6fd35fb2189ad17df14c2e83c773e51dbe5493"
+    "sha256": "f684a188917b92d2b111bc4bff6fd35fb2189ad17df14c2e83c773e51dbe5493",
+    "validation": {
+      "duration": 1.512,
+      "peak": 19154
+    }
   },
   {
     "file": "sentence-78.mp3",
     "text": "We listen with care and help each other.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+listen+with+care+and+help+each+other.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3a4294cec1718d1cc547e8c4e10b836f631a261ba750b4d89f9a4f3fd3ee661c"
+    "sha256": "3a4294cec1718d1cc547e8c4e10b836f631a261ba750b4d89f9a4f3fd3ee661c",
+    "validation": {
+      "duration": 2.808,
+      "peak": 20910
+    }
   },
   {
     "file": "sentence-79.mp3",
     "text": "Ouch! My mouth!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Ouch%21+My+mouth%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "35da7171485b34700c1248aa73a1412bb13846a438674a12452c446e52cb582a"
+    "sha256": "35da7171485b34700c1248aa73a1412bb13846a438674a12452c446e52cb582a",
+    "validation": {
+      "duration": 1.92,
+      "peak": 20497
+    }
   },
   {
     "file": "sentence-80.mp3",
     "text": "Hold my hand.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hold+my+hand.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "77f92d07dabc617373181898aa95cbf59cc1eab0475561fad9de7f777ac8c9e1"
+    "sha256": "77f92d07dabc617373181898aa95cbf59cc1eab0475561fad9de7f777ac8c9e1",
+    "validation": {
+      "duration": 1.32,
+      "peak": 23491
+    }
   },
   {
     "file": "sentence-81.mp3",
     "text": "We are good friends now.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+are+good+friends+now.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "78351c1679fa09ea475c51514616f6cffa1d1b1fbed5f79f75000df497a25dc0"
+    "sha256": "78351c1679fa09ea475c51514616f6cffa1d1b1fbed5f79f75000df497a25dc0",
+    "validation": {
+      "duration": 1.944,
+      "peak": 21597
+    }
   },
   {
-    "file": "sentence-82.mp3",
-    "text": "Smile and say \"Hello!\" to make friends.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Smile+and+say+%22Hello%21%22+to+make+friends.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5e992cea6aadfd64f7eb3d35001e13b5b4e79b3838c49bd1c5625d5272fa5fb2"
+    "file": "edition-7e3db3567f84.mp3",
+    "text": "How do we make friends?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+do+we+make+friends%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "baed59bacb7de75d94e8a62e0643cc0d4a0dc12abd5b07c35bd9dd6bb9b7107e",
+    "validation": {
+      "duration": 1.944,
+      "peak": 23620
+    }
   },
   {
-    "file": "sentence-83.mp3",
-    "text": "Good friends share, help and listen with care.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Good+friends+share%2C+help+and+listen+with+care.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c16097be4e098e2d83c5d684982bbc4bcd1138666f7c723942d790c86aab96e0"
+    "file": "edition-1160a5ae1cde.mp3",
+    "text": "Nice to meet you!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Nice+to+meet+you%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "6f571f2ff8828688c6b7745196171ce689fab59ccda99f37463be7231014bb6e",
+    "validation": {
+      "duration": 1.392,
+      "peak": 18754
+    }
+  },
+  {
+    "file": "edition-be42026570b0.mp3",
+    "text": "How do we greet friends?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+do+we+greet+friends%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "ce7a482fa868636b8b3b3607325a63401b773d0ab67943036bf6b2a610ea1680",
+    "validation": {
+      "duration": 2.016,
+      "peak": 24206
+    }
+  },
+  {
+    "file": "edition-d9d8cea0c642.mp3",
+    "text": "Hello! My name is Sarah.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%21+My+name+is+Sarah.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5963443cb98b0cf6e2739506d36e45a3eb4933ce3bc654f8739d091f39e6bd9e",
+    "validation": {
+      "duration": 2.304,
+      "peak": 19917
+    }
+  },
+  {
+    "file": "edition-989132989425.mp3",
+    "text": "Hi! I'm John.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%21+I%27m+John.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "2fdf8f44001b24af656df70271d4dc7de1a726eea05b541aaa5454957be89b4c",
+    "validation": {
+      "duration": 1.68,
+      "peak": 19210
+    }
+  },
+  {
+    "file": "edition-38c117620abc.mp3",
+    "text": "How can we be a good friend?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+can+we+be+a+good+friend%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3eebad47bff6c82d7ade2ec76f4970c34c5da84b5fd5e013680cf7503d253748",
+    "validation": {
+      "duration": 2.064,
+      "peak": 23856
+    }
+  },
+  {
+    "file": "edition-7c2fe477a037.mp3",
+    "text": "I say \"Bye!\"",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+say+%22Bye%21%22&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "49ba74e063c6a7872816773dfb7ed88bf54dce2ee671a9f7eda0b1b5f34fb390",
+    "validation": {
+      "duration": 1.32,
+      "peak": 23878
+    }
+  },
+  {
+    "file": "edition-0c9e1b1fd5f1.mp3",
+    "text": "Thanks, Sarah. / Thank you, Chen Jie.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Thanks%2C+Sarah.+%2F+Thank+you%2C+Chen+Jie.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "86ee6ff7c6ebf64eeaf614f67dda4376e3504c20193ac7e303b8dcfbb6174fb1",
+    "validation": {
+      "duration": 3.408,
+      "peak": 21432
+    }
+  },
+  {
+    "file": "edition-7aee2058cfdd.mp3",
+    "text": "Nice to meet you. Nice to meet you.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Nice+to+meet+you.+Nice+to+meet+you.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "16b029b54b3331a29b011a54e6b5a8f4f6eba3533888fed368c9492d185f2393",
+    "validation": {
+      "duration": 2.664,
+      "peak": 17573
+    }
+  },
+  {
+    "file": "edition-a182110dd98a.mp3",
+    "text": "Nice to meet you, my new friend.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Nice+to+meet+you%2C+my+new+friend.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "37ffb1fd50b6d6afce6035ed1a6cd4ea04e8546fff21d89638d061edb0beaaeb",
+    "validation": {
+      "duration": 2.616,
+      "peak": 19887
+    }
+  },
+  {
+    "file": "edition-fd5dad910092.mp3",
+    "text": "I am happy. Smile and say \"Hi!\"",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+happy.+Smile+and+say+%22Hi%21%22&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9888a5da9e989f7e676df428b05c0b9cd4158e9e05614aac96489a65622445d3",
+    "validation": {
+      "duration": 3.216,
+      "peak": 22480
+    }
+  },
+  {
+    "file": "edition-b50456a42c69.mp3",
+    "text": "Shake my hand. Let's play a game now.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Shake+my+hand.+Let%27s+play+a+game+now.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d9d00e3639a693bc2cd04723efc697c0325f3fe249f30c8873122e9f91b89c10",
+    "validation": {
+      "duration": 3.168,
+      "peak": 19415
+    }
   }
 ]

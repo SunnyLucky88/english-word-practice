@@ -105,30 +105,6 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "and",
-      "zh": "和；与",
-      "ipa": "/ənd, ænd/",
-      "page": 9,
-      "file": "and.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "goodbye",
-      "zh": "再见",
-      "ipa": "/ˌɡʊdˈbaɪ/",
-      "page": 9,
-      "file": "goodbye.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "toy",
-      "zh": "玩具",
-      "ipa": "/tɔɪ/",
-      "page": 9,
-      "file": "toy.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "friend",
       "zh": "朋友",
       "ipa": "/frend/",
@@ -176,7 +152,7 @@
     },
     {
       "en": "Nice to meet you.",
-      "zh": "很高兴认识你。",
+      "zh": "见到你很高兴。",
       "page": 3,
       "file": "sentence-05.mp3",
       "practice": true
@@ -204,44 +180,9 @@
     },
     {
       "en": "Nice to meet you too.",
-      "zh": "我也很高兴认识你。",
+      "zh": "见到你（我）也很高兴。",
       "page": 4,
       "file": "sentence-09.mp3",
-      "practice": true
-    },
-    {
-      "en": "Hello there!",
-      "zh": "你好呀！",
-      "page": 4,
-      "file": "sentence-10.mp3",
-      "practice": true
-    },
-    {
-      "en": "Let's be friends.",
-      "zh": "我们做朋友吧。",
-      "page": 4,
-      "file": "sentence-11.mp3",
-      "practice": true
-    },
-    {
-      "en": "My name is Sarah.",
-      "zh": "我叫萨拉。",
-      "page": 4,
-      "file": "sentence-12.mp3",
-      "practice": true
-    },
-    {
-      "en": "Let's shake hands.",
-      "zh": "我们握握手吧。",
-      "page": 4,
-      "file": "sentence-13.mp3",
-      "practice": true
-    },
-    {
-      "en": "I am John.",
-      "zh": "我是约翰。",
-      "page": 4,
-      "file": "sentence-14.mp3",
       "practice": true
     },
     {
@@ -295,35 +236,35 @@
     },
     {
       "en": "John Baker",
-      "zh": "约翰·贝克",
+      "zh": "约翰·贝克（人名）",
       "page": 4,
       "file": "sentence-22.mp3",
       "practice": false
     },
     {
       "en": "Wu Binbin",
-      "zh": "吴斌斌",
+      "zh": "吴斌斌（人名）",
       "page": 4,
       "file": "sentence-23.mp3",
       "practice": false
     },
     {
       "en": "Chen Jie",
-      "zh": "陈杰",
+      "zh": "陈杰（人名）",
       "page": 4,
       "file": "sentence-24.mp3",
       "practice": false
     },
     {
       "en": "Sarah Miller",
-      "zh": "萨拉·米勒",
+      "zh": "萨拉·米勒（人名）",
       "page": 4,
       "file": "sentence-25.mp3",
       "practice": false
     },
     {
       "en": "Mike Black",
-      "zh": "迈克·布莱克",
+      "zh": "迈克·布莱克（人名）",
       "page": 4,
       "file": "sentence-26.mp3",
       "practice": false
@@ -397,14 +338,6 @@
       "zh": "猫（字母例词）",
       "page": 6,
       "file": "sentence-35.mp3",
-      "practice": false,
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "can",
-      "zh": "罐；罐头盒（字母例词）",
-      "page": 6,
-      "file": "can.mp3",
       "practice": false,
       "audioSource": "Google Translate"
     },
@@ -569,38 +502,6 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "I say \"Hi!\" and \"Goodbye!\"",
-      "zh": "我说“嗨！”和“再见！”。",
-      "page": 9,
-      "file": "sentence-57.mp3",
-      "practice": true,
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "I listen with care.",
-      "zh": "我认真倾听。",
-      "page": 9,
-      "file": "key-10.mp3",
-      "practice": true,
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "I share my toys.",
-      "zh": "我分享我的玩具。",
-      "page": 9,
-      "file": "sentence-59.mp3",
-      "practice": true,
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "I help my friends.",
-      "zh": "我帮助我的朋友们。",
-      "page": 9,
-      "file": "sentence-60.mp3",
-      "practice": true,
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "I am nice to my friends.",
       "zh": "我对我的朋友们很好。",
       "page": 9,
@@ -629,14 +530,6 @@
       "zh": "微笑。",
       "page": 10,
       "file": "sentence-64.mp3",
-      "practice": true,
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "Be nice.",
-      "zh": "友好待人。",
-      "page": 10,
-      "file": "sentence-65.mp3",
       "practice": true,
       "audioSource": "Google Translate"
     },
@@ -738,7 +631,7 @@
     },
     {
       "en": "We listen with care and help each other.",
-      "zh": "我们认真倾听，并互相帮助。",
+      "zh": "我们认真倾听并相互帮助。",
       "page": 13,
       "file": "sentence-78.mp3",
       "practice": true,
@@ -754,7 +647,7 @@
     },
     {
       "en": "Hold my hand.",
-      "zh": "抓住我的手。",
+      "zh": "拉住我的手。",
       "page": 13,
       "file": "sentence-80.mp3",
       "practice": true,
@@ -762,106 +655,130 @@
     },
     {
       "en": "We are good friends now.",
-      "zh": "我们现在是好朋友了。",
+      "zh": "现在我们是好朋友了。",
       "page": 13,
       "file": "sentence-81.mp3",
       "practice": true,
       "audioSource": "Google Translate"
     },
     {
-      "en": "Smile and say \"Hello!\" to make friends.",
-      "zh": "微笑着说“你好！”来交朋友。",
-      "page": 13,
-      "file": "sentence-82.mp3",
+      "en": "How do we make friends?",
+      "zh": "我们怎样交朋友？",
+      "page": 2,
+      "file": "edition-7e3db3567f84.mp3",
       "practice": true,
       "audioSource": "Google Translate"
     },
     {
-      "en": "Good friends share, help and listen with care.",
-      "zh": "好朋友分享、帮助并认真倾听。",
-      "page": 13,
-      "file": "sentence-83.mp3",
+      "en": "Nice to meet you!",
+      "zh": "见到你很高兴！",
+      "page": 3,
+      "file": "edition-1160a5ae1cde.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "How do we greet friends?",
+      "zh": "我们怎样问候朋友？",
+      "page": 4,
+      "file": "edition-be42026570b0.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Hello! My name is Sarah.",
+      "zh": "你好！我的名字叫萨拉。",
+      "page": 4,
+      "file": "edition-d9d8cea0c642.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Hi! I'm John.",
+      "zh": "嗨！我是约翰。",
+      "page": 4,
+      "file": "edition-989132989425.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "How can we be a good friend?",
+      "zh": "我们怎样成为一个好朋友？",
+      "page": 7,
+      "file": "edition-38c117620abc.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I say \"Bye!\"",
+      "zh": "我说“再见！”。",
+      "page": 10,
+      "file": "edition-7c2fe477a037.mp3",
       "practice": true,
       "audioSource": "Google Translate"
     }
   ],
   "groups": [
     {
-      "title": "导入思考",
-      "note": "第 3 页 · 思考问题",
+      "title": "第 2 页 · 课文与点读",
+      "note": "第 2 页 · 用户确认版PDF",
       "clips": [
-        1,
-        2
+        71
       ]
     },
     {
-      "title": "见面问候歌谣",
-      "note": "第 3 页 · 谷歌翻译原速 朗读版",
+      "title": "第 3 页 · 课文与点读",
+      "note": "第 3 页 · 用户确认版PDF",
       "clips": [
+        1,
+        2,
         3,
         4,
         5,
-        6
+        6,
+        72
       ]
     },
     {
-      "title": "A · 认识新朋友",
-      "note": "第 4 页 · 人物对话",
+      "title": "第 4 页 · 课文与点读",
+      "note": "第 4 页 · 用户确认版PDF",
       "clips": [
+        73,
         7,
         8,
         5,
-        9
+        9,
+        74,
+        75,
+        17,
+        18,
+        20,
+        19,
+        21
       ]
     },
     {
-      "title": "交朋友的歌曲文字",
-      "note": "第 4 页 · 按课本顺序朗读，无伴奏",
+      "title": "第 5 页 · 课文与点读",
+      "note": "第 5 页 · 用户确认版PDF",
       "clips": [
         10,
         11,
         12,
         13,
-        5,
         14,
-        3,
-        3
-      ]
-    },
-    {
-      "title": "认识人物姓名",
-      "note": "第 4 页 · 可点读，不放入中文回想练习",
-      "clips": [
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "title": "介绍自己",
-      "note": "第 5 页 · 自我介绍",
-      "clips": [
         15,
         16
       ]
     },
     {
-      "title": "听一听，做一做",
-      "note": "第 5 页 · 动作表达",
+      "title": "第 6 页 · 课文与点读",
+      "note": "第 6 页 · 用户确认版PDF",
       "clips": [
-        17,
-        18,
-        19,
-        20,
-        21
-      ]
-    },
-    {
-      "title": "字母 A—D 与例词",
-      "note": "第 6 页 · 字母名称与完整例词；不放入单词或中文回想题池",
-      "clips": [
+        22,
+        23,
+        24,
+        25,
+        26,
         27,
         28,
         29,
@@ -871,30 +788,67 @@
         33,
         34,
         35,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "第 7 页 · 课文与点读",
+      "note": "第 7 页 · 用户确认版PDF",
+      "clips": [
+        76,
         36,
         37,
         38,
         39,
         40,
-        41
-      ]
-    },
-    {
-      "title": "书写字母复读",
-      "note": "第 6 页 · 字母名称，非独立音素",
-      "clips": [
-        27,
-        28,
-        29,
-        30
-      ]
-    },
-    {
-      "title": "B · 分享与感谢",
-      "note": "第 7 页 · 完整对话；沿用已确认的谷歌原速音频",
-      "clips": [
+        41,
+        38,
         42,
-        43,
+        5,
+        9,
+        36,
+        43
+      ]
+    },
+    {
+      "title": "第 8 页 · 课文与点读",
+      "note": "第 8 页 · 用户确认版PDF",
+      "clips": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        48,
+        50
+      ]
+    },
+    {
+      "title": "第 9 页 · 课文与点读",
+      "note": "第 9 页 · 用户确认版PDF",
+      "clips": [
+        57,
+        45,
+        47,
+        46,
+        51,
+        52
+      ]
+    },
+    {
+      "title": "第 10 页 · 课文与点读",
+      "note": "第 10 页 · 用户确认版PDF",
+      "clips": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        77,
         44,
         45,
         46,
@@ -902,106 +856,48 @@
       ]
     },
     {
-      "title": "问答配对表达",
-      "note": "第 7 页 · 按课本每组先上后下的顺序朗读，不代做配对",
+      "title": "第 11 页 · 课文与点读",
+      "note": "第 11 页 · 用户确认版PDF",
       "clips": [
-        44,
-        48,
-        5,
-        9,
-        42,
-        49
-      ]
-    },
-    {
-      "title": "四个交友行动",
-      "note": "第 8 页 · 微笑、倾听、帮助、分享",
-      "clips": [
-        50,
-        51,
-        52,
-        53
-      ]
-    },
-    {
-      "title": "好朋友歌谣",
-      "note": "第 8 页 · 谷歌原速朗读，非演唱；保留重复句",
-      "clips": [
-        54,
-        55,
-        54,
-        56
-      ]
-    },
-    {
-      "title": "阅读海报 · 我是好朋友",
-      "note": "第 9 页 · 逐句点读；右侧跨行主题句只读一次",
-      "clips": [
-        57,
         58,
         59,
-        60,
-        61,
-        62
+        60
       ]
     },
     {
-      "title": "项目活动 · 朋友会做什么",
-      "note": "第 10 页 · 人物回答与表达示例，保留重复出现",
+      "title": "第 12 页 · 课文与点读",
+      "note": "第 12 页 · 用户确认版PDF",
       "clips": [
+        61,
+        62,
         63,
+        5,
+        9,
         64,
-        65,
+        65
+      ]
+    },
+    {
+      "title": "第 13 页 · 课文与点读",
+      "note": "第 13 页 · 用户确认版PDF",
+      "clips": [
         66,
         67,
         68,
-        50,
-        51,
-        52,
-        53,
-        61
-      ]
-    },
-    {
-      "title": "分享交友思维导图",
-      "note": "第 11 页 · 主题与人物示例；不替孩子填写空白内容",
-      "clips": [
         69,
-        70,
-        71
-      ]
-    },
-    {
-      "title": "阅读故事 · 新朋友",
-      "note": "第 12 页 · 叙述和对话按原页顺序跟读",
-      "clips": [
-        72,
-        73,
-        74,
-        5,
-        9,
-        75,
-        76
-      ]
-    },
-    {
-      "title": "阅读故事 · 成为好朋友",
-      "note": "第 13 页 · 故事结尾及交友总结",
-      "clips": [
-        77,
-        78,
-        79,
-        80,
-        81,
-        82,
-        83
+        70
       ]
     }
   ],
   "wordSource": {
-    "page": 83,
-    "section": "Words in each unit · Unit 1",
-    "url": "https://www.sohu.com/a/904139600_121290829"
+    "title": "用户于2026-10-25确认的实物匹配PDF · Words in each unit",
+    "pages": [
+      83,
+      84,
+      85
+    ],
+    "isbn": "978-7-107-38250-5",
+    "pdfSha256": "025d9882c7b3078dfda1321be3c0bd84acf1f34964edc3cba53f90ecc13b90a6"
   },
   "expressions": [
     {
@@ -1030,7 +926,7 @@
     },
     {
       "en": "Nice to meet you too.",
-      "zh": "见到你我也很高兴。",
+      "zh": "见到你（我）也很高兴。",
       "page": 89,
       "id": "unit1-key-04",
       "file": "sentence-09.mp3",
@@ -1061,34 +957,18 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "Thanks, Sarah.",
-      "zh": "谢谢，萨拉。",
+      "en": "Thanks, Sarah. / Thank you, Chen Jie.",
+      "zh": "谢谢，萨拉。/ 谢谢你，陈杰。",
       "page": 89,
       "id": "unit1-key-08",
-      "file": "key-08.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "Thank you, Chen Jie.",
-      "zh": "谢谢你，陈杰。",
-      "page": 89,
-      "id": "unit1-key-09",
-      "file": "key-09.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "I listen with care.",
-      "zh": "我认真倾听。",
-      "page": 89,
-      "id": "unit1-key-10",
-      "file": "key-10.mp3",
+      "file": "edition-0c9e1b1fd5f1.mp3",
       "audioSource": "Google Translate"
     },
     {
       "en": "I am nice to my friends.",
       "zh": "我对我的朋友们很好。",
       "page": 89,
-      "id": "unit1-key-11",
+      "id": "unit1-key-09",
       "file": "key-11.mp3",
       "audioSource": "Google Translate"
     }
@@ -1101,9 +981,82 @@
       "pages": [
         78
       ],
-      "lyricsStatus": "awaiting-user-pages",
-      "lines": []
+      "lyricsStatus": "complete",
+      "lines": [
+        {
+          "en": "Nice to meet you. Nice to meet you.",
+          "zh": "见到你很高兴。见到你很高兴。",
+          "page": 78,
+          "file": "edition-7aee2058cfdd.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Nice to meet you, my new friend.",
+          "zh": "见到你很高兴，我的新朋友。",
+          "page": 78,
+          "file": "edition-a182110dd98a.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "I am happy. Smile and say \"Hi!\"",
+          "zh": "我很开心。微笑着说“嗨！”。",
+          "page": 78,
+          "file": "edition-fd5dad910092.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Nice to meet you, my new friend.",
+          "zh": "见到你很高兴，我的新朋友。",
+          "page": 78,
+          "file": "edition-a182110dd98a.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Nice to meet you. Nice to meet you.",
+          "zh": "见到你很高兴。见到你很高兴。",
+          "page": 78,
+          "file": "edition-7aee2058cfdd.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Nice to meet you, my new friend.",
+          "zh": "见到你很高兴，我的新朋友。",
+          "page": 78,
+          "file": "edition-a182110dd98a.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Shake my hand. Let's play a game now.",
+          "zh": "握握我的手。现在我们一起玩游戏吧。",
+          "page": 78,
+          "file": "edition-b50456a42c69.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Nice to meet you, my new friend.",
+          "zh": "见到你很高兴，我的新朋友。",
+          "page": 78,
+          "file": "edition-a182110dd98a.mp3",
+          "audioSource": "Google Translate"
+        }
+      ],
+      "source": "用户确认版PDF · Appendix 1 Songs",
+      "audioNote": "谷歌原速合成朗读，非演唱或教材原声"
     }
   ],
-  "unit": 1
+  "unit": 1,
+  "textbookSource": {
+    "title": "人教版英语三年级上册（用户确认实物匹配版本）",
+    "isbn": "978-7-107-38250-5",
+    "physicalEdition": "2024年7月第1版",
+    "physicalPrinting": "2026年7月第3次印刷",
+    "confirmedByUser": "2026-10-25",
+    "digitalPrinting": "电子版未列出印次，不声称与实物同一印次",
+    "sha256": "025d9882c7b3078dfda1321be3c0bd84acf1f34964edc3cba53f90ecc13b90a6",
+    "pdfPages": 100,
+    "printedPageToPdfPageOffset": 6,
+    "sourceListing": "https://github.com/siknet/FreePEP/blob/main/piclist.md",
+    "officialReader": "https://book.pep.com.cn/1212001301245/mobile/index.html",
+    "verification": "封底ISBN相同；印刷页21的正文、插图与练习匹配用户实物照片；用户确认以此PDF重做。"
+  }
 }

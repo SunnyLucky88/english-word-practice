@@ -1138,5 +1138,116 @@
   "right": {
     "zh": "对。",
     "kind": "word"
+  },
+  "and": {
+    "zh": "和；与",
+    "kind": "word"
+  },
+  "greet": {
+    "zh": "问候；打招呼",
+    "kind": "word"
+  },
+  "mummy": {
+    "zh": "（口语）妈妈",
+    "kind": "word"
+  },
+  "elephants": {
+    "zh": "大象（复数）",
+    "kind": "form",
+    "base": "elephant"
+  },
+  "lot": {
+    "zh": "很多；大量（a lot 表示“很多”）",
+    "kind": "word"
+  },
+  "pandas": {
+    "zh": "大熊猫（复数）",
+    "kind": "form",
+    "base": "panda"
+  },
+  "says": {
+    "zh": "说；发出叫声（say 的第三人称单数形式）",
+    "kind": "form",
+    "base": "say"
+  },
+  "woof": {
+    "zh": "汪（狗的叫声）",
+    "kind": "word"
+  },
+  "meow": {
+    "zh": "喵（猫的叫声）",
+    "kind": "word"
+  },
+  "watch": {
+    "zh": "看；注视",
+    "kind": "word"
+  },
+  "top": {
+    "zh": "顶部；顶端",
+    "kind": "word"
+  },
+  "of": {
+    "zh": "……的",
+    "kind": "word"
+  },
+  "hill": {
+    "zh": "小山；山丘",
+    "kind": "word"
+  },
+  "roar": {
+    "zh": "吼叫；咆哮",
+    "kind": "word"
+  },
+  "growl": {
+    "zh": "低吼",
+    "kind": "word"
+  },
+  "alright": {
+    "zh": "好好地；顺利地",
+    "kind": "word"
+  },
+  "much": {
+    "zh": "很多；大量",
+    "kind": "word"
+  },
+  "rainbow": {
+    "zh": "彩虹",
+    "kind": "word"
+  },
+  "mean": {
+    "zh": "表示；意思是",
+    "kind": "word"
+  },
+  "stop": {
+    "zh": "停止",
+    "kind": "word"
+  },
+  "wait": {
+    "zh": "等待",
+    "kind": "word"
+  },
+  "show": {
+    "zh": "表示；展示",
+    "kind": "word"
+  },
+  "count": {
+    "zh": "数数；计数",
+    "kind": "word"
+  },
+  "back": {
+    "zh": "往回；反向",
+    "kind": "word"
+  },
+  "out": {
+    "zh": "（help ... out）帮助……摆脱困难",
+    "kind": "word"
+  },
+  "sort": {
+    "zh": "分类；整理",
+    "kind": "word"
+  },
+  "solve": {
+    "zh": "解决（问题）",
+    "kind": "word"
   }
 }

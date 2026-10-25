@@ -3,570 +3,1040 @@
     "file": "mum.mp3",
     "text": "mum",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=mum&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1adbfa3c17c969e0847defea5437ff30b024bd517ec761e6c9ad81d8013bb2d7"
+    "sha256": "1adbfa3c17c969e0847defea5437ff30b024bd517ec761e6c9ad81d8013bb2d7",
+    "validation": {
+      "duration": 0.816,
+      "peak": 16198
+    }
   },
   {
     "file": "dad.mp3",
     "text": "dad",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=dad&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1ed94835aaad8b0ca5fc897cb7f9017547ae72fa871ecebcdbd13f6fa967e184"
+    "sha256": "1ed94835aaad8b0ca5fc897cb7f9017547ae72fa871ecebcdbd13f6fa967e184",
+    "validation": {
+      "duration": 0.744,
+      "peak": 17196
+    }
   },
   {
     "file": "grandma.mp3",
     "text": "grandma",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=grandma&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "044f625f13fc40f796bc109849ded41273ebb67e2a08fa6a3ff8b7d589c7ef18"
+    "sha256": "044f625f13fc40f796bc109849ded41273ebb67e2a08fa6a3ff8b7d589c7ef18",
+    "validation": {
+      "duration": 0.96,
+      "peak": 15891
+    }
   },
   {
     "file": "grandpa.mp3",
     "text": "grandpa",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=grandpa&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9f23624b08aec0ef0d2bb974266ecc329c26d78216842334e6d9752bcef6da9c"
+    "sha256": "9f23624b08aec0ef0d2bb974266ecc329c26d78216842334e6d9752bcef6da9c",
+    "validation": {
+      "duration": 0.96,
+      "peak": 16195
+    }
   },
   {
     "file": "grandfather.mp3",
     "text": "grandfather",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=grandfather&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "69ad74fa893290f9179ae9cd0bfe537812917ecdf1c85756bc1491ad5eeff6b2"
+    "sha256": "69ad74fa893290f9179ae9cd0bfe537812917ecdf1c85756bc1491ad5eeff6b2",
+    "validation": {
+      "duration": 1.224,
+      "peak": 16196
+    }
   },
   {
     "file": "grandmother.mp3",
     "text": "grandmother",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=grandmother&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2d194c68ad9bb454d72ea3eaf971e77520aa73cc6e87ae54ca52944e645a23e5"
+    "sha256": "2d194c68ad9bb454d72ea3eaf971e77520aa73cc6e87ae54ca52944e645a23e5",
+    "validation": {
+      "duration": 1.128,
+      "peak": 16009
+    }
   },
   {
     "file": "mother.mp3",
     "text": "mother",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=mother&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ad8f3e79d0859928f869fe62d145ed40e401a4518fbffcd75441a091380b3db4"
+    "sha256": "ad8f3e79d0859928f869fe62d145ed40e401a4518fbffcd75441a091380b3db4",
+    "validation": {
+      "duration": 0.888,
+      "peak": 19890
+    }
   },
   {
     "file": "father.mp3",
     "text": "father",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=father&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8c7699ffd9754675183a87bda6fbf45b85ed0bab2c6736a87f1a1417bcba0615"
+    "sha256": "8c7699ffd9754675183a87bda6fbf45b85ed0bab2c6736a87f1a1417bcba0615",
+    "validation": {
+      "duration": 0.96,
+      "peak": 18201
+    }
   },
   {
     "file": "me.mp3",
     "text": "me",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=me&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "69d8a534ec72a0b215ab479165076a54e47db036567fd025f1808fd8c0117476"
+    "sha256": "69d8a534ec72a0b215ab479165076a54e47db036567fd025f1808fd8c0117476",
+    "validation": {
+      "duration": 0.744,
+      "peak": 15968
+    }
   },
   {
     "file": "sister.mp3",
     "text": "sister",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=sister&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8c2edf417b17aed73b614c6277b5f1eabf3842b87f5b3e561e1b085a6bb7d111"
+    "sha256": "8c2edf417b17aed73b614c6277b5f1eabf3842b87f5b3e561e1b085a6bb7d111",
+    "validation": {
+      "duration": 1.056,
+      "peak": 18642
+    }
   },
   {
     "file": "family.mp3",
     "text": "family",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=family&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "bf214515ea76cfddbdacd16f5ac2290fe710ba5694f815c6ab57f4bbc753f663"
+    "sha256": "bf214515ea76cfddbdacd16f5ac2290fe710ba5694f815c6ab57f4bbc753f663",
+    "validation": {
+      "duration": 0.96,
+      "peak": 13620
+    }
   },
   {
     "file": "have.mp3",
     "text": "have",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=have&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a295e579f3c93cb4ae01a3a71323b30ff87bb5ae9c54edb8231c2f91692a1ac1"
+    "sha256": "a295e579f3c93cb4ae01a3a71323b30ff87bb5ae9c54edb8231c2f91692a1ac1",
+    "validation": {
+      "duration": 0.792,
+      "peak": 15602
+    }
   },
   {
     "file": "big.mp3",
     "text": "big",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=big&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "34b0feec9a43498c9c64c1b721d70d9b8ae82aa54bda8f7235e2110f2fa92bd1"
+    "sha256": "34b0feec9a43498c9c64c1b721d70d9b8ae82aa54bda8f7235e2110f2fa92bd1",
+    "validation": {
+      "duration": 0.744,
+      "peak": 14314
+    }
   },
   {
     "file": "cousin.mp3",
     "text": "cousin",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cousin&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f0f6552fdd655c789b775cab01760c3cc0c2f29d2447e02f339708f542eb98f2"
+    "sha256": "f0f6552fdd655c789b775cab01760c3cc0c2f29d2447e02f339708f542eb98f2",
+    "validation": {
+      "duration": 0.888,
+      "peak": 20092
+    }
   },
   {
     "file": "brother.mp3",
     "text": "brother",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=brother&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "83f75a41d4e33959430045aee4cbe22b60f8c3a90ff887b2fcfada764c0bffd9"
+    "sha256": "83f75a41d4e33959430045aee4cbe22b60f8c3a90ff887b2fcfada764c0bffd9",
+    "validation": {
+      "duration": 0.888,
+      "peak": 16595
+    }
   },
   {
     "file": "baby.mp3",
     "text": "baby",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=baby&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2d49da5fe993fe7bcea0b2d2630dd8453b2e7e67ef1df54f4c5ab48759442586"
+    "sha256": "2d49da5fe993fe7bcea0b2d2630dd8453b2e7e67ef1df54f4c5ab48759442586",
+    "validation": {
+      "duration": 0.864,
+      "peak": 17677
+    }
   },
   {
     "file": "uncle.mp3",
     "text": "uncle",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=uncle&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "244c981031f61f625f2545e66f5905b33bd8a963bbd2705fb381b476962405d2"
+    "sha256": "244c981031f61f625f2545e66f5905b33bd8a963bbd2705fb381b476962405d2",
+    "validation": {
+      "duration": 0.84,
+      "peak": 16224
+    }
   },
   {
     "file": "aunt.mp3",
     "text": "aunt",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=aunt&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "cdc3130318c4af27c5212bf5e5dae596ea1c57771dea920afb9904f1a10e8eb5"
-  },
-  {
-    "file": "some.mp3",
-    "text": "some",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=some&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c25685f87316b491feba672c4ca3144c0c66890b29f28980ef61f6494bea2e5c"
+    "sha256": "cdc3130318c4af27c5212bf5e5dae596ea1c57771dea920afb9904f1a10e8eb5",
+    "validation": {
+      "duration": 0.72,
+      "peak": 11365
+    }
   },
   {
     "file": "small.mp3",
     "text": "small",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=small&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "120082228243e74d8d05691a2f76ec0229c7bc5172380845eb9b1649893ebbdf"
+    "sha256": "120082228243e74d8d05691a2f76ec0229c7bc5172380845eb9b1649893ebbdf",
+    "validation": {
+      "duration": 0.936,
+      "peak": 16767
+    }
   },
   {
     "file": "sentence-01.mp3",
     "text": "This is my grandma.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This%20is%20my%20grandma.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4e1e421abf1ea0f34337f1b1ecbb81731d9c0d6f03b3a6ff5abf89c413a1eb20"
+    "sha256": "4e1e421abf1ea0f34337f1b1ecbb81731d9c0d6f03b3a6ff5abf89c413a1eb20",
+    "validation": {
+      "duration": 1.608,
+      "peak": 27273
+    }
   },
   {
     "file": "sentence-02.mp3",
     "text": "This is my grandpa.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This%20is%20my%20grandpa.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1a408610a298d134b0309f72cbcdd7196ebf8125fd09fedf706f472a3b0950d3"
+    "sha256": "1a408610a298d134b0309f72cbcdd7196ebf8125fd09fedf706f472a3b0950d3",
+    "validation": {
+      "duration": 1.632,
+      "peak": 27155
+    }
   },
   {
     "file": "sentence-03.mp3",
     "text": "Nice to meet you.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Nice%20to%20meet%20you.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2620e2eaa2f38a2219ffbc277a208aea9ca1aa0b1a7c4b394f2ab6ffd9f6bdc7"
+    "sha256": "2620e2eaa2f38a2219ffbc277a208aea9ca1aa0b1a7c4b394f2ab6ffd9f6bdc7",
+    "validation": {
+      "duration": 1.368,
+      "peak": 17568
+    }
   },
   {
     "file": "sentence-04.mp3",
     "text": "This is my family.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This%20is%20my%20family.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fae6491a5cd27babf8cd623196802f043549207da1180f67ef5a123da3659379"
-  },
-  {
-    "file": "sentence-05.mp3",
-    "text": "You have a big family.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=You%20have%20a%20big%20family.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d50e3aa14a32093a41906c2ace0194bb20b63a33ebd5bb9a7b59bd1699e0b788"
+    "sha256": "fae6491a5cd27babf8cd623196802f043549207da1180f67ef5a123da3659379",
+    "validation": {
+      "duration": 1.632,
+      "peak": 27338
+    }
   },
   {
     "file": "sentence-06.mp3",
     "text": "Is this your sister?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Is%20this%20your%20sister%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b2d6987f815224f935359e310fd5bec323ad37c93acc42487ae5c479a80e02e0"
+    "sha256": "b2d6987f815224f935359e310fd5bec323ad37c93acc42487ae5c479a80e02e0",
+    "validation": {
+      "duration": 1.56,
+      "peak": 19765
+    }
   },
   {
     "file": "sentence-07.mp3",
     "text": "No, it's my cousin.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=No%2C%20it%27s%20my%20cousin.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c64095201d16a9381fc8b75678e3c6057ccbe79ba77a236d0c1ce3d1474a6d7b"
+    "sha256": "c64095201d16a9381fc8b75678e3c6057ccbe79ba77a236d0c1ce3d1474a6d7b",
+    "validation": {
+      "duration": 1.992,
+      "peak": 19647
+    }
   },
   {
     "file": "sentence-08.mp3",
     "text": "Is that your brother?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Is%20that%20your%20brother%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5e90aeb99633265b49a978ad2d29d2cd046ae3afbaf257c7750ffdd0c498fcfc"
+    "sha256": "5e90aeb99633265b49a978ad2d29d2cd046ae3afbaf257c7750ffdd0c498fcfc",
+    "validation": {
+      "duration": 1.392,
+      "peak": 17488
+    }
   },
   {
     "file": "sentence-09.mp3",
     "text": "Yes, it is.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Yes%2C%20it%20is.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ed13e56bdcad30029e6cecb646f410a11f2b633663b1c3fc61e291ec0756b551"
+    "sha256": "ed13e56bdcad30029e6cecb646f410a11f2b633663b1c3fc61e291ec0756b551",
+    "validation": {
+      "duration": 1.536,
+      "peak": 21616
+    }
   },
   {
     "file": "sentence-10.mp3",
     "text": "My family is big.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=My%20family%20is%20big.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "594e41e3f58cf290ec99ffe36e1c08fee6813bc9193f7beaa291a186b1f2a944"
+    "sha256": "594e41e3f58cf290ec99ffe36e1c08fee6813bc9193f7beaa291a186b1f2a944",
+    "validation": {
+      "duration": 1.656,
+      "peak": 19745
+    }
   },
   {
     "file": "sentence-11.mp3",
     "text": "Mum! Dad! This is my friend, Sarah Miller.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Mum%21%20Dad%21%20This%20is%20my%20friend%2C%20Sarah%20Miller.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0ab3294a5af61e5ee9957763713736e3a4bbd5b486478f87e5c574b530f9711c"
+    "sha256": "0ab3294a5af61e5ee9957763713736e3a4bbd5b486478f87e5c574b530f9711c",
+    "validation": {
+      "duration": 4.128,
+      "peak": 25878
+    }
   },
   {
     "file": "sentence-12.mp3",
     "text": "Hi, Sarah.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%2C%20Sarah.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b0a2d2d333a077b36bb2eddb6184398bf6c413d0ee3d40f4751619950a7d8d99"
-  },
-  {
-    "file": "sentence-13.mp3",
-    "text": "Hi, I'm Chen Jie.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%2C%20I%27m%20Chen%20Jie.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6e76a89e6d7cc59e1423ee24b25e5cedcb5ee2cf39342d6b8812571949efe392"
+    "sha256": "b0a2d2d333a077b36bb2eddb6184398bf6c413d0ee3d40f4751619950a7d8d99",
+    "validation": {
+      "duration": 1.416,
+      "peak": 25231
+    }
   },
   {
     "file": "sentence-14.mp3",
     "text": "Look!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7ced0d89b4ee5f3c7126153ac8badccbbf3af2be3e600d0edec8f4b5b6b23e68"
+    "sha256": "7ced0d89b4ee5f3c7126153ac8badccbbf3af2be3e600d0edec8f4b5b6b23e68",
+    "validation": {
+      "duration": 0.768,
+      "peak": 21631
+    }
   },
   {
     "file": "sentence-15.mp3",
     "text": "This is my ...",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This%20is%20my%20...&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4bb142de1e0b38bd080d97d547f0f1b2fcc7bfc769758c3b191538972c90ce1d"
+    "sha256": "4bb142de1e0b38bd080d97d547f0f1b2fcc7bfc769758c3b191538972c90ce1d",
+    "validation": {
+      "duration": 1.152,
+      "peak": 26258
+    }
   },
   {
     "file": "sentence-16.mp3",
     "text": "This is my mum.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This%20is%20my%20mum.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8a6fba27c1d129ab268f3c01ce909bf40482f6ea9aea670d31aa7d7baa2c72ab"
+    "sha256": "8a6fba27c1d129ab268f3c01ce909bf40482f6ea9aea670d31aa7d7baa2c72ab",
+    "validation": {
+      "duration": 1.416,
+      "peak": 26835
+    }
   },
   {
     "file": "sentence-17.mp3",
     "text": "Hello, hello, hello!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hello%2C%20hello%2C%20hello%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "cc94387a7a828e7008a9a39b97baa284f47f7f4ae711bdce2ce245827a9f3aee"
+    "sha256": "cc94387a7a828e7008a9a39b97baa284f47f7f4ae711bdce2ce245827a9f3aee",
+    "validation": {
+      "duration": 2.424,
+      "peak": 19345
+    }
   },
   {
     "file": "sentence-18.mp3",
     "text": "This is my dad.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This%20is%20my%20dad.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "bf20668530992784ee205ab31e6562023c1fb68faa4923fbec8a857db26d50b4"
+    "sha256": "bf20668530992784ee205ab31e6562023c1fb68faa4923fbec8a857db26d50b4",
+    "validation": {
+      "duration": 1.44,
+      "peak": 27174
+    }
   },
   {
     "file": "sentence-19.mp3",
     "text": "Hi, hi, hi!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%2C%20hi%2C%20hi%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "286ab890812c87725eea92bfce28b4b51513d29288342e1cdd205ce07cd0ead9"
+    "sha256": "286ab890812c87725eea92bfce28b4b51513d29288342e1cdd205ce07cd0ead9",
+    "validation": {
+      "duration": 2.064,
+      "peak": 28079
+    }
   },
   {
     "file": "sentence-20.mp3",
     "text": "This is my sister.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This%20is%20my%20sister.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b1a2aa623fb0841d7c729382f32b4b4fe37a7deca9a73ab9fa184667d550bce2"
+    "sha256": "b1a2aa623fb0841d7c729382f32b4b4fe37a7deca9a73ab9fa184667d550bce2",
+    "validation": {
+      "duration": 1.632,
+      "peak": 26103
+    }
   },
   {
     "file": "sentence-21.mp3",
     "text": "How are you?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How%20are%20you%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d4c38cc017856d65cf0c3d0d313f1f25b810357147b92016ba11dea10726e98c"
+    "sha256": "d4c38cc017856d65cf0c3d0d313f1f25b810357147b92016ba11dea10726e98c",
+    "validation": {
+      "duration": 1.008,
+      "peak": 19303
+    }
   },
   {
     "file": "sentence-22.mp3",
     "text": "How do you do?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How%20do%20you%20do%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2e3d88cf30fbc3107f1f55d6291cddc509c00e4725c95ad976cdf1730b0db184"
+    "sha256": "2e3d88cf30fbc3107f1f55d6291cddc509c00e4725c95ad976cdf1730b0db184",
+    "validation": {
+      "duration": 1.2,
+      "peak": 22441
+    }
   },
   {
     "file": "sentence-23.mp3",
     "text": "Why are the people together?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Why%20are%20the%20people%20together%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b8ee3a6f77aefc06ca553e82638e2d9d473172d08a4023edca95b1a0fc138094"
+    "sha256": "b8ee3a6f77aefc06ca553e82638e2d9d473172d08a4023edca95b1a0fc138094",
+    "validation": {
+      "duration": 2.112,
+      "peak": 17966
+    }
   },
   {
     "file": "sentence-24.mp3",
     "text": "How are families different?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How%20are%20families%20different%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "486777f3d46f1a5b3a9184a3f65de1b660cb4e3a11b763dd413fd90ae9ad973e"
+    "sha256": "486777f3d46f1a5b3a9184a3f65de1b660cb4e3a11b763dd413fd90ae9ad973e",
+    "validation": {
+      "duration": 1.752,
+      "peak": 24948
+    }
   },
   {
     "file": "sentence-25.mp3",
     "text": "We are a family,",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We%20are%20a%20family%2C&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c5d8ebaadc4749d96f29cb3799b3740a07fe2d07ed606bbb9528b014269e72a4"
+    "sha256": "c5d8ebaadc4749d96f29cb3799b3740a07fe2d07ed606bbb9528b014269e72a4",
+    "validation": {
+      "duration": 1.488,
+      "peak": 26200
+    }
   },
   {
     "file": "sentence-26.mp3",
     "text": "A happy family,",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=A%20happy%20family%2C&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0dcb3b80204ecc4fbc9ee55be0408d8552e363110ac06a06b586658a5ced1c9a"
+    "sha256": "0dcb3b80204ecc4fbc9ee55be0408d8552e363110ac06a06b586658a5ced1c9a",
+    "validation": {
+      "duration": 1.488,
+      "peak": 19293
+    }
   },
   {
     "file": "sentence-27.mp3",
     "text": "My father, my mother,",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=My%20father%2C%20my%20mother%2C&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c20adcb876c4c271fb3d967d163a6d5094f6c9402bddd76823d3249bc833dc61"
+    "sha256": "c20adcb876c4c271fb3d967d163a6d5094f6c9402bddd76823d3249bc833dc61",
+    "validation": {
+      "duration": 2.112,
+      "peak": 20658
+    }
   },
   {
     "file": "sentence-28.mp3",
     "text": "My sister and me!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=My%20sister%20and%20me%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "31e993231355e8f3c3117ba3a57ec62f7a2159f9c1b49963c4ae810b134f729d"
+    "sha256": "31e993231355e8f3c3117ba3a57ec62f7a2159f9c1b49963c4ae810b134f729d",
+    "validation": {
+      "duration": 1.56,
+      "peak": 18152
+    }
   },
   {
     "file": "sentence-29.mp3",
     "text": "My family",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=My%20family&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0576684f706a9fdaa90a5e4eda08a9b34ee44b30dd936222c1a11cda5a5a58f5"
+    "sha256": "0576684f706a9fdaa90a5e4eda08a9b34ee44b30dd936222c1a11cda5a5a58f5",
+    "validation": {
+      "duration": 1.176,
+      "peak": 20658
+    }
   },
   {
     "file": "sentence-30.mp3",
     "text": "Daddy Finger, Daddy Finger, where are you?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Daddy%20Finger%2C%20Daddy%20Finger%2C%20where%20are%20you%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f7010c5093c8f2af679b6fb807abacb897872c614735b5b9dbecdea1f41f9fd4"
+    "sha256": "f7010c5093c8f2af679b6fb807abacb897872c614735b5b9dbecdea1f41f9fd4",
+    "validation": {
+      "duration": 3.456,
+      "peak": 22279
+    }
   },
   {
     "file": "sentence-31.mp3",
     "text": "E",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=E&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0ab9001fd5ae0a8166401235852f9d6768d08369ce147ad720a1482c38f33248"
+    "sha256": "0ab9001fd5ae0a8166401235852f9d6768d08369ce147ad720a1482c38f33248",
+    "validation": {
+      "duration": 0.696,
+      "peak": 12704
+    }
   },
   {
     "file": "sentence-32.mp3",
     "text": "F",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "dc309198e019f2a2e48d083b8576d796ca2f9f89d4dd29b743bf43fc07847d3f"
+    "sha256": "7101fdbcc1dee603dc1b93f28299e72c959da9929416072b34a9736f1c5093fe",
+    "validation": {
+      "duration": 0.792,
+      "peak": 13640
+    }
   },
   {
     "file": "sentence-33.mp3",
     "text": "G",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=G&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4b6640d3790ea767f00843b1e768002e1223b75d2e90e75dd778fc7885b7357b"
+    "sha256": "4b6640d3790ea767f00843b1e768002e1223b75d2e90e75dd778fc7885b7357b",
+    "validation": {
+      "duration": 0.792,
+      "peak": 13290
+    }
   },
   {
     "file": "sentence-34.mp3",
     "text": "H",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=H&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e02ca232b6dbfa3c4521a88b5f230e7f5ed8b49988c9537a2eac931001ba132c"
+    "sha256": "e02ca232b6dbfa3c4521a88b5f230e7f5ed8b49988c9537a2eac931001ba132c",
+    "validation": {
+      "duration": 0.888,
+      "peak": 16779
+    }
   },
   {
     "file": "sentence-35.mp3",
     "text": "egg",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=egg&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ac2f6ec8f780dcf686d5a4c36d5fdbecaa05a9a5366c9520d2e64f95d36ef797"
+    "sha256": "ac2f6ec8f780dcf686d5a4c36d5fdbecaa05a9a5366c9520d2e64f95d36ef797",
+    "validation": {
+      "duration": 0.744,
+      "peak": 17810
+    }
   },
   {
     "file": "sentence-36.mp3",
     "text": "nest",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=nest&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "664e2bb88a18bda9b14955c4e39370aa4930586c22b36054b569e4d903142408"
+    "sha256": "664e2bb88a18bda9b14955c4e39370aa4930586c22b36054b569e4d903142408",
+    "validation": {
+      "duration": 0.864,
+      "peak": 14512
+    }
   },
   {
     "file": "sentence-37.mp3",
     "text": "fish",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=fish&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7fb51eb90861d4c3c3ed01d1acc10ea82cf1f318741a46e311c4d7c050174f26"
+    "sha256": "7fb51eb90861d4c3c3ed01d1acc10ea82cf1f318741a46e311c4d7c050174f26",
+    "validation": {
+      "duration": 0.936,
+      "peak": 17657
+    }
   },
   {
     "file": "sentence-38.mp3",
     "text": "beef",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=beef&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "96c25fe90892c53415922a5ac20474394ec241759c7ba86c1e738ebcff9183c6"
+    "sha256": "96c25fe90892c53415922a5ac20474394ec241759c7ba86c1e738ebcff9183c6",
+    "validation": {
+      "duration": 0.84,
+      "peak": 11366
+    }
   },
   {
     "file": "sentence-39.mp3",
     "text": "girl",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=girl&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d2b03bcb7e65992a87af7150fd7c151c2e991c01351ec90a1cf1f50bfe69ec1e"
+    "sha256": "d2b03bcb7e65992a87af7150fd7c151c2e991c01351ec90a1cf1f50bfe69ec1e",
+    "validation": {
+      "duration": 0.768,
+      "peak": 14103
+    }
   },
   {
     "file": "sentence-40.mp3",
     "text": "pig",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=pig&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8fd2b8080c734757ed625a46369781eec37c6643012bbd5541e0501df6f8d0fc"
+    "sha256": "8fd2b8080c734757ed625a46369781eec37c6643012bbd5541e0501df6f8d0fc",
+    "validation": {
+      "duration": 0.768,
+      "peak": 17439
+    }
   },
   {
     "file": "sentence-41.mp3",
     "text": "hot",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=hot&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "cab85deb40ba6a02d9fe2dc5f6ec812cfb1cdb7c087aff599f4fa5ae118d5930"
+    "sha256": "cab85deb40ba6a02d9fe2dc5f6ec812cfb1cdb7c087aff599f4fa5ae118d5930",
+    "validation": {
+      "duration": 0.696,
+      "peak": 17150
+    }
   },
   {
     "file": "sentence-42.mp3",
     "text": "hat",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=hat&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "262734c2ced5f050ec4e9548ea648723a8bf6c70997cb1ffcaf7d05e78cda7c1"
+    "sha256": "262734c2ced5f050ec4e9548ea648723a8bf6c70997cb1ffcaf7d05e78cda7c1",
+    "validation": {
+      "duration": 0.696,
+      "peak": 16146
+    }
   },
   {
     "file": "sentence-43.mp3",
     "text": "fed",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=fed&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f13418466efef65453efcd9781e1277db44cc0628f3288d41244d852523b21af"
+    "sha256": "f13418466efef65453efcd9781e1277db44cc0628f3288d41244d852523b21af",
+    "validation": {
+      "duration": 0.768,
+      "peak": 13673
+    }
   },
   {
     "file": "sentence-44.mp3",
     "text": "gab",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=gab&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9d43ea088f3478f433ab14287d0f67df3b974dfce727c705452e93b9236a153d"
+    "sha256": "9d43ea088f3478f433ab14287d0f67df3b974dfce727c705452e93b9236a153d",
+    "validation": {
+      "duration": 0.792,
+      "peak": 18411
+    }
   },
   {
     "file": "sentence-45.mp3",
     "text": "had",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=had&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "62a3b69aa6e87e8352058523c0312049d212ab021bee943db9b6ea9f879da825"
+    "sha256": "62a3b69aa6e87e8352058523c0312049d212ab021bee943db9b6ea9f879da825",
+    "validation": {
+      "duration": 0.768,
+      "peak": 14193
+    }
   },
   {
     "file": "sentence-46.mp3",
     "text": "Sarah, you have a big family.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Sarah%2C%20you%20have%20a%20big%20family.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "836fef01708806fe6c32cd21cf14ad480cd45a6f825958e5518a43417f8c344b"
+    "sha256": "836fef01708806fe6c32cd21cf14ad480cd45a6f825958e5518a43417f8c344b",
+    "validation": {
+      "duration": 2.544,
+      "peak": 16645
+    }
   },
   {
     "file": "sentence-47.mp3",
     "text": "Is this your brother?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Is%20this%20your%20brother%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2e91ebdc89a5c52ef1589e2660089918fa2f89f8c82d10cfade89557126a2dbb"
+    "sha256": "2e91ebdc89a5c52ef1589e2660089918fa2f89f8c82d10cfade89557126a2dbb",
+    "validation": {
+      "duration": 1.488,
+      "peak": 19764
+    }
   },
   {
     "file": "sentence-48.mp3",
     "text": "baby sister",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=baby%20sister&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0c4c8e3e21920d84816ee677a269b5b86966e06b61b3b4fae3205d7abafbc02f"
+    "sha256": "0c4c8e3e21920d84816ee677a269b5b86966e06b61b3b4fae3205d7abafbc02f",
+    "validation": {
+      "duration": 1.392,
+      "peak": 21465
+    }
   },
   {
     "file": "sentence-49.mp3",
     "text": "I have a brother, a baby sister, a cousin ...",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20have%20a%20brother%2C%20a%20baby%20sister%2C%20a%20cousin%20...&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ec4cc7a896e4d20bb1184f8a9f0b5d2c664b5ae91e5aecf28854ac701913b7ad"
+    "sha256": "ec4cc7a896e4d20bb1184f8a9f0b5d2c664b5ae91e5aecf28854ac701913b7ad",
+    "validation": {
+      "duration": 3.6,
+      "peak": 18238
+    }
   },
   {
     "file": "sentence-50.mp3",
     "text": "I have an uncle.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20have%20an%20uncle.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ba7d5c0188d8fb6d5ac6d061b5ad8d3a35b0419adf5fccef0eea6e85c4936968"
+    "sha256": "ba7d5c0188d8fb6d5ac6d061b5ad8d3a35b0419adf5fccef0eea6e85c4936968",
+    "validation": {
+      "duration": 1.368,
+      "peak": 20736
+    }
   },
   {
     "file": "sentence-51.mp3",
     "text": "I have an aunt.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20have%20an%20aunt.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e6cb57748f4b97b602345c88d4cbf90c26f6ecddf1d7f9e1cc915157b2fa4705"
+    "sha256": "e6cb57748f4b97b602345c88d4cbf90c26f6ecddf1d7f9e1cc915157b2fa4705",
+    "validation": {
+      "duration": 1.248,
+      "peak": 19536
+    }
   },
   {
     "file": "sentence-52.mp3",
     "text": "I have two cousins too.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20have%20two%20cousins%20too.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5dd3797aba17fea63c80305e77e21356f8dc8a689ba9a1968c6a143f1341b0b7"
+    "sha256": "5dd3797aba17fea63c80305e77e21356f8dc8a689ba9a1968c6a143f1341b0b7",
+    "validation": {
+      "duration": 2.136,
+      "peak": 18633
+    }
   },
   {
     "file": "sentence-53.mp3",
     "text": "I have a brother,",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20have%20a%20brother%2C&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "061fe1b1098c556001fb8b80694e7ebbf5feec63314fcf9c7596af8c961fe40d"
+    "sha256": "061fe1b1098c556001fb8b80694e7ebbf5feec63314fcf9c7596af8c961fe40d",
+    "validation": {
+      "duration": 1.392,
+      "peak": 21644
+    }
   },
   {
     "file": "sentence-54.mp3",
     "text": "And a baby sister.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=And%20a%20baby%20sister.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7e23ef1f97bcd9f12925db57e1450651229e5ba4493a70f88924487bebf7d6c8"
+    "sha256": "7e23ef1f97bcd9f12925db57e1450651229e5ba4493a70f88924487bebf7d6c8",
+    "validation": {
+      "duration": 1.728,
+      "peak": 17307
+    }
   },
   {
     "file": "sentence-55.mp3",
     "text": "They can play with me.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=They%20can%20play%20with%20me.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4b3513cf8633c4f4b0fe899bd4dfea9963ca8392ca4ea855180629993caaf0e9"
+    "sha256": "4b3513cf8633c4f4b0fe899bd4dfea9963ca8392ca4ea855180629993caaf0e9",
+    "validation": {
+      "duration": 1.656,
+      "peak": 18246
+    }
   },
   {
     "file": "sentence-56.mp3",
     "text": "And this is my dad.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=And%20this%20is%20my%20dad.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8622fdcf0d7b3c145a1ec023429d34fb47c88444ae79f3a41334cb4068549ac1"
-  },
-  {
-    "file": "sentence-57.mp3",
-    "text": "Some families are small.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Some%20families%20are%20small.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "735cd282622af2ff7d2de111ae2e388271391cd010a6012872e73440424174f0"
-  },
-  {
-    "file": "sentence-58.mp3",
-    "text": "Some are big.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Some%20are%20big.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3775c6cd77ab30f35ad35eeff809c0674c6fec982219c2ec43b0bccab09be433"
-  },
-  {
-    "file": "sentence-59.mp3",
-    "text": "Families are different, but family love is the same.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Families%20are%20different%2C%20but%20family%20love%20is%20the%20same.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2c0e5ac81ce22b5c1d9cc99d92686461ee9ba2668b838a0bb819c41ca0c5765c"
+    "sha256": "8622fdcf0d7b3c145a1ec023429d34fb47c88444ae79f3a41334cb4068549ac1",
+    "validation": {
+      "duration": 1.776,
+      "peak": 22537
+    }
   },
   {
     "file": "sentence-60.mp3",
     "text": "This is my family tree.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This%20is%20my%20family%20tree.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "bb74ea89697bb324efb4b3ce630cba2f1dc58bae0e712548989864d508e34742"
+    "sha256": "bb74ea89697bb324efb4b3ce630cba2f1dc58bae0e712548989864d508e34742",
+    "validation": {
+      "duration": 2.088,
+      "peak": 26808
+    }
   },
   {
     "file": "sentence-61.mp3",
     "text": "I play with my brother.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20play%20with%20my%20brother.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ab846a3fcac146fc778bb6b7d36a222f945fdd34c8b5cdf39bbb769ff5fc8849"
+    "sha256": "ab846a3fcac146fc778bb6b7d36a222f945fdd34c8b5cdf39bbb769ff5fc8849",
+    "validation": {
+      "duration": 1.92,
+      "peak": 21397
+    }
   },
   {
     "file": "sentence-62.mp3",
     "text": "We share.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We%20share.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "150644e5fe22a9ec7a8849e836b411d344effc7de47fec32071c293375291fa3"
+    "sha256": "150644e5fe22a9ec7a8849e836b411d344effc7de47fec32071c293375291fa3",
+    "validation": {
+      "duration": 1.104,
+      "peak": 14919
+    }
   },
   {
     "file": "sentence-63.mp3",
     "text": "We listen with care.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We%20listen%20with%20care.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "44a28230c7717791afcd46237af88b6a5d63a3b5ffaa70424199898b85d2cc79"
+    "sha256": "44a28230c7717791afcd46237af88b6a5d63a3b5ffaa70424199898b85d2cc79",
+    "validation": {
+      "duration": 1.632,
+      "peak": 21517
+    }
   },
   {
     "file": "sentence-64.mp3",
     "text": "I have a small family.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20have%20a%20small%20family.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c416505d67770556767c911ecd66b81a9fb51ec746f8b50894288478811222f7"
+    "sha256": "c416505d67770556767c911ecd66b81a9fb51ec746f8b50894288478811222f7",
+    "validation": {
+      "duration": 2.016,
+      "peak": 21566
+    }
   },
   {
     "file": "sentence-65.mp3",
     "text": "I love my small family.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20love%20my%20small%20family.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "921ca8fc46619210ccbee829a06aa966e454ed587b06a2a255485913cd3f9623"
+    "sha256": "921ca8fc46619210ccbee829a06aa966e454ed587b06a2a255485913cd3f9623",
+    "validation": {
+      "duration": 2.208,
+      "peak": 19130
+    }
   },
   {
     "file": "sentence-66.mp3",
     "text": "I play with my brothers.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20play%20with%20my%20brothers.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5624f1f75fca83066a3fd92c78fe31b376491427629e3aec3ad3dca446119f26"
+    "sha256": "5624f1f75fca83066a3fd92c78fe31b376491427629e3aec3ad3dca446119f26",
+    "validation": {
+      "duration": 2.088,
+      "peak": 19916
+    }
   },
   {
     "file": "sentence-67.mp3",
     "text": "I share with my sisters.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20share%20with%20my%20sisters.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8d50f73678e476f22cf5b79bfc8ffe0c454f0a271d001466de7dd1b1ed0a40fe"
+    "sha256": "8d50f73678e476f22cf5b79bfc8ffe0c454f0a271d001466de7dd1b1ed0a40fe",
+    "validation": {
+      "duration": 2.208,
+      "peak": 17151
+    }
   },
   {
     "file": "sentence-68.mp3",
     "text": "I talk with my cousins.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20talk%20with%20my%20cousins.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4df40d3d585b4dcfe23358f033c5bb45bb127d8a9fc13705b2aa6d1e5b60b1a3"
+    "sha256": "4df40d3d585b4dcfe23358f033c5bb45bb127d8a9fc13705b2aa6d1e5b60b1a3",
+    "validation": {
+      "duration": 2.136,
+      "peak": 18232
+    }
   },
   {
     "file": "sentence-69.mp3",
     "text": "I have a big family.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20have%20a%20big%20family.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6968da1823e5084b72c551581e3096719aec24680d8f2983ace181e3cdfb2c50"
+    "sha256": "6968da1823e5084b72c551581e3096719aec24680d8f2983ace181e3cdfb2c50",
+    "validation": {
+      "duration": 1.872,
+      "peak": 21450
+    }
   },
   {
     "file": "sentence-70.mp3",
     "text": "I love my big family.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I%20love%20my%20big%20family.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f434d8600d556b2a439a6292c406ce52c6446664aae0a6374fd7db99c71ba6e1"
-  },
-  {
-    "file": "sentence-71.mp3",
-    "text": "Families can be big or small.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Families%20can%20be%20big%20or%20small.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0cb0050c57d4736606dfaee36e124727e2ef56c117c08bd55e11f24c74f1648b"
-  },
-  {
-    "file": "sentence-72.mp3",
-    "text": "Family members love each other.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Family%20members%20love%20each%20other.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ac8e8bdc43b879427485675d4561d0a2d4dd315e3f4b731323f2a7ab640c6531"
-  },
-  {
-    "file": "key-02.mp3",
-    "text": "Look! This is my family.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%21+This+is+my+family.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "aea6071aea7d5cf310dc69ff6c0411ee614b0fc8c2b7670eb4dee280ff6d2b04"
+    "sha256": "f434d8600d556b2a439a6292c406ce52c6446664aae0a6374fd7db99c71ba6e1",
+    "validation": {
+      "duration": 2.064,
+      "peak": 19861
+    }
   },
   {
     "file": "topic-page14.mp3",
     "text": "What makes a family?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+makes+a+family%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "be1d625f12ce3ea16d696b3f6267c9a75fafe9736f21b56491bb5c216907cb7a"
+    "sha256": "be1d625f12ce3ea16d696b3f6267c9a75fafe9736f21b56491bb5c216907cb7a",
+    "validation": {
+      "duration": 1.584,
+      "peak": 20189
+    }
   },
   {
     "file": "topic-page16.mp3",
     "text": "Who lives with you?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Who+lives+with+you%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fb37e13985d28b48c999f48079e3f79c4d0df6120879192c6bd87d4da91010b9"
+    "sha256": "fb37e13985d28b48c999f48079e3f79c4d0df6120879192c6bd87d4da91010b9",
+    "validation": {
+      "duration": 1.368,
+      "peak": 22144
+    }
+  },
+  {
+    "file": "edition-e0ee46826420.mp3",
+    "text": "Hi! I'm Chen Jie.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Hi%21+I%27m+Chen+Jie.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b7c9a884a3b4e9f826c42354a6c229fa28b438182bee162359d27c9b330be966",
+    "validation": {
+      "duration": 2.04,
+      "peak": 19176
+    }
+  },
+  {
+    "file": "edition-9cbe9249bfd2.mp3",
+    "text": "This family is small.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+family+is+small.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "13b5835c0708c2cd97823f3624fa594cf21049d9f87b56979179a87c370eea7d",
+    "validation": {
+      "duration": 1.776,
+      "peak": 25426
+    }
+  },
+  {
+    "file": "edition-524402019cfd.mp3",
+    "text": "They love each other.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=They+love+each+other.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "ae963d6fc4d1f500bc7540d0461e6d82f7bcb738dfa11e29b987ad7204214cae",
+    "validation": {
+      "duration": 1.488,
+      "peak": 18135
+    }
+  },
+  {
+    "file": "edition-06f790608fbb.mp3",
+    "text": "This family is big.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+family+is+big.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "798f2f29dd94a4f4da7c983adb1b7511ae31e69492f7eba6eda5f23397b83e4a",
+    "validation": {
+      "duration": 1.704,
+      "peak": 25527
+    }
+  },
+  {
+    "file": "edition-78e0936cc63f.mp3",
+    "text": "They love each other too.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=They+love+each+other+too.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "11c337c0cf090881c587105ad798774bcf3bfea0b8af6888d54e157e017e3422",
+    "validation": {
+      "duration": 1.968,
+      "peak": 18386
+    }
+  },
+  {
+    "file": "edition-01ee0d1b9c5d.mp3",
+    "text": "No, it's my ...",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=No%2C+it%27s+my+...&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "2a8f32321410fd30381cbab391c59499891ba7baf3b41ca871e3bb12870f90f7",
+    "validation": {
+      "duration": 1.488,
+      "peak": 18931
+    }
+  },
+  {
+    "file": "key-02.mp3",
+    "text": "Look! This is my family.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Look%21+This+is+my+family.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "aea6071aea7d5cf310dc69ff6c0411ee614b0fc8c2b7670eb4dee280ff6d2b04",
+    "validation": {
+      "duration": 2.304,
+      "peak": 27439
+    }
+  },
+  {
+    "file": "edition-024c467e6066.mp3",
+    "text": "This is my mother. This is my father.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+is+my+mother.+This+is+my+father.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c96374aa14b950abe2833aedbff5760a26ed6b1be0dc979c1859ba8971a76fbe",
+    "validation": {
+      "duration": 3.048,
+      "peak": 27274
+    }
+  },
+  {
+    "file": "edition-a4fced30ebee.mp3",
+    "text": "Where am I? Where am I?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Where+am+I%3F+Where+am+I%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b3cdf3fd8087e48c427c732a05ccfa6bd5d2bb4c463208dd66e1733ff00c0764",
+    "validation": {
+      "duration": 2.016,
+      "peak": 16515
+    }
+  },
+  {
+    "file": "edition-c9f923b86921.mp3",
+    "text": "I am with my sister. I am with my brother.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+with+my+sister.+I+am+with+my+brother.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "374c6ebf792049629b55a7856f8e6830a8f66eaa54e1138f31f62d49cc7bfe42",
+    "validation": {
+      "duration": 3.552,
+      "peak": 22185
+    }
+  },
+  {
+    "file": "edition-f6806423b780.mp3",
+    "text": "My family and I. My family and I.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=My+family+and+I.+My+family+and+I.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "21a967c8a8439a70d9e3574969912ce5043da4649c8127239a136ec40b019bc6",
+    "validation": {
+      "duration": 2.736,
+      "peak": 20026
+    }
+  },
+  {
+    "file": "edition-74c765ae41bc.mp3",
+    "text": "This is my grandma. This is my grandpa.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+is+my+grandma.+This+is+my+grandpa.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c168043e21ad99aa0d793218eb85f964301d15789351d294a2f448664ae8f652",
+    "validation": {
+      "duration": 3.168,
+      "peak": 27421
+    }
+  },
+  {
+    "file": "edition-3a09b27e84e5.mp3",
+    "text": "I am with my aunt. I am with my uncle.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+with+my+aunt.+I+am+with+my+uncle.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "2512494b9981c9ea30fb7a4f7b0425d2954c9cb931d78abd32f7b4834fbe048f",
+    "validation": {
+      "duration": 3.216,
+      "peak": 22237
+    }
+  },
+  {
+    "file": "edition-84ec2e6477ea.mp3",
+    "text": "This is my daddy.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+is+my+daddy.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "e94df76df28b98d1c0e05b94d69f35d2eff248c78c6f0d471695d5d700eaae06",
+    "validation": {
+      "duration": 1.536,
+      "peak": 27216
+    }
+  },
+  {
+    "file": "edition-3c243589204b.mp3",
+    "text": "Mummy Finger, Mummy Finger, where are you?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Mummy+Finger%2C+Mummy+Finger%2C+where+are+you%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "d539029358cf5a4cedb926b991eb2ea8694dc71c30b3c6aa18afe17de0f8bdda",
+    "validation": {
+      "duration": 3.576,
+      "peak": 21756
+    }
+  },
+  {
+    "file": "edition-71857db412ce.mp3",
+    "text": "This is my mummy.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+is+my+mummy.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3ee53cc6b521f5ddc028a55613b89ed14c75768bd28171926c3b3c7bb95c084a",
+    "validation": {
+      "duration": 1.488,
+      "peak": 26193
+    }
+  },
+  {
+    "file": "edition-d294f19adbec.mp3",
+    "text": "Grandpa Finger, Grandpa Finger, where are you?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Grandpa+Finger%2C+Grandpa+Finger%2C+where+are+you%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "aef5f74ff9dd1eb0575c3df8a02110af452112b24824f043567a672fece5b906",
+    "validation": {
+      "duration": 3.792,
+      "peak": 19330
+    }
+  },
+  {
+    "file": "edition-cfcfbcf9a3b1.mp3",
+    "text": "Grandma Finger, Grandma Finger, where are you?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Grandma+Finger%2C+Grandma+Finger%2C+where+are+you%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "fb3b88676f7f3e4433844465e8caa124804fb2d8915d2b8656dc60e7c5f20987",
+    "validation": {
+      "duration": 3.816,
+      "peak": 22134
+    }
   }
 ]

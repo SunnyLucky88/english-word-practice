@@ -145,14 +145,6 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "some",
-      "zh": "一些",
-      "ipa": "/səm, sʌm/",
-      "page": 21,
-      "file": "some.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "small",
       "zh": "小的",
       "ipa": "/smɔːl/",
@@ -164,7 +156,7 @@
   "sentences": [
     {
       "en": "This is my grandma.",
-      "zh": "这是我的奶奶／外婆。",
+      "zh": "这是我的奶奶。",
       "page": 16,
       "file": "sentence-01.mp3",
       "practice": true
@@ -185,17 +177,10 @@
     },
     {
       "en": "This is my family.",
-      "zh": "这是我的家人。",
+      "zh": "这是我的家庭。",
       "page": 17,
       "file": "sentence-04.mp3",
       "practice": true
-    },
-    {
-      "en": "You have a big family.",
-      "zh": "你有一个大家庭。",
-      "page": 19,
-      "file": "sentence-05.mp3",
-      "practice": false
     },
     {
       "en": "Is this your sister?",
@@ -213,14 +198,14 @@
     },
     {
       "en": "Is that your brother?",
-      "zh": "那是你的哥哥／弟弟吗？",
+      "zh": "那是你弟弟吗？",
       "page": 19,
       "file": "sentence-08.mp3",
       "practice": true
     },
     {
       "en": "Yes, it is.",
-      "zh": "是的。",
+      "zh": "对，是的。",
       "page": 19,
       "file": "sentence-09.mp3",
       "practice": true
@@ -244,13 +229,6 @@
       "zh": "你好，萨拉。",
       "page": 16,
       "file": "sentence-12.mp3",
-      "practice": true
-    },
-    {
-      "en": "Hi, I'm Chen Jie.",
-      "zh": "你好，我是陈杰。",
-      "page": 17,
-      "file": "sentence-13.mp3",
       "practice": true
     },
     {
@@ -486,7 +464,7 @@
     },
     {
       "en": "Is this your brother?",
-      "zh": "这是你的哥哥／弟弟吗？",
+      "zh": "这是你的哥哥（弟弟）吗？",
       "page": 19,
       "file": "sentence-47.mp3",
       "practice": true
@@ -552,27 +530,6 @@
       "zh": "这是我的爸爸。",
       "page": 21,
       "file": "sentence-56.mp3",
-      "practice": true
-    },
-    {
-      "en": "Some families are small.",
-      "zh": "有些家庭人数少。",
-      "page": 21,
-      "file": "sentence-57.mp3",
-      "practice": true
-    },
-    {
-      "en": "Some are big.",
-      "zh": "有些家庭人数多。",
-      "page": 21,
-      "file": "sentence-58.mp3",
-      "practice": true
-    },
-    {
-      "en": "Families are different, but family love is the same.",
-      "zh": "家庭各不相同，但家人的爱是一样的。",
-      "page": 21,
-      "file": "sentence-59.mp3",
       "practice": true
     },
     {
@@ -653,20 +610,6 @@
       "practice": true
     },
     {
-      "en": "Families can be big or small.",
-      "zh": "家庭人数可以多，也可以少。",
-      "page": 25,
-      "file": "sentence-71.mp3",
-      "practice": true
-    },
-    {
-      "en": "Family members love each other.",
-      "zh": "家人彼此相爱。",
-      "page": 25,
-      "file": "sentence-72.mp3",
-      "practice": true
-    },
-    {
       "en": "What makes a family?",
       "zh": "什么构成了一个家庭？",
       "page": 14,
@@ -681,90 +624,116 @@
       "file": "topic-page16.mp3",
       "practice": true,
       "audioSource": "Google Translate"
+    },
+    {
+      "en": "Hi! I'm Chen Jie.",
+      "zh": "嗨！我是陈杰。",
+      "page": 17,
+      "file": "edition-e0ee46826420.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "This family is small.",
+      "zh": "这个家庭人数少。",
+      "page": 21,
+      "file": "edition-9cbe9249bfd2.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "They love each other.",
+      "zh": "他们相互关爱。",
+      "page": 21,
+      "file": "edition-524402019cfd.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "This family is big.",
+      "zh": "这个家庭人数多。",
+      "page": 21,
+      "file": "edition-06f790608fbb.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "They love each other too.",
+      "zh": "他们也相互关爱。",
+      "page": 21,
+      "file": "edition-78e0936cc63f.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "No, it's my ...",
+      "zh": "不，这是我的……",
+      "page": 21,
+      "file": "edition-01ee0d1b9c5d.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
     }
   ],
   "groups": [
     {
-      "title": "单元主题问句",
-      "note": "第 14 页 · 教材主题问句",
+      "title": "第 14 页 · 课文与点读",
+      "note": "第 14 页 · 用户确认版PDF",
       "clips": [
-        73
+        66
       ]
     },
     {
-      "title": "导入思考",
-      "note": "第 15 页 · 看图思考",
+      "title": "第 15 页 · 课文与点读",
+      "note": "第 15 页 · 用户确认版PDF",
       "clips": [
+        21,
+        22,
         23,
-        24
-      ]
-    },
-    {
-      "title": "我们是一家人",
-      "note": "第 15 页 · 歌谣文字 · 谷歌原速朗读",
-      "clips": [
+        24,
         25,
         26,
-        27,
-        28,
-        29
+        27
       ]
     },
     {
-      "title": "A · 主题问句",
-      "note": "第 16 页 · 教材主题问句",
+      "title": "第 16 页 · 课文与点读",
+      "note": "第 16 页 · 用户确认版PDF",
       "clips": [
-        74
-      ]
-    },
-    {
-      "title": "A · 介绍朋友和家人",
-      "note": "第 16 页 · 人物对话",
-      "clips": [
+        67,
+        10,
         11,
-        12,
         1,
         2,
-        3
+        3,
+        28
       ]
     },
     {
-      "title": "手指歌文字",
-      "note": "第 16 页 · 页面显示的歌词 · 朗读版",
+      "title": "第 17 页 · 课文与点读",
+      "note": "第 17 页 · 用户确认版PDF",
       "clips": [
-        30
-      ]
-    },
-    {
-      "title": "介绍我的家庭",
-      "note": "第 17 页 · 介绍表达",
-      "clips": [
+        68,
+        12,
+        4,
         13,
         14,
-        4,
-        15
-      ]
-    },
-    {
-      "title": "家人问候歌谣",
-      "note": "第 17 页 · 谷歌原速朗读",
-      "clips": [
+        15,
         16,
         17,
         18,
         19,
-        20,
-        21,
         1,
         3,
         2,
-        22
+        20
       ]
     },
     {
-      "title": "字母 E—H 与例词",
-      "note": "第 18 页 · 字母名称、单词 · 字母名称与拼读音不同",
+      "title": "第 18 页 · 课文与点读",
+      "note": "第 18 页 · 用户确认版PDF",
       "clips": [
+        29,
+        30,
         31,
         32,
         33,
@@ -778,109 +747,99 @@
         41,
         42,
         43,
-        44,
-        45
-      ]
-    },
-    {
-      "title": "书写字母复读",
-      "note": "第 18 页 · 字母名称，非独立音素",
-      "clips": [
+        29,
+        30,
         31,
-        32,
-        33,
-        34
+        32
       ]
     },
     {
-      "title": "B · 询问家庭成员",
-      "note": "第 19 页 · 完整对话及问答",
+      "title": "第 19 页 · 课文与点读",
+      "note": "第 19 页 · 用户确认版PDF",
       "clips": [
-        46,
+        44,
+        5,
         6,
         7,
         8,
+        45,
+        6
+      ]
+    },
+    {
+      "title": "第 20 页 · 课文与点读",
+      "note": "第 20 页 · 用户确认版PDF",
+      "clips": [
+        46,
         9,
         47,
-        7
-      ]
-    },
-    {
-      "title": "介绍大家庭",
-      "note": "第 20 页 · 词组和介绍",
-      "clips": [
         48,
-        10,
-        49
-      ]
-    },
-    {
-      "title": "家人一起玩",
-      "note": "第 20 页 · 歌谣文字 · 原速朗读",
-      "clips": [
+        49,
         50,
         51,
         52,
-        53,
-        54,
-        55
+        53
       ]
     },
     {
-      "title": "不同的家庭，一样的爱",
-      "note": "第 21 页 · 阅读与问答",
+      "title": "第 21 页 · 课文与点读",
+      "note": "第 21 页 · 用户确认版PDF",
       "clips": [
-        16,
+        14,
+        54,
+        4,
+        69,
+        70,
+        71,
+        72,
+        46,
+        45,
+        73
+      ]
+    },
+    {
+      "title": "第 23 页 · 课文与点读",
+      "note": "第 23 页 · 用户确认版PDF",
+      "clips": [
+        55,
+        13
+      ]
+    },
+    {
+      "title": "第 24 页 · 课文与点读",
+      "note": "第 24 页 · 用户确认版PDF",
+      "clips": [
+        4,
         56,
-        10,
         57,
         58,
         59,
-        6,
-        9,
-        15
+        60
       ]
     },
     {
-      "title": "介绍家谱",
-      "note": "第 23 页 · 项目示范表达",
-      "clips": [
-        60,
-        15
-      ]
-    },
-    {
-      "title": "阅读 · 我的小家庭",
-      "note": "第 24 页 · 家庭诗 · 逐句朗读",
+      "title": "第 25 页 · 课文与点读",
+      "note": "第 25 页 · 用户确认版PDF",
       "clips": [
         4,
         61,
         62,
         63,
+        58,
         64,
         65
-      ]
-    },
-    {
-      "title": "阅读 · 我的大家庭",
-      "note": "第 25 页 · 家庭诗及单元总结 · 逐句朗读",
-      "clips": [
-        4,
-        66,
-        67,
-        68,
-        63,
-        69,
-        70,
-        71,
-        72
       ]
     }
   ],
   "wordSource": {
-    "page": 83,
-    "section": "Words in each unit · Unit 2",
-    "url": "https://www.sohu.com/a/904139600_121290829"
+    "title": "用户于2026-10-25确认的实物匹配PDF · Words in each unit",
+    "pages": [
+      83,
+      84,
+      85
+    ],
+    "isbn": "978-7-107-38250-5",
+    "pdfSha256": "025d9882c7b3078dfda1321be3c0bd84acf1f34964edc3cba53f90ecc13b90a6"
   },
   "pageRange": [
     14,
@@ -920,11 +879,11 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "Families are different, but family love is the same.",
-      "zh": "家庭之间是不同的，但家人之爱是相同的。",
+      "en": "They love each other.",
+      "zh": "他们相互关爱。",
       "page": 89,
       "id": "unit2-key-05",
-      "file": "sentence-59.mp3",
+      "file": "edition-524402019cfd.mp3",
       "audioSource": "Google Translate"
     }
   ],
@@ -936,8 +895,67 @@
       "pages": [
         78
       ],
-      "lyricsStatus": "awaiting-user-pages",
-      "lines": []
+      "lyricsStatus": "complete",
+      "lines": [
+        {
+          "en": "This is my mother. This is my father.",
+          "zh": "这是我的妈妈。这是我的爸爸。",
+          "page": 78,
+          "file": "edition-024c467e6066.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Where am I? Where am I?",
+          "zh": "我在哪里？我在哪里？",
+          "page": 78,
+          "file": "edition-a4fced30ebee.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "I am with my sister. I am with my brother.",
+          "zh": "我和我的姐姐（妹妹）在一起。我和我的哥哥（弟弟）在一起。",
+          "page": 78,
+          "file": "edition-c9f923b86921.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "My family and I. My family and I.",
+          "zh": "我的家人和我。我的家人和我。",
+          "page": 78,
+          "file": "edition-f6806423b780.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "This is my grandma. This is my grandpa.",
+          "zh": "这是我的奶奶（姥姥）。这是我的爷爷（姥爷）。",
+          "page": 78,
+          "file": "edition-74c765ae41bc.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Where am I? Where am I?",
+          "zh": "我在哪里？我在哪里？",
+          "page": 78,
+          "file": "edition-a4fced30ebee.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "I am with my aunt. I am with my uncle.",
+          "zh": "我和我的姑姑（阿姨等）在一起。我和我的叔叔（舅舅等）在一起。",
+          "page": 78,
+          "file": "edition-3a09b27e84e5.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "My family and I. My family and I.",
+          "zh": "我的家人和我。我的家人和我。",
+          "page": 78,
+          "file": "edition-f6806423b780.mp3",
+          "audioSource": "Google Translate"
+        }
+      ],
+      "source": "用户确认版PDF · Appendix 1 Songs",
+      "audioNote": "谷歌原速合成朗读，非演唱或教材原声"
     },
     {
       "id": "unit2-song-2",
@@ -946,9 +964,110 @@
       "pages": [
         78
       ],
-      "lyricsStatus": "awaiting-user-pages",
-      "lines": []
+      "lyricsStatus": "complete",
+      "lines": [
+        {
+          "en": "Daddy Finger, Daddy Finger, where are you?",
+          "zh": "爸爸手指，爸爸手指，你在哪里？",
+          "page": 78,
+          "file": "sentence-30.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "This is my daddy.",
+          "zh": "这是我的爸爸。",
+          "page": 78,
+          "file": "edition-84ec2e6477ea.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "How do you do?",
+          "zh": "你好！",
+          "page": 78,
+          "file": "sentence-22.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Mummy Finger, Mummy Finger, where are you?",
+          "zh": "妈妈手指，妈妈手指，你在哪里？",
+          "page": 78,
+          "file": "edition-3c243589204b.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "This is my mummy.",
+          "zh": "这是我的妈妈。",
+          "page": 78,
+          "file": "edition-71857db412ce.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "How do you do?",
+          "zh": "你好！",
+          "page": 78,
+          "file": "sentence-22.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Grandpa Finger, Grandpa Finger, where are you?",
+          "zh": "爷爷（姥爷）手指，爷爷（姥爷）手指，你在哪里？",
+          "page": 78,
+          "file": "edition-d294f19adbec.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "This is my grandpa.",
+          "zh": "这是我的爷爷（姥爷）。",
+          "page": 78,
+          "file": "sentence-02.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "How do you do?",
+          "zh": "你好！",
+          "page": 78,
+          "file": "sentence-22.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Grandma Finger, Grandma Finger, where are you?",
+          "zh": "奶奶（姥姥）手指，奶奶（姥姥）手指，你在哪里？",
+          "page": 78,
+          "file": "edition-cfcfbcf9a3b1.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "This is my grandma.",
+          "zh": "这是我的奶奶（姥姥）。",
+          "page": 78,
+          "file": "sentence-01.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "How do you do?",
+          "zh": "你好！",
+          "page": 78,
+          "file": "sentence-22.mp3",
+          "audioSource": "Google Translate"
+        }
+      ],
+      "source": "用户确认版PDF · Appendix 1 Songs",
+      "audioNote": "谷歌原速合成朗读，非演唱或教材原声"
     }
   ],
-  "unit": 2
+  "unit": 2,
+  "textbookSource": {
+    "title": "人教版英语三年级上册（用户确认实物匹配版本）",
+    "isbn": "978-7-107-38250-5",
+    "physicalEdition": "2024年7月第1版",
+    "physicalPrinting": "2026年7月第3次印刷",
+    "confirmedByUser": "2026-10-25",
+    "digitalPrinting": "电子版未列出印次，不声称与实物同一印次",
+    "sha256": "025d9882c7b3078dfda1321be3c0bd84acf1f34964edc3cba53f90ecc13b90a6",
+    "pdfPages": 100,
+    "printedPageToPdfPageOffset": 6,
+    "sourceListing": "https://github.com/siknet/FreePEP/blob/main/piclist.md",
+    "officialReader": "https://book.pep.com.cn/1212001301245/mobile/index.html",
+    "verification": "封底ISBN相同；印刷页21的正文、插图与练习匹配用户实物照片；用户确认以此PDF重做。"
+  }
 }

@@ -61,18 +61,6 @@
       "reviewStatus": "待人工审听",
       "occurrences": [
         {
-          "page": 45,
-          "en": "They help plants grow.",
-          "zh": "它们帮助植物生长。",
-          "file": "sentence-66.mp3"
-        },
-        {
-          "page": 45,
-          "en": "They can give us apples.",
-          "zh": "它们能给我们苹果。",
-          "file": "sentence-73.mp3"
-        },
-        {
           "page": 46,
           "en": "What can they give us?",
           "zh": "它们能给我们什么？",
@@ -83,6 +71,12 @@
           "en": "It is cold. They help me.",
           "zh": "天冷了。他们帮助我。",
           "file": "sentence-86.mp3"
+        },
+        {
+          "page": 79,
+          "en": "They help me grow alright!",
+          "zh": "它们帮助我好好成长！",
+          "file": "edition-ac3977db3f3f.mp3"
         }
       ],
       "reuse": null
@@ -189,7 +183,7 @@
         {
           "page": 40,
           "en": "Do you like the farm?",
-          "zh": "你喜欢这个农场吗？",
+          "zh": "你们喜欢农场吗？",
           "file": "sentence-15.mp3"
         },
         {
@@ -269,12 +263,6 @@
           "en": "I give apples to my family.",
           "zh": "我把苹果送给我的家人。",
           "file": "sentence-91.mp3"
-        },
-        {
-          "page": 49,
-          "en": "We need plants to live.",
-          "zh": "我们的生活需要植物。",
-          "file": "sentence-93.mp3"
         }
       ],
       "reuse": null
@@ -353,6 +341,12 @@
           "en": "I give apples to my family.",
           "zh": "我把苹果送给我的家人。",
           "file": "sentence-91.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I can water my plants.",
+          "zh": "我能给我的植物浇水。",
+          "file": "edition-ab2c5f9c3650.mp3"
         }
       ],
       "reuse": null
@@ -388,28 +382,185 @@
       "reuse": null
     },
     {
-      "key": "too",
-      "en": "too",
-      "zh": "也",
+      "key": "no",
+      "en": "no",
+      "zh": "不；不是",
       "kind": "word",
       "aliases": [],
       "base": "",
       "expanded": "",
       "note": "",
-      "file": "supplemental/too.mp3",
-      "spokenText": "too",
+      "file": "supplemental/no.mp3",
+      "spokenText": "no",
       "audioSource": "Google Translate",
       "definitionSource": "课文补充释义（按原句核对）",
       "reviewStatus": "待人工审听",
       "occurrences": [
         {
-          "page": 45,
-          "en": "We need plants, and we can help them too.",
-          "zh": "我们需要植物，我们也能帮助它们。",
-          "file": "sentence-68.mp3"
+          "page": 40,
+          "en": "No, I don't. I like bananas.",
+          "zh": "不，我不喜欢。我喜欢香蕉。",
+          "file": "sentence-14.mp3"
+        },
+        {
+          "page": 41,
+          "en": "No, I don't. I like bananas.",
+          "zh": "不，我不喜欢。我喜欢香蕉。",
+          "file": "sentence-14.mp3"
+        },
+        {
+          "page": 90,
+          "en": "No, I don't.",
+          "zh": "不，我不喜欢。",
+          "file": "key-03.mp3"
         }
       ],
       "reuse": null
+    },
+    {
+      "key": "we",
+      "en": "we",
+      "zh": "我们",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/we.mp3",
+      "spokenText": "we",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 43,
+          "en": "We can water the flowers.",
+          "zh": "我们可以给花浇水。",
+          "file": "sentence-46.mp3"
+        },
+        {
+          "page": 43,
+          "en": "We can water the grass.",
+          "zh": "我们可以给草浇水。",
+          "file": "sentence-47.mp3"
+        },
+        {
+          "page": 43,
+          "en": "We can plant new trees.",
+          "zh": "我们可以新种些树。",
+          "file": "sentence-49.mp3"
+        },
+        {
+          "page": 43,
+          "en": "How can we help?",
+          "zh": "我们能怎样帮忙？",
+          "file": "sentence-50.mp3"
+        },
+        {
+          "page": 46,
+          "en": "How can we help?",
+          "zh": "我们能怎样帮忙？",
+          "file": "sentence-50.mp3"
+        },
+        {
+          "page": 43,
+          "en": "We can plant trees.",
+          "zh": "我们可以种树。",
+          "file": "sentence-51.mp3"
+        },
+        {
+          "page": 45,
+          "en": "We can help them.",
+          "zh": "我们能帮助它们。",
+          "file": "sentence-72.mp3"
+        },
+        {
+          "page": 47,
+          "en": "We can help them.",
+          "zh": "我们能帮助它们。",
+          "file": "sentence-72.mp3"
+        },
+        {
+          "page": 47,
+          "en": "We ...",
+          "zh": "我们……",
+          "file": "sentence-81.mp3"
+        },
+        {
+          "page": 49,
+          "en": "We are all happy!",
+          "zh": "我们都很开心！",
+          "file": "sentence-92.mp3"
+        },
+        {
+          "page": 40,
+          "en": "What do we get from plants?",
+          "zh": "我们从植物中获得什么？",
+          "file": "topic-page40.mp3"
+        },
+        {
+          "page": 43,
+          "en": "How can we help plants?",
+          "zh": "我们怎样帮助植物？",
+          "file": "topic-page43.mp3"
+        },
+        {
+          "page": 45,
+          "en": "We need plants.",
+          "zh": "我们需要植物。",
+          "file": "edition-e6798d3928f1.mp3"
+        },
+        {
+          "page": 45,
+          "en": "Can we help them?",
+          "zh": "我们能帮助它们吗？",
+          "file": "edition-f8e7db6d71a4.mp3"
+        },
+        {
+          "page": 45,
+          "en": "We can ...",
+          "zh": "我们可以……",
+          "file": "edition-d05b80c531a2.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can help each other.",
+          "zh": "我们能相互帮助。",
+          "file": "edition-99cd0003e15e.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can help so much.",
+          "zh": "我们能提供很多帮助。",
+          "file": "edition-d51f16b39e75.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can grow together.",
+          "zh": "我们能一起成长。",
+          "file": "edition-7e94b1b10818.mp3"
+        },
+        {
+          "page": 79,
+          "en": "Together we grow up right!",
+          "zh": "我们一起健康成长！",
+          "file": "edition-bfcf44ea1f88.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-35.mp3",
+        "source": {
+          "file": "sentence-35.mp3",
+          "text": "we",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=we&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "245219d2449d2b882425c8e88fbe2ecfa382d97da218e0a1d2d5f2b3e1d3c8b1",
+          "validation": {
+            "duration": 0.744,
+            "peak": 15148
+          }
+        }
+      }
     },
     {
       "key": "i",
@@ -482,12 +633,6 @@
         },
         {
           "page": 40,
-          "en": "I like fresh air.",
-          "zh": "我喜欢新鲜空气。",
-          "file": "sentence-17.mp3"
-        },
-        {
-          "page": 40,
           "en": "Yes, I do.",
           "zh": "是的，我喜欢。",
           "file": "sentence-19.mp3"
@@ -512,12 +657,6 @@
         },
         {
           "page": 49,
-          "en": "I love fresh air.",
-          "zh": "我喜欢新鲜空气。",
-          "file": "sentence-88.mp3"
-        },
-        {
-          "page": 49,
           "en": "I am big now.",
           "zh": "我现在长大了。",
           "file": "sentence-90.mp3"
@@ -529,10 +668,46 @@
           "file": "sentence-91.mp3"
         },
         {
+          "page": 40,
+          "en": "I like the fresh air.",
+          "zh": "我喜欢新鲜的空气。",
+          "file": "edition-8a6a5551d235.mp3"
+        },
+        {
+          "page": 49,
+          "en": "I love the fresh air.",
+          "zh": "我喜爱新鲜的空气。",
+          "file": "edition-9f59504a1b90.mp3"
+        },
+        {
           "page": 90,
           "en": "No, I don't.",
           "zh": "不，我不喜欢。",
           "file": "key-03.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I can water my plants.",
+          "zh": "我能给我的植物浇水。",
+          "file": "edition-ab2c5f9c3650.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I can give them sun.",
+          "zh": "我能让它们晒太阳。",
+          "file": "edition-3817d78d845d.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I can help them grow.",
+          "zh": "我能帮助它们生长。",
+          "file": "edition-6827d6fe6781.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I help them grow alright!",
+          "zh": "我帮助它们好好生长！",
+          "file": "edition-aae7a01e819d.mp3"
         }
       ],
       "reuse": null
@@ -566,165 +741,6 @@
         }
       ],
       "reuse": null
-    },
-    {
-      "key": "no",
-      "en": "no",
-      "zh": "不；不是",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/no.mp3",
-      "spokenText": "no",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 40,
-          "en": "No, I don't. I like bananas.",
-          "zh": "不，我不喜欢。我喜欢香蕉。",
-          "file": "sentence-14.mp3"
-        },
-        {
-          "page": 41,
-          "en": "No, I don't. I like bananas.",
-          "zh": "不，我不喜欢。我喜欢香蕉。",
-          "file": "sentence-14.mp3"
-        },
-        {
-          "page": 90,
-          "en": "No, I don't.",
-          "zh": "不，我不喜欢。",
-          "file": "key-03.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "we",
-      "en": "we",
-      "zh": "我们",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/we.mp3",
-      "spokenText": "we",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 43,
-          "en": "We can water the flowers.",
-          "zh": "我们可以给花浇水。",
-          "file": "sentence-46.mp3"
-        },
-        {
-          "page": 43,
-          "en": "We can water the grass.",
-          "zh": "我们可以给草浇水。",
-          "file": "sentence-47.mp3"
-        },
-        {
-          "page": 43,
-          "en": "We can plant new trees.",
-          "zh": "我们可以种新的树。",
-          "file": "sentence-49.mp3"
-        },
-        {
-          "page": 43,
-          "en": "How can we help?",
-          "zh": "我们能怎样帮忙？",
-          "file": "sentence-50.mp3"
-        },
-        {
-          "page": 46,
-          "en": "How can we help?",
-          "zh": "我们能怎样帮忙？",
-          "file": "sentence-50.mp3"
-        },
-        {
-          "page": 43,
-          "en": "We can plant trees.",
-          "zh": "我们可以种树。",
-          "file": "sentence-51.mp3"
-        },
-        {
-          "page": 45,
-          "en": "We need plants, and we can help them too.",
-          "zh": "我们需要植物，我们也能帮助它们。",
-          "file": "sentence-68.mp3"
-        },
-        {
-          "page": 45,
-          "en": "We can help them.",
-          "zh": "我们能帮助它们。",
-          "file": "sentence-72.mp3"
-        },
-        {
-          "page": 47,
-          "en": "We can help them.",
-          "zh": "我们能帮助它们。",
-          "file": "sentence-72.mp3"
-        },
-        {
-          "page": 47,
-          "en": "We ...",
-          "zh": "我们……",
-          "file": "sentence-81.mp3"
-        },
-        {
-          "page": 49,
-          "en": "We are all happy!",
-          "zh": "我们都很开心！",
-          "file": "sentence-92.mp3"
-        },
-        {
-          "page": 49,
-          "en": "We need plants to live.",
-          "zh": "我们的生活需要植物。",
-          "file": "sentence-93.mp3"
-        },
-        {
-          "page": 49,
-          "en": "We can help plants grow.",
-          "zh": "我们能帮助植物生长。",
-          "file": "sentence-94.mp3"
-        },
-        {
-          "page": 38,
-          "en": "How do we connect with plants?",
-          "zh": "我们与植物有什么联系？",
-          "file": "topic-page38.mp3"
-        },
-        {
-          "page": 40,
-          "en": "What do we get from plants?",
-          "zh": "我们从植物中获得什么？",
-          "file": "topic-page40.mp3"
-        },
-        {
-          "page": 43,
-          "en": "How can we help plants?",
-          "zh": "我们怎样帮助植物？",
-          "file": "topic-page43.mp3"
-        }
-      ],
-      "reuse": {
-        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
-        "file": "sentence-35.mp3",
-        "source": {
-          "file": "sentence-35.mp3",
-          "text": "we",
-          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=we&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "245219d2449d2b882425c8e88fbe2ecfa382d97da218e0a1d2d5f2b3e1d3c8b1"
-        }
-      }
     },
     {
       "key": "yes",
@@ -767,30 +783,112 @@
           "file": "sentence-46.mp3",
           "text": "yes",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=yes&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "577e43126ded588f09876ac796281770020e0c824a6629a783c45113ffc118d7"
+          "sha256": "577e43126ded588f09876ac796281770020e0c824a6629a783c45113ffc118d7",
+          "validation": {
+            "duration": 0.936,
+            "peak": 14994
+          }
         }
       }
     },
     {
-      "key": "with",
-      "en": "with",
-      "zh": "和……一起；带有；以……方式",
+      "key": "and",
+      "en": "and",
+      "zh": "和；与",
       "kind": "word",
       "aliases": [],
       "base": "",
       "expanded": "",
-      "note": "with care 表示“认真地；用心地”。",
-      "file": "supplemental/with.mp3",
-      "spokenText": "with",
+      "note": "",
+      "file": "supplemental/and.mp3",
+      "spokenText": "and",
       "audioSource": "Google Translate",
       "definitionSource": "课文补充释义（按原句核对）",
       "reviewStatus": "待人工审听",
       "occurrences": [
         {
+          "page": 39,
+          "en": "Plants and us",
+          "zh": "植物与我们",
+          "file": "sentence-11.mp3"
+        },
+        {
+          "page": 40,
+          "en": "Yes, I do. And you?",
+          "zh": "是的，我喜欢。你呢？",
+          "file": "sentence-13.mp3"
+        },
+        {
+          "page": 41,
+          "en": "Apples and oranges make you strong.",
+          "zh": "苹果和橙子让你强壮。",
+          "file": "sentence-25.mp3"
+        },
+        {
+          "page": 41,
+          "en": "Trees grow and give us things:",
+          "zh": "树木生长，给予我们许多东西：",
+          "file": "sentence-26.mp3"
+        },
+        {
+          "page": 41,
+          "en": "Fresh air, flowers and leaves in spring.",
+          "zh": "春天的新鲜空气、花朵和树叶。",
+          "file": "sentence-27.mp3"
+        },
+        {
+          "page": 43,
+          "en": "Nice. And?",
+          "zh": "很好。还有呢？",
+          "file": "sentence-48.mp3"
+        },
+        {
+          "page": 44,
+          "en": "Plants need air, water and sun.",
+          "zh": "植物需要空气、水和阳光。",
+          "file": "sentence-59.mp3"
+        },
+        {
+          "page": 45,
+          "en": "Plants need air, water and sun.",
+          "zh": "植物需要空气、水和阳光。",
+          "file": "sentence-59.mp3"
+        },
+        {
+          "page": 44,
+          "en": "Air, water and sun.",
+          "zh": "空气、水和阳光。",
+          "file": "sentence-60.mp3"
+        },
+        {
+          "page": 44,
+          "en": "Plant, water, cut and turn.",
+          "zh": "种植、浇水、修剪和翻动。",
+          "file": "sentence-62.mp3"
+        },
+        {
+          "page": 47,
+          "en": "The apple trees need air, water and sun.",
+          "zh": "这些苹果树需要空气、水和阳光。",
+          "file": "sentence-80.mp3"
+        },
+        {
+          "page": 48,
+          "en": "I need air, water and sun.",
+          "zh": "我需要空气、水和阳光。",
+          "file": "sentence-84.mp3"
+        },
+        {
           "page": 38,
-          "en": "How do we connect with plants?",
-          "zh": "我们与植物有什么联系？",
-          "file": "topic-page38.mp3"
+          "en": "How do plants and people help each other?",
+          "zh": "植物和人怎样相互帮助？",
+          "file": "edition-7c320566f50a.mp3"
+        },
+        {
+          "page": 45,
+          "en": "Flowers need air, water and sun.",
+          "zh": "花需要空气、水和阳光。",
+          "file": "edition-23f1eb2ce788.mp3"
         }
       ],
       "reuse": null
@@ -837,7 +935,7 @@
         {
           "page": 40,
           "en": "Do you like the farm?",
-          "zh": "你喜欢这个农场吗？",
+          "zh": "你们喜欢农场吗？",
           "file": "sentence-15.mp3"
         },
         {
@@ -871,16 +969,130 @@
           "file": "sentence-75.mp3"
         },
         {
-          "page": 38,
-          "en": "How do we connect with plants?",
-          "zh": "我们与植物有什么联系？",
-          "file": "topic-page38.mp3"
-        },
-        {
           "page": 40,
           "en": "What do we get from plants?",
           "zh": "我们从植物中获得什么？",
           "file": "topic-page40.mp3"
+        },
+        {
+          "page": 38,
+          "en": "How do plants and people help each other?",
+          "zh": "植物和人怎样相互帮助？",
+          "file": "edition-7c320566f50a.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "together",
+      "en": "together",
+      "zh": "一起",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/together.mp3",
+      "spokenText": "together",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "We can grow together.",
+          "zh": "我们能一起成长。",
+          "file": "edition-7e94b1b10818.mp3"
+        },
+        {
+          "page": 79,
+          "en": "Together we grow up right!",
+          "zh": "我们一起健康成长！",
+          "file": "edition-bfcf44ea1f88.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "food",
+      "en": "food",
+      "zh": "食物",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/food.mp3",
+      "spokenText": "food",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "Plants can give me food.",
+          "zh": "植物能为我提供食物。",
+          "file": "edition-7e5ace638368.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "each",
+      "en": "each",
+      "zh": "每个",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "与 other 连用，each other 表示“互相；彼此”。",
+      "file": "supplemental/each.mp3",
+      "spokenText": "each",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 38,
+          "en": "How do plants and people help each other?",
+          "zh": "植物和人怎样相互帮助？",
+          "file": "edition-7c320566f50a.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can help each other.",
+          "zh": "我们能相互帮助。",
+          "file": "edition-99cd0003e15e.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "other",
+      "en": "other",
+      "zh": "另一个；其他的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "与 each 连用，each other 表示“互相；彼此”。",
+      "file": "supplemental/other.mp3",
+      "spokenText": "other",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 38,
+          "en": "How do plants and people help each other?",
+          "zh": "植物和人怎样相互帮助？",
+          "file": "edition-7c320566f50a.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can help each other.",
+          "zh": "我们能相互帮助。",
+          "file": "edition-99cd0003e15e.mp3"
         }
       ],
       "reuse": null
@@ -905,6 +1117,72 @@
           "en": "I am big now.",
           "zh": "我现在长大了。",
           "file": "sentence-90.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "how",
+      "en": "how",
+      "zh": "怎样；多么",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/how.mp3",
+      "spokenText": "how",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 43,
+          "en": "How can we help?",
+          "zh": "我们能怎样帮忙？",
+          "file": "sentence-50.mp3"
+        },
+        {
+          "page": 46,
+          "en": "How can we help?",
+          "zh": "我们能怎样帮忙？",
+          "file": "sentence-50.mp3"
+        },
+        {
+          "page": 43,
+          "en": "How can we help plants?",
+          "zh": "我们怎样帮助植物？",
+          "file": "topic-page43.mp3"
+        },
+        {
+          "page": 38,
+          "en": "How do plants and people help each other?",
+          "zh": "植物和人怎样相互帮助？",
+          "file": "edition-7c320566f50a.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "happy",
+      "en": "happy",
+      "zh": "快乐的；开心的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/happy.mp3",
+      "spokenText": "happy",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 49,
+          "en": "We are all happy!",
+          "zh": "我们都很开心！",
+          "file": "sentence-92.mp3"
         }
       ],
       "reuse": null
@@ -964,48 +1242,6 @@
       "reuse": null
     },
     {
-      "key": "how",
-      "en": "how",
-      "zh": "怎样；多么",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/how.mp3",
-      "spokenText": "how",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 43,
-          "en": "How can we help?",
-          "zh": "我们能怎样帮忙？",
-          "file": "sentence-50.mp3"
-        },
-        {
-          "page": 46,
-          "en": "How can we help?",
-          "zh": "我们能怎样帮忙？",
-          "file": "sentence-50.mp3"
-        },
-        {
-          "page": 38,
-          "en": "How do we connect with plants?",
-          "zh": "我们与植物有什么联系？",
-          "file": "topic-page38.mp3"
-        },
-        {
-          "page": 43,
-          "en": "How can we help plants?",
-          "zh": "我们怎样帮助植物？",
-          "file": "topic-page43.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
       "key": "the",
       "en": "the",
       "zh": "特指的人或事物（常不单独翻译）",
@@ -1023,7 +1259,7 @@
         {
           "page": 40,
           "en": "Do you like the farm?",
-          "zh": "你喜欢这个农场吗？",
+          "zh": "你们喜欢农场吗？",
           "file": "sentence-15.mp3"
         },
         {
@@ -1067,30 +1303,42 @@
           "en": "The flowers are so beautiful!",
           "zh": "这些花真漂亮！",
           "file": "sentence-89.mp3"
+        },
+        {
+          "page": 40,
+          "en": "I like the fresh air.",
+          "zh": "我喜欢新鲜的空气。",
+          "file": "edition-8a6a5551d235.mp3"
+        },
+        {
+          "page": 49,
+          "en": "I love the fresh air.",
+          "zh": "我喜爱新鲜的空气。",
+          "file": "edition-9f59504a1b90.mp3"
         }
       ],
       "reuse": null
     },
     {
-      "key": "happy",
-      "en": "happy",
-      "zh": "快乐的；开心的",
+      "key": "people",
+      "en": "people",
+      "zh": "人；人们",
       "kind": "word",
       "aliases": [],
       "base": "",
       "expanded": "",
       "note": "",
-      "file": "supplemental/happy.mp3",
-      "spokenText": "happy",
+      "file": "supplemental/people.mp3",
+      "spokenText": "people",
       "audioSource": "Google Translate",
       "definitionSource": "课文补充释义（按原句核对）",
       "reviewStatus": "待人工审听",
       "occurrences": [
         {
-          "page": 49,
-          "en": "We are all happy!",
-          "zh": "我们都很开心！",
-          "file": "sentence-92.mp3"
+          "page": 38,
+          "en": "How do plants and people help each other?",
+          "zh": "植物和人怎样相互帮助？",
+          "file": "edition-7c320566f50a.mp3"
         }
       ],
       "reuse": null
@@ -1124,7 +1372,11 @@
           "file": "sentence-44.mp3",
           "text": "pig",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=pig&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "8fd2b8080c734757ed625a46369781eec37c6643012bbd5541e0501df6f8d0fc"
+          "sha256": "8fd2b8080c734757ed625a46369781eec37c6643012bbd5541e0501df6f8d0fc",
+          "validation": {
+            "duration": 0.768,
+            "peak": 17439
+          }
         }
       }
     },
@@ -1175,9 +1427,9 @@
       "occurrences": [
         {
           "page": 49,
-          "en": "I love fresh air.",
-          "zh": "我喜欢新鲜空气。",
-          "file": "sentence-88.mp3"
+          "en": "I love the fresh air.",
+          "zh": "我喜爱新鲜的空气。",
+          "file": "edition-9f59504a1b90.mp3"
         }
       ],
       "reuse": null
@@ -1256,6 +1508,12 @@
           "en": "The flowers are so beautiful!",
           "zh": "这些花真漂亮！",
           "file": "sentence-89.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can help so much.",
+          "zh": "我们能提供很多帮助。",
+          "file": "edition-d51f16b39e75.mp3"
         }
       ],
       "reuse": null
@@ -1278,7 +1536,7 @@
         {
           "page": 45,
           "en": "Plants can give us many things.",
-          "zh": "植物能给我们许多东西。",
+          "zh": "植物能为我们提供很多东西。",
           "file": "sentence-67.mp3"
         }
       ],
@@ -1427,7 +1685,11 @@
           "file": "sentence-41.mp3",
           "text": "hop",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=hop&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "e561d9679812b8d582d6f1887ec53cc84ccb8d27ecf8db3f6e33b00340e3324b"
+          "sha256": "e561d9679812b8d582d6f1887ec53cc84ccb8d27ecf8db3f6e33b00340e3324b",
+          "validation": {
+            "duration": 0.744,
+            "peak": 17332
+          }
         }
       }
     },
@@ -1451,54 +1713,6 @@
           "en": "Yes, Miss White.",
           "zh": "是的，怀特老师。",
           "file": "sentence-16.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "our",
-      "en": "our",
-      "zh": "我们的",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/our.mp3",
-      "spokenText": "our",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 44,
-          "en": "Plants need our help.",
-          "zh": "植物需要我们的帮助。",
-          "file": "sentence-52.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
-      "key": "live",
-      "en": "live",
-      "zh": "生活；居住",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "本课使用动词义。该词有不同词性或词形读法，单词音频须重点核听，并与下方原句对照。",
-      "file": "supplemental/live.mp3",
-      "spokenText": "live",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 49,
-          "en": "We need plants to live.",
-          "zh": "我们的生活需要植物。",
-          "file": "sentence-93.mp3"
         }
       ],
       "reuse": null
@@ -1556,39 +1770,9 @@
         },
         {
           "page": 45,
-          "en": "They help plants grow.",
-          "zh": "它们帮助植物生长。",
-          "file": "sentence-66.mp3"
-        },
-        {
-          "page": 45,
           "en": "Plants can give us many things.",
-          "zh": "植物能给我们许多东西。",
+          "zh": "植物能为我们提供很多东西。",
           "file": "sentence-67.mp3"
-        },
-        {
-          "page": 45,
-          "en": "We need plants, and we can help them too.",
-          "zh": "我们需要植物，我们也能帮助它们。",
-          "file": "sentence-68.mp3"
-        },
-        {
-          "page": 49,
-          "en": "We need plants to live.",
-          "zh": "我们的生活需要植物。",
-          "file": "sentence-93.mp3"
-        },
-        {
-          "page": 49,
-          "en": "We can help plants grow.",
-          "zh": "我们能帮助植物生长。",
-          "file": "sentence-94.mp3"
-        },
-        {
-          "page": 38,
-          "en": "How do we connect with plants?",
-          "zh": "我们与植物有什么联系？",
-          "file": "topic-page38.mp3"
         },
         {
           "page": 40,
@@ -1601,6 +1785,42 @@
           "en": "How can we help plants?",
           "zh": "我们怎样帮助植物？",
           "file": "topic-page43.mp3"
+        },
+        {
+          "page": 38,
+          "en": "How do plants and people help each other?",
+          "zh": "植物和人怎样相互帮助？",
+          "file": "edition-7c320566f50a.mp3"
+        },
+        {
+          "page": 45,
+          "en": "We need plants.",
+          "zh": "我们需要植物。",
+          "file": "edition-e6798d3928f1.mp3"
+        },
+        {
+          "page": 79,
+          "en": "I can water my plants.",
+          "zh": "我能给我的植物浇水。",
+          "file": "edition-ab2c5f9c3650.mp3"
+        },
+        {
+          "page": 79,
+          "en": "Plants can give me air.",
+          "zh": "植物能为我提供空气。",
+          "file": "edition-0367933b0e2d.mp3"
+        },
+        {
+          "page": 79,
+          "en": "Plants can give me food.",
+          "zh": "植物能为我提供食物。",
+          "file": "edition-7e5ace638368.mp3"
+        },
+        {
+          "page": 79,
+          "en": "Plants can help me grow, grow, grow.",
+          "zh": "植物能帮助我成长、成长、成长。",
+          "file": "edition-8c857cdca0a4.mp3"
         }
       ],
       "reuse": null
@@ -1652,7 +1872,11 @@
           "file": "sentence-34.mp3",
           "text": "see",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=see&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "0014a0856ab69c5317fbcb7c625ad7a520e7157d8d3a2777f302d3fad8ffb9ee"
+          "sha256": "0014a0856ab69c5317fbcb7c625ad7a520e7157d8d3a2777f302d3fad8ffb9ee",
+          "validation": {
+            "duration": 0.864,
+            "peak": 11578
+          }
         }
       }
     },
@@ -1757,7 +1981,11 @@
           "file": "sentence-23.mp3",
           "text": "grapes",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=grapes&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "7136942ad6c206bba806aa19842ff8921f56cddabf0c2fb571a9f36d6ef0a2f7"
+          "sha256": "7136942ad6c206bba806aa19842ff8921f56cddabf0c2fb571a9f36d6ef0a2f7",
+          "validation": {
+            "duration": 1.008,
+            "peak": 13414
+          }
         }
       }
     },
@@ -1825,12 +2053,6 @@
           "file": "sentence-25.mp3"
         },
         {
-          "page": 45,
-          "en": "They can give us apples.",
-          "zh": "它们能给我们苹果。",
-          "file": "sentence-73.mp3"
-        },
-        {
           "page": 49,
           "en": "I give apples to my family.",
           "zh": "我把苹果送给我的家人。",
@@ -1844,7 +2066,11 @@
           "file": "sentence-22.mp3",
           "text": "apples",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=apples&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "5b3a2fa9758d6bd81efe45a4cd2399af8efd6535ab608c3b0800dd8356744fac"
+          "sha256": "5b3a2fa9758d6bd81efe45a4cd2399af8efd6535ab608c3b0800dd8356744fac",
+          "validation": {
+            "duration": 1.056,
+            "peak": 18734
+          }
         }
       }
     },
@@ -1882,16 +2108,40 @@
           "file": "sentence-61.mp3"
         },
         {
-          "page": 45,
-          "en": "They help plants grow.",
-          "zh": "它们帮助植物生长。",
-          "file": "sentence-66.mp3"
+          "page": 79,
+          "en": "I can help them grow.",
+          "zh": "我能帮助它们生长。",
+          "file": "edition-6827d6fe6781.mp3"
         },
         {
-          "page": 49,
-          "en": "We can help plants grow.",
-          "zh": "我们能帮助植物生长。",
-          "file": "sentence-94.mp3"
+          "page": 79,
+          "en": "I help them grow alright!",
+          "zh": "我帮助它们好好生长！",
+          "file": "edition-aae7a01e819d.mp3"
+        },
+        {
+          "page": 79,
+          "en": "Plants can help me grow, grow, grow.",
+          "zh": "植物能帮助我成长、成长、成长。",
+          "file": "edition-8c857cdca0a4.mp3"
+        },
+        {
+          "page": 79,
+          "en": "They help me grow alright!",
+          "zh": "它们帮助我好好成长！",
+          "file": "edition-ac3977db3f3f.mp3"
+        },
+        {
+          "page": 79,
+          "en": "We can grow together.",
+          "zh": "我们能一起成长。",
+          "file": "edition-7e94b1b10818.mp3"
+        },
+        {
+          "page": 79,
+          "en": "Together we grow up right!",
+          "zh": "我们一起健康成长！",
+          "file": "edition-bfcf44ea1f88.mp3"
         }
       ],
       "reuse": null
@@ -1955,45 +2205,13 @@
           "file": "sentence-20.mp3",
           "text": "bananas",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bananas&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "fa3dc8b7d882b741c1b92605cb9a7405200ed558ae05f70e66dfe925001c4338"
+          "sha256": "fa3dc8b7d882b741c1b92605cb9a7405200ed558ae05f70e66dfe925001c4338",
+          "validation": {
+            "duration": 1.128,
+            "peak": 12616
+          }
         }
       }
-    },
-    {
-      "key": "fresh",
-      "en": "fresh",
-      "zh": "新鲜的",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/fresh.mp3",
-      "spokenText": "fresh",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 40,
-          "en": "I like fresh air.",
-          "zh": "我喜欢新鲜空气。",
-          "file": "sentence-17.mp3"
-        },
-        {
-          "page": 41,
-          "en": "Fresh air, flowers and leaves in spring.",
-          "zh": "春天的新鲜空气、花朵和树叶。",
-          "file": "sentence-27.mp3"
-        },
-        {
-          "page": 49,
-          "en": "I love fresh air.",
-          "zh": "我喜欢新鲜空气。",
-          "file": "sentence-88.mp3"
-        }
-      ],
-      "reuse": null
     },
     {
       "key": "oranges",
@@ -2042,7 +2260,11 @@
           "file": "sentence-21.mp3",
           "text": "oranges",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=oranges&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "6930086f00e408f2ae6db83504c4e979cd6694289a0ed492fa566223e9c591d9"
+          "sha256": "6930086f00e408f2ae6db83504c4e979cd6694289a0ed492fa566223e9c591d9",
+          "validation": {
+            "duration": 1.176,
+            "peak": 16554
+          }
         }
       }
     },
@@ -2118,7 +2340,7 @@
         {
           "page": 43,
           "en": "We can plant new trees.",
-          "zh": "我们可以种新的树。",
+          "zh": "我们可以新种些树。",
           "file": "sentence-49.mp3"
         },
         {
@@ -2132,12 +2354,6 @@
           "en": "trees",
           "zh": "树（复数）",
           "file": "sentence-57.mp3"
-        },
-        {
-          "page": 45,
-          "en": "Apple trees need air, water and sun.",
-          "zh": "苹果树需要空气、水和阳光。",
-          "file": "sentence-71.mp3"
         },
         {
           "page": 46,
@@ -2159,7 +2375,11 @@
           "file": "sentence-57.mp3",
           "text": "trees",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=trees&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "b977bea5c11a2e06be6f11479d9d5dc76e8b9617781370102c2082e4750314bc"
+          "sha256": "b977bea5c11a2e06be6f11479d9d5dc76e8b9617781370102c2082e4750314bc",
+          "validation": {
+            "duration": 0.984,
+            "peak": 15884
+          }
         }
       }
     },
@@ -2193,8 +2413,44 @@
         {
           "page": 45,
           "en": "Plants can give us many things.",
-          "zh": "植物能给我们许多东西。",
+          "zh": "植物能为我们提供很多东西。",
           "file": "sentence-67.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "fresh",
+      "en": "fresh",
+      "zh": "新鲜的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/fresh.mp3",
+      "spokenText": "fresh",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 41,
+          "en": "Fresh air, flowers and leaves in spring.",
+          "zh": "春天的新鲜空气、花朵和树叶。",
+          "file": "sentence-27.mp3"
+        },
+        {
+          "page": 40,
+          "en": "I like the fresh air.",
+          "zh": "我喜欢新鲜的空气。",
+          "file": "edition-8a6a5551d235.mp3"
+        },
+        {
+          "page": 49,
+          "en": "I love the fresh air.",
+          "zh": "我喜爱新鲜的空气。",
+          "file": "edition-9f59504a1b90.mp3"
         }
       ],
       "reuse": null
@@ -2243,6 +2499,12 @@
           "en": "The flowers are so beautiful!",
           "zh": "这些花真漂亮！",
           "file": "sentence-89.mp3"
+        },
+        {
+          "page": 45,
+          "en": "Flowers need air, water and sun.",
+          "zh": "花需要空气、水和阳光。",
+          "file": "edition-23f1eb2ce788.mp3"
         }
       ],
       "reuse": {
@@ -2252,7 +2514,11 @@
           "file": "sentence-56.mp3",
           "text": "flowers",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=flowers&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "4e971ff4e101d6ae2c944ecdcdbc71a52a771cbc72831bb5abcc042318282676"
+          "sha256": "4e971ff4e101d6ae2c944ecdcdbc71a52a771cbc72831bb5abcc042318282676",
+          "validation": {
+            "duration": 1.128,
+            "peak": 17606
+          }
         }
       }
     },
@@ -2333,7 +2599,11 @@
           "file": "sentence-32.mp3",
           "text": "map",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=map&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "0f03e35dcf6e62ff92f2d8f863fd37a7291adf5dc25b79b92c81af060b3e8b9a"
+          "sha256": "0f03e35dcf6e62ff92f2d8f863fd37a7291adf5dc25b79b92c81af060b3e8b9a",
+          "validation": {
+            "duration": 0.744,
+            "peak": 17081
+          }
         }
       }
     },
@@ -2366,7 +2636,11 @@
           "file": "sentence-35.mp3",
           "text": "fan",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=fan&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "21b1965c3e0b7b9491fb21254b07c702e1211d015a6bce410b258408968df312"
+          "sha256": "21b1965c3e0b7b9491fb21254b07c702e1211d015a6bce410b258408968df312",
+          "validation": {
+            "duration": 0.84,
+            "peak": 15747
+          }
         }
       }
     },
@@ -2399,7 +2673,11 @@
           "file": "sentence-38.mp3",
           "text": "pen",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=pen&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "f92de782267bea2a7cb9e5539c978b27d6b58b071ebb086759b13431ba701db9"
+          "sha256": "f92de782267bea2a7cb9e5539c978b27d6b58b071ebb086759b13431ba701db9",
+          "validation": {
+            "duration": 0.792,
+            "peak": 12149
+          }
         }
       }
     },
@@ -2432,7 +2710,11 @@
           "file": "sentence-39.mp3",
           "text": "cup",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cup&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "9ef692018bd2f1552750bb7d01dc2ec5150ff403a4f4fae955849f3bcd410605"
+          "sha256": "9ef692018bd2f1552750bb7d01dc2ec5150ff403a4f4fae955849f3bcd410605",
+          "validation": {
+            "duration": 0.72,
+            "peak": 16720
+          }
         }
       }
     },
@@ -2465,7 +2747,11 @@
           "file": "sentence-40.mp3",
           "text": "nod",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=nod&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "1688d5e270fc4744981fe27fd8a5d4aad021dc279403b345a80cc1feb2936a23"
+          "sha256": "1688d5e270fc4744981fe27fd8a5d4aad021dc279403b345a80cc1feb2936a23",
+          "validation": {
+            "duration": 0.768,
+            "peak": 17018
+          }
         }
       }
     },
@@ -2498,7 +2784,11 @@
           "file": "sentence-42.mp3",
           "text": "men",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=men&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "aecaa59eb5223b06007a6f4ee97a7abb703684637ce8f82345bf203f7bc39cc4"
+          "sha256": "aecaa59eb5223b06007a6f4ee97a7abb703684637ce8f82345bf203f7bc39cc4",
+          "validation": {
+            "duration": 0.816,
+            "peak": 14759
+          }
         }
       }
     },
@@ -2531,7 +2821,11 @@
           "file": "sentence-43.mp3",
           "text": "nap",
           "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=nap&tl=en&client=tw-ob&ttsspeed=1",
-          "sha256": "9c48e69fa0e1fc0784308fd8ef9b62d64dadaf0329e74cbb1c50ae7985fcc78a"
+          "sha256": "9c48e69fa0e1fc0784308fd8ef9b62d64dadaf0329e74cbb1c50ae7985fcc78a",
+          "validation": {
+            "duration": 0.744,
+            "peak": 15362
+          }
         }
       }
     },
@@ -2555,6 +2849,30 @@
           "en": "The school gardens need help.",
           "zh": "学校的花园需要帮助。",
           "file": "sentence-45.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "our",
+      "en": "our",
+      "zh": "我们的",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/our.mp3",
+      "spokenText": "our",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 44,
+          "en": "Plants need our help.",
+          "zh": "植物需要我们的帮助。",
+          "file": "sentence-52.mp3"
         }
       ],
       "reuse": null
@@ -2656,30 +2974,6 @@
       "reuse": null
     },
     {
-      "key": "connect",
-      "en": "connect",
-      "zh": "联系；连接",
-      "kind": "word",
-      "aliases": [],
-      "base": "",
-      "expanded": "",
-      "note": "",
-      "file": "supplemental/connect.mp3",
-      "spokenText": "connect",
-      "audioSource": "Google Translate",
-      "definitionSource": "课文补充释义（按原句核对）",
-      "reviewStatus": "待人工审听",
-      "occurrences": [
-        {
-          "page": 38,
-          "en": "How do we connect with plants?",
-          "zh": "我们与植物有什么联系？",
-          "file": "topic-page38.mp3"
-        }
-      ],
-      "reuse": null
-    },
-    {
       "key": "get",
       "en": "get",
       "zh": "得到；获得",
@@ -2726,6 +3020,134 @@
         }
       ],
       "reuse": null
+    },
+    {
+      "key": "alright",
+      "en": "alright",
+      "zh": "好好地；顺利地",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/alright.mp3",
+      "spokenText": "alright",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "I help them grow alright!",
+          "zh": "我帮助它们好好生长！",
+          "file": "edition-aae7a01e819d.mp3"
+        },
+        {
+          "page": 79,
+          "en": "They help me grow alright!",
+          "zh": "它们帮助我好好成长！",
+          "file": "edition-ac3977db3f3f.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "much",
+      "en": "much",
+      "zh": "很多；大量",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/much.mp3",
+      "spokenText": "much",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "We can help so much.",
+          "zh": "我们能提供很多帮助。",
+          "file": "edition-d51f16b39e75.mp3"
+        }
+      ],
+      "reuse": null
+    },
+    {
+      "key": "up",
+      "en": "up",
+      "zh": "向上",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/up.mp3",
+      "spokenText": "up",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "Together we grow up right!",
+          "zh": "我们一起健康成长！",
+          "file": "edition-bfcf44ea1f88.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit5/google-v1",
+        "file": "sentence-38.mp3",
+        "source": {
+          "file": "sentence-38.mp3",
+          "text": "up",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=up&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "acdda4074e5815ae24b2a824ddf8260fb124911c1058c236a459c7066d98b42d",
+          "validation": {
+            "duration": 0.624,
+            "peak": 15436
+          }
+        }
+      }
+    },
+    {
+      "key": "right",
+      "en": "right",
+      "zh": "对。",
+      "kind": "word",
+      "aliases": [],
+      "base": "",
+      "expanded": "",
+      "note": "",
+      "file": "supplemental/right.mp3",
+      "spokenText": "Right.",
+      "audioSource": "Google Translate",
+      "definitionSource": "课文补充释义（按原句核对）",
+      "reviewStatus": "待人工审听",
+      "occurrences": [
+        {
+          "page": 79,
+          "en": "Together we grow up right!",
+          "zh": "我们一起健康成长！",
+          "file": "edition-bfcf44ea1f88.mp3"
+        }
+      ],
+      "reuse": {
+        "audioDirectory": "audio/2026-10-23-pep-unit6/google-v1",
+        "file": "sentence-91.mp3",
+        "source": {
+          "file": "sentence-91.mp3",
+          "text": "Right.",
+          "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Right.&tl=en&client=tw-ob&ttsspeed=1",
+          "sha256": "9ef1f9727dae3409c887fb0d55a18b548629d2380be76cdd9d1fbfd5d75b24e9",
+          "validation": {
+            "duration": 0.696,
+            "peak": 19394
+          }
+        }
+      }
     }
   ]
 }

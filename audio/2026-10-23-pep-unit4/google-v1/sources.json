@@ -3,702 +3,1200 @@
     "file": "apple.mp3",
     "text": "apple",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=apple&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "975b26de0a6ecb7b53c3edacd2cdab5f11bad729bc853afb808f3b6d052342b1"
+    "sha256": "975b26de0a6ecb7b53c3edacd2cdab5f11bad729bc853afb808f3b6d052342b1",
+    "validation": {
+      "duration": 0.84,
+      "peak": 18491
+    }
   },
   {
     "file": "banana.mp3",
     "text": "banana",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=banana&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3ceb726f7d973a436fd4a9e9f753759076818d3d8425df6ee60b707fba89db8d"
+    "sha256": "3ceb726f7d973a436fd4a9e9f753759076818d3d8425df6ee60b707fba89db8d",
+    "validation": {
+      "duration": 0.888,
+      "peak": 12378
+    }
   },
   {
     "file": "farm.mp3",
     "text": "farm",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=farm&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4fa87e63447d47d497ffbc21041f80b6164248d2f5e9a02d799595da99a8d9b2"
+    "sha256": "4fa87e63447d47d497ffbc21041f80b6164248d2f5e9a02d799595da99a8d9b2",
+    "validation": {
+      "duration": 0.864,
+      "peak": 16439
+    }
   },
   {
     "file": "air.mp3",
     "text": "air",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=air&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7b8a78684fb90dd3436ed55c6e19e17202ad4adc0a682108a33a9940f58c4200"
+    "sha256": "7b8a78684fb90dd3436ed55c6e19e17202ad4adc0a682108a33a9940f58c4200",
+    "validation": {
+      "duration": 0.744,
+      "peak": 12711
+    }
   },
   {
     "file": "orange.mp3",
     "text": "orange",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=orange&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8f14ff97c09149fbf5c8d2e0a129ca4195ff8118d7aaa63fdeb936342574f903"
+    "sha256": "8f14ff97c09149fbf5c8d2e0a129ca4195ff8118d7aaa63fdeb936342574f903",
+    "validation": {
+      "duration": 0.984,
+      "peak": 14962
+    }
   },
   {
     "file": "grape.mp3",
     "text": "grape",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=grape&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9478e76634b0805b79867dede5088579e687229f53348ac9a0233cc89882bb01"
+    "sha256": "9478e76634b0805b79867dede5088579e687229f53348ac9a0233cc89882bb01",
+    "validation": {
+      "duration": 0.792,
+      "peak": 13404
+    }
   },
   {
     "file": "school.mp3",
     "text": "school",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=school&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fdb02a2c876fb4bc27061ce84e9af6aaa4a5e4988c6472463f2cb48cfb4eabc9"
+    "sha256": "fdb02a2c876fb4bc27061ce84e9af6aaa4a5e4988c6472463f2cb48cfb4eabc9",
+    "validation": {
+      "duration": 0.96,
+      "peak": 12523
+    }
   },
   {
     "file": "garden.mp3",
     "text": "garden",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=garden&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c2049f517a4ab4c473a3eb02fe3b1a936e90a8ec27fbec161255ab00e00cdace"
+    "sha256": "c2049f517a4ab4c473a3eb02fe3b1a936e90a8ec27fbec161255ab00e00cdace",
+    "validation": {
+      "duration": 0.888,
+      "peak": 21119
+    }
   },
   {
     "file": "need.mp3",
     "text": "need",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=need&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b2d80466545196154b9e726845372e0fd4ee4481ad4e88089453e9c5e55c38bc"
+    "sha256": "b2d80466545196154b9e726845372e0fd4ee4481ad4e88089453e9c5e55c38bc",
+    "validation": {
+      "duration": 0.768,
+      "peak": 20839
+    }
   },
   {
     "file": "water.mp3",
     "text": "water",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=water&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2d535016ee8fb0d1ae7af719def12bdca878b722aed00ed1258c3fb198d4cf41"
+    "sha256": "2d535016ee8fb0d1ae7af719def12bdca878b722aed00ed1258c3fb198d4cf41",
+    "validation": {
+      "duration": 0.912,
+      "peak": 20533
+    }
   },
   {
     "file": "flower.mp3",
     "text": "flower",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=flower&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "36f505cfc5f3c864c979915d2df5e74b1efa22b4e51ad6267ed5aa33628e6abf"
+    "sha256": "36f505cfc5f3c864c979915d2df5e74b1efa22b4e51ad6267ed5aa33628e6abf",
+    "validation": {
+      "duration": 0.96,
+      "peak": 18261
+    }
   },
   {
     "file": "grass.mp3",
     "text": "grass",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=grass&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fa3699022316c2b43aca87bdaee8b10cbcdeb69756e7e02b0fcfa20890335924"
+    "sha256": "fa3699022316c2b43aca87bdaee8b10cbcdeb69756e7e02b0fcfa20890335924",
+    "validation": {
+      "duration": 1.056,
+      "peak": 19235
+    }
   },
   {
     "file": "plant.mp3",
     "text": "plant",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=plant&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8c4ca803b0810371f576a4e3ea625cfcc71ab9842b9c3936fefe5a3c504a08a6"
+    "sha256": "8c4ca803b0810371f576a4e3ea625cfcc71ab9842b9c3936fefe5a3c504a08a6",
+    "validation": {
+      "duration": 0.816,
+      "peak": 13239
+    }
   },
   {
     "file": "new.mp3",
     "text": "new",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=new&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "079457cb68a441f9687de374b85f7085a902e42dcb78a2fefe71468cb69ab970"
+    "sha256": "079457cb68a441f9687de374b85f7085a902e42dcb78a2fefe71468cb69ab970",
+    "validation": {
+      "duration": 0.744,
+      "peak": 22908
+    }
   },
   {
     "file": "tree.mp3",
     "text": "tree",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tree&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "087dc1eeb2bd77f05c8fc667296e80e1143e0ddf0c52fd2e43c8b7220fc0acc8"
+    "sha256": "087dc1eeb2bd77f05c8fc667296e80e1143e0ddf0c52fd2e43c8b7220fc0acc8",
+    "validation": {
+      "duration": 0.792,
+      "peak": 16996
+    }
   },
   {
     "file": "sun.mp3",
     "text": "sun",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=sun&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fbc9ce95d416a21e542b755a58f3f69ffb879632572a58b493c0f015debe09db"
+    "sha256": "fbc9ce95d416a21e542b755a58f3f69ffb879632572a58b493c0f015debe09db",
+    "validation": {
+      "duration": 0.888,
+      "peak": 14974
+    }
   },
   {
     "file": "give.mp3",
     "text": "give",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=give&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3626944656f23b8813ba66a0f7679ddc0cf3f9a5051e4f0d56a37229e187ceef"
+    "sha256": "3626944656f23b8813ba66a0f7679ddc0cf3f9a5051e4f0d56a37229e187ceef",
+    "validation": {
+      "duration": 0.72,
+      "peak": 22490
+    }
   },
   {
     "file": "us.mp3",
     "text": "us",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=us&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f6d28050611460f85cc7063bcbe83b65a53616999a29ea02d5ffc2751f72e4ee"
+    "sha256": "f6d28050611460f85cc7063bcbe83b65a53616999a29ea02d5ffc2751f72e4ee",
+    "validation": {
+      "duration": 0.864,
+      "peak": 16002
+    }
   },
   {
     "file": "them.mp3",
     "text": "them",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=them&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6e3349344901a0a5564550bbb7f805391bfd5dc1b29c9f0d030555613e44bff0"
+    "sha256": "6e3349344901a0a5564550bbb7f805391bfd5dc1b29c9f0d030555613e44bff0",
+    "validation": {
+      "duration": 0.768,
+      "peak": 14381
+    }
   },
   {
     "file": "sentence-01.mp3",
     "text": "What plants do you see?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+plants+do+you+see%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9f4eb4417a80e84663a5646e48f5c74b3e0e78edcbd0e89b4b664b9da99e578f"
+    "sha256": "9f4eb4417a80e84663a5646e48f5c74b3e0e78edcbd0e89b4b664b9da99e578f",
+    "validation": {
+      "duration": 1.92,
+      "peak": 19900
+    }
   },
   {
     "file": "sentence-02.mp3",
     "text": "What fruit do you like?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+fruit+do+you+like%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c144d5660fc3878fa472548d0121b273dbde18a908e5b8478c8d5acc43fbd8ce"
+    "sha256": "c144d5660fc3878fa472548d0121b273dbde18a908e5b8478c8d5acc43fbd8ce",
+    "validation": {
+      "duration": 1.752,
+      "peak": 18275
+    }
   },
   {
     "file": "sentence-03.mp3",
     "text": "I see an apple.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+see+an+apple.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d5540b270b568788cf56696c688ebd1b8995417f79bdb83533aeb8d580d1b73e"
+    "sha256": "d5540b270b568788cf56696c688ebd1b8995417f79bdb83533aeb8d580d1b73e",
+    "validation": {
+      "duration": 1.32,
+      "peak": 18910
+    }
   },
   {
     "file": "sentence-04.mp3",
     "text": "I see grapes.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+see+grapes.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6c293fa1a9b2e0302f9cff3d231544598155e9df6d94ad1c9b04bbc5152960e3"
+    "sha256": "6c293fa1a9b2e0302f9cff3d231544598155e9df6d94ad1c9b04bbc5152960e3",
+    "validation": {
+      "duration": 1.464,
+      "peak": 14647
+    }
   },
   {
     "file": "sentence-05.mp3",
     "text": "I like fruit.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+fruit.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a4c2775cc0603c31036c199f2edae2abe471d03fb80047ee691108289552041f"
+    "sha256": "a4c2775cc0603c31036c199f2edae2abe471d03fb80047ee691108289552041f",
+    "validation": {
+      "duration": 1.272,
+      "peak": 19868
+    }
   },
   {
     "file": "sentence-06.mp3",
     "text": "Let's eat!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Let%27s+eat%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d6c2d297daedaf59f57fb2e3766b057ef39c01ba458b7cee8f5479c836910af7"
+    "sha256": "d6c2d297daedaf59f57fb2e3766b057ef39c01ba458b7cee8f5479c836910af7",
+    "validation": {
+      "duration": 0.96,
+      "peak": 17531
+    }
   },
   {
     "file": "sentence-07.mp3",
     "text": "I have a garden.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+have+a+garden.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1ecd331b4b1e02e367e4815e2580629df6db8737f6aebc31381ca6b858da145f"
+    "sha256": "1ecd331b4b1e02e367e4815e2580629df6db8737f6aebc31381ca6b858da145f",
+    "validation": {
+      "duration": 1.368,
+      "peak": 22198
+    }
   },
   {
     "file": "sentence-08.mp3",
     "text": "I have water.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+have+water.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c3a01ed875d29d837fdd88ab2f5d4c5c47a7d9835169c88f14729caa039e7a63"
+    "sha256": "c3a01ed875d29d837fdd88ab2f5d4c5c47a7d9835169c88f14729caa039e7a63",
+    "validation": {
+      "duration": 1.32,
+      "peak": 22175
+    }
   },
   {
     "file": "sentence-09.mp3",
     "text": "I like apples.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+apples.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "05dc2c12815b1583e4a2e1269853979f1a302ee025cd36b4bb49adcace6cbe39"
+    "sha256": "05dc2c12815b1583e4a2e1269853979f1a302ee025cd36b4bb49adcace6cbe39",
+    "validation": {
+      "duration": 1.488,
+      "peak": 21223
+    }
   },
   {
     "file": "sentence-10.mp3",
     "text": "Let's grow a tree!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Let%27s+grow+a+tree%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "33bc93b2a5ca124ca090763bae3ced921db3bc203e93839dfcbd9d727425b4c4"
+    "sha256": "33bc93b2a5ca124ca090763bae3ced921db3bc203e93839dfcbd9d727425b4c4",
+    "validation": {
+      "duration": 1.488,
+      "peak": 19416
+    }
   },
   {
     "file": "sentence-11.mp3",
     "text": "Plants and us",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Plants+and+us&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "273354bf3411f6d2f3f1899baa97a3c30608624383c19174b6ce832c3ffb8270"
+    "sha256": "273354bf3411f6d2f3f1899baa97a3c30608624383c19174b6ce832c3ffb8270",
+    "validation": {
+      "duration": 1.416,
+      "peak": 17833
+    }
   },
   {
     "file": "sentence-12.mp3",
     "text": "Mike, do you like apples?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Mike%2C+do+you+like+apples%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fa2c694eef395105ad776f279e42cbf95c84b52d47e37b76476577aea060f401"
+    "sha256": "fa2c694eef395105ad776f279e42cbf95c84b52d47e37b76476577aea060f401",
+    "validation": {
+      "duration": 2.232,
+      "peak": 19973
+    }
   },
   {
     "file": "sentence-13.mp3",
     "text": "Yes, I do. And you?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Yes%2C+I+do.+And+you%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b9355db0f1f093a24212f9c50fc9a3bf252d9fc76ec3de783698f05fab7f3e1f"
+    "sha256": "b9355db0f1f093a24212f9c50fc9a3bf252d9fc76ec3de783698f05fab7f3e1f",
+    "validation": {
+      "duration": 2.232,
+      "peak": 21549
+    }
   },
   {
     "file": "sentence-14.mp3",
     "text": "No, I don't. I like bananas.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=No%2C+I+don%27t.+I+like+bananas.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "691adf8dba96b84915338c59b59ed6b123d9a97965f356d07f39efa0b6470703"
+    "sha256": "691adf8dba96b84915338c59b59ed6b123d9a97965f356d07f39efa0b6470703",
+    "validation": {
+      "duration": 2.88,
+      "peak": 20285
+    }
   },
   {
     "file": "sentence-15.mp3",
     "text": "Do you like the farm?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Do+you+like+the+farm%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "685e8bd1722495d771c505dd64298b5c6ba108e8a5a7631a1a8bfa0b68cc9538"
+    "sha256": "685e8bd1722495d771c505dd64298b5c6ba108e8a5a7631a1a8bfa0b68cc9538",
+    "validation": {
+      "duration": 1.704,
+      "peak": 19963
+    }
   },
   {
     "file": "sentence-16.mp3",
     "text": "Yes, Miss White.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Yes%2C+Miss+White.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6db1542b9e5e476d4d8b9110c34ccfafc3bffb48bbc174b0643c9384f0202647"
-  },
-  {
-    "file": "sentence-17.mp3",
-    "text": "I like fresh air.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+fresh+air.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a30525048ac08a140be8b0da65f32172515af714b5a7784863612c7552eb2f8c"
+    "sha256": "6db1542b9e5e476d4d8b9110c34ccfafc3bffb48bbc174b0643c9384f0202647",
+    "validation": {
+      "duration": 1.608,
+      "peak": 20917
+    }
   },
   {
     "file": "sentence-18.mp3",
     "text": "Do you like apples?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Do+you+like+apples%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "55d27c0defee1c64ffd7ce39bdab710f14188f27e784f7f1e0feafe81a1072ff"
+    "sha256": "55d27c0defee1c64ffd7ce39bdab710f14188f27e784f7f1e0feafe81a1072ff",
+    "validation": {
+      "duration": 1.56,
+      "peak": 20134
+    }
   },
   {
     "file": "sentence-19.mp3",
     "text": "Yes, I do.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Yes%2C+I+do.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "87431d7e51daa22725f10a15c0fa47bf65ad0265695726dc63bec151a5e83e4c"
+    "sha256": "87431d7e51daa22725f10a15c0fa47bf65ad0265695726dc63bec151a5e83e4c",
+    "validation": {
+      "duration": 1.44,
+      "peak": 21549
+    }
   },
   {
     "file": "sentence-20.mp3",
     "text": "bananas",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=bananas&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fa3dc8b7d882b741c1b92605cb9a7405200ed558ae05f70e66dfe925001c4338"
+    "sha256": "fa3dc8b7d882b741c1b92605cb9a7405200ed558ae05f70e66dfe925001c4338",
+    "validation": {
+      "duration": 1.128,
+      "peak": 12616
+    }
   },
   {
     "file": "sentence-21.mp3",
     "text": "oranges",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=oranges&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6930086f00e408f2ae6db83504c4e979cd6694289a0ed492fa566223e9c591d9"
+    "sha256": "6930086f00e408f2ae6db83504c4e979cd6694289a0ed492fa566223e9c591d9",
+    "validation": {
+      "duration": 1.176,
+      "peak": 16554
+    }
   },
   {
     "file": "sentence-22.mp3",
     "text": "apples",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=apples&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5b3a2fa9758d6bd81efe45a4cd2399af8efd6535ab608c3b0800dd8356744fac"
+    "sha256": "5b3a2fa9758d6bd81efe45a4cd2399af8efd6535ab608c3b0800dd8356744fac",
+    "validation": {
+      "duration": 1.056,
+      "peak": 18734
+    }
   },
   {
     "file": "sentence-23.mp3",
     "text": "grapes",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=grapes&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7136942ad6c206bba806aa19842ff8921f56cddabf0c2fb571a9f36d6ef0a2f7"
+    "sha256": "7136942ad6c206bba806aa19842ff8921f56cddabf0c2fb571a9f36d6ef0a2f7",
+    "validation": {
+      "duration": 1.008,
+      "peak": 13414
+    }
   },
   {
     "file": "sentence-24.mp3",
     "text": "Grapes are small. Bananas are long.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Grapes+are+small.+Bananas+are+long.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "50b5c0d91afc9fdbecf331eb51cd5164d59c1a5544a54b8f681fcbedfe25834a"
+    "sha256": "50b5c0d91afc9fdbecf331eb51cd5164d59c1a5544a54b8f681fcbedfe25834a",
+    "validation": {
+      "duration": 2.952,
+      "peak": 19154
+    }
   },
   {
     "file": "sentence-25.mp3",
     "text": "Apples and oranges make you strong.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Apples+and+oranges+make+you+strong.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ddfa4f99e1c52a31772e6ce2fc392ed0539878bf28eeff0e489314330bd2a8c9"
+    "sha256": "ddfa4f99e1c52a31772e6ce2fc392ed0539878bf28eeff0e489314330bd2a8c9",
+    "validation": {
+      "duration": 2.76,
+      "peak": 21936
+    }
   },
   {
     "file": "sentence-26.mp3",
     "text": "Trees grow and give us things:",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Trees+grow+and+give+us+things%3A&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "82017091baf753cee312497bffd83e5f041f58a0e8b0bfe41924ab52a4160b66"
+    "sha256": "82017091baf753cee312497bffd83e5f041f58a0e8b0bfe41924ab52a4160b66",
+    "validation": {
+      "duration": 2.496,
+      "peak": 18666
+    }
   },
   {
     "file": "sentence-27.mp3",
     "text": "Fresh air, flowers and leaves in spring.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Fresh+air%2C+flowers+and+leaves+in+spring.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "bf881ef3f2b95d9d78d2c9ef18ba3fc0f14a20e0196ac09b924dedcfb4b61522"
+    "sha256": "bf881ef3f2b95d9d78d2c9ef18ba3fc0f14a20e0196ac09b924dedcfb4b61522",
+    "validation": {
+      "duration": 3.288,
+      "peak": 21264
+    }
   },
   {
     "file": "sentence-28.mp3",
     "text": "M",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=M&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "58c36c8222744cbb2e572871b33b18d0cb5ba69b6fc1dec0b1a2cacb8d4daf44"
+    "sha256": "58c36c8222744cbb2e572871b33b18d0cb5ba69b6fc1dec0b1a2cacb8d4daf44",
+    "validation": {
+      "duration": 0.768,
+      "peak": 14652
+    }
   },
   {
     "file": "sentence-29.mp3",
     "text": "N",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=N&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c4bca00ffebef69a4ca65230a60138b9358c8e3dcd0fa741e15bda678c3a04ac"
+    "sha256": "c4bca00ffebef69a4ca65230a60138b9358c8e3dcd0fa741e15bda678c3a04ac",
+    "validation": {
+      "duration": 0.768,
+      "peak": 11258
+    }
   },
   {
     "file": "sentence-30.mp3",
     "text": "O",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=O&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7d5a29534542607dea29e1e846f534a8021ed6f54b0236b677477e9423c4e119"
+    "sha256": "7d5a29534542607dea29e1e846f534a8021ed6f54b0236b677477e9423c4e119",
+    "validation": {
+      "duration": 0.672,
+      "peak": 14525
+    }
   },
   {
     "file": "sentence-31.mp3",
     "text": "P",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=P&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5581c9d25526db3c83773d897e93ab776c99245c9495308421c905b345123715"
+    "sha256": "5581c9d25526db3c83773d897e93ab776c99245c9495308421c905b345123715",
+    "validation": {
+      "duration": 0.744,
+      "peak": 9862
+    }
   },
   {
     "file": "sentence-32.mp3",
     "text": "map",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=map&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0f03e35dcf6e62ff92f2d8f863fd37a7291adf5dc25b79b92c81af060b3e8b9a"
+    "sha256": "0f03e35dcf6e62ff92f2d8f863fd37a7291adf5dc25b79b92c81af060b3e8b9a",
+    "validation": {
+      "duration": 0.744,
+      "peak": 17081
+    }
   },
   {
     "file": "sentence-33.mp3",
     "text": "mum",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=mum&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1adbfa3c17c969e0847defea5437ff30b024bd517ec761e6c9ad81d8013bb2d7"
-  },
-  {
-    "file": "sentence-34.mp3",
-    "text": "new",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=new&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "079457cb68a441f9687de374b85f7085a902e42dcb78a2fefe71468cb69ab970"
+    "sha256": "1adbfa3c17c969e0847defea5437ff30b024bd517ec761e6c9ad81d8013bb2d7",
+    "validation": {
+      "duration": 0.816,
+      "peak": 16198
+    }
   },
   {
     "file": "sentence-35.mp3",
     "text": "fan",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=fan&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "21b1965c3e0b7b9491fb21254b07c702e1211d015a6bce410b258408968df312"
-  },
-  {
-    "file": "sentence-36.mp3",
-    "text": "orange",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=orange&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8f14ff97c09149fbf5c8d2e0a129ca4195ff8118d7aaa63fdeb936342574f903"
+    "sha256": "21b1965c3e0b7b9491fb21254b07c702e1211d015a6bce410b258408968df312",
+    "validation": {
+      "duration": 0.84,
+      "peak": 15747
+    }
   },
   {
     "file": "sentence-37.mp3",
     "text": "fox",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=fox&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "37460c82f8f9b0db41efd574365b9d667b73c60f45075789d61264fbdf7e3e3b"
+    "sha256": "37460c82f8f9b0db41efd574365b9d667b73c60f45075789d61264fbdf7e3e3b",
+    "validation": {
+      "duration": 1.056,
+      "peak": 17674
+    }
   },
   {
     "file": "sentence-38.mp3",
     "text": "pen",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=pen&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f92de782267bea2a7cb9e5539c978b27d6b58b071ebb086759b13431ba701db9"
+    "sha256": "f92de782267bea2a7cb9e5539c978b27d6b58b071ebb086759b13431ba701db9",
+    "validation": {
+      "duration": 0.792,
+      "peak": 12149
+    }
   },
   {
     "file": "sentence-39.mp3",
     "text": "cup",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=cup&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9ef692018bd2f1552750bb7d01dc2ec5150ff403a4f4fae955849f3bcd410605"
+    "sha256": "9ef692018bd2f1552750bb7d01dc2ec5150ff403a4f4fae955849f3bcd410605",
+    "validation": {
+      "duration": 0.72,
+      "peak": 16720
+    }
   },
   {
     "file": "sentence-40.mp3",
     "text": "nod",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=nod&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1688d5e270fc4744981fe27fd8a5d4aad021dc279403b345a80cc1feb2936a23"
+    "sha256": "1688d5e270fc4744981fe27fd8a5d4aad021dc279403b345a80cc1feb2936a23",
+    "validation": {
+      "duration": 0.768,
+      "peak": 17018
+    }
   },
   {
     "file": "sentence-41.mp3",
     "text": "hop",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=hop&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e561d9679812b8d582d6f1887ec53cc84ccb8d27ecf8db3f6e33b00340e3324b"
+    "sha256": "e561d9679812b8d582d6f1887ec53cc84ccb8d27ecf8db3f6e33b00340e3324b",
+    "validation": {
+      "duration": 0.744,
+      "peak": 17332
+    }
   },
   {
     "file": "sentence-42.mp3",
     "text": "men",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=men&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "aecaa59eb5223b06007a6f4ee97a7abb703684637ce8f82345bf203f7bc39cc4"
+    "sha256": "aecaa59eb5223b06007a6f4ee97a7abb703684637ce8f82345bf203f7bc39cc4",
+    "validation": {
+      "duration": 0.816,
+      "peak": 14759
+    }
   },
   {
     "file": "sentence-43.mp3",
     "text": "nap",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=nap&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9c48e69fa0e1fc0784308fd8ef9b62d64dadaf0329e74cbb1c50ae7985fcc78a"
+    "sha256": "9c48e69fa0e1fc0784308fd8ef9b62d64dadaf0329e74cbb1c50ae7985fcc78a",
+    "validation": {
+      "duration": 0.744,
+      "peak": 15362
+    }
   },
   {
     "file": "sentence-44.mp3",
     "text": "pig",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=pig&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8fd2b8080c734757ed625a46369781eec37c6643012bbd5541e0501df6f8d0fc"
+    "sha256": "8fd2b8080c734757ed625a46369781eec37c6643012bbd5541e0501df6f8d0fc",
+    "validation": {
+      "duration": 0.768,
+      "peak": 17439
+    }
   },
   {
     "file": "sentence-45.mp3",
     "text": "The school gardens need help.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=The+school+gardens+need+help.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6f6b1bf54d4f880b69a141af419f685750397084e06d860537f34ad7db7ccc73"
+    "sha256": "6f6b1bf54d4f880b69a141af419f685750397084e06d860537f34ad7db7ccc73",
+    "validation": {
+      "duration": 2.256,
+      "peak": 18936
+    }
   },
   {
     "file": "sentence-46.mp3",
     "text": "We can water the flowers.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+water+the+flowers.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "48b96f22a3d8f066e62d860a4c2acf8b3f146656ea482b31cc6ccd44b5133828"
+    "sha256": "48b96f22a3d8f066e62d860a4c2acf8b3f146656ea482b31cc6ccd44b5133828",
+    "validation": {
+      "duration": 2.28,
+      "peak": 21474
+    }
   },
   {
     "file": "sentence-47.mp3",
     "text": "We can water the grass.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+water+the+grass.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0da6ba08c77f7cb81f19c2f9e704490cfa971673efb9da29767a31aa27379cb8"
+    "sha256": "0da6ba08c77f7cb81f19c2f9e704490cfa971673efb9da29767a31aa27379cb8",
+    "validation": {
+      "duration": 2.136,
+      "peak": 20541
+    }
   },
   {
     "file": "sentence-48.mp3",
     "text": "Nice. And?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Nice.+And%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7e512e662081590ddd601b685c671f3bcc4d2d09bb54ce6d065d6d15885e24da"
+    "sha256": "7e512e662081590ddd601b685c671f3bcc4d2d09bb54ce6d065d6d15885e24da",
+    "validation": {
+      "duration": 1.632,
+      "peak": 13491
+    }
   },
   {
     "file": "sentence-49.mp3",
     "text": "We can plant new trees.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+plant+new+trees.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a9301bf953e3c5071cd6b86e3113d761acd8f9256b50049057b89d1cec810260"
+    "sha256": "a9301bf953e3c5071cd6b86e3113d761acd8f9256b50049057b89d1cec810260",
+    "validation": {
+      "duration": 2.16,
+      "peak": 16426
+    }
   },
   {
     "file": "sentence-50.mp3",
     "text": "How can we help?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+can+we+help%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "37d031ebf0eed97e125e0a51445193b994a4e3b5c0a6d46a9cbfb7159b49d222"
+    "sha256": "37d031ebf0eed97e125e0a51445193b994a4e3b5c0a6d46a9cbfb7159b49d222",
+    "validation": {
+      "duration": 1.248,
+      "peak": 22531
+    }
   },
   {
     "file": "sentence-51.mp3",
     "text": "We can plant trees.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+plant+trees.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e4ca9d465b05be532cd12a61263d129f34e37f274b1234bf6e490ebdfc264ab5"
+    "sha256": "e4ca9d465b05be532cd12a61263d129f34e37f274b1234bf6e490ebdfc264ab5",
+    "validation": {
+      "duration": 1.752,
+      "peak": 17149
+    }
   },
   {
     "file": "sentence-52.mp3",
     "text": "Plants need our help.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Plants+need+our+help.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "16cfd3914bfd7f23122e8650f93beadcc4940c8f772380823cc85a6f86e4438e"
-  },
-  {
-    "file": "sentence-53.mp3",
-    "text": "sun",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=sun&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fbc9ce95d416a21e542b755a58f3f69ffb879632572a58b493c0f015debe09db"
-  },
-  {
-    "file": "sentence-54.mp3",
-    "text": "air",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=air&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7b8a78684fb90dd3436ed55c6e19e17202ad4adc0a682108a33a9940f58c4200"
-  },
-  {
-    "file": "sentence-55.mp3",
-    "text": "water",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=water&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2d535016ee8fb0d1ae7af719def12bdca878b722aed00ed1258c3fb198d4cf41"
+    "sha256": "16cfd3914bfd7f23122e8650f93beadcc4940c8f772380823cc85a6f86e4438e",
+    "validation": {
+      "duration": 1.584,
+      "peak": 21323
+    }
   },
   {
     "file": "sentence-56.mp3",
     "text": "flowers",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=flowers&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4e971ff4e101d6ae2c944ecdcdbc71a52a771cbc72831bb5abcc042318282676"
+    "sha256": "4e971ff4e101d6ae2c944ecdcdbc71a52a771cbc72831bb5abcc042318282676",
+    "validation": {
+      "duration": 1.128,
+      "peak": 17606
+    }
   },
   {
     "file": "sentence-57.mp3",
     "text": "trees",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=trees&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b977bea5c11a2e06be6f11479d9d5dc76e8b9617781370102c2082e4750314bc"
-  },
-  {
-    "file": "sentence-58.mp3",
-    "text": "grass",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=grass&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fa3699022316c2b43aca87bdaee8b10cbcdeb69756e7e02b0fcfa20890335924"
+    "sha256": "b977bea5c11a2e06be6f11479d9d5dc76e8b9617781370102c2082e4750314bc",
+    "validation": {
+      "duration": 0.984,
+      "peak": 15884
+    }
   },
   {
     "file": "sentence-59.mp3",
     "text": "Plants need air, water and sun.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Plants+need+air%2C+water+and+sun.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "74a3560d62961f6f85a1a1a30406d6bd5f1311627d5c814ad1acabd78df03c70"
+    "sha256": "74a3560d62961f6f85a1a1a30406d6bd5f1311627d5c814ad1acabd78df03c70",
+    "validation": {
+      "duration": 2.88,
+      "peak": 20411
+    }
   },
   {
     "file": "sentence-60.mp3",
     "text": "Air, water and sun.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Air%2C+water+and+sun.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1609b38e260e4f6b9e639abbce76533910a6dbb33f182aac2ec0b45f68a3901b"
+    "sha256": "1609b38e260e4f6b9e639abbce76533910a6dbb33f182aac2ec0b45f68a3901b",
+    "validation": {
+      "duration": 2.16,
+      "peak": 24900
+    }
   },
   {
     "file": "sentence-61.mp3",
     "text": "These can all help plants grow.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=These+can+all+help+plants+grow.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "70306970f886ef2d32bbd8cbea44ebcec985319ebb42c036b40ec4fa44dde0bc"
+    "sha256": "70306970f886ef2d32bbd8cbea44ebcec985319ebb42c036b40ec4fa44dde0bc",
+    "validation": {
+      "duration": 2.328,
+      "peak": 19023
+    }
   },
   {
     "file": "sentence-62.mp3",
     "text": "Plant, water, cut and turn.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Plant%2C+water%2C+cut+and+turn.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "cbd7bb456494e38ff650e025fd2969bd83560d6a11ac58eda19f87e86dab712a"
+    "sha256": "cbd7bb456494e38ff650e025fd2969bd83560d6a11ac58eda19f87e86dab712a",
+    "validation": {
+      "duration": 2.928,
+      "peak": 20297
+    }
   },
   {
     "file": "sentence-63.mp3",
     "text": "These are some things I know.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=These+are+some+things+I+know.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1554702ec9820bd7d69a487084be72a38384ce8d472fb353a3e404b1fcd57a28"
+    "sha256": "1554702ec9820bd7d69a487084be72a38384ce8d472fb353a3e404b1fcd57a28",
+    "validation": {
+      "duration": 2.016,
+      "peak": 15680
+    }
   },
   {
     "file": "sentence-64.mp3",
     "text": "Help",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Help&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "42bcdb24df4f94d3a3db3c7584b467f00f18521473800a698049fa3023f73e36"
+    "sha256": "42bcdb24df4f94d3a3db3c7584b467f00f18521473800a698049fa3023f73e36",
+    "validation": {
+      "duration": 0.72,
+      "peak": 19452
+    }
   },
   {
     "file": "sentence-65.mp3",
     "text": "Give",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Give&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3626944656f23b8813ba66a0f7679ddc0cf3f9a5051e4f0d56a37229e187ceef"
-  },
-  {
-    "file": "sentence-66.mp3",
-    "text": "They help plants grow.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=They+help+plants+grow.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "6ee69e2d1c1372aa666be46311dbfb2911d2ad78d13fd27d86820df2ae12bd18"
+    "sha256": "3626944656f23b8813ba66a0f7679ddc0cf3f9a5051e4f0d56a37229e187ceef",
+    "validation": {
+      "duration": 0.72,
+      "peak": 22490
+    }
   },
   {
     "file": "sentence-67.mp3",
     "text": "Plants can give us many things.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Plants+can+give+us+many+things.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "67b711ce4d88189348fab8742f3ad9a52d390219f871eb941cb7804517c9b869"
-  },
-  {
-    "file": "sentence-68.mp3",
-    "text": "We need plants, and we can help them too.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+need+plants%2C+and+we+can+help+them+too.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "93f01389cd1f974971e0c80f576a46fe4370f4692d0d33811daca4977ce2dc64"
+    "sha256": "67b711ce4d88189348fab8742f3ad9a52d390219f871eb941cb7804517c9b869",
+    "validation": {
+      "duration": 2.544,
+      "peak": 18875
+    }
   },
   {
     "file": "sentence-69.mp3",
     "text": "What fruit do you see?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+fruit+do+you+see%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "db98cc5d54270a270be490d4665ded30f4a9ca6ede23f53c45d0f22a9fc0107e"
+    "sha256": "db98cc5d54270a270be490d4665ded30f4a9ca6ede23f53c45d0f22a9fc0107e",
+    "validation": {
+      "duration": 1.848,
+      "peak": 19056
+    }
   },
   {
     "file": "sentence-70.mp3",
     "text": "What does this fruit tree need?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+does+this+fruit+tree+need%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ec61a2157e76bd9cfae20ebbd076b300f77964474b5bd129db226676a1425c0b"
-  },
-  {
-    "file": "sentence-71.mp3",
-    "text": "Apple trees need air, water and sun.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Apple+trees+need+air%2C+water+and+sun.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0fb2a5ffe8233b38ed6708504beac635e2e2babed07651e0a181e60cddc45cf0"
+    "sha256": "ec61a2157e76bd9cfae20ebbd076b300f77964474b5bd129db226676a1425c0b",
+    "validation": {
+      "duration": 2.136,
+      "peak": 20557
+    }
   },
   {
     "file": "sentence-72.mp3",
     "text": "We can help them.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+help+them.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "1370d25129ce94ce1d5c9d40929c3d0c28a9dd90d743987a333408c1168643b4"
-  },
-  {
-    "file": "sentence-73.mp3",
-    "text": "They can give us apples.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=They+can+give+us+apples.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d264f3d2a05e66f6a7df11d0fa6d6edc813a74161999c63f4d2211d93cb20ffa"
-  },
-  {
-    "file": "sentence-74.mp3",
-    "text": "tree",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=tree&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "087dc1eeb2bd77f05c8fc667296e80e1143e0ddf0c52fd2e43c8b7220fc0acc8"
+    "sha256": "1370d25129ce94ce1d5c9d40929c3d0c28a9dd90d743987a333408c1168643b4",
+    "validation": {
+      "duration": 1.344,
+      "peak": 17111
+    }
   },
   {
     "file": "sentence-75.mp3",
     "text": "What do fruit trees need?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+do+fruit+trees+need%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "61f31fafd75bc97e452367d0d21c6a7042147689baac9e4c178682e444288f65"
+    "sha256": "61f31fafd75bc97e452367d0d21c6a7042147689baac9e4c178682e444288f65",
+    "validation": {
+      "duration": 1.968,
+      "peak": 21639
+    }
   },
   {
     "file": "sentence-76.mp3",
     "text": "What can they give us?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+can+they+give+us%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7da706bde39818a2f6693c9fdc1a236cadfd5aaa9adbc2137a54f008035e9d33"
+    "sha256": "7da706bde39818a2f6693c9fdc1a236cadfd5aaa9adbc2137a54f008035e9d33",
+    "validation": {
+      "duration": 1.728,
+      "peak": 19933
+    }
   },
   {
     "file": "sentence-77.mp3",
     "text": "plant the tree",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=plant+the+tree&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a6ecfb9dbce1932fbb1a20cce89fc01cc90ed73a9f551339d386063c4b1638ae"
+    "sha256": "a6ecfb9dbce1932fbb1a20cce89fc01cc90ed73a9f551339d386063c4b1638ae",
+    "validation": {
+      "duration": 1.272,
+      "peak": 20074
+    }
   },
   {
     "file": "sentence-78.mp3",
     "text": "water the tree",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=water+the+tree&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f277dcf4f064c9abfc6d4be27ac7720b795451de071e37234cab06dedc346600"
+    "sha256": "f277dcf4f064c9abfc6d4be27ac7720b795451de071e37234cab06dedc346600",
+    "validation": {
+      "duration": 1.344,
+      "peak": 24112
+    }
   },
   {
     "file": "sentence-79.mp3",
     "text": "This is my garden.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=This+is+my+garden.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2dee66f1a985ece4780310a191537fe28c039649dd1dfb58104015526a13222d"
+    "sha256": "2dee66f1a985ece4780310a191537fe28c039649dd1dfb58104015526a13222d",
+    "validation": {
+      "duration": 1.536,
+      "peak": 26825
+    }
   },
   {
     "file": "sentence-80.mp3",
     "text": "The apple trees need air, water and sun.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=The+apple+trees+need+air%2C+water+and+sun.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e27767c689a34fd0500c3bfc794e4ec06dcab62517cbc81289885facec55e820"
+    "sha256": "e27767c689a34fd0500c3bfc794e4ec06dcab62517cbc81289885facec55e820",
+    "validation": {
+      "duration": 3.36,
+      "peak": 22176
+    }
   },
   {
     "file": "sentence-81.mp3",
     "text": "We ...",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+...&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ab22dd21a9d33cb0b09916a34b8aaa04a6e4dc1538c7354a14ffb1028f123155"
+    "sha256": "ab22dd21a9d33cb0b09916a34b8aaa04a6e4dc1538c7354a14ffb1028f123155",
+    "validation": {
+      "duration": 0.72,
+      "peak": 13885
+    }
   },
   {
     "file": "sentence-82.mp3",
     "text": "I am an apple tree.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+an+apple+tree.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "8074b61745dc303f600404a2b437135647495dc045f6d34c515788a334e7d66d"
+    "sha256": "8074b61745dc303f600404a2b437135647495dc045f6d34c515788a334e7d66d",
+    "validation": {
+      "duration": 1.728,
+      "peak": 22862
+    }
   },
   {
     "file": "sentence-83.mp3",
     "text": "My new family help me.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=My+new+family+help+me.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7257efe3c9a3f07db2d9f5ab67559d93121cfc397a03a55c103cb9f34baaba47"
+    "sha256": "7257efe3c9a3f07db2d9f5ab67559d93121cfc397a03a55c103cb9f34baaba47",
+    "validation": {
+      "duration": 2.088,
+      "peak": 20044
+    }
   },
   {
     "file": "sentence-84.mp3",
     "text": "I need air, water and sun.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+need+air%2C+water+and+sun.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "66390e13ed6f7c5bc8150e536182ec2934caed0c13f9b23bc078b7e3058fd5d7"
+    "sha256": "66390e13ed6f7c5bc8150e536182ec2934caed0c13f9b23bc078b7e3058fd5d7",
+    "validation": {
+      "duration": 2.568,
+      "peak": 20417
+    }
   },
   {
     "file": "sentence-85.mp3",
     "text": "My family water me.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=My+family+water+me.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c31d765f37a4ce9b9ea148bab6732d35a8235ac3b8e1500c531acb74d9f4fdf8"
+    "sha256": "c31d765f37a4ce9b9ea148bab6732d35a8235ac3b8e1500c531acb74d9f4fdf8",
+    "validation": {
+      "duration": 1.728,
+      "peak": 22331
+    }
   },
   {
     "file": "sentence-86.mp3",
     "text": "It is cold. They help me.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=It+is+cold.+They+help+me.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "54136022672fdca2e6fce744e8fe36c013bf648b16ba40d05731543ef0e2d15c"
+    "sha256": "54136022672fdca2e6fce744e8fe36c013bf648b16ba40d05731543ef0e2d15c",
+    "validation": {
+      "duration": 2.232,
+      "peak": 25666
+    }
   },
   {
     "file": "sentence-87.mp3",
     "text": "My family like me.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=My+family+like+me.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0795c7fd3de8dea4f6329940775dee6e58a5d6897e800bf5c6346bc487d671b0"
-  },
-  {
-    "file": "sentence-88.mp3",
-    "text": "I love fresh air.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+love+fresh+air.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "56382b2aaf15d3c038e5f2a50b7c13d965200772d4c0c8b65f51817fd516d81d"
+    "sha256": "0795c7fd3de8dea4f6329940775dee6e58a5d6897e800bf5c6346bc487d671b0",
+    "validation": {
+      "duration": 1.656,
+      "peak": 19619
+    }
   },
   {
     "file": "sentence-89.mp3",
     "text": "The flowers are so beautiful!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=The+flowers+are+so+beautiful%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "b350ebd33966b7b28950ac6366c55cb124d71f4efe8db5395a7e9e79b89ccdf7"
+    "sha256": "b350ebd33966b7b28950ac6366c55cb124d71f4efe8db5395a7e9e79b89ccdf7",
+    "validation": {
+      "duration": 2.376,
+      "peak": 22967
+    }
   },
   {
     "file": "sentence-90.mp3",
     "text": "I am big now.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+am+big+now.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f8069c49feb229da3f8099e345cbefa5654c517331b0a05dc1c4e5c855d05dec"
+    "sha256": "f8069c49feb229da3f8099e345cbefa5654c517331b0a05dc1c4e5c855d05dec",
+    "validation": {
+      "duration": 1.32,
+      "peak": 21751
+    }
   },
   {
     "file": "sentence-91.mp3",
     "text": "I give apples to my family.",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+give+apples+to+my+family.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d2d55b0520c2e062e96f2c9145e46b092fcaa9cb414922927daa09d21058eb7e"
+    "sha256": "d2d55b0520c2e062e96f2c9145e46b092fcaa9cb414922927daa09d21058eb7e",
+    "validation": {
+      "duration": 2.352,
+      "peak": 20065
+    }
   },
   {
     "file": "sentence-92.mp3",
     "text": "We are all happy!",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+are+all+happy%21&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "99696dad2bc5b609e928583cf097af20c42cc7e90081ac59633d3c36d4838a6c"
-  },
-  {
-    "file": "sentence-93.mp3",
-    "text": "We need plants to live.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+need+plants+to+live.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "5dfb4b2d8ec2b476e31da97e1f96e0e4f115ddf97fa5ace3efd03f5ddd0ecf34"
-  },
-  {
-    "file": "sentence-94.mp3",
-    "text": "We can help plants grow.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+help+plants+grow.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "e8ddeb87f1e72d3ad2d296540c426d39f2406a6c89b001c781eb5da9da2ef0a5"
-  },
-  {
-    "file": "key-03.mp3",
-    "text": "No, I don't.",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=No%2C+I+don%27t.&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "fe473dba738deb4466000379a9dcb51c2df92ca6001e09e1e7551915b6977515"
-  },
-  {
-    "file": "topic-page38.mp3",
-    "text": "How do we connect with plants?",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+do+we+connect+with+plants%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2939103cf4c81aafb8cfa32e7439f76d0d9e0daa51892a74b895e0c2d3fb2b83"
+    "sha256": "99696dad2bc5b609e928583cf097af20c42cc7e90081ac59633d3c36d4838a6c",
+    "validation": {
+      "duration": 1.536,
+      "peak": 26183
+    }
   },
   {
     "file": "topic-page40.mp3",
     "text": "What do we get from plants?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=What+do+we+get+from+plants%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9c737c828fd1947bb86fa3ecb73f780f96fb2ee0fdf3fb70ad75e86542e2173d"
+    "sha256": "9c737c828fd1947bb86fa3ecb73f780f96fb2ee0fdf3fb70ad75e86542e2173d",
+    "validation": {
+      "duration": 2.088,
+      "peak": 20251
+    }
   },
   {
     "file": "topic-page43.mp3",
     "text": "How can we help plants?",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+can+we+help+plants%3F&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "9eb04ce6eaa102f327179cefaa29a37958d2daabd4063ccfbb16a61b057fb522"
+    "sha256": "9eb04ce6eaa102f327179cefaa29a37958d2daabd4063ccfbb16a61b057fb522",
+    "validation": {
+      "duration": 2.016,
+      "peak": 24025
+    }
+  },
+  {
+    "file": "edition-7c320566f50a.mp3",
+    "text": "How do plants and people help each other?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=How+do+plants+and+people+help+each+other%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "0205fc5cdd7099eaae406325925a7eb82bf11123028797a67c31efc5976b82fe",
+    "validation": {
+      "duration": 2.856,
+      "peak": 22227
+    }
+  },
+  {
+    "file": "edition-8a6a5551d235.mp3",
+    "text": "I like the fresh air.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+like+the+fresh+air.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b591f963147e92b057d541cc0967048c87c224a9553e4fbd0160894b00d6abb5",
+    "validation": {
+      "duration": 1.872,
+      "peak": 18053
+    }
+  },
+  {
+    "file": "edition-e6798d3928f1.mp3",
+    "text": "We need plants.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+need+plants.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "13b418032ccef9cd07b7e4ec9478a3a0e6b184303bcd78840f8bf4962ff28413",
+    "validation": {
+      "duration": 1.536,
+      "peak": 19244
+    }
+  },
+  {
+    "file": "edition-f8e7db6d71a4.mp3",
+    "text": "Can we help them?",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Can+we+help+them%3F&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8b17c5d5c6e739934b185acddb3879fd76a4692742a7c3433070fe33d7e208ed",
+    "validation": {
+      "duration": 1.296,
+      "peak": 18476
+    }
+  },
+  {
+    "file": "edition-23f1eb2ce788.mp3",
+    "text": "Flowers need air, water and sun.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Flowers+need+air%2C+water+and+sun.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9ba40fa154fc5ab1990b861d917b137adff34461c625e76457dcfb94d735e012",
+    "validation": {
+      "duration": 3.0,
+      "peak": 21978
+    }
+  },
+  {
+    "file": "edition-d05b80c531a2.mp3",
+    "text": "We can ...",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+...&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a12ec278a2788ac2f25799e2e6ee0730f698427d40836aa1af6543baf0e85a2a",
+    "validation": {
+      "duration": 1.032,
+      "peak": 14790
+    }
+  },
+  {
+    "file": "edition-9f59504a1b90.mp3",
+    "text": "I love the fresh air.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+love+the+fresh+air.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f9d9c50a9e6bce045b9462738d7d75cc39a4af7d14ca794b5b32cef1adc9ed90",
+    "validation": {
+      "duration": 1.896,
+      "peak": 19273
+    }
+  },
+  {
+    "file": "key-03.mp3",
+    "text": "No, I don't.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=No%2C+I+don%27t.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "fe473dba738deb4466000379a9dcb51c2df92ca6001e09e1e7551915b6977515",
+    "validation": {
+      "duration": 1.368,
+      "peak": 20363
+    }
+  },
+  {
+    "file": "edition-ab2c5f9c3650.mp3",
+    "text": "I can water my plants.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+can+water+my+plants.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "f1127c050694af4062b71aa87f1d33ca4c4412f18e84d8163522d389edd84d76",
+    "validation": {
+      "duration": 2.136,
+      "peak": 21220
+    }
+  },
+  {
+    "file": "edition-3817d78d845d.mp3",
+    "text": "I can give them sun.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+can+give+them+sun.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3f26976017a3a638c9cfa42b77c6836be06315823a429511bcc927cd997d6896",
+    "validation": {
+      "duration": 1.704,
+      "peak": 19854
+    }
+  },
+  {
+    "file": "edition-6827d6fe6781.mp3",
+    "text": "I can help them grow.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+can+help+them+grow.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "9851e9299405e98d4e5b36c98931dc8ccf328bd96ebd2f1840e470c0934498d1",
+    "validation": {
+      "duration": 1.776,
+      "peak": 16740
+    }
+  },
+  {
+    "file": "edition-aae7a01e819d.mp3",
+    "text": "I help them grow alright!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I+help+them+grow+alright%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b48717502ceb6677848761ae531a0556dc02ded26eebfa152b4f5f245b258f3b",
+    "validation": {
+      "duration": 1.944,
+      "peak": 22699
+    }
+  },
+  {
+    "file": "edition-0367933b0e2d.mp3",
+    "text": "Plants can give me air.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Plants+can+give+me+air.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c53525cc886345a464294d67b2ba03c85048050518f44789c876d09360a952e9",
+    "validation": {
+      "duration": 1.92,
+      "peak": 19126
+    }
+  },
+  {
+    "file": "edition-7e5ace638368.mp3",
+    "text": "Plants can give me food.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Plants+can+give+me+food.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "1276de059f1dcc77d949714fb3a05876d5a844c41f502fb56f4636b04ec48153",
+    "validation": {
+      "duration": 1.992,
+      "peak": 19358
+    }
+  },
+  {
+    "file": "edition-8c857cdca0a4.mp3",
+    "text": "Plants can help me grow, grow, grow.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Plants+can+help+me+grow%2C+grow%2C+grow.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "e9d18de7e41bc8025c2096a60132f93aad8bcf73618d5a930bdf6296177b1e24",
+    "validation": {
+      "duration": 3.36,
+      "peak": 18111
+    }
+  },
+  {
+    "file": "edition-ac3977db3f3f.mp3",
+    "text": "They help me grow alright!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=They+help+me+grow+alright%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "e095b6590b7e0f7a9dcd88f4bd97a4d2ad348c246a3fb29de8076449f5da0de6",
+    "validation": {
+      "duration": 1.968,
+      "peak": 21881
+    }
+  },
+  {
+    "file": "edition-99cd0003e15e.mp3",
+    "text": "We can help each other.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+help+each+other.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "639c83c31548ea4a9675ed6e13d251cae72079a7b92d16769c565bfcfb985d7e",
+    "validation": {
+      "duration": 1.824,
+      "peak": 17094
+    }
+  },
+  {
+    "file": "edition-d51f16b39e75.mp3",
+    "text": "We can help so much.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+help+so+much.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "469e545562bb9216679fb92a01e0b1bd60a32865970a74c994a46c4128b58f14",
+    "validation": {
+      "duration": 1.944,
+      "peak": 17138
+    }
+  },
+  {
+    "file": "edition-7e94b1b10818.mp3",
+    "text": "We can grow together.",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=We+can+grow+together.&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "3f4782657a5314bdbe2a853c91d7ce9585976b453b8c8dce4ad3d1db5b2e2c91",
+    "validation": {
+      "duration": 1.656,
+      "peak": 15774
+    }
+  },
+  {
+    "file": "edition-bfcf44ea1f88.mp3",
+    "text": "Together we grow up right!",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Together+we+grow+up+right%21&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "5b210e0f5e07693abd743a4bd8a22164ff23c518a12f9668d9997c21d22d3429",
+    "validation": {
+      "duration": 2.064,
+      "peak": 21898
+    }
   }
 ]

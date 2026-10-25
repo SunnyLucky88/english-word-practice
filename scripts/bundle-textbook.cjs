@@ -21,7 +21,7 @@ const lookupLibrary=load(root).flatMap(({course,slug,content,entries})=>{
  const contexts=items=>items.map(item=>({unit:content.unit,page:item.page,en:item.en,zh:item.zh,audioUrl:audio(item.file)}));
  const words=content.words.map(item=>({...item,kind:'textbook-word',unit:content.unit,audioUrl:audio(item.file),occurrences:[]}));
  const supplemental=JSON.parse(fs.readFileSync(path.join(root,'assets',slug,'supplemental.json'),'utf8')).entries.map(({reuse,...item})=>({...item,kind:'supplemental',wordKind:item.kind,unit:content.unit,audioUrl:audio(item.file),occurrences:contexts(item.occurrences)}));
- const seen=new Set(),text=[...content.expressions,...content.sentences].filter(item=>{const key=normalize(item.en);if(seen.has(key))return false;seen.add(key);return true}).map(item=>({...item,kind:letter(item)?'letter':'course-text',unit:content.unit,audioUrl:audio(item.file),aliases:letter(item)?['letter '+item.en.toLowerCase()]:[],occurrences:contexts(entries.filter(e=>normalize(e.en)===normalize(item.en)))}));
+ const seen=new Set(),text=[...content.expressions,...content.sentences,...(content.songs||[]).flatMap(song=>song.lines||[])].filter(item=>{const key=normalize(item.en);if(seen.has(key))return false;seen.add(key);return true}).map(item=>({...item,kind:letter(item)?'letter':'course-text',unit:content.unit,audioUrl:audio(item.file),aliases:letter(item)?['letter '+item.en.toLowerCase()]:[],occurrences:contexts(entries.filter(e=>normalize(e.en)===normalize(item.en)))}));
  return [...words,...supplemental,...text];
 });
 const supplementalCount=new Set(lookupLibrary.filter(i=>i.kind==='supplemental').map(i=>i.key)).size;
@@ -50,6 +50,15 @@ for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d
   const lookupMeta=`<meta name="lookup-api-base" content="${lookupConfig.apiBase||''}">`;
   html=html.includes('name="lookup-api-base"')?html.replace(/<meta name="lookup-api-base"[^>]*>/,lookupMeta):html.replace('<title>',lookupMeta+'\n<title>');
   const content = JSON.parse(fs.readFileSync(path.join(root, 'assets', slug, 'content.json'), 'utf8'));
+  html=html.replace(/完整词表\s*\d+\s*词/g,`完整词表 ${content.words.length} 词`)
+    .replace(/共\s*\d+\s*词，按课本顺序排列/g,`共 ${content.words.length} 词，按课本顺序排列`)
+    .replace(/单词练习 · \d+ 词/g,`单词练习 · ${content.words.length} 词`)
+    .replace(/重点表达 · \d+ 句/g,`重点表达 · ${content.expressions.length} 句`)
+    .replace(/本单元 \d+ 条常用表达/g,`本单元 ${content.expressions.length} 条常用表达`);
+  if(content.unit===3)html=html.replace(/神奇的动物/g,'我们的动物朋友').replace(/Amazing animals/g,'Our animal friends');
+  html=html.replace(/图片选取自公开转载的[^<]*内容按原页核对。/,'课本图片来自用户已确认与实物一致的 PDF，按该版本原页核对。');
+  html=html.replace(/href="https:\/\/www\.sohu\.com\/a\/[^"]+"/g,'href="https://book.pep.com.cn/1212001301245/mobile/index.html"');
+  if(content.songs.every(song=>song.lines.length))html=html.replace('本单元对应歌曲入口。完整歌词补齐后提供逐句点读、连续朗读和循环跟读；使用谷歌原速朗读，不是演唱音频。','歌词已按本版教材附录完整录入，可逐句点读、连续朗读和循环跟读；使用谷歌原速合成朗读，不是演唱或教材原声。');
   const quizCount=new Set(content.groups.flatMap(group=>group.clips.map(id=>content.sentences[id-1])).filter(item=>item.practice!==false).map(item=>item.en)).size;
   html=html.replace(/<option value="text">课文句子 · \d+ 题<\/option>/,`<option value="text">课文句子 · ${quizCount} 题</option>`);
   html = html.replace(/(<script type="application\/json" id="lesson-content">)[\s\S]*?(<\/script>)/, (_, a, b) => a + JSON.stringify(content).replace(/<\//g, '<\\/') + b);

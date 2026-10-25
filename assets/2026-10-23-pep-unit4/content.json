@@ -268,7 +268,7 @@
     },
     {
       "en": "Do you like the farm?",
-      "zh": "你喜欢这个农场吗？",
+      "zh": "你们喜欢农场吗？",
       "practice": true,
       "page": 40,
       "file": "sentence-15.mp3",
@@ -280,14 +280,6 @@
       "practice": true,
       "page": 40,
       "file": "sentence-16.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "I like fresh air.",
-      "zh": "我喜欢新鲜空气。",
-      "practice": true,
-      "page": 40,
-      "file": "sentence-17.mp3",
       "audioSource": "Google Translate"
     },
     {
@@ -419,27 +411,11 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "new",
-      "zh": "新的",
-      "practice": false,
-      "page": 42,
-      "file": "sentence-34.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "fan",
       "zh": "风扇",
       "practice": false,
       "page": 42,
       "file": "sentence-35.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "orange",
-      "zh": "橙子",
-      "practice": false,
-      "page": 42,
-      "file": "sentence-36.mp3",
       "audioSource": "Google Translate"
     },
     {
@@ -540,7 +516,7 @@
     },
     {
       "en": "We can plant new trees.",
-      "zh": "我们可以种新的树。",
+      "zh": "我们可以新种些树。",
       "practice": true,
       "page": 43,
       "file": "sentence-49.mp3",
@@ -571,30 +547,6 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "sun",
-      "zh": "阳光；太阳",
-      "practice": true,
-      "page": 44,
-      "file": "sentence-53.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "air",
-      "zh": "空气",
-      "practice": true,
-      "page": 44,
-      "file": "sentence-54.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "water",
-      "zh": "水",
-      "practice": true,
-      "page": 44,
-      "file": "sentence-55.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "flowers",
       "zh": "花（复数）",
       "practice": true,
@@ -608,14 +560,6 @@
       "practice": true,
       "page": 44,
       "file": "sentence-57.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "grass",
-      "zh": "草",
-      "practice": true,
-      "page": 44,
-      "file": "sentence-58.mp3",
       "audioSource": "Google Translate"
     },
     {
@@ -668,34 +612,18 @@
     },
     {
       "en": "Give",
-      "zh": "给予",
+      "zh": "提供；给予",
       "practice": true,
       "page": 45,
       "file": "sentence-65.mp3",
       "audioSource": "Google Translate"
     },
     {
-      "en": "They help plants grow.",
-      "zh": "它们帮助植物生长。",
-      "practice": true,
-      "page": 45,
-      "file": "sentence-66.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "Plants can give us many things.",
-      "zh": "植物能给我们许多东西。",
+      "zh": "植物能为我们提供很多东西。",
       "practice": true,
       "page": 45,
       "file": "sentence-67.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "We need plants, and we can help them too.",
-      "zh": "我们需要植物，我们也能帮助它们。",
-      "practice": true,
-      "page": 45,
-      "file": "sentence-68.mp3",
       "audioSource": "Google Translate"
     },
     {
@@ -715,35 +643,11 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "Apple trees need air, water and sun.",
-      "zh": "苹果树需要空气、水和阳光。",
-      "practice": true,
-      "page": 45,
-      "file": "sentence-71.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "We can help them.",
       "zh": "我们能帮助它们。",
       "practice": true,
       "page": 45,
       "file": "sentence-72.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "They can give us apples.",
-      "zh": "它们能给我们苹果。",
-      "practice": true,
-      "page": 45,
-      "file": "sentence-73.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "tree",
-      "zh": "树",
-      "practice": false,
-      "page": 45,
-      "file": "sentence-74.mp3",
       "audioSource": "Google Translate"
     },
     {
@@ -851,14 +755,6 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "I love fresh air.",
-      "zh": "我喜欢新鲜空气。",
-      "practice": true,
-      "page": 49,
-      "file": "sentence-88.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "The flowers are so beautiful!",
       "zh": "这些花真漂亮！",
       "practice": true,
@@ -891,30 +787,6 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "We need plants to live.",
-      "zh": "我们的生活需要植物。",
-      "practice": true,
-      "page": 49,
-      "file": "sentence-93.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "We can help plants grow.",
-      "zh": "我们能帮助植物生长。",
-      "practice": true,
-      "page": 49,
-      "file": "sentence-94.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "How do we connect with plants?",
-      "zh": "我们与植物有什么联系？",
-      "page": 38,
-      "file": "topic-page38.mp3",
-      "practice": true,
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "What do we get from plants?",
       "zh": "我们从植物中获得什么？",
       "page": 40,
@@ -929,19 +801,75 @@
       "file": "topic-page43.mp3",
       "practice": true,
       "audioSource": "Google Translate"
+    },
+    {
+      "en": "How do plants and people help each other?",
+      "zh": "植物和人怎样相互帮助？",
+      "page": 38,
+      "file": "edition-7c320566f50a.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I like the fresh air.",
+      "zh": "我喜欢新鲜的空气。",
+      "page": 40,
+      "file": "edition-8a6a5551d235.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We need plants.",
+      "zh": "我们需要植物。",
+      "page": 45,
+      "file": "edition-e6798d3928f1.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Can we help them?",
+      "zh": "我们能帮助它们吗？",
+      "page": 45,
+      "file": "edition-f8e7db6d71a4.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "Flowers need air, water and sun.",
+      "zh": "花需要空气、水和阳光。",
+      "page": 45,
+      "file": "edition-23f1eb2ce788.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "We can ...",
+      "zh": "我们可以……",
+      "page": 45,
+      "file": "edition-d05b80c531a2.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
+    },
+    {
+      "en": "I love the fresh air.",
+      "zh": "我喜爱新鲜的空气。",
+      "page": 49,
+      "file": "edition-9f59504a1b90.mp3",
+      "practice": true,
+      "audioSource": "Google Translate"
     }
   ],
   "groups": [
     {
-      "title": "单元主题问句",
-      "note": "第 38 页 · 教材主题问句",
+      "title": "第 38 页 · 课文与点读",
+      "note": "第 38 页 · 用户确认版PDF",
       "clips": [
-        95
+        82
       ]
     },
     {
-      "title": "导入思考与植物歌谣",
-      "note": "第 39 页 · 谷歌原速朗读",
+      "title": "第 39 页 · 课文与点读",
+      "note": "第 39 页 · 用户确认版PDF",
       "clips": [
         1,
         2,
@@ -957,46 +885,41 @@
       ]
     },
     {
-      "title": "A · 主题问句",
-      "note": "第 40 页 · 教材主题问句",
+      "title": "第 40 页 · 课文与点读",
+      "note": "第 40 页 · 用户确认版PDF",
       "clips": [
-        96
-      ]
-    },
-    {
-      "title": "A · 水果与农场对话",
-      "note": "第 40 页 · 谷歌原速朗读",
-      "clips": [
+        80,
         12,
         13,
         14,
         15,
         16,
+        83,
         17,
-        18,
-        19
+        18
       ]
     },
     {
-      "title": "A · 水果与歌谣",
-      "note": "第 41 页 · 谷歌原速朗读",
+      "title": "第 41 页 · 课文与点读",
+      "note": "第 41 页 · 用户确认版PDF",
       "clips": [
-        18,
+        17,
         14,
+        19,
         20,
         21,
         22,
         23,
         24,
         25,
-        26,
-        27
+        26
       ]
     },
     {
-      "title": "字母 M—P 与示例单词",
-      "note": "第 42 页 · 字母名称和例词，非独立音素示范",
+      "title": "第 42 页 · 课文与点读",
+      "note": "第 42 页 · 用户确认版PDF",
       "clips": [
+        27,
         28,
         29,
         30,
@@ -1011,147 +934,121 @@
         39,
         40,
         41,
-        42,
-        43,
-        44
-      ]
-    },
-    {
-      "title": "书写字母复读",
-      "note": "第 42 页 · 字母名称，非独立音素",
-      "clips": [
+        27,
         28,
         29,
-        30,
-        31
+        30
       ]
     },
     {
-      "title": "B · 主题问句",
-      "note": "第 43 页 · 教材主题问句",
+      "title": "第 43 页 · 课文与点读",
+      "note": "第 43 页 · 用户确认版PDF",
       "clips": [
-        97
-      ]
-    },
-    {
-      "title": "B · 帮助植物",
-      "note": "第 43 页 · 谷歌原速朗读",
-      "clips": [
+        81,
+        42,
+        43,
+        44,
         45,
         46,
         47,
-        48,
-        49,
-        50,
-        51
+        48
       ]
     },
     {
-      "title": "B · 植物生长需要什么",
-      "note": "第 44 页 · 谷歌原速朗读",
+      "title": "第 44 页 · 课文与点读",
+      "note": "第 44 页 · 用户确认版PDF",
       "clips": [
+        49,
+        51,
+        50,
         52,
         53,
         54,
         55,
-        56,
+        56
+      ]
+    },
+    {
+      "title": "第 45 页 · 课文与点读",
+      "note": "第 45 页 · 用户确认版PDF",
+      "clips": [
         57,
         58,
         59,
+        84,
+        52,
+        85,
         60,
         61,
+        21,
+        19,
+        22,
+        20,
+        50,
+        86,
         62,
-        63
+        87
       ]
     },
     {
-      "title": "阅读 · 植物与我们互相帮助",
-      "note": "第 45 页 · 谷歌原速朗读",
+      "title": "第 46 页 · 课文与点读",
+      "note": "第 46 页 · 用户确认版PDF",
       "clips": [
+        63,
+        47,
         64,
+        21,
+        19,
+        22,
+        20,
         65,
-        59,
-        66,
+        66
+      ]
+    },
+    {
+      "title": "第 47 页 · 课文与点读",
+      "note": "第 47 页 · 用户确认版PDF",
+      "clips": [
         67,
         68,
-        69,
+        62,
+        69
+      ]
+    },
+    {
+      "title": "第 48 页 · 课文与点读",
+      "note": "第 48 页 · 用户确认版PDF",
+      "clips": [
         70,
         71,
         72,
-        73
-      ]
-    },
-    {
-      "title": "阅读页 · 词汇复习",
-      "note": "第 45 页 · 谷歌原速朗读",
-      "clips": [
-        22,
-        20,
-        23,
-        21,
-        54,
-        53,
-        55,
-        56,
-        58,
+        73,
         74
       ]
     },
     {
-      "title": "项目 · 果树需要与给予",
-      "note": "第 46 页 · 谷歌原速朗读",
+      "title": "第 49 页 · 课文与点读",
+      "note": "第 49 页 · 用户确认版PDF",
       "clips": [
         75,
-        50,
-        76,
-        54,
-        22,
-        20,
-        23,
-        21,
-        77,
-        53,
-        55,
-        78
-      ]
-    },
-    {
-      "title": "项目 · 介绍纸花园",
-      "note": "第 47 页 · 谷歌原速朗读",
-      "clips": [
-        79,
-        80,
-        72,
-        81
-      ]
-    },
-    {
-      "title": "阅读时光 · 苹果树（上）",
-      "note": "第 48 页 · 谷歌原速朗读",
-      "clips": [
-        82,
-        83,
-        84,
-        85,
-        86
-      ]
-    },
-    {
-      "title": "阅读时光 · 苹果树（下）",
-      "note": "第 49 页 · 谷歌原速朗读",
-      "clips": [
-        87,
         88,
-        89,
-        90,
-        91,
-        92,
-        93,
-        94
+        76,
+        77,
+        78,
+        79
       ]
     }
   ],
-  "wordSource": "书后第 84 页 · Words in each unit · Unit 4",
+  "wordSource": {
+    "title": "用户于2026-10-25确认的实物匹配PDF · Words in each unit",
+    "pages": [
+      83,
+      84,
+      85
+    ],
+    "isbn": "978-7-107-38250-5",
+    "pdfSha256": "025d9882c7b3078dfda1321be3c0bd84acf1f34964edc3cba53f90ecc13b90a6"
+  },
   "expressions": [
     {
       "en": "Mike, do you like apples?",
@@ -1186,34 +1083,26 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "I like fresh air.",
-      "zh": "我喜欢新鲜空气。",
+      "en": "I like the fresh air.",
+      "zh": "我喜欢新鲜的空气。",
       "page": 90,
       "id": "unit4-key-05",
-      "file": "sentence-17.mp3",
+      "file": "edition-8a6a5551d235.mp3",
       "audioSource": "Google Translate"
     },
     {
       "en": "We can plant new trees.",
-      "zh": "我们可以种些树。",
+      "zh": "我们可以新种些树。",
       "page": 90,
       "id": "unit4-key-06",
       "file": "sentence-49.mp3",
       "audioSource": "Google Translate"
     },
     {
-      "en": "They help plants grow.",
-      "zh": "它们帮助植物生长。",
+      "en": "Plants can give us many things.",
+      "zh": "植物能为我们提供很多东西。",
       "page": 90,
       "id": "unit4-key-07",
-      "file": "sentence-66.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "Plants can give us many things.",
-      "zh": "植物可以给我们很多东西。",
-      "page": 90,
-      "id": "unit4-key-08",
       "file": "sentence-67.mp3",
       "audioSource": "Google Translate"
     }
@@ -1226,9 +1115,110 @@
       "pages": [
         79
       ],
-      "lyricsStatus": "awaiting-user-pages",
-      "lines": []
+      "lyricsStatus": "complete",
+      "lines": [
+        {
+          "en": "I can water my plants.",
+          "zh": "我能给我的植物浇水。",
+          "page": 79,
+          "file": "edition-ab2c5f9c3650.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "I can give them sun.",
+          "zh": "我能让它们晒太阳。",
+          "page": 79,
+          "file": "edition-3817d78d845d.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "I can help them grow.",
+          "zh": "我能帮助它们生长。",
+          "page": 79,
+          "file": "edition-6827d6fe6781.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "I help them grow alright!",
+          "zh": "我帮助它们好好生长！",
+          "page": 79,
+          "file": "edition-aae7a01e819d.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Plants can give me air.",
+          "zh": "植物能为我提供空气。",
+          "page": 79,
+          "file": "edition-0367933b0e2d.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Plants can give me food.",
+          "zh": "植物能为我提供食物。",
+          "page": 79,
+          "file": "edition-7e5ace638368.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Plants can help me grow, grow, grow.",
+          "zh": "植物能帮助我成长、成长、成长。",
+          "page": 79,
+          "file": "edition-8c857cdca0a4.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "They help me grow alright!",
+          "zh": "它们帮助我好好成长！",
+          "page": 79,
+          "file": "edition-ac3977db3f3f.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "We can help each other.",
+          "zh": "我们能相互帮助。",
+          "page": 79,
+          "file": "edition-99cd0003e15e.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "We can help so much.",
+          "zh": "我们能提供很多帮助。",
+          "page": 79,
+          "file": "edition-d51f16b39e75.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "We can grow together.",
+          "zh": "我们能一起成长。",
+          "page": 79,
+          "file": "edition-7e94b1b10818.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Together we grow up right!",
+          "zh": "我们一起健康成长！",
+          "page": 79,
+          "file": "edition-bfcf44ea1f88.mp3",
+          "audioSource": "Google Translate"
+        }
+      ],
+      "source": "用户确认版PDF · Appendix 1 Songs",
+      "audioNote": "谷歌原速合成朗读，非演唱或教材原声"
     }
   ],
-  "unit": 4
+  "unit": 4,
+  "textbookSource": {
+    "title": "人教版英语三年级上册（用户确认实物匹配版本）",
+    "isbn": "978-7-107-38250-5",
+    "physicalEdition": "2024年7月第1版",
+    "physicalPrinting": "2026年7月第3次印刷",
+    "confirmedByUser": "2026-10-25",
+    "digitalPrinting": "电子版未列出印次，不声称与实物同一印次",
+    "sha256": "025d9882c7b3078dfda1321be3c0bd84acf1f34964edc3cba53f90ecc13b90a6",
+    "pdfPages": 100,
+    "printedPageToPdfPageOffset": 6,
+    "sourceListing": "https://github.com/siknet/FreePEP/blob/main/piclist.md",
+    "officialReader": "https://book.pep.com.cn/1212001301245/mobile/index.html",
+    "verification": "封底ISBN相同；印刷页21的正文、插图与练习匹配用户实物照片；用户确认以此PDF重做。"
+  }
 }

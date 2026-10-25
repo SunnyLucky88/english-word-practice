@@ -97,6 +97,14 @@
       "audioSource": "Google Translate"
     },
     {
+      "en": "some",
+      "zh": "一些",
+      "ipa": "/səm, sʌm/",
+      "page": 55,
+      "file": "some.mp3",
+      "audioSource": "Google Translate"
+    },
+    {
       "en": "pink",
       "zh": "粉色；粉色的",
       "ipa": "/pɪŋk/",
@@ -132,7 +140,7 @@
   "sentences": [
     {
       "en": "What colours do you see?",
-      "zh": "你看到了哪些颜色？",
+      "zh": "你看到了什么颜色？",
       "practice": true,
       "page": 51,
       "file": "sentence-01.mp3",
@@ -140,7 +148,7 @@
     },
     {
       "en": "What colours do you like?",
-      "zh": "你喜欢哪些颜色？",
+      "zh": "你喜欢什么颜色？",
       "practice": true,
       "page": 51,
       "file": "sentence-02.mp3",
@@ -204,7 +212,7 @@
     },
     {
       "en": "What colour is it?",
-      "zh": "它是什么颜色的？",
+      "zh": "它是什么颜色？",
       "practice": true,
       "page": 52,
       "file": "sentence-10.mp3",
@@ -212,7 +220,7 @@
     },
     {
       "en": "It's orange.",
-      "zh": "它是橙红色的。",
+      "zh": "它是橙红色。",
       "practice": true,
       "page": 52,
       "file": "sentence-11.mp3",
@@ -379,14 +387,6 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "red",
-      "zh": "红色",
-      "practice": false,
-      "page": 54,
-      "file": "sentence-32.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "ruler",
       "zh": "尺子",
       "practice": false,
@@ -516,7 +516,7 @@
     },
     {
       "en": "Let's draw some purple and brown birds.",
-      "zh": "我们画些紫色和棕色的鸟吧。",
+      "zh": "我们一起画一些紫色和棕色的鸟吧。",
       "practice": true,
       "page": 55,
       "file": "sentence-49.mp3",
@@ -536,38 +536,6 @@
       "practice": true,
       "page": 56,
       "file": "sentence-51.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "pink",
-      "zh": "粉色",
-      "practice": true,
-      "page": 56,
-      "file": "sentence-52.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "orange",
-      "zh": "橙红色",
-      "practice": true,
-      "page": 56,
-      "file": "sentence-53.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "white",
-      "zh": "白色",
-      "practice": true,
-      "page": 56,
-      "file": "sentence-54.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "black",
-      "zh": "黑色",
-      "practice": true,
-      "page": 56,
-      "file": "sentence-55.mp3",
       "audioSource": "Google Translate"
     },
     {
@@ -640,46 +608,6 @@
       "practice": true,
       "page": 57,
       "file": "sentence-64.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "blue",
-      "zh": "蓝色",
-      "practice": false,
-      "page": 57,
-      "file": "sentence-65.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "brown",
-      "zh": "棕色",
-      "practice": false,
-      "page": 57,
-      "file": "sentence-66.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "green",
-      "zh": "绿色",
-      "practice": false,
-      "page": 57,
-      "file": "sentence-67.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "purple",
-      "zh": "紫色",
-      "practice": false,
-      "page": 57,
-      "file": "sentence-68.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "yellow",
-      "zh": "黄色",
-      "practice": false,
-      "page": 57,
-      "file": "sentence-69.mp3",
       "audioSource": "Google Translate"
     },
     {
@@ -787,30 +715,6 @@
       "audioSource": "Google Translate"
     },
     {
-      "en": "Colours are everywhere.",
-      "zh": "颜色无处不在。",
-      "practice": true,
-      "page": 61,
-      "file": "sentence-83.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "Colours are beautiful.",
-      "zh": "颜色很美。",
-      "practice": true,
-      "page": 61,
-      "file": "sentence-84.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
-      "en": "Colours help us and tell us many things.",
-      "zh": "颜色帮助我们，告诉我们许多事情。",
-      "practice": true,
-      "page": 61,
-      "file": "sentence-85.mp3",
-      "audioSource": "Google Translate"
-    },
-    {
       "en": "Why are colours important?",
       "zh": "颜色为什么重要？",
       "page": 50,
@@ -829,15 +733,15 @@
   ],
   "groups": [
     {
-      "title": "单元主题问句",
-      "note": "第 50 页 · 教材主题问句",
+      "title": "第 50 页 · 课文与点读",
+      "note": "第 50 页 · 用户确认版PDF",
       "clips": [
-        86
+        73
       ]
     },
     {
-      "title": "导入思考与颜色歌谣",
-      "note": "第 51 页 · 谷歌原速朗读",
+      "title": "第 51 页 · 课文与点读",
+      "note": "第 51 页 · 用户确认版PDF",
       "clips": [
         1,
         2,
@@ -851,9 +755,10 @@
       ]
     },
     {
-      "title": "A · 颜色与混色",
-      "note": "第 52 页 · 谷歌原速朗读",
+      "title": "第 52 页 · 课文与点读",
+      "note": "第 52 页 · 用户确认版PDF",
       "clips": [
+        1,
         10,
         11,
         10,
@@ -866,8 +771,8 @@
       ]
     },
     {
-      "title": "A · 缤纷世界与歌谣",
-      "note": "第 53 页 · 谷歌原速朗读",
+      "title": "第 53 页 · 课文与点读",
+      "note": "第 53 页 · 用户确认版PDF",
       "clips": [
         16,
         17,
@@ -882,8 +787,8 @@
       ]
     },
     {
-      "title": "字母 Q—U 与示例单词",
-      "note": "第 54 页 · 字母名称和例词，非独立音素示范",
+      "title": "第 54 页 · 课文与点读",
+      "note": "第 54 页 · 用户确认版PDF",
       "clips": [
         25,
         26,
@@ -905,13 +810,6 @@
         42,
         43,
         44,
-        45
-      ]
-    },
-    {
-      "title": "书写字母复读",
-      "note": "第 54 页 · 字母名称，非独立音素",
-      "clips": [
         25,
         26,
         27,
@@ -920,123 +818,93 @@
       ]
     },
     {
-      "title": "B · 主题问句",
-      "note": "第 55 页 · 教材主题问句",
+      "title": "第 55 页 · 课文与点读",
+      "note": "第 55 页 · 用户确认版PDF",
       "clips": [
-        87
-      ]
-    },
-    {
-      "title": "B · 喜欢的颜色与绘画",
-      "note": "第 55 页 · 谷歌原速朗读",
-      "clips": [
+        74,
         2,
+        45,
         46,
         47,
         48,
-        49,
         2,
-        50
+        49
       ]
     },
     {
-      "title": "B · 颜色用途与动作",
-      "note": "第 56 页 · 谷歌原速朗读",
+      "title": "第 56 页 · 课文与点读",
+      "note": "第 56 页 · 用户确认版PDF",
       "clips": [
+        50,
         51,
         52,
         53,
-        32,
-        54,
+        54
+      ]
+    },
+    {
+      "title": "第 57 页 · 课文与点读",
+      "note": "第 57 页 · 用户确认版PDF",
+      "clips": [
         55,
         56,
         57,
         58,
-        59
-      ]
-    },
-    {
-      "title": "阅读 · 颜色会说话",
-      "note": "第 57 页 · 谷歌原速朗读",
-      "clips": [
-        60,
-        61,
-        62,
-        63,
-        64,
+        59,
         10
       ]
     },
     {
-      "title": "阅读页 · 颜色复习",
-      "note": "第 57 页 · 谷歌原速朗读",
+      "title": "第 58 页 · 课文与点读",
+      "note": "第 58 页 · 用户确认版PDF",
       "clips": [
-        55,
+        10,
+        12
+      ]
+    },
+    {
+      "title": "第 59 页 · 课文与点读",
+      "note": "第 59 页 · 用户确认版PDF",
+      "clips": [
+        60,
+        61,
+        62,
+        61,
+        63,
+        64
+      ]
+    },
+    {
+      "title": "第 60 页 · 课文与点读",
+      "note": "第 60 页 · 用户确认版PDF",
+      "clips": [
         65,
         66,
         67,
-        53,
-        52,
         68,
-        32,
-        54,
-        69
+        69,
+        70
       ]
     },
     {
-      "title": "项目 · 给事物添加颜色",
-      "note": "第 58 页 · 谷歌原速朗读",
+      "title": "第 61 页 · 课文与点读",
+      "note": "第 61 页 · 用户确认版PDF",
       "clips": [
-        10,
-        12,
-        55,
-        65,
-        66,
-        53,
-        52,
-        68,
-        32,
-        54,
-        69
-      ]
-    },
-    {
-      "title": "项目 · 介绍颜色翻翻书",
-      "note": "第 59 页 · 谷歌原速朗读",
-      "clips": [
-        70,
         71,
-        72,
-        71,
-        73,
-        74
-      ]
-    },
-    {
-      "title": "阅读时光 · 向日葵（上）",
-      "note": "第 60 页 · 谷歌原速朗读",
-      "clips": [
-        75,
-        76,
-        77,
-        78,
-        79,
-        80
-      ]
-    },
-    {
-      "title": "阅读时光 · 向日葵（下）",
-      "note": "第 61 页 · 谷歌原速朗读",
-      "clips": [
-        81,
-        82,
-        83,
-        84,
-        85
+        72
       ]
     }
   ],
-  "wordSource": "书后第 84 页 · Words in each unit · Unit 5",
+  "wordSource": {
+    "title": "用户于2026-10-25确认的实物匹配PDF · Words in each unit",
+    "pages": [
+      83,
+      84,
+      85
+    ],
+    "isbn": "978-7-107-38250-5",
+    "pdfSha256": "025d9882c7b3078dfda1321be3c0bd84acf1f34964edc3cba53f90ecc13b90a6"
+  },
   "expressions": [
     {
       "en": "What colour is it?",
@@ -1048,7 +916,7 @@
     },
     {
       "en": "It's orange.",
-      "zh": "它是橙红色的。",
+      "zh": "它是橙红色。",
       "page": 90,
       "id": "unit5-key-02",
       "file": "sentence-11.mp3",
@@ -1056,7 +924,7 @@
     },
     {
       "en": "Red and blue make purple.",
-      "zh": "红色和蓝色混合成紫色。",
+      "zh": "红色加蓝色是紫色。",
       "page": 90,
       "id": "unit5-key-03",
       "file": "key-03.mp3",
@@ -1111,9 +979,82 @@
       "pages": [
         79
       ],
-      "lyricsStatus": "awaiting-user-pages",
-      "lines": []
+      "lyricsStatus": "complete",
+      "lines": [
+        {
+          "en": "Red and orange and yellow and green.",
+          "zh": "红色、橙色、黄色和绿色。",
+          "page": 79,
+          "file": "edition-69919ea73493.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Purple and then I see blue.",
+          "zh": "紫色，然后我看到了蓝色。",
+          "page": 79,
+          "file": "edition-740411d32268.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "I can see a rainbow, see a rainbow.",
+          "zh": "我能看见彩虹，看见彩虹。",
+          "page": 79,
+          "file": "edition-1b1391078b2a.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Can you see one too?",
+          "zh": "你也能看见一道彩虹吗？",
+          "page": 79,
+          "file": "edition-207a9296acd0.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Red and yellow and then I see green.",
+          "zh": "红色加黄色，然后我看到了绿色。",
+          "page": 79,
+          "file": "edition-0b0fc26444bf.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "They can mean stop, wait and go.",
+          "zh": "它们可以表示停、等和行。",
+          "page": 79,
+          "file": "edition-4da7d8d80447.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "Colours from the rainbow, from the rainbow.",
+          "zh": "来自彩虹的颜色，来自彩虹。",
+          "page": 79,
+          "file": "edition-5749adaf2c4b.mp3",
+          "audioSource": "Google Translate"
+        },
+        {
+          "en": "What can they show?",
+          "zh": "它们能表示什么？",
+          "page": 79,
+          "file": "edition-b6199810e02a.mp3",
+          "audioSource": "Google Translate"
+        }
+      ],
+      "source": "用户确认版PDF · Appendix 1 Songs",
+      "audioNote": "谷歌原速合成朗读，非演唱或教材原声"
     }
   ],
-  "unit": 5
+  "unit": 5,
+  "textbookSource": {
+    "title": "人教版英语三年级上册（用户确认实物匹配版本）",
+    "isbn": "978-7-107-38250-5",
+    "physicalEdition": "2024年7月第1版",
+    "physicalPrinting": "2026年7月第3次印刷",
+    "confirmedByUser": "2026-10-25",
+    "digitalPrinting": "电子版未列出印次，不声称与实物同一印次",
+    "sha256": "025d9882c7b3078dfda1321be3c0bd84acf1f34964edc3cba53f90ecc13b90a6",
+    "pdfPages": 100,
+    "printedPageToPdfPageOffset": 6,
+    "sourceListing": "https://github.com/siknet/FreePEP/blob/main/piclist.md",
+    "officialReader": "https://book.pep.com.cn/1212001301245/mobile/index.html",
+    "verification": "封底ISBN相同；印刷页21的正文、插图与练习匹配用户实物照片；用户确认以此PDF重做。"
+  }
 }

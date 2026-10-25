@@ -4,11 +4,11 @@
     "text": "are",
     "spokenText": "are",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=are&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f425cea29c85e632939be317513e53cb2b058cc97ea6d40548d49f3ee7763643",
+    "sha256": "2d5d8b8915e258ab2f17870858c0171a6389248fad388c28556af60186fe757c",
     "origin": "generated-google-original",
     "validation": {
       "duration": 0.768,
-      "peak": 19855
+      "peak": 19994
     }
   },
   {
@@ -88,7 +88,7 @@
     "text": "your",
     "spokenText": "your",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=your&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "305482bea29caac2fa211ab3b0886b60a1c96ee733fe9a033c9f6fca201d7cc9",
+    "sha256": "78c4ba9bd18d547ebc41326d55b1b73ba7da692dcefe31cddf52fe84633e6423",
     "origin": "generated-google-original",
     "validation": {
       "duration": 0.768,
@@ -124,11 +124,11 @@
     "text": "play",
     "spokenText": "play",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=play&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "2f49d1db472a6bca79a5d2643564fd3a5b8687821065326e58355c0a909834b6",
+    "sha256": "fe57c7b11fa2a5fc9a40378c1cd2de5a0afeda7d1fd13680699aa2dc93fbd96a",
     "origin": "generated-google-original",
     "validation": {
       "duration": 0.792,
-      "peak": 17876
+      "peak": 17903
     }
   },
   {
@@ -148,11 +148,11 @@
     "text": "hi",
     "spokenText": "hi",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=hi&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "896e9382e74a5d357b33b7cb1ba0b8c8450be94744ac670e3f7e30ee628589af",
+    "sha256": "cf5ca0af063cd5c3827a633fe06b4417f618af70eba8878b51af414de0a53f22",
     "origin": "generated-google-original",
     "validation": {
       "duration": 0.696,
-      "peak": 16931
+      "peak": 16878
     }
   },
   {
@@ -189,42 +189,6 @@
     "validation": {
       "duration": 0.744,
       "peak": 16153
-    }
-  },
-  {
-    "file": "be.mp3",
-    "text": "be",
-    "spokenText": "be",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=be&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "3142eb25863550d997b3ea99ee0a728f1c77d6cb552310110703047ef9969f2c",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 0.72,
-      "peak": 16951
-    }
-  },
-  {
-    "file": "sarah.mp3",
-    "text": "Sarah",
-    "spokenText": "Sarah",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Sarah&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "a3324662e69489303cffb6b608e5b6c43df0a936b6855ca5d7ceb27e58c3a482",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 0.864,
-      "peak": 12466
-    }
-  },
-  {
-    "file": "i.mp3",
-    "text": "I",
-    "spokenText": "I",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "7b01659b025517033cfb0a9ae636e6dc9ce868b17adc858aec0a2e6ac716bb07",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 0.72,
-      "peak": 19280
     }
   },
   {
@@ -288,6 +252,42 @@
     }
   },
   {
+    "file": "sarah.mp3",
+    "text": "Sarah",
+    "spokenText": "Sarah",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=Sarah&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "a3324662e69489303cffb6b608e5b6c43df0a936b6855ca5d7ceb27e58c3a482",
+    "origin": "generated-google-original",
+    "validation": {
+      "duration": 0.864,
+      "peak": 12466
+    }
+  },
+  {
+    "file": "i.mp3",
+    "text": "I",
+    "spokenText": "I",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=I&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "7b01659b025517033cfb0a9ae636e6dc9ce868b17adc858aec0a2e6ac716bb07",
+    "origin": "generated-google-original",
+    "validation": {
+      "duration": 0.72,
+      "peak": 19280
+    }
+  },
+  {
+    "file": "am.mp3",
+    "text": "am",
+    "spokenText": "am",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=am&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "e720dd3b02d8bad64d5d7ffa03181253fc58bcd5d99b73e5fbdfb5bf9ad004f3",
+    "origin": "generated-google-original",
+    "validation": {
+      "duration": 0.768,
+      "peak": 10374
+    }
+  },
+  {
     "file": "yes.mp3",
     "text": "yes",
     "spokenText": "yes",
@@ -297,6 +297,42 @@
     "validation": {
       "duration": 0.936,
       "peak": 14994
+    }
+  },
+  {
+    "file": "and.mp3",
+    "text": "and",
+    "spokenText": "and",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=and&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "b654479daa300725d5823e027251e452bbabae730d3f0f796c149fb9b41553e9",
+    "origin": "generated-google-original",
+    "validation": {
+      "duration": 0.792,
+      "peak": 10220
+    }
+  },
+  {
+    "file": "do.mp3",
+    "text": "do",
+    "spokenText": "do",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=do&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "7f25a44dbb04b0b8c15cc538400797c497e0bed121d9a60528d390918f3520ed",
+    "origin": "generated-google-original",
+    "validation": {
+      "duration": 0.696,
+      "peak": 22384
+    }
+  },
+  {
+    "file": "together.mp3",
+    "text": "together",
+    "spokenText": "together",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=together&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "8ba161eb84909e12ba9b51bbf4a8f74cf97fd9ae95ff928595a0f99554421af9",
+    "origin": "generated-google-original",
+    "validation": {
+      "duration": 1.032,
+      "peak": 14816
     }
   },
   {
@@ -316,35 +352,11 @@
     "text": "care",
     "spokenText": "care",
     "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=care&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "80248ff0686bee1a42e171781422c11fef7cac9488fbc3cf9bea75b623919aa7",
+    "sha256": "bd0f90279e802f263f1c7dd981e9e8e895dcb6841000f441d2b68220b7c50f6d",
     "origin": "generated-google-original",
     "validation": {
       "duration": 0.84,
-      "peak": 13278
-    }
-  },
-  {
-    "file": "do.mp3",
-    "text": "do",
-    "spokenText": "do",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=do&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "4a83e95fd8da6086de2e8e73758d6d4cd52e3c2193a83b79bbdc57c48425e8e7",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 0.696,
-      "peak": 22362
-    }
-  },
-  {
-    "file": "together.mp3",
-    "text": "together",
-    "spokenText": "together",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=together&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "ab1fc6f3c8a778ecaed37516297129c6c495ef5bb8cdf9843dc26a75e947bef2",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 1.032,
-      "peak": 14787
+      "peak": 13323
     }
   },
   {
@@ -369,6 +381,30 @@
     "validation": {
       "duration": 0.816,
       "peak": 17363
+    }
+  },
+  {
+    "file": "how.mp3",
+    "text": "how",
+    "spokenText": "how",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=how&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "71ca56262ba4ff97f022210f923c99763530017da5742af960e5b2fc2fdf35d7",
+    "origin": "generated-google-original",
+    "validation": {
+      "duration": 0.768,
+      "peak": 17323
+    }
+  },
+  {
+    "file": "happy.mp3",
+    "text": "happy",
+    "spokenText": "happy",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=happy&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "c98a7b88f94da15d3764454882bf2c790fb5648ec9eddc2b9e91528587e586fe",
+    "origin": "generated-google-original",
+    "validation": {
+      "duration": 0.864,
+      "peak": 19350
     }
   },
   {
@@ -405,18 +441,6 @@
     "validation": {
       "duration": 0.576,
       "peak": 15115
-    }
-  },
-  {
-    "file": "how.mp3",
-    "text": "how",
-    "spokenText": "how",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=how&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "71ca56262ba4ff97f022210f923c99763530017da5742af960e5b2fc2fdf35d7",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 0.768,
-      "peak": 17323
     }
   },
   {
@@ -480,18 +504,6 @@
     }
   },
   {
-    "file": "happy.mp3",
-    "text": "happy",
-    "spokenText": "happy",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=happy&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "c98a7b88f94da15d3764454882bf2c790fb5648ec9eddc2b9e91528587e586fe",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 0.864,
-      "peak": 19350
-    }
-  },
-  {
     "file": "daddy.mp3",
     "text": "daddy",
     "spokenText": "daddy",
@@ -552,18 +564,6 @@
     }
   },
   {
-    "file": "but.mp3",
-    "text": "but",
-    "spokenText": "but",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=but&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "f661dedd5e4b72cc19807f17952e5fc5251c92cfd1173545f4019d822f03ee13",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 0.624,
-      "peak": 20560
-    }
-  },
-  {
     "file": "love.mp3",
     "text": "love",
     "spokenText": "love",
@@ -573,18 +573,6 @@
     "validation": {
       "duration": 0.768,
       "peak": 16577
-    }
-  },
-  {
-    "file": "same.mp3",
-    "text": "same",
-    "spokenText": "same",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=same&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "d313818d71d7f2cbca0153f4e29779107c263f521620e382964922acf2ee7b55",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 0.912,
-      "peak": 12055
     }
   },
   {
@@ -624,30 +612,6 @@
     }
   },
   {
-    "file": "or.mp3",
-    "text": "or",
-    "spokenText": "or",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=or&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "164786276cbbed205629db4116d924426b91fb0e5235e4a4b4a0c72b9a78323a",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 0.768,
-      "peak": 16092
-    }
-  },
-  {
-    "file": "members.mp3",
-    "text": "members",
-    "spokenText": "members",
-    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=members&tl=en&client=tw-ob&ttsspeed=1",
-    "sha256": "0b58f99fd116e7ee6fdf8a2031a3a6d8de9ad1535681bc2ac1907eaaafe7e387",
-    "origin": "generated-google-original",
-    "validation": {
-      "duration": 1.08,
-      "peak": 17363
-    }
-  },
-  {
     "file": "who.mp3",
     "text": "who",
     "spokenText": "who",
@@ -669,6 +633,18 @@
     "validation": {
       "duration": 1.056,
       "peak": 23042
+    }
+  },
+  {
+    "file": "mummy.mp3",
+    "text": "mummy",
+    "spokenText": "mummy",
+    "source": "https://translate.google.com/translate_tts?ie=UTF-8&q=mummy&tl=en&client=tw-ob&ttsspeed=1",
+    "sha256": "0a9189979f5a0627f7779adcb2ca5c7a96f242796e7396f7abfe0c60c64c2607",
+    "origin": "generated-google-original",
+    "validation": {
+      "duration": 0.864,
+      "peak": 18565
     }
   }
 ]
