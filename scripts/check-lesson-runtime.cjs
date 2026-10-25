@@ -14,7 +14,7 @@ async function check(course){
    set className(v){classes.clear();v.split(/\s+/).forEach(c=>classes.add(c))},get className(){return [...classes].join(' ')},
    set id(v){this._id=v;nodes[v]=this},get id(){return this._id},
    set textContent(v){this.text=String(v);this.children=[]},get textContent(){return (this.text||'')+this.children.map(c=>c.textContent).join('')},
-   appendChild(child){this.children.push(child);child.parentNode=this;return child},setAttribute(k,v){attributes[k]=String(v)},getAttribute:k=>attributes[k]??null,removeAttribute(k){delete attributes[k];if(k==='src')this.src=''},focus(){},
+   appendChild(child){this.children.push(child);child.parentNode=this;return child},setAttribute(k,v){attributes[k]=String(v)},getAttribute(k){return k==='src'?this.src||null:attributes[k]??null},removeAttribute(k){delete attributes[k];if(k==='src')this.src=''},focus(){},
    getClientRects:()=>[1],getBoundingClientRect:()=>({top:900,bottom:1000,height:100,left:100,right:200,width:100}),
    closest(selector){for(let p=this;p;p=p.parentNode)if(matches(p,selector))return p;return null},
    querySelectorAll(selector){const children=this.children.flatMap(c=>[c,...c.descendants()]);return children.filter(c=>matches(c,selector))},querySelector(selector){return this.querySelectorAll(selector)[0]||null},descendants(){return this.children.flatMap(c=>[c,...c.descendants()])}
@@ -38,14 +38,29 @@ async function check(course){
  const pages=run('BOOK_PAGES');let pagesPlayed=0;
  for(let p=0;p<pages.length;p++){
   nodes['book-page'].onchange({target:{value:String(p)}});played.length=0;nodes['read-page'].onclick();await flush();
-  function assertHighlight(){const current=run('followCard');if(!current)return;assert.equal(current.classList.contains('playing'),true,'Current spoken item must be highlighted');assert.equal(current.dataset.file,run('active.file'));assert.equal(document.querySelectorAll('.playing').length,1,'Only the current occurrence may be highlighted');}
-  assertHighlight();
-  while(run('queue.length')){const previous=run('followCard');for(const f of events.ended)f();await flush();assertHighlight();if(previous&&previous!==run('followCard'))assert.equal(previous.classList.contains('playing'),false,'Previous frame must be cleared on the next item')}
+  function assertHighlight(index){const current=run('followCard');if(!current)return;assert.equal(current.classList.contains('playing'),true,'Current spoken item must be highlighted');assert.equal(current.dataset.file,run('active.file'));if(index!==undefined)assert.equal(current.dataset.readIndex,String(index),'Repeated utterances must select their actual occurrence');const expected=nodes['book-canvas'].children.filter(e=>e.dataset.readIndex===current.dataset.readIndex&&e.dataset.file===current.dataset.file);assert.equal(document.querySelectorAll('.playing').length,expected.length,'Highlight every wrapped segment of only the current occurrence');for(const e of expected)assert.ok(e.classList.contains('playing'));}
+  let readingIndex=0;assertHighlight(readingIndex);
+  while(run('queue.length')){const previous=run('followCard');for(const f of events.ended)f();await flush();assertHighlight(++readingIndex);if(previous&&previous!==run('followCard'))assert.equal(previous.classList.contains('playing'),false,'Previous frame must be cleared on the next item')}
   for(const f of events.ended)f();await flush();
   const expected=Array.from(pages[p].sequence,ref=>audioBase+(typeof ref==='string'?CONTENT.words.find(w=>w.en===ref):CONTENT.sentences[ref-1]).file);
   assert.deepEqual(played,expected,`Unit${unit} page${pages[p].page}`);assert.equal(run('followEnabled'),false);assert.equal(document.querySelectorAll('.playing').length,0,'Playback completion clears the frame');pagesPlayed++;
+  // Every clickable segment must play its own PDF text, including wrapped and repeated lines.
+  const spots=nodes['book-canvas'].children.filter(e=>e.classList.contains('hotspot'));
+  for(let i=0;i<spots.length;i++){const spot=pages[p].spots[i],ref=spot.w||spot.s,item=typeof ref==='string'?CONTENT.words.find(w=>w.en===ref):CONTENT.sentences[ref-1];spots[i].onclick();await flush();assert.equal(audio.src,audioBase+item.file);assert.equal(run('active.en'),item.en);assertHighlight(spot.readIndex);}
+  nodes.stop.onclick();
  }
  assert.ok(bookViewport.scrollTop>0,'Textbook follows within its own scroll container');
+ // All cards must display canonical spelling, complete meaning and the textbook IPA scope.
+ CONTENT.words.forEach((word,i)=>{const card=nodes['word-cards'].children[i];assert.equal(card.children.find(e=>e.classList.contains('en')).textContent,word.en);assert.equal(card.children.find(e=>e.classList.contains('ipa')).textContent,word.ipaDisplay||word.ipa);assert.equal(card.children.find(e=>e.classList.contains('zh')).textContent,word.zh)});
+ for(const speed of ['0.75','0.85','1','1.15']){nodes['playback-speed'].value=speed;nodes['playback-speed'].onchange();assert.equal(audio.playbackRate,Number(speed));assert.equal(audio.preservesPitch,true)}
+ // Every song retains repeated lines; looping restarts from line one and Stop clears the loop.
+ for(let i=0;i<CONTENT.songs.length;i++){
+  const song=CONTENT.songs[i],grid=nodes['song-lines-'+i],controls=grid.parentNode.children[2],button=controls.children[0],loop=controls.children[1].children[0];
+  loop.checked=false;played.length=0;button.onclick();await flush();while(run('queue.length')){for(const f of events.ended)f();await flush()}for(const f of events.ended)f();
+  assert.deepEqual(played,song.lines.map(line=>audioBase+line.file));assert.equal(run('repeatSequence'),null);
+  loop.checked=true;played.length=0;button.onclick();await flush();for(let j=0;j<song.lines.length+1;j++){for(const f of events.ended)f();await flush()}
+  assert.deepEqual(played,song.lines.concat(song.lines.slice(0,2)).map(line=>audioBase+line.file));nodes.stop.onclick();assert.equal(run('repeatSequence'),null);assert.equal(run('queue.length'),0);assert.equal(timers.size,0);
+ }
  // Whole-text playback keeps repeated lines, while quizzes retain distinct questions.
  category[1].onclick();played.length=0;nodes['read-sentences'].onclick();await flush();while(run('queue.length')){for(const f of events.ended)f();await flush()}
  assert.deepEqual(played,CONTENT.groups.flatMap(g=>g.clips.map(n=>audioBase+CONTENT.sentences[n-1].file)));run('stop()');
@@ -57,7 +72,8 @@ async function check(course){
  listeners.wheel[0]();nodes.stop.onclick();assert.equal(timers.size,0);assert.equal(run('queue.length'),0);assert.equal(audio.paused,true);
  // Rapid clicks keep the last request; blocked playback clears follow/queue.
  const cards=nodes['word-cards'].children;cards[0].onclick();cards[1].onclick();await flush();assert.equal(run('active.en'),CONTENT.words[1].en);
- rejectNext=true;nodes['read-words'].onclick();await flush();assert.equal(run('queue.length'),0);assert.equal(run('followEnabled'),false);
+ rejectNext=true;nodes['read-words'].onclick();await flush();assert.equal(run('queue.length'),0);assert.equal(run('followEnabled'),false);assert.equal(document.querySelectorAll('.playing').length,0,'Rejected playback clears all frames');
+ nodes['read-words'].onclick();await flush();for(const f of events.error)f();assert.equal(run('queue.length'),0);assert.equal(run('followEnabled'),false);assert.equal(timers.size,0);assert.equal(document.querySelectorAll('.playing').length,0,'Loading errors clear wrapped frames');
  // Some phone browsers return no play Promise and silently ignore scroll options.
  legacyPlayback=true;const legacyBefore=scrolls;nodes['read-words'].onclick();await flush();assert.ok(scrolls>legacyBefore,'Phone playback events must scroll without a play Promise or scroll options');
  listeners.blur[0]();assert.equal(run('followPaused'),false,'Media/window focus changes are not manual scrolling');

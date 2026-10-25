@@ -10,6 +10,22 @@ for(let unit=1;unit<=6;unit++){
  assert.equal(c.textbookSource.sha256,edition.sha256);assert.equal(c.wordSource.pdfSha256,edition.sha256);
  assert.equal(c.words.length,counts[unit-1]);assert.deepEqual(c.words.map(w=>w.en),edition.expectedWordOrder[unit]);
  assert.equal(c.expressions.length,expressions[unit-1]);assert.equal(pages.length,12);
+ for(const page of pages){
+  assert.deepEqual([...new Set(page.spots.map(s=>s.readIndex))].sort((a,b)=>a-b),page.sequence.map((_,i)=>i),'Every reading occurrence needs its own clickable segments');
+  for(const spot of page.spots)assert.equal(page.sequence[spot.readIndex],spot.w||spot.s,'Wrapped regions must retain the correct occurrence');
+  for(let i=0;i<page.spots.length;i++)for(let j=i+1;j<page.spots.length;j++){
+   const a=page.spots[i],b=page.spots[j];if(a.readIndex===b.readIndex)continue;
+   const [x,y,w,h]=a.box,[xx,yy,ww,hh]=b.box,area=Math.max(0,Math.min(x+w,xx+ww)-Math.max(x,xx))*Math.max(0,Math.min(y+h,yy+hh)-Math.max(y,yy));
+   assert.ok(area/Math.min(w*h,ww*hh)<=0.15,`Page ${page.page}: different utterances overlap`);
+  }
+ }
+ // Text centers measured independently on the confirmed PDF: adjacent wrapped sentences.
+ const centers=[
+  [48,450,821,'I need air, water and sun.'],[48,275,877,'I need air, water and sun.'],[48,450,877,'My family water me.'],[48,220,935,'My family water me.'],
+  [49,370,900,'I am big now.'],[49,570,900,'I give apples to my family.'],[49,440,954,'I give apples to my family.'],[49,580,954,'We are all happy!'],[49,340,1005,'We are all happy!'],
+  [60,950,520,'Now I am a big yellow flower.'],[60,1010,572,'Now I am a big yellow flower.'],[60,1110,570,'Bees come.'],[60,850,630,'Bees come.'],[60,970,630,'They are yellow and black.'],[60,960,690,'They are yellow and black.']
+ ];
+ for(const [n,px,py,text] of centers){const page=pages.find(p=>p.page===n);if(!page)continue;const x=px*1080/1274,y=py*1527/1800,hits=page.spots.filter(s=>x>=s.box[0]&&x<=s.box[0]+s.box[2]&&y>=s.box[1]&&y<=s.box[1]+s.box[3]);assert.ok(hits.length,`Page ${n}: missing clickable text`);for(const hit of hits)assert.equal(hit.w||c.sentences[hit.s-1].en,text,`Page ${n}: neighboring sentence intercepts the click`);}
  for(const song of c.songs){assert.equal(song.lyricsStatus,'complete');assert.ok(song.lines.length>=6);assert.ok(song.lines.every(l=>l.zh&&l.file));}
  const pageText=n=>pages.find(p=>p.page===n).sequence.map(r=>typeof r==='string'?r:c.sentences[r-1].en);
  if(unit===1){assert.ok(pageText(4).includes("Hi! I'm John."));assert.ok(!c.words.some(w=>['and','goodbye','toy'].includes(w.en)));assert.ok(!pageText(9).includes('I share my toys.'));}
