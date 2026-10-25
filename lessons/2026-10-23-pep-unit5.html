@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="zh-CN">
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="lesson-version" content="c9b47939ad9d">
+<meta name="lesson-version" content="793a74a1f786">
 <meta name="lookup-api-base" content="">
 <title>缤纷的世界 · 第五单元学习</title>
 <style>
@@ -164,8 +164,8 @@ h2 { font-size: 24px; }
 
 </style>
 <main>
-<div class="top"><span>PEP · 三年级上册 / UNIT 05</span><a class="badge" href="../?v=c9b47939ad9d" style="color:inherit;text-decoration:none">返回学习入口</a></div>
-<div class="unit-links" aria-label="选择单元"><a href="2026-10-23-pep-unit1.html?v=c9b47939ad9d">第一单元</a><a href="2026-10-23-pep-unit2.html?v=c9b47939ad9d">第二单元</a><a href="2026-10-23-pep-unit3.html?v=c9b47939ad9d">第三单元</a><a href="2026-10-23-pep-unit4.html?v=c9b47939ad9d">第四单元</a><a aria-current="page" href="2026-10-23-pep-unit5.html?v=c9b47939ad9d">第五单元</a><a href="2026-10-23-pep-unit6.html?v=c9b47939ad9d">第六单元</a></div><header class="hero"><div><div class="eyebrow">每天学一点英语</div><h1>缤纷的世界</h1><p class="english-title" lang="en">The colourful world</p><p class="intro">完整单元第 50—61 页 · 完整词表 17 词 · 谷歌原速<span class="hero-tip"><br>点一点听发音，说一说，再试着自己回想。</span></p></div><div class="art" aria-hidden="true" style="font-size:64px">🎨</div></header>
+<div class="top"><span>PEP · 三年级上册 / UNIT 05</span><a class="badge" href="../?v=793a74a1f786" style="color:inherit;text-decoration:none">返回学习入口</a></div>
+<div class="unit-links" aria-label="选择单元"><a href="2026-10-23-pep-unit1.html?v=793a74a1f786">第一单元</a><a href="2026-10-23-pep-unit2.html?v=793a74a1f786">第二单元</a><a href="2026-10-23-pep-unit3.html?v=793a74a1f786">第三单元</a><a href="2026-10-23-pep-unit4.html?v=793a74a1f786">第四单元</a><a aria-current="page" href="2026-10-23-pep-unit5.html?v=793a74a1f786">第五单元</a><a href="2026-10-23-pep-unit6.html?v=793a74a1f786">第六单元</a></div><header class="hero"><div><div class="eyebrow">每天学一点英语</div><h1>缤纷的世界</h1><p class="english-title" lang="en">The colourful world</p><p class="intro">完整单元第 50—61 页 · 完整词表 17 词 · 谷歌原速<span class="hero-tip"><br>点一点听发音，说一说，再试着自己回想。</span></p></div><div class="art" aria-hidden="true" style="font-size:64px">🎨</div></header>
 <nav role="tablist" aria-label="学习内容"><button id="tab-book" role="tab" aria-controls="book" aria-selected="true">课本点读</button><button id="tab-words" role="tab" aria-controls="words" aria-selected="false" tabindex="-1">单词学习</button><button id="tab-sentences" role="tab" aria-controls="sentences" aria-selected="false" tabindex="-1">句子与歌曲</button><button id="tab-practice" role="tab" aria-controls="practice" aria-selected="false" tabindex="-1">小练习</button></nav>
 <section id="book" role="tabpanel" aria-labelledby="tab-book">
 <div class="section-head"><div><h2>在课本上点一点</h2><p class="small">直接点击英文听发音，浅色框内均可点读。</p></div><button class="btn" id="read-page">▶ 本页朗读</button></div>
@@ -532,7 +532,7 @@ function handleBookPoint(item,card){
  if(cursor<entry.en.length)list.appendChild(document.createTextNode(entry.en.slice(cursor)));
  $('word-follow-all').onclick=()=>playSequence(entry.tokens.map(wordFollowItem),list,false,500);
  $('word-follow-whole').onclick=()=>play(item,card);
- $('word-follow-panel').hidden=false;showWordFollowMeaning(0);syncWordFollowUI();$('word-follow-close').focus();
+ $('word-follow-panel').hidden=false;$('word-follow-panel').scrollTop=0;showWordFollowMeaning(0);syncWordFollowUI();$('word-follow-close').focus();
  $('status').textContent='已拆分句子，点击单词开始跟读。';
 }
 $('word-follow-toggle').onclick=()=>{

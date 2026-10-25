@@ -38,7 +38,7 @@ function handleBookPoint(item,card){
  if(cursor<entry.en.length)list.appendChild(document.createTextNode(entry.en.slice(cursor)));
  $('word-follow-all').onclick=()=>playSequence(entry.tokens.map(wordFollowItem),list,false,500);
  $('word-follow-whole').onclick=()=>play(item,card);
- $('word-follow-panel').hidden=false;showWordFollowMeaning(0);syncWordFollowUI();$('word-follow-close').focus();
+ $('word-follow-panel').hidden=false;$('word-follow-panel').scrollTop=0;showWordFollowMeaning(0);syncWordFollowUI();$('word-follow-close').focus();
  $('status').textContent='已拆分句子，点击单词开始跟读。';
 }
 $('word-follow-toggle').onclick=()=>{

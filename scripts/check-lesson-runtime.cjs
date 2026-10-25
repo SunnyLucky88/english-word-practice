@@ -131,7 +131,7 @@ async function check(course){
   for(let i=0;i<pages[p].spots.length;i++){
    const ref=pages[p].spots[i].w||pages[p].spots[i].s,item=typeof ref==='string'?CONTENT.words.find(w=>w.en===ref):CONTENT.sentences[ref-1];
    const entry=run('wordFollowLibrary').sentences[item.en];if(!entry)continue;
-   const count=played.length;spots[i].onclick();await flush();assert.equal(played.length,count,'Opening a sentence must not autoplay');assert.equal(nodes['word-follow-translation'].textContent,item.zh);assert.equal(nodes['word-follow-sentence'].textContent,item.en);
+   const count=played.length;nodes['word-follow-panel'].scrollTop=150;spots[i].onclick();await flush();assert.equal(nodes['word-follow-panel'].scrollTop,0,'A new sentence must show its full translation from the top');assert.equal(played.length,count,'Opening a sentence must not autoplay');assert.equal(nodes['word-follow-translation'].textContent,item.zh);assert.equal(nodes['word-follow-sentence'].textContent,item.en);
    const buttons=nodes['word-follow-words'].children.filter(e=>e.classList.contains('word-follow-word'));assert.equal(buttons.length,entry.tokens.length);assert.equal(nodes['word-follow-words'].textContent,item.en,'Punctuation and repeated words must remain in the original order');
    buttons.forEach((button,n)=>{button.onclick();const token=entry.tokens[n],word=run('wordFollowLibrary').words[token.key];assert.equal(audio.src,audioBase+word.file);assert.equal(nodes['word-follow-en'].textContent,token.text);assert.equal(nodes['word-follow-meaning'].textContent,word.zh);assert.equal(nodes['word-follow-ipa'].textContent,word.ipaDisplay||word.ipa||'')});
    nodes.stop.onclick();splitChecks++;
