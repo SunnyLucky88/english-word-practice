@@ -4,7 +4,7 @@ module.exports=function lessonVersion(root,courses){
  hash.update(fs.readFileSync(path.join(root,'assets/pep-lesson-app.js')));
  hash.update(fs.readFileSync(path.join(root,'assets/pep-playback.css')));
  hash.update(fs.readFileSync(path.join(root,'assets/pep-lesson-typography.css')));
- for(const name of ['pep-lesson-tools.js','pep-lesson-tools.css','pep-practice-picker.html','pep-lookup.html','pep-lookup-config.json','pep-word-follow.js','pep-word-follow.css','pep-word-follow.html'])hash.update(fs.readFileSync(path.join(root,'assets',name)));
+ for(const name of ['pep-lesson-tools.js','pep-lesson-tools.css','pep-practice-picker.html','pep-lookup.html','pep-lookup-config.json','pep-word-follow.js','pep-word-follow.css','pep-word-follow.html','pep-mobile-reader.js','pep-mobile-reader.css','pep-mobile-reader.html','pep-reader-layout.js','pep-reader-layout.css'])hash.update(fs.readFileSync(path.join(root,'assets',name)));
  for(const course of courses.filter(c=>/pep-unit\d+\.html$/.test(c.href)).sort((a,b)=>a.href.localeCompare(b.href))){
   hash.update(course.href+'\n'+course.audioDirectory+'\n');
   const assets=path.join(root,'assets',path.basename(course.href,'.html'));

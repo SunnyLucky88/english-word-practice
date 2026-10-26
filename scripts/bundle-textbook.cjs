@@ -13,6 +13,12 @@ const toolsApp = fs.readFileSync(path.join(root, 'assets/pep-lesson-tools.js'), 
 const wordFollowApp=fs.readFileSync(path.join(root,'assets/pep-word-follow.js'),'utf8');
 const wordFollowCss=fs.readFileSync(path.join(root,'assets/pep-word-follow.css'),'utf8');
 const wordFollowHtml=fs.readFileSync(path.join(root,'assets/pep-word-follow.html'),'utf8');
+const mobileReaderCss=fs.readFileSync(path.join(root,'assets/pep-mobile-reader.css'),'utf8')+'\n'+fs.readFileSync(path.join(root,'assets/pep-reader-layout.css'),'utf8');
+const mobileReaderHtml=fs.readFileSync(path.join(root,'assets/pep-mobile-reader.html'),'utf8');
+const mobileReaderApp=fs.readFileSync(path.join(root,'assets/pep-mobile-reader.js'),'utf8');
+const readerLayoutApp=fs.readFileSync(path.join(root,'assets/pep-reader-layout.js'),'utf8');
+new vm.Script(readerLayoutApp);
+new vm.Script(mobileReaderApp);
 const pickerHtml = fs.readFileSync(path.join(root, 'assets/pep-practice-picker.html'), 'utf8');
 const lookupHtml = fs.readFileSync(path.join(root, 'assets/pep-lookup.html'), 'utf8');
 const lookupConfig=JSON.parse(fs.readFileSync(path.join(root,'assets/pep-lookup-config.json'),'utf8'));
@@ -42,6 +48,10 @@ for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d
   html=html.includes('id="lesson-tools-styles"')?html.replace(/<style id="lesson-tools-styles">[\s\S]*?<\/style>/,()=>toolsStyle):html.replace('<main>',toolsStyle+'\n<main>');
   const followStyle=`<style id="word-follow-styles">\n${wordFollowCss}\n</style>`;
   html=html.includes('id="word-follow-styles"')?html.replace(/<style id="word-follow-styles">[\s\S]*?<\/style>/,()=>followStyle):html.replace('<main>',followStyle+'\n<main>');
+  const mobileStyle=`<style id="mobile-reader-styles">\n${mobileReaderCss}\n</style>`;
+  html=html.includes('id="mobile-reader-styles"')?html.replace(/<style id="mobile-reader-styles">[\s\S]*?<\/style>/,()=>mobileStyle):html.replace('<main>',mobileStyle+'\n<main>');
+  if(html.includes('id="reader-ui"'))html=html.replace(/<!-- mobile-reader-ui -->[\s\S]*?<!-- \/mobile-reader-ui -->/,()=>`<!-- mobile-reader-ui -->\n${mobileReaderHtml}<!-- /mobile-reader-ui -->`);
+  else html=html.replace('<script type="application/json" id="lesson-content">',()=>`<!-- mobile-reader-ui -->\n${mobileReaderHtml}<!-- /mobile-reader-ui -->\n<script type="application/json" id="lesson-content">`);
   if(html.includes('id="practice-extra"'))html=html.replace(/<div id="practice-extra"[\s\S]*?<\/details>/,()=>pickerHtml.trim());
   else html=html.replace('<div class="exercise">',()=>pickerHtml+'<div class="exercise">');
   html=html.replace('<option value="listen">听音选单词</option>','<option value="listen">听音选英文</option>');
@@ -92,6 +102,10 @@ for (const course of courses.filter(c => /^lessons\/\d{4}-\d{2}-\d{2}-pep-unit\d
   } else {
     html = html.replace(/<script src="[^\"]+\/book\.js"><\/script>/, () => inline);
   }
+  const mobileScript=`<script id="mobile-reader-controller">\n${mobileReaderApp}\n</script>`;
+  html=html.includes('id="mobile-reader-controller"')?html.replace(/<script id="mobile-reader-controller">[\s\S]*?<\/script>/,()=>mobileScript):html.replace(inline,()=>inline+'\n'+mobileScript);
+  const layoutScript=`<script id="reader-layout-controller">\n${readerLayoutApp}\n</script>`;
+  html=html.includes('id="reader-layout-controller"')?html.replace(/<script id="reader-layout-controller">[\s\S]*?<\/script>/,()=>layoutScript):html.replace(mobileScript,()=>mobileScript+'\n'+layoutScript);
   fs.writeFileSync(lesson, html);
   console.log(`Bundled ${slug}: ${pages.length} textbook pages (${Math.round(Buffer.byteLength(html)/1024)} KB HTML).`);
 }

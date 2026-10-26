@@ -1,0 +1,33 @@
+<div id="reader-ui" hidden>
+  <div id="reader-dock" class="reader-dock" aria-label="课本阅读操作">
+    <div class="reader-pager">
+      <button id="reader-previous" type="button" aria-label="上一页">‹</button>
+      <button id="reader-page-button" type="button" aria-controls="reader-pages" aria-expanded="false">第 <span id="reader-page-number">14</span> 页 <span class="reader-chevron">⌃</span></button>
+      <button id="reader-next" type="button" aria-label="下一页">›</button>
+    </div>
+    <button id="reader-playing" class="reader-playing" type="button" aria-label="停止当前朗读" hidden>■ 停止</button>
+    <button id="reader-tools-button" class="reader-tools-button" type="button" aria-controls="reader-tools" aria-expanded="false">工具</button>
+  </div>
+  <aside id="reader-pages" class="reader-sheet reader-pages" aria-labelledby="reader-pages-title" hidden>
+    <div class="reader-sheet-heading"><h2 id="reader-pages-title">跳到课本页</h2><button id="reader-pages-close" type="button" class="reader-close" aria-label="收起页码">×</button></div>
+    <div id="reader-page-grid" class="reader-page-grid"></div>
+  </aside>
+  <aside id="reader-tools" class="reader-sheet reader-tools" aria-labelledby="reader-tools-title" hidden>
+    <div class="reader-sheet-heading"><div><h2 id="reader-tools-title">阅读工具</h2><p id="reader-unit-title"></p></div><button id="reader-tools-close" type="button" class="reader-close" aria-label="收起阅读工具">×</button></div>
+    <div class="reader-action-grid">
+      <button id="reader-read" type="button">▶ 朗读本页</button>
+      <button id="reader-audio" type="button">播放进度 / 倍速</button>
+      <button id="reader-word-follow" type="button" aria-pressed="false">逐词：关</button>
+      <button id="reader-lookup" type="button">查词 / 查句</button>
+    </div>
+    <div class="reader-settings">
+      <label>课本大小<select id="reader-zoom"><option value="100">适合宽度</option><option value="150">放大 150%</option><option value="200">放大 200%</option></select></label>
+      <label><input id="reader-spots" type="checkbox" checked>显示点读框</label>
+    </div>
+    <p class="reader-tip">上下滑动连续看书，点击英文听发音。放大后可左右拖动，选“适合宽度”恢复。</p>
+    <div class="reader-learning-links">
+      <button id="reader-to-words" type="button">单词学习</button><button id="reader-to-sentences" type="button">句子与歌曲</button><button id="reader-to-practice" type="button">小练习</button><a href="../">学习首页 ↗</a>
+    </div>
+    <label class="reader-unit-picker">切换单元<select id="reader-unit"></select></label>
+  </aside>
+</div>
