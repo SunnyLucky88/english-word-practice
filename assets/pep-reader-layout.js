@@ -21,7 +21,7 @@ readerZoomTo=function(value){
  scrollWindowTo(0,Math.max(0,(window.scrollY||0)+after.top+offset*after.height-line));
 };
 window.addEventListener('resize',layoutCenterBook);
-// Keep the heading and Close control fixed while the reading content scrolls inside.
+// Group the reading content; on phones the heading scrolls with the whole panel.
 const layoutPanel=$('word-follow-panel'),layoutPanelHeading=layoutPanel.querySelector('.word-follow-heading'),layoutPanelContent=document.createElement('div');
 layoutPanelContent.className='layout-follow-content';layoutPanelContent.tabIndex=0;layoutPanelContent.setAttribute('aria-label','逐词跟读内容');
 [...layoutPanel.children].filter(node=>node!==layoutPanelHeading).forEach(node=>layoutPanelContent.appendChild(node));layoutPanel.appendChild(layoutPanelContent);
@@ -44,7 +44,8 @@ const layoutOriginalWordItem=wordFollowItem;
 wordFollowItem=function(token){return layoutPanelWordFallback[token.key]?{...layoutPanelWordFallback[token.key],en:token.text}:layoutOriginalWordItem(token)};
 const layoutOriginalFollow=followPlayingCard;
 followPlayingCard=function(card){
- const scroller=card&&card.closest('.layout-follow-content');
+ let scroller=card&&card.closest('.layout-follow-content');
+ if(scroller&&mobileReader.active)scroller=layoutPanel;
  if(!scroller){
   if(!card||!card.closest('.reader-page-canvas'))return layoutOriginalFollow(card);
   if(!followEnabled||followPaused||!card.getClientRects().length||document.visibilityState==='hidden')return false;
