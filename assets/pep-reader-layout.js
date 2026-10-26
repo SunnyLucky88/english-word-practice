@@ -30,6 +30,13 @@ layoutPanelContent.insertBefore($('word-follow-words'),layoutPanelContent.firstC
 layoutPanelHeading.insertBefore(layoutPanel.querySelector('.word-follow-actions'),$('word-follow-close'));
 $('word-follow-all').textContent='▶ 依次听单词';$('word-follow-all').setAttribute('aria-label','依次听单词');
 $('word-follow-whole').textContent='▶ 听整句';$('word-follow-whole').setAttribute('aria-label','听整句');
+// Word buttons keep their own audio; the surrounding sentence space plays the sentence.
+function layoutSentenceSpaceClick(event){
+ if(event.target.closest('button')||!wordFollowCurrent)return;
+ const whole=$('word-follow-whole');if(typeof whole.onclick==='function')whole.onclick();
+}
+$('word-follow-words').addEventListener('click',layoutSentenceSpaceClick);
+$('word-follow-words').title='点击单词听单词，点击空白处听整句';
 const layoutOriginalPoint=handleBookPoint;
 let layoutPanelWordFallback={};
 handleBookPoint=function(item,card){layoutPanelWordFallback={};layoutOriginalPoint(item,card);layoutReservePanelSpace();layoutPanelContent.scrollTop=0};
