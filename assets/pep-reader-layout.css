@@ -48,10 +48,10 @@ body.mobile-reader .hotspot:focus-visible::after{display:block;border-color:#db8
 .layout-read-page{border:1px solid #b5c8bc;border-radius:99px;background:#fffdf8f5;color:#176c64;font-size:13px;font-weight:650;min-width:96px;padding:0 10px;white-space:nowrap;box-shadow:0 3px 16px #23362a20}
 .layout-read-page[aria-pressed=true]{background:#176c64;color:white}
 @media(max-width:700px){
- .word-follow-words{font-size:32px}.word-follow-word{font-size:inherit}
- .word-follow-heading{grid-template-columns:minmax(0,1fr) auto;column-gap:16px;row-gap:12px}
- .word-follow-heading h2{grid-column:1;grid-row:1}
- .word-follow-heading #word-follow-close{grid-column:2;grid-row:1}
+ .word-follow-words{font-size:30px}.word-follow-word{font-size:inherit}
+ .word-follow-heading{grid-template-columns:minmax(0,1fr) auto;column-gap:12px;row-gap:6px;padding-bottom:6px}
+ .word-follow-heading h2{grid-column:1;grid-row:1;font-size:18px}
+ .word-follow-heading #word-follow-close{grid-column:2;grid-row:1;min-height:32px;font-size:13px;padding:4px 8px}
  .word-follow-heading .word-follow-actions{grid-column:1/-1;grid-row:2;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));width:100%;gap:10px}
  .word-follow-actions .btn{min-width:0;width:100%;padding:6px 8px}
 }
