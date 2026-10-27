@@ -5,7 +5,7 @@ body.mobile-reader #book-canvas{width:var(--layout-book-width,100%)!important;bo
 body.mobile-reader .reader-page-viewport{overflow:visible}
 body.mobile-reader .word-follow-panel{
  left:12px;right:12px;top:auto;bottom:var(--layout-follow-bottom,60px);transform:none;
- width:auto;max-width:none;height:40vh;height:40dvh;max-height:40vh;max-height:40dvh;
+ width:auto;max-width:none;height:38vh;height:38dvh;max-height:38vh;max-height:38dvh;
  display:flex;flex-direction:column;overflow:auto;overscroll-behavior:contain;
  margin:0;padding:12px;border-radius:16px;box-shadow:0 12px 55px #203e3a40;
 }
