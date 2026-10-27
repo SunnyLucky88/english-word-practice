@@ -21,7 +21,7 @@ readerZoomTo=function(value){
  scrollWindowTo(0,Math.max(0,(window.scrollY||0)+after.top+offset*after.height-line));
 };
 window.addEventListener('resize',layoutCenterBook);
-// Group the reading content; on phones the heading scrolls with the whole panel.
+// The heading and reading content scroll together on both phones and desktops.
 const layoutPanel=$('word-follow-panel'),layoutPanelHeading=layoutPanel.querySelector('.word-follow-heading'),layoutPanelContent=document.createElement('div');
 layoutPanelContent.className='layout-follow-content';layoutPanelContent.tabIndex=0;layoutPanelContent.setAttribute('aria-label','逐词跟读内容');
 [...layoutPanel.children].filter(node=>node!==layoutPanelHeading).forEach(node=>layoutPanelContent.appendChild(node));layoutPanel.appendChild(layoutPanelContent);
@@ -45,7 +45,7 @@ wordFollowItem=function(token){return layoutPanelWordFallback[token.key]?{...lay
 const layoutOriginalFollow=followPlayingCard;
 followPlayingCard=function(card){
  let scroller=card&&card.closest('.layout-follow-content');
- if(scroller&&mobileReader.active)scroller=layoutPanel;
+ if(scroller)scroller=layoutPanel;
  if(!scroller){
   if(!card||!card.closest('.reader-page-canvas'))return layoutOriginalFollow(card);
   if(!followEnabled||followPaused||!card.getClientRects().length||document.visibilityState==='hidden')return false;
@@ -68,14 +68,19 @@ followPlayingCard=function(card){
 };
 function layoutReservePanelSpace(){
  // The final page needs the same room to scroll above the panel as earlier pages.
- const covered=(!mobileReader.active||layoutPanel.hidden)?0:Math.max(0,window.innerHeight-layoutPanel.getBoundingClientRect().top+16);
+ const covered=($('book').hidden||layoutPanel.hidden)?0:Math.max(0,window.innerHeight-layoutPanel.getBoundingClientRect().top+16);
  layoutBookViewport.style.marginBottom=covered+'px';
 }
-function layoutSyncPanelPosition(){const dock=$('reader-dock').getBoundingClientRect();if(dock.height)layoutPanel.style.setProperty('--layout-follow-bottom',(window.innerHeight-dock.top+6)+'px');layoutReservePanelSpace()}
+function layoutSyncPanelPosition(){
+ const dock=$('reader-dock').getBoundingClientRect(),player=playerWrap.getBoundingClientRect();
+ const top=mobileReader.active&&dock.height?dock.top:player.height?player.top:window.innerHeight-12;
+ layoutPanel.style.setProperty('--layout-follow-bottom',(Math.max(12,window.innerHeight-top+6))+'px');layoutReservePanelSpace();
+}
 new MutationObserver(layoutReservePanelSpace).observe(layoutPanel,{attributes:true,attributeFilter:['hidden']});
 if(typeof ResizeObserver!=='undefined')new ResizeObserver(layoutReservePanelSpace).observe(layoutPanel);
 window.addEventListener('resize',layoutSyncPanelPosition);
 if(typeof ResizeObserver!=='undefined')new ResizeObserver(layoutSyncPanelPosition).observe($('reader-dock'));
+if(typeof ResizeObserver!=='undefined')new ResizeObserver(layoutSyncPanelPosition).observe(playerWrap);
 layoutSyncPanelPosition();
 const layoutZoomLevels=[...new Set([...Array.from({length:21},(_,i)=>100+i*5),118])].sort((a,b)=>a-b);
 const layoutZoomSelect=$('reader-zoom');layoutZoomSelect.textContent='';
