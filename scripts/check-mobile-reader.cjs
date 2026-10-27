@@ -45,6 +45,6 @@ for(const course of require('../courses.json').filter(c=>/pep-unit\d+\.html$/.te
  nodes['reader-tools-button'].onclick();assert.equal(nodes['reader-tools'].hidden,false);nodes['reader-page-button'].onclick();assert.equal(nodes['reader-tools'].hidden,true);assert.equal(nodes['reader-pages'].hidden,false);
  nodes['reader-word-follow'].onclick();assert.equal(context.wordFollowEnabled,true);nodes['reader-lookup'].onclick();assert.equal(nodes['lookup-panel'].hidden,false);assert.equal(nodes['reader-pages'].hidden,true);
  nodes['reader-to-words'].onclick();assert.ok(!document.body.classList.contains('mobile-reader'));assert.equal(nodes['reader-ui'].hidden,true);nodes.book.hidden=false;run('syncMobileReader()');flush();assert.equal(run('currentPage'),2,'Return to the last read page');
- media.matches=false;run('syncMobileReader()');assert.equal(run('mobileReader.mounted'),false);assert.equal(nodes['book-canvas'].children[0].src,pages[2].image,'Desktop retains its normal single-page view');
- console.log(`Unit ${content.unit}: ${pages.length} continuous pages; all hotspots, repeated playback occurrences, tracking, jumps, zoom, tools, tabs, persistence and desktop fallback passed.`);
+ media.matches=false;run('syncMobileReader()');assert.equal(run('mobileReader.mounted'),true);assert.equal(run('mobileReader.pages.length'),pages.length,'Desktop also retains all continuous pages');assert.equal(nodes['reader-ui'].hidden,false);
+ console.log(`Unit ${content.unit}: ${pages.length} continuous pages; all hotspots, repeated playback occurrences, tracking, jumps, zoom, tools, tabs, persistence and desktop continuous reading passed.`);
 }

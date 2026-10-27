@@ -1,7 +1,7 @@
-// Progressive mobile reader. Desktop keeps the established single-page controller.
+// Continuous textbook reading on both desktop and mobile screens.
 const mobileReader={mounted:false,active:false,pages:[],scrollFrame:0,restoreFrame:0,zoom:100,width:0,anchor:0};
 const readerMedia=window.matchMedia?window.matchMedia('(max-width: 700px)'):null;
-const readerForced=new URLSearchParams(window.location.search).get('reader')==='1';
+const readerForced=true; // The approved continuous reader is now the default on every screen.
 const readerStorageKey='pep-reader-page-v1-unit-'+CONTENT.unit;
 const standardRenderBook=renderBook;
 function readerCloseSheets(){

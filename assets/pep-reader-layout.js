@@ -153,10 +153,31 @@ $('show-spots').checked=true;$('show-spots').onchange({target:$('show-spots')});
 let layoutMountedSurface=null;
 function layoutActivate(){
  const surface=mobileReader.mounted?mobileReader.pages[0]:null;
- if(mobileReader.active&&surface&&surface!==layoutMountedSurface){layoutMountedSurface=surface;readerZoomTo(118);layoutZoomButtons();}
+ if(mobileReader.active&&surface&&surface!==layoutMountedSurface){layoutMountedSurface=surface;readerZoomTo(window.innerWidth>700?100:118);layoutZoomButtons();}
  layoutReservePanelSpace();layoutSyncPanelPosition();
 }
 const layoutStandardSync=syncMobileReader;
 syncMobileReader=function(){layoutStandardSync();layoutActivate()};
 window.addEventListener('resize',layoutActivate);
 layoutActivate();
+
+// Width determines wrapping; fit the actual rows and complete selected-word details.
+let desktopPanelFrame=0;
+function desktopFitPanel(){
+ desktopPanelFrame=0;
+ if(window.innerWidth<=700||layoutPanel.hidden){layoutPanel.style.removeProperty('--desktop-panel-height');return;}
+ const style=getComputedStyle(layoutPanel);
+ const chrome=parseFloat(style.paddingTop)+parseFloat(style.paddingBottom)+parseFloat(style.borderTopWidth)+parseFloat(style.borderBottomWidth);
+ const desired=Math.ceil(layoutPanelHeading.getBoundingClientRect().height+layoutPanelContent.scrollHeight+chrome+2);
+ const limit=Math.min(window.innerHeight*.5,440);
+ const height=Math.min(limit,Math.max(180,desired));
+ layoutPanel.style.setProperty('--desktop-panel-height',height+'px');
+ layoutReservePanelSpace();
+}
+function desktopSchedulePanelFit(){if(!desktopPanelFrame)desktopPanelFrame=requestAnimationFrame(desktopFitPanel);}
+new MutationObserver(desktopSchedulePanelFit).observe(layoutPanel,{attributes:true,attributeFilter:['hidden'],childList:true,subtree:true,characterData:true});
+if(typeof ResizeObserver!=='undefined'){
+ const observer=new ResizeObserver(desktopSchedulePanelFit);observer.observe(layoutPanelHeading);observer.observe(layoutPanelContent);
+}
+window.addEventListener('resize',desktopSchedulePanelFit);
+desktopSchedulePanelFit();
