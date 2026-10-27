@@ -56,6 +56,9 @@ body.mobile-reader .hotspot:focus-visible::after{display:block;border-color:#db8
 
 /* Approved desktop continuous reader. */
 @media(min-width:701px){
+ /* Reserve the IPA row even when a supplemental word has no textbook IPA. */
+ #word-follow-ipa{min-height:1.6em}
+ #word-follow-ipa[hidden]{display:block!important;visibility:hidden}
  body.mobile-reader #book{width:calc(100% - 32px);max-width:960px;margin:0 auto}
  body.mobile-reader .reader-page{box-shadow:0 2px 14px #203e3a10;margin-bottom:16px}
  body.mobile-reader .reader-page-label{padding:8px 12px;font-size:12px}
